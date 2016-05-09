@@ -14527,8 +14527,7 @@
         ],
         "tags": [
             "vegetarian",
-            "main",
-            "untried"
+            "main"
         ]
     },
     "id401": {
@@ -14751,6 +14750,98 @@
             "snack",
             "appetizer",
             "party"
+        ]
+    },
+    "id407": {
+        "id": "id407",
+        "name": "Crunchy quinoa cutlets with fresh tomato salsa",
+        "source": "The Vegetarian Table by Pampered Chef",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 2100,
+        "servings": 6,
+        "comments": "",
+        "calories": 2100,
+        "fat": 114,
+        "satfat": 36,
+        "carbs": 204,
+        "fiber": 30,
+        "sugar": 0,
+        "protein": 90,
+        "instructions": "1. In a 2-qt saucepan, bring 2 cups water to a boil over medium heat. Add quinoa; cover and reduce heat to low. Cook 15 minutes or until tender. Combine bread, egg, and water in a mixing bowl; mix well and let stand 5 minutes. Place shallots, basil, pecans, and pressed garlic into the bowl of a food processor; pulse until finely chopped. Add shallot mixture, Parmesan, salt, pepper, and quinoa to batter bowl; mix well. Add feta; mix gently.\r\n\r\n2.Heat 1\/2 tbsp of the oil in a 12-inch nonstick skillet (do not use stainless steel cookware) over medium-high heat 1-3 minutes or until shimmering. Using a large scoop (approximately 3 tbsp), drop nine scoops of the quinoa mixture into skillet, slightly flatten with back of scoop. Cook cutlets 5-7 minutes or until deep golden brown, turning once. Remove cutlets from skillet and keep warm. Repeat with an additional 1\/3 tbsp oil and remaining quinoa mixture for a total of 18 cutlets (for full recipe).\r\n\r\n3. Add remaining 1\/2 tbsp oil to skillet. Add spinach; cook and stir 30-45 seconds or until slightly wilted. Sprinkle with salt and pepper. Remove skillet from heat.\r\n\r\n4. For salsa, combine all ingredients in a small mixing bowl; mix gently. To serve, divide spinach among serving plates; top with cutlets and salsa. Sprinkle with feta.",
+        "ingredients": [
+            "2 cup water\r",
+            "1 cup red quinoa, uncooked and rinsed\r",
+            "2 slices sandwich bread, torn into small pieces\r",
+            "1 egg, lightly beaten\r",
+            "1\/4 cup water\r",
+            "4 shallots\r",
+            "1 cup fresh basil, loosely packed\r",
+            "1\/2 cup pecans, toasted\r",
+            "4 garlic cloves, pressed\r",
+            "2 oz Parmesan cheese, grated\r",
+            "1\/4 tsp salt\r",
+            "1\/4 tsp black pepper\r",
+            "3 oz feta cheese, crumbled\r",
+            "1 tbsp olive oil, divided\r",
+            "<hr>",
+            "1\/2 tbsp olive oil\r",
+            "8 cup baby spinach\r",
+            "1\/4 tsp salt\r",
+            "1\/4 tsp black pepper\r",
+            "<hr>",
+            "2 cup grape tomatoes, quartered\r",
+            "1\/4 cup fresh basil, loosely packed, thinly sliced\r",
+            "1\/4 tsp salt\r",
+            "1\/4 tsp black pepper\r",
+            "1 oz feta cheese, crumbled"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "untried"
+        ]
+    },
+    "id408": {
+        "id": "id408",
+        "name": "Panko-crusted tofu with black bean salad",
+        "source": "The Vegetarian Table by Pampered Chef",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 4,
+        "comments": "replaced corn flake cereal with panko due to food allergies",
+        "calories": 1360,
+        "fat": 80,
+        "satfat": 3,
+        "carbs": 120,
+        "fiber": 36,
+        "sugar": 0,
+        "protein": 64,
+        "instructions": "1. For salad, combine onion, cilantro, tomatoes, lime juice, beans, rub, and salt in a large mixing bowl. Mix gently. Add avocado and gently stir into salad and set aside.\r\n\r\n2. Slice tofu crosswise into eight slices (two slices per serving). Sprinkle with salt; set aside. Combine panko and rub in the bowl of a food processor. Pulse briefly to combine. Place flour in a shallow dish. Place egg in a second shallow dish. Place panko mixture in third shallow dish. Lightly dredge each tofu slice in flour, shaking off excess; dip into egg and then into panko, coating evenly.\r\n\r\n3. Heat 1\/2 of the oil in a 10-inch skillet over medium heat 1-3 minutes or until shimmering. Place half of the tofu slices into skillet. Cook 1 minute or until golden brown. Turn tofu over and cook 1 minute or until golden brown. Remove tofu from skillet; repeat with remaining oil and tofu slices. Serve tofu with salad. Garnish with lime wedges and additional cilantro, if desired. \r\n\r\nNote: the Chipotle Rub this recipe calls for is a Pampered Chef product",
+        "ingredients": [
+            "1\/2 small red onion, diced\r",
+            "1 cup fresh cilantro, loosely packed, coarsely chopped\r",
+            "1 cup grape tomatoes, quartered lengthwise\r",
+            "2 tbsp lime juice\r",
+            "1 15oz can unsalted black beans, drained and rinsed\r",
+            "1 avocado, diced\r",
+            "1 tbsp Chipotle Rub\r",
+            "1\/4 tsp salt\r",
+            "<hr>\r",
+            "14 oz extra-firm tofu, drained and patted dry\r",
+            "1\/4 tsp salt\r",
+            "2 cup panko\r",
+            "1 tbsp Chipotle Rub\r",
+            "1\/3 cup all-purpose flour\r",
+            "1 egg, lightly beaten\r",
+            "2 tbsp canola oil, divided\r",
+            "Lime wedges, optional, for serving"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "untried"
         ]
     }
 }
