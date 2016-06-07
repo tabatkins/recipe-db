@@ -15360,5 +15360,48 @@
             "brunch",
             "untried"
         ]
+    },
+    "id423": {
+        "id": "id423",
+        "name": "Caramelized onion and brie pizza",
+        "source": "http:\/\/www.kingarthurflour.com\/recipes\/caramelized-onion-and-brie-pizza-recipe",
+        "preptime": 3600,
+        "waittime": 0,
+        "cooktime": 900,
+        "servings": 16,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Mix and knead the dough ingredients to make a smooth, shiny, and just slightly sticky dough.\r\n2. Allow the dough to rise, covered, while you make the topping.\r\n3. In a large skillet, heat the oil or butter, then add the onions and cook, stirring often, until they're translucent and browning on the edges.\r\n4. Add the vinegar, sugar, and salt, and cook until evenly browned, and all the liquid is evaporated.\r\n5. Remove from the heat and set aside to cool.\r\n6. Preheat the oven to 425\u00b0F.\r\n7. Pat and roll the dough into two 12\" or 14\" round pizzas; or one thick-crust 18\" x 13\" pizza.\r\n8. Cover the dough with a layer of onions, then scatter with the Brie. Grind a sprinkling of fresh pepper over the top. Sprinkle with sliced almonds, if desired.\r\n9. Bake the pizza(s) immediately; or let them rise for awhile, for thicker crust.\r\n10. Bake pizzas for 15 to 18 minutes, until the crust is brown. Serve hot, or at room temperature.",
+        "ingredients": [
+            "1 1\/2 cup lukewarm water\r",
+            "3 1\/4 cup All-Purpose Flour\r",
+            "1 cup semolina\r",
+            "1\/4 cup olive oil\r",
+            "1 tablespoon Pizza Dough Flavor (optional)\r",
+            "1\/4 cup King Arthur Easy-Roll Dough Improver (optional, but very helpful)\r",
+            "1 tablespoon baking powder\r",
+            "2 teaspoon instant yeast\r",
+            "1 1\/2 teaspoon salt\r",
+            "<hr>",
+            "2 teaspoon vegetable oil\r",
+            "2 lb yellow onions, thinly sliced\r",
+            "1 tablespoon red wine vinegar\r",
+            "1 tablespoon sugar\r",
+            "1\/4 teaspoon salt\r",
+            "14 ounce Brie cheese, rind removed, cut into cubes\r",
+            "freshly ground black pepper\r",
+            "1\/2 cup sliced almonds, optional"
+        ],
+        "tags": [
+            "pizza",
+            "main",
+            "untried"
+        ]
     }
 }
