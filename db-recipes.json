@@ -1192,7 +1192,7 @@
         "protein": 11,
         "instructions": "1. To prepare, once oatmeal has been sufficiently cooked, add diced apples and nut butter. Stir for 2-3 minutes.\r\n2. Serve into a bowl and mix in cinnamon, flax seeds, maple syrup\/agave. Stir and enjoy!",
         "ingredients": [
-            "1\/2 cup quick oats, cooked to your liking\r",
+            "1\/2 cup quick-cooking oats, cooked to your liking\r",
             "1\/2 apple, diced\r",
             "1\/2 tsp cinnamon\r",
             "1 tbsp maple syrup\r",
@@ -7248,7 +7248,7 @@
             "2 tbsp vegetable oil\r",
             "1\/2 tsp ground cinnamon\r",
             "1\/2 tsp coarse salt\r",
-            "3 cup rolled oats, not quick cooking\r",
+            "3 cup rolled oats (not quick cooking)\r",
             "1 cup sweetened shredded coconut\r",
             "1 cup pecans, roughly chopped"
         ],
@@ -12771,8 +12771,8 @@
             "1 teaspoon baking soda\r",
             "1 teaspoon vanilla extract\r",
             "1 large egg\r",
-            "1 cup quick rolled oats (not instant)\r",
-            "2\/3 cup King Arthur Unbleached All-Purpose Flour\r",
+            "1 cup quick-cooking oats\r",
+            "2\/3 cup flour\r",
             "extra-fine salt (optional), for dusting on top\r",
             "<hr>\r",
             "1 1\/2 cup confectioners' sugar\r",
@@ -14481,7 +14481,7 @@
             "1\/2 cup jarred roasted red peppers, drained, DO NOT pat dry\r",
             "2 large shallots, cut into chunks\r",
             "1 egg\r",
-            "1 tsp adobo sauce, from a can of chipotle peppers in adobo sauce\r",
+            "1 tsp adobo sauce (from a can of chipotle peppers in adobo sauce)\r",
             "1\/2 tsp black pepper\r",
             "2 tbsp canola oil\r",
             "4 leaves green leaf lettuce\r",
@@ -15443,6 +15443,44 @@
         "tags": [
             "pizza",
             "main",
+            "untried"
+        ]
+    },
+    "id425": {
+        "id": "id425",
+        "name": "Morning glory muffins",
+        "source": "http:\/\/www.marthastewart.com\/339779\/morning-glory-muffins",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1500,
+        "servings": 12,
+        "comments": "",
+        "calories": 2136,
+        "fat": 5,
+        "satfat": 1,
+        "carbs": 33,
+        "fiber": 2,
+        "sugar": 14,
+        "protein": 3,
+        "instructions": "Preheat oven to 400 degrees. Coat a 12-cup muffin pan with cooking spray. In a large bowl, whisk together flour, brown sugar, baking soda, baking powder, nutmeg, and salt until there are no lumps. Stir in oats and raisins. Add oil, egg, milk, carrots, and banana and stir until blended.\r\n\r\nFill each muffin cup with 1\/4 cup batter. Bake until a toothpick inserted in center of a muffin comes out clean, 23 to 25 minutes. Serve muffins warm or at room temperature.\r\n",
+        "ingredients": [
+            "Nonstick cooking spray\r",
+            "1 1\/4 cup all-purpose flour (spooned and leveled)\r",
+            "1\/2 cup packed dark-brown sugar\r",
+            "1\/2 teaspoon baking soda\r",
+            "1\/2 teaspoon baking powder\r",
+            "1\/2 teaspoon ground nutmeg\r",
+            "1\/2 teaspoon coarse salt\r",
+            "1 cup old-fashioned rolled oats\r",
+            "1\/2 cup raisins\r",
+            "3 tablespoon extra-virgin olive oil\r",
+            "1 large egg\r",
+            "1\/3 cup skim milk\r",
+            "4 medium carrots, shredded\r",
+            "1 medium ripe banana, mashed"
+        ],
+        "tags": [
+            "breakfast",
             "untried"
         ]
     }
