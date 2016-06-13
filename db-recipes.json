@@ -681,7 +681,8 @@
             "salad",
             "mexican",
             "FUF",
-            "main"
+            "main",
+            "vegetarian"
         ]
     },
     "22": {
@@ -2955,14 +2956,14 @@
         "cooktime": 0,
         "servings": 2,
         "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat the oven to 425F, and toast the pine nuts. \r\n\r\nWhisk the egg whites in a clean bowl to form stiff peaks. In a separate bowl, mix the egg yolks with the spinach, tomato, salt, and pepper to combine. Gently fold the egg whites into the spinach mixture. Spoon the mixture into a small hot ovenproof frying pan and sprinkle with the pine nuts and crumbled cheese.\r\n\r\nBake in the oven for 10 minutes, or until well risen, golden, and firm. Serve.\r\n\r\nRather than fresh spinach, one can use 3.5oz per serving cooked spinach, chopped or pureed.",
+        "calories": 900,
+        "fat": 78,
+        "satfat": 16,
+        "carbs": 22,
+        "fiber": 6,
+        "sugar": 4,
+        "protein": 44,
+        "instructions": "Preheat the oven to 425F with the pan in the oven, and toast the pine nuts. \r\n\r\nWhisk the egg whites in a clean bowl to form stiff peaks. In a separate bowl, mix the egg yolks with the spinach, tomato, salt, and pepper to combine. Gently fold the egg whites into the spinach mixture. Spoon the mixture into a small hot ovenproof frying pan and sprinkle with the pine nuts and crumbled cheese.\r\n\r\nBake in the oven for 10 minutes, or until well risen, golden, and firm. Serve.\r\n\r\nRather than fresh spinach, one can use 3.5oz per serving cooked spinach, chopped or pureed.",
         "ingredients": [
             "4 eggs, separated\r",
             "4 cup spinach, chopped fine\r",
@@ -15481,6 +15482,43 @@
         ],
         "tags": [
             "breakfast",
+            "untried"
+        ]
+    },
+    "id426": {
+        "id": "id426",
+        "name": "Gazpacho Soup",
+        "source": "Sur La Table knife skills class",
+        "preptime": 1200,
+        "waittime": 3600,
+        "cooktime": 0,
+        "servings": 6,
+        "comments": "6-8 servings",
+        "calories": 2664,
+        "fat": 222,
+        "satfat": 30,
+        "carbs": 150,
+        "fiber": 30,
+        "sugar": 66,
+        "protein": 30,
+        "instructions": "In a small bowl, soak the bread slices in water for about 20 minutes. Squeeze out water with your hands and set aside.\r\n\r\nIn a blender, add the cucumbers, tomatoes, garlic, pepper, onion, vinegar and olive oil. Puree on high until the mixture is smooth. If there are lots of solid chunks, keep blending until the mixture is completely liquefied. You can strain the mixture through a fine-mesh sieve into a large pitcher, but this step is optional. Sease with salt and pepper to taste. Chill for at least 1 hour.\r\n\r\nServe by pouring into chilled bowls or glasses, garnish with finishing salt and a drizzle of olive oil.\r\n\r\nRecipe offered courtesy of Terri Dien",
+        "ingredients": [
+            "2 slices country-style bread, about 1 inch thick, crusts removed\r",
+            "2 medium cucumbers, peeled, seeded and diced\r",
+            "4 lb tomatoes, peeled, seeded and diced\r",
+            "2 clove garlic, peeled and chopped\r",
+            "1\/2 red bell pepper, diced\r",
+            "1\/2 small white onion, diced\r",
+            "1\/4 cup sherry vinegar\r",
+            "1 cup extra virgin olive oil\r",
+            "Kosher salt, to taste\r",
+            "Freshly ground black pepper, to taste"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "soup",
+            "appetizer",
             "untried"
         ]
     }
