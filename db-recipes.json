@@ -13975,7 +13975,7 @@
         "preptime": 300,
         "waittime": 0,
         "cooktime": 0,
-        "servings": 2,
+        "servings": 16,
         "comments": "",
         "calories": 0,
         "fat": 0,
@@ -13984,7 +13984,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "Combine all ingredients in a jar. Makes 2 cups.\r\n\r\nRead more at: http:\/\/www.foodnetwork.com\/recipes\/articles\/50-gift-jars.page-5.html?oc=linkback",
+        "instructions": "Combine all ingredients in a jar. Makes 2 cups. Each serving is generally about 1\/8 cup.\r\n\r\n\r\nRead more at:\r\nhttp:\/\/www.foodnetwork.com\/recipes\/articles\/50-gift-jars.page-5.html?oc=linkback",
         "ingredients": [
             "1\/2 cup turbinado sugar\r",
             "1\/4 cup granulated sugar\r",
@@ -13998,8 +13998,7 @@
             "1 pinch salt"
         ],
         "tags": [
-            "breakfast",
-            "untried"
+            "breakfast"
         ]
     },
     "id387": {
@@ -14472,7 +14471,7 @@
         "satfat": 8,
         "carbs": 252,
         "fiber": 28,
-        "sugar": 0,
+        "sugar": 32,
         "protein": 64,
         "instructions": "1. For burgers, place black-eyed peas in a food processor; pulse until coarsely chopped. Combine peas and oats in a mixing bowl. Place parsley, roasted red peppers, shallots, egg, adobo sauce, and black pepper in processor bowl. Pulse until finely chopped. Add vegetable mixture to black-eyed pea mixture; mix well. Let stand 10 minutes.\r\n\r\n2. Meanwhile, for slow, combine yogurt and adobo sauce in another mixing bowl; mix well. Add zucchini, squash and green onions; mix well.\r\n\r\n3. Form black-eyed pea mixture into 1\/2-inch thick patties (1 patty per serving). Heat oil in a 12-inch skillet over medium heat 1-3 minutes or until shimmering. Cook pattes 3-5 minutes per side or until deep golden brown.\r\n\r\n4. To assemble, place lettuce onto bun bottom; top with burger, slaw and bun top.",
         "ingredients": [
@@ -15519,6 +15518,133 @@
             "main",
             "soup",
             "appetizer",
+            "untried"
+        ]
+    },
+    "id427": {
+        "id": "id427",
+        "name": "Poached eggs with mushrooms and tomatoes",
+        "source": "http:\/\/www.realsimple.com\/food-recipes\/browse-all-recipes\/poached-eggs-mushrooms-tomatoes",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 720,
+        "servings": 4,
+        "comments": "",
+        "calories": 1576,
+        "fat": 72,
+        "satfat": 16,
+        "carbs": 152,
+        "fiber": 28,
+        "sugar": 40,
+        "protein": 100,
+        "instructions": "Fill a large, deep skillet with 3 inches of water. Add the vinegar and bring to a bare simmer.\r\n\r\nMeanwhile, heat 1 teaspoon of the oil in a large nonstick skillet over medium-high heat. Add the tomatoes, season with salt and pepper, and cook until just tender, 1 to 2 minutes per side. Transfer to a plate.\r\n\r\nAdd the remaining tablespoon oil to the skillet and heat over medium-high heat. Add the mushrooms, thyme, salt, and pepper. Cook, tossing occasionally, until golden brown and tender, 6 to 7 minutes. \r\n\r\nMeanwhile, crack 4 of the eggs into separate custard cups (this is for full recipe). One at a time, slide each gently into the water in the deep skillet. Cook for 2 to 3 minutes for slightly runny yolks and remove with a slotted spoon. Repeat with the remaining 4 eggs (for full recipe).\r\n\r\nDividing evenly, top the bread with the tomatoes, mushrooms, eggs, Parmesan, and \u00bc teaspoon each salt and pepper. Sprinkle with the chives.",
+        "ingredients": [
+            "2 teaspoon white vinegar\r",
+            "1 teaspoon olive oil\r",
+            "2 medium tomatoes, each whole tomato sliced into 4 rounds\r",
+            "1\/4 tsp kosher salt \r",
+            "1\/4 tsp black pepper\r",
+            "<hr>\r",
+            "1 tablespoon olive oil\r",
+            "1 pound mushrooms, sliced\r",
+            "1\/2 tsp salt\r",
+            "1\/4 tsp black pepper\r",
+            "1 tablespoon fresh thyme leaves\r",
+            "8 large eggs\r",
+            "4 slices country bread, toasted\r",
+            "1 ounce Parmesan, shaved\r",
+            "2 tablespoon chopped fresh chives"
+        ],
+        "tags": [
+            "breakfast",
+            "vegetarian",
+            "untried"
+        ]
+    },
+    "id428": {
+        "id": "id428",
+        "name": "Fruit and cheese breakfast",
+        "source": "Real Simple",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 383,
+        "fat": 29,
+        "satfat": 7,
+        "carbs": 24,
+        "fiber": 5,
+        "sugar": 15,
+        "protein": 12,
+        "instructions": "Gather ingredients. Eat.",
+        "ingredients": [
+            "1 apple\r",
+            "1 oz cheddar cheese\r",
+            "1\/4 cup walnuts"
+        ],
+        "tags": [
+            "breakfast",
+            "vegetarian",
+            "untried"
+        ]
+    },
+    "id429": {
+        "id": "id429",
+        "name": "Morning pizza",
+        "source": "Real Simple",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 120,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Spread ricotta on bread, top with tomato and drizzle with oil. Season with salt and pepper to taste. Broil for about 2 minutes, if desired.",
+        "ingredients": [
+            "1 slice crusty bread\r",
+            "3 tbsp part-skim ricotta\r",
+            "2 slices tomato (or halved grape tomatoes)\r",
+            "1 tsp olive oil\r",
+            "1 pinch kosher salt\r",
+            "black pepper, to taste"
+        ],
+        "tags": [
+            "breakfast",
+            "untried"
+        ]
+    },
+    "id430": {
+        "id": "id430",
+        "name": "Mustard, Avocado, and Dill on a Whole-Wheat Muffin With Boiled Egg",
+        "source": "http:\/\/www.realsimple.com\/food-recipes\/recipe-collections-favorites\/healthy-meals\/mustard-avocado-dill-english-muffin",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 300,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Fill a sauce pan with 1\/2 inch of water. Bring to a boil. Add eggs, reduce heat to medium, cover, and cook for 6 1\/2 minutes (for any number of eggs). Immediately place in cold water bath. Peel carefully when cooled.\r\n\r\nTop the English muffin with the mustard, avocado, and dill, dividing evenly. Serve with the eggs.",
+        "ingredients": [
+            "2 whole-wheat English muffins, split and toasted\r",
+            "2 teaspoon whole-grain mustard\r",
+            "1 small avocado, sliced\r",
+            "fresh dill, for serving\r",
+            "2 eggs"
+        ],
+        "tags": [
+            "breakfast",
             "untried"
         ]
     }
