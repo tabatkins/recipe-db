@@ -15145,7 +15145,7 @@
         "cooktime": 300,
         "servings": 1,
         "comments": "",
-        "calories": 0,
+        "calories": 70,
         "fat": 0,
         "satfat": 0,
         "carbs": 0,
@@ -15645,6 +15645,68 @@
         ],
         "tags": [
             "breakfast",
+            "untried"
+        ]
+    },
+    "id431": {
+        "id": "id431",
+        "name": "Miso salad dressing",
+        "source": "Traci Tsukida",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Whisk all ingredients together",
+        "ingredients": [
+            "1 1\/2 tsp sugar\r",
+            "4 tsp rice vinegar\r",
+            "1\/2 tsp mirin (or sake)\r",
+            "3 tbsp mayonnaise\r",
+            "1 tsp white sesame seeds, toasted and crushed\r",
+            "1 tsp miso, more to taste"
+        ],
+        "tags": [
+            "components",
+            "untried"
+        ]
+    },
+    "id432": {
+        "id": "id432",
+        "name": "Miso soup",
+        "source": "Traci Tsukida",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "In a pan, bring water to a boil. Add hondashi, miso, sake, and sugar and stir until dissolved. Add a small amount of add-ins. Remove from heat. Place in serving bowls and garnish with green onion.",
+        "ingredients": [
+            "2 1\/2 cup water\r",
+            "1 packet hondashi (~1 tsp)\r",
+            "3 tbsp miso\r",
+            "1 tbsp sake (or mirin)\r",
+            "1 tsp sugar\r",
+            "add-ins (some, seaweed, tofu, etc)\r",
+            "1 green onion, sliced on the bias"
+        ],
+        "tags": [
+            "japanese",
+            "soup",
             "untried"
         ]
     }
