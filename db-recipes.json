@@ -6211,7 +6211,7 @@
             "5 green onions, bottom 4 inches, thinly sliced\r",
             "1 cup thinly sliced napa cabbage\r",
             "1\/2 red bell pepper, thinly sliced or julienned\r",
-            "3 tablespoon minced fresh cilantro leaves\r",
+            "3 tablespoon cilantro, minced\r",
             "3 tablespoon sesame seeds, toasted, for garnish\r",
             "4 tablespoon unsalted peanuts, for garnish"
         ],
@@ -13555,9 +13555,11 @@
         "protein": 0,
         "instructions": "Remove 3 teaspoons grated zest from 1 lemon; halve the lemon, and squeeze out 1 tablespoon juice. Set zest and juice aside. Cut remaining lemon in half, and squeeze into a medium bowl of cold water; add all rinds to water.\r\n\r\nPrepare the artichokes: Working with 1 artichoke at a time, snap off tough outer leaves until pale-green leaves are exposed. Cut off top third. Using a paring knife, peel dark-green layer from base and stem; trim stem. Quarter artichoke lengthwise. Transfer to lemon water.\r\n\r\nBring stock and bay leaf to a simmer in a medium saucepan over medium-high heat; reduce heat to low.\r\n\r\nMelt butter with oil in a large saute pan over medium heat. Add onion, garlic, and a pinch of salt; cook, stirring occasionally, until onion is slightly softened, about 6 minutes. Drain artichokes, and add to pan. Cook, stirring often, until artichokes are just tender, about 12 minutes. Add rice, and stir until coated, about 1 minute. Pour in wine, and cook, stirring, until wine has almost evaporated, about 3 minutes.\r\n\r\nAdd enough hot stock (about 1 cup) to just cover rice. Cook, stirring, until stock is almost absorbed. Continue adding stock, 3\/4 cup at a time, waiting for each addition to be absorbed before adding the next; cook, stirring, until rice is tender but still slightly firm in the center, 20 to 25 minutes. Remove from heat, and discard bay leaf.\r\n\r\nStir in chopped thyme; season with salt and pepper. Add mascarpone, 2 teaspoons lemon zest, and the lemon juice; stir until mascarpone is melted and rice is moist and creamy. Serve immediately, garnished with thyme sprigs and remaining teaspoon lemon zest.",
         "ingredients": [
-            "2 lemons\r",
+            "3 tsp lemon zest\r",
+            "1 tbsp lemon juice, reserve rind if using fresh artichokes\r",
+            "1 lemon (if using fresh artichokes)\r",
             "10 baby artichokes\r",
-            "6 cup homemade chicken stock (or 3 cups low-sodium store-bought chicken stock mixed with 3 cups water)\r",
+            "6 cup chicken stock\r",
             "1 bay leaf\r",
             "2 tablespoon unsalted butter\r",
             "2 tablespoon extra-virgin olive oil\r",
@@ -14613,37 +14615,6 @@
         ],
         "tags": [
             "components"
-        ]
-    },
-    "id404": {
-        "id": "id404",
-        "name": "Guacamole",
-        "source": "whatsgabycooking.com",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 6,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Cut the avocados in half lengthwise. Remove the pit from the avocado and discard. Remove the avocado from the skin and place the avocado flesh into the bowl.\r\n\r\n2. Add remaining ingredients except salt and pepper and mash with a fork until half smooth and creamy. Taste and add salt and pepper if desired.\r\n\r\n3. Serve immediately.",
-        "ingredients": [
-            "3 avocados\r",
-            "1\/3 cup red onion, finely chopped\r",
-            "3 tbsp fresh chive, chopped\r",
-            "1\/2 lemon, juiced\r",
-            "1\/2 lime, juiced\r",
-            "2 tsp jalapeno, finely chopped\r",
-            "salt and pepper, to taste"
-        ],
-        "tags": [
-            "components",
-            "untried"
         ]
     },
     "id405": {
