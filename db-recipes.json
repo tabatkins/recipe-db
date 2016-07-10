@@ -7966,23 +7966,25 @@
         "waittime": 0,
         "cooktime": 1200,
         "servings": 6,
-        "comments": "Turns out somewhat bland. Needs some adjustments of seasoning\/spices. I think subbing lime for lemon and maybe adding some chopped serrano pepper with the onion and possibly adding ginger with the garlic.",
-        "calories": 1760,
-        "fat": 56,
-        "satfat": 32,
-        "carbs": 268,
-        "fiber": 40,
-        "sugar": 0,
-        "protein": 56,
-        "instructions": "1. Rinse rice under warm running water 1 minute in a strainer, gently shaking to remove excess starch. Cook as directed.\r\n\r\n2. Meanwhile, add onion and oil to large saucepan; cook over medium heat 3-4 minutes or until onion is softened. Add potato, chickpeas, curry powder and pressed garlic. Cook and stir 3-4 minutes or until fragrant. Stir in coconut milk and bring to a simmer. Reduce heat to medium low; cover and cook 8-9 minutes or until potato is tender, stirring frequently.\r\n\r\n3. Add cauliflower, juice, peas, and salt to pan; simmer 4-5 minutes or until cauliflower is tender. Serve curry with rice.",
+        "comments": "",
+        "calories": 2736,
+        "fat": 102,
+        "satfat": 48,
+        "carbs": 432,
+        "fiber": 66,
+        "sugar": 48,
+        "protein": 66,
+        "instructions": "Cook the rice.\r\n\r\nHeat oil in a large saucepan over medium heat. Add onion and serrano; cook 3-4 minutes or until onion is softened. \r\n\r\nAdd potato, chickpeas, curry powder, garlic, and ginger. Cook and stir 3-4 minutes or until fragrant. \r\n\r\nStir in coconut milk and bring to a simmer. Reduce heat to medium low; cover and cook 8-9 minutes or until potato is tender, stirring frequently.\r\n\r\nAdd cauliflower, juice, peas, and salt to pan; simmer 4-5 minutes or until cauliflower is tender. Serve curry with rice.",
         "ingredients": [
             "1 cup uncooked basmati rice\r",
             "1 medium onion, chopped\r",
+            "1 serrano pepper, chopped\r",
             "1 small sweet potato, peeled and diced small\r",
             "2 tbsp olive oil\r",
-            "3 can chickpeas, drained and rinsed\r",
+            "2 can chickpeas, drained and rinsed\r",
             "3 tbsp curry powder\r",
             "4 garlic cloves, pressed\r",
+            "1 1\/2 tbsp ginger\r",
             "2 can lite coconut milk\r",
             "1\/2 medium head cauliflower, cut into about 2 cups small florets\r",
             "2 tbsp lemon juice\r",
@@ -10488,8 +10490,7 @@
         ],
         "tags": [
             "salad",
-            "vegetarian",
-            "untried"
+            "vegetarian"
         ]
     },
     "id284": {
@@ -11211,8 +11212,7 @@
         "tags": [
             "main",
             "potatoes",
-            "vegetarian",
-            "untried"
+            "vegetarian"
         ]
     },
     "id305": {
@@ -12117,18 +12117,17 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "Combine all ingredients in a large bowl, and mix well. Season to taste. Serve on bread, in a pita pocket, or with salad.\r\n\r\nRead more at http:\/\/www.amuse-your-bouche.com\/lemony-walnut-chickpea-salad-with-goats-cheese\/#RIRejh8a58Ooa9HG.99",
+        "instructions": "Combine all ingredients in a large bowl, and mix well. Season to taste. Serve.\r\n\r\nRead more at http:\/\/www.amuse-your-bouche.com\/lemony-walnut-chickpea-salad-with-goats-cheese\/#RIRejh8a58Ooa9HG.99",
         "ingredients": [
             "1 14oz can chickpeas, drained\r",
             "1\/2 small red onion, thinly sliced (or 1\/4 larger red onion)\r",
             "2 oz soft goat cheese, crumbled\r",
             "1 oz arugula, roughly chopped\r",
-            "2 oz walnuts, chopped\r",
+            "2 oz walnuts, chopped, toasted and cooled\r",
             "3 tbsp plain greek yogurt\r",
             "2 tbsp lemon juice, freshly squeezed\r",
             "Salt\r",
-            "Black pepper\r",
-            "2 pita pockets"
+            "Black pepper"
         ],
         "tags": [
             "main",
@@ -13015,8 +13014,7 @@
         ],
         "tags": [
             "seafood",
-            "main",
-            "untried"
+            "main"
         ]
     },
     "id360": {
@@ -14783,8 +14781,7 @@
         ],
         "tags": [
             "vegetarian",
-            "main",
-            "untried"
+            "main"
         ]
     },
     "id409": {
@@ -15684,6 +15681,48 @@
             "japanese",
             "soup",
             "untried"
+        ]
+    },
+    "id433": {
+        "id": "id433",
+        "name": "Charred Eggplant and Walnut Pesto Pasta Salad",
+        "source": "http:\/\/smittenkitchen.com\/blog\/2016\/06\/charred-eggplant-and-walnut-pesto-pasta-salad\/",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "Unsure about servings as a dinner; try it out as written and see if it's too much.",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Cook pasta: In very well salted water until 1 to 2 minutes before doneness and drain.\r\n\r\nPrepare eggplant: Trim eggplant and slice into 1\/2-inch coins. Brush both sides with olive oil and sprinkle with salt and freshly ground black pepper. Heat grill to medium-high. Arrange eggplant in one layer and cook until charred underneath, about 8 minutes. (If it\u2019s sticking to the grill, it wants to cook longer.) Flip pieces over and cook until charred on second side, about 5 to 8 minutes more. Set aside to cool slightly then chop into chunks.\r\n\r\nNo grill? Heat oven to 425. Trim eggplant and slice into 1\/2-inch coins. Coat a baking sheet generously with olive oil, arrange eggplant on top and sprinkle with salt and pepper. Roast, without disturbing, for 15 to 20 minutes. Carefully flip each piece: the undersides should be blistery, dark and a bit puffy and should release easily; if they don\u2019t want to, cook them a few minutes longer. Flip each piece, sprinkle again with salt and pepper, and roast on the second side for 10 to 12 minutes, or until charred underneath again.\r\n\r\nMake dressing: In food processor, coarsely grind walnuts, cheese, garlic, thyme, salt and freshly ground black pepper and\/or red pepper flakes. Stir in oil and tomatoes, then whisk in vinegar to taste.\r\n\r\nAssemble salad: Toss cooked pasta with walnut dressing and additional vinegar and oil to loosen (I used about 1 tablespoon extra oil and 2 tablespoons extra vinegar in total). Add eggplant and toss again. Adjust seasonings to taste, then stir in cheese and herbs.",
+        "ingredients": [
+            "3\/4 cup walnuts, toasted\r",
+            "3 tbsp Parmesan\r",
+            "1 clove garlic, pressed\r",
+            "2 sprig thyme\r",
+            "2 tsp sherry vinegar\r",
+            "1\/4 cup olive oil\r",
+            "1\/8 cup sun-dried tomatoes in oil, minced\r",
+            "salt\r",
+            "red pepper flakes\r",
+            "<hr>",
+            "1\/2 pound curly pasta\r",
+            "1 medium eggplant\r",
+            "salt\r",
+            "black pepper\r",
+            "2 oz feta\r",
+            "2 tbsp basil, chiffonaded\r",
+            "olive oil\r",
+            "sherry vinegar"
+        ],
+        "tags": [
+            "main",
+            "vegetarian"
         ]
     }
 }
