@@ -15724,5 +15724,42 @@
             "main",
             "vegetarian"
         ]
+    },
+    "id434": {
+        "id": "id434",
+        "name": "Baked English Muffins",
+        "source": "http:\/\/www.kingarthurflour.com\/recipes\/baked-english-muffins-recipe",
+        "preptime": 1200,
+        "waittime": 9000,
+        "cooktime": 1200,
+        "servings": 12,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Note for milk: Or substitute 1\/4 cup (1 1\/4 ounces) Bakers' Special Dry Milk, and 1 cup + 2 tablespoons (9 ounces) lukewarm water; don't mix them together, the dry milk doesn't reconstitute.\r\n\r\n1. Stir together all the ingredients except the semolina or cornmeal. Beat for 1 minute at high speed of an electric mixer; the dough will become somewhat smooth.\r\n2. Scrape the dough into the center of the bowl, cover, and allow it to rise for about 60 minutes, until it's quite puffy.\r\n3. Grease a large (18\" x 13\") baking sheet; or line with parchment. Grease twelve 3 \u00be\" English muffin rings, and place them on the baking sheet.\r\n4. Sprinkle semolina or cornmeal into each ring.\r\n5. Turn the dough onto a lightly greased or floured work surface. Cut it into 12 equal pieces; each will weigh a scant 2 ounces, or about 54g.\r\n6. Shape the dough into balls. Place each ball into a ring, pressing it down to flatten somewhat. Sprinkle with a bit more cornmeal or semolina, and top with a greased baking sheet (or a sheet of parchment, then the baking sheet). The baking sheet should be resting atop the rings.\r\n7. Let the muffins rise for about 60 to 90 minutes, until they've puffed up noticeably. While the dough is rising, preheat the oven to 400\u00b0F.\r\n8. Bake the risen muffins for 10 minutes. Flip the pans over, and bake for 5 minutes more. Remove the top pan, and bake for an additional 3 to 5 minutes, until they're a light golden brown, and the interior of one registers about 200\u00b0F on an instant-read thermometer.\r\n9. Remove the muffins from the oven, and transfer them to a rack to cool. Remove their rings as soon as you're able. When completely cool, store muffins in a plastic bag.\r\n\r\nYield: 12 muffins.",
+        "ingredients": [
+            "2 1\/4 cup all-purpose flour\r",
+            "1\/2 cup white whole-wheat bread flour \r",
+            "1 teaspoon salt\r",
+            "1 tablespoon Pizza Dough Flavor (optional)\r",
+            "2 teaspoon baking powder\r",
+            "2 tablespoon sugar\r",
+            "2 teaspoon instant yeast\r",
+            "1 cup milk, lukewarm \r",
+            "2 tablespoon milk, lukewarm\r",
+            "2 tablespoon melted butter\r",
+            "2 teaspoon vinegar, white or cider\r",
+            "cornmeal or semolina to coat the muffins"
+        ],
+        "tags": [
+            "breakfast",
+            "baking",
+            "bread"
+        ]
     }
 }
