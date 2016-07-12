@@ -15761,5 +15761,40 @@
             "baking",
             "bread"
         ]
+    },
+    "id435": {
+        "id": "id435",
+        "name": "Mesquite chocolate chip cookies",
+        "source": "Super Natural Cooking by Heidi Swanson",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 48,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat the oven to 375F, position the racks in the upper half of the oven, and line 2 baking sheets with parchment paper.\r\n\r\nWhisk together the flours, baking soda, baking powder, and salt in a bowl. Set aside.\r\n\r\nIn a large bowl or stand mixer, beat the butter until light and fluffy, then beat in the sugar until of a consistency like thick frosting. Beat in the eggs one at a time, incorporating each fully before adding the next and scraping down the sides of the bowl a few times. Stir in the vanilla until evenly incorporated. Add the dry ingredients in 3 increments, stirring between each addition. At this point, you should have a moist, uniformly brown dough. Stir in the oats and chocolate chips by hand, mixing only until evenly distributed.\r\n\r\nRachel's instructions, makes about 4 dozen:\r\nUse a tablespoon cookie scoop, follow directions as below. \r\nFor the toaster oven, put on 350F with convection and bake for 10 minutes.\r\n\r\nOriginal instructions, makes 2-3 dozen:\r\nDrop 2 tablespoons of dough for each cookie onto the prepared baking sheets 2 inches apart and bake for about 10 minutes, until golden on both top and bottom. Don't over-bake these; if anything, under-bake them. Cool on wire racks.",
+        "ingredients": [
+            "2 1\/2 cup whole-wheat pastry flour (or all-purpose flour)\r",
+            "1 cup mesquite flour, sifted if clumpy\r",
+            "1 tsp baking soda\r",
+            "1 tsp baking powder\r",
+            "3\/4 tsp fine sea salt\r",
+            "1 cup unsalted butter, at room temperature\r",
+            "2 cup granulated sugar\r",
+            "3 large eggs\r",
+            "1 tbsp vanilla extract\r",
+            "2 cup rolled oats\r",
+            "2 cup semisweet chocolate chips"
+        ],
+        "tags": [
+            "dessert",
+            "cookies"
+        ]
     }
 }
