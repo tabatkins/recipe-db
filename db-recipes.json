@@ -15824,5 +15824,35 @@
         "tags": [
             "components"
         ]
+    },
+    "id437": {
+        "id": "id437",
+        "name": "Savory Oatmeal and Soft-Cooked Egg",
+        "source": "http:\/\/www.marthastewart.com\/332301\/savory-oatmeal-and-soft-cooked-egg",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 300,
+        "servings": 1,
+        "comments": "",
+        "calories": 264,
+        "fat": 11,
+        "satfat": 4,
+        "carbs": 28,
+        "fiber": 3,
+        "sugar": 1,
+        "protein": 13,
+        "instructions": "In a small saucepan, bring 1 cup water to a boil. Add oats and pinch of salt; stir, reduce heat, and simmer until tender, about 5 minutes. Meanwhile, heat a small nonstick pan over medium. Coat lightly with cooking spray. Add egg and cook until white is set and yolk is still runny, about 3 minutes. Season egg to taste with salt and pepper. Serve oatmeal in a bowl topped with cheese, egg, and scallion greens.",
+        "ingredients": [
+            "1\/2 cup quick-cooking rolled oats\r",
+            "Coarse salt and ground pepper\r",
+            "Nonstick cooking spray\r",
+            "1 large egg\r",
+            "2 tablespoon sharp cheddar, shredded\r",
+            "1 tablespoon scallion greens, thinly sliced"
+        ],
+        "tags": [
+            "breakfast",
+            "untried"
+        ]
     }
 }
