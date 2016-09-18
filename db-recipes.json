@@ -15855,5 +15855,40 @@
             "breakfast",
             "untried"
         ]
+    },
+    "id438": {
+        "id": "id438",
+        "name": "Goat cheese Nicoise",
+        "source": "Sunset magazine May 2016",
+        "preptime": 2100,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Spread lettuce on a platter. On top, arrange the potatoes, green beans, tomatoes, eggs, olives, cheese. Mix olive oil, lemon juice, salt, and pepper and spoon over salad.",
+        "ingredients": [
+            "2 cup lettuce\r",
+            "1\/2 lb yukon gold potatoes, cooked and cubed\r",
+            "1\/2 lb green beans, steamed\r",
+            "1\/2 cup cherry tomatoes, halved\r",
+            "2 eggs, hard cooked and quartered\r",
+            "1\/2 cup kalamata olives, pitted\r",
+            "5 oz goat cheese, crumbled\r",
+            "1\/3 cup extra-virgin olive oil\r",
+            "2 tsp lemon juice\r",
+            "1\/4 tsp salt\r",
+            "1\/4 tsp pepper"
+        ],
+        "tags": [
+            "salad",
+            "untried"
+        ]
     }
 }
