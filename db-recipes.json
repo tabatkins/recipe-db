@@ -15852,8 +15852,7 @@
             "1 tablespoon scallion greens, thinly sliced"
         ],
         "tags": [
-            "breakfast",
-            "untried"
+            "breakfast"
         ]
     },
     "id438": {
@@ -15965,6 +15964,40 @@
         ],
         "tags": [
             "dessert",
+            "untried"
+        ]
+    },
+    "id441": {
+        "id": "id441",
+        "name": "Roasted Sweet Potato and Farro Salad",
+        "source": "http:\/\/www.marthastewart.com\/1043844\/roasted-sweet-potato-and-farro-salad",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 2400,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 425 degrees. Divide sweet potatoes and garlic between 2 rimmed baking sheets. Drizzle with 3 tablespoons oil; season with salt and pepper. Toss to coat and spread into a single layer. Roast, flipping once, until tender and caramelized, about 30 minutes.\r\n\r\nMeanwhile, cover farro with 4 inches water in a medium saucepan. Bring to a boil, then reduce heat and cook until tender, 30 to 35 minutes. Drain; toss with remaining 2 tablespoons oil in a large bowl. Season with salt.\r\n\r\nWhen cool enough to handle, remove garlic from peels and mash with lemon zest and juice in a small bowl. Add garlic mixture, sweet potatoes, dill, and sprouts to farro; stir until combined. Season with salt and pepper, and garnish with sprouts.",
+        "ingredients": [
+            "2 pound sweet potatoes (about 4 medium for 4 servings), scrubbed and cut into 1-inch pieces\r",
+            "3 clove garlic, unpeeled\r",
+            "5 tablespoon extra-virgin olive oil\r",
+            "Coarse salt and freshly ground pepper\r",
+            "1 cup semi-pearled farro (1 cup=about 7 ounces)\r",
+            "1 lemon, zested and juiced\r",
+            "1\/2 cup fresh dill, lightly packed, chopped\r",
+            "1\/2 cup radish or arugula sprouts or baby watercress, plus more for garnish"
+        ],
+        "tags": [
+            "salad",
+            "vegetarian",
+            "main",
             "untried"
         ]
     }
