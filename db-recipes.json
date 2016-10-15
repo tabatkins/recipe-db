@@ -16002,5 +16002,81 @@
             "main",
             "untried"
         ]
+    },
+    "id442": {
+        "id": "id442",
+        "name": "Salmon Burgers with Caesar Slaw",
+        "source": "Express Lane Meals by Rachael Ray",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "In a bowl,combine the flaked salmon, egg whites, parsley, the lemon zest, chopped garlic, bread crumbs, pepper and salt. Form 4 large patties (1 per serving) or 8 mini patties (2 per serving).\r\n\r\nJuice the lemon into a salad bowl. Add the remaining garlic, anchovies, Dijon mustard, and Worcestershire. Whisk in olive oil and the cheese. Add lots of black pepper, no salt. Add the shredded lettuces to the bowl and toss to coat evenly.Now, season the slaw with salt to taste, if necessary.\r\n\r\nPreheat the remaining EVOO, twice around the pan, in a nonstick skillet over medium to medium-high heat. Cook the salmon patties for 2 to 3 minutes on each side for mini patties, 4 minutes on each side for large patties.\r\n\r\nServe the salmon burgers atop a mound of the Caesar slaw.",
+        "ingredients": [
+            "1 14oz can Alaskan salmon, drained and flaked\r",
+            "2 egg whites, lightly beaten\r",
+            "1\/4 cup fresh parsley, finely chopped\r",
+            "1 lemon, zested\r",
+            "2 garlic cloves, finely chopped\r",
+            "3\/4 cup Italian bread crumbs\r",
+            "Black pepper\r",
+            "Salt\r",
+            "2 tbsp extra-virgin olive oil\r",
+            "<hr>",
+            "1 garlic cloves, finely chopped\r",
+            "1 lemon, juiced\r",
+            "4 anchovies, finely chopped (optional)\r",
+            "2 tsp Dijon mustard\r",
+            "1 tbsp Worcestershire sauce\r",
+            "1\/4 cup extra-virgin olive oil\r",
+            "1\/2 cup Parmigiano-Reggiano (or Pecorino Romano), grated\r",
+            "2 romaine lettuce hearts, shredded\r",
+            "1 head radicchio, shredded"
+        ],
+        "tags": [
+            "salmon",
+            "main",
+            "untried"
+        ]
+    },
+    "id443": {
+        "id": "id443",
+        "name": "Tapenade",
+        "source": "http:\/\/www.foodnetwork.com\/recipes\/alton-brown\/tapenade-recipe.html",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Thoroughly rinse the olives in cool water. Place all ingredients in the bowl of a food processor. Process to combine, stopping to scrape down the sides of the bowl, until the mixture becomes a coarse paste, approximately 1 to 2 minutes total. Transfer to a bowl and serve.\r\n\r\nRecipe courtesy of Alton Brown, 2005",
+        "ingredients": [
+            "1\/2 pound pitted mixed olives\r",
+            "2 anchovy fillets, rinsed\r",
+            "1 small clove garlic, minced\r",
+            "2 tablespoon capers\r",
+            "2 to 3 fresh basil leaves\r",
+            "1 tablespoon freshly squeezed lemon juice\r",
+            "2 tablespoon extra-virgin olive oil"
+        ],
+        "tags": [
+            "components",
+            "appetizer",
+            "untried"
+        ]
     }
 }
