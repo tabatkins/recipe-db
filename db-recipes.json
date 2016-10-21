@@ -16407,5 +16407,29 @@
             "main",
             "untried"
         ]
+    },
+    "id452": {
+        "id": "id452",
+        "name": "Less-mess oven bacon",
+        "source": "http:\/\/www.marthastewart.com\/264476\/less-mess-bacon",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 900,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Preheat the oven to 400 degrees.\r\n\r\n2. Line 2 rimmed baking sheets with parchment paper, then lay the bacon strips flat, making sure pieces do not overlap. If you\u2019re seeking extra-crisp bacon, place a wire rack on top of each baking sheet and lay the bacon strips on top of the rack.\r\n\r\n3. Bake until crisp and browned, 15 to 18 minutes, or desired doneness, rotating the sheets once.\r\n\r\n4. Transfer strips to a paper towel to drain.\r\n\r\nJust remember that the timing will vary depending on whether you\u2019re using thin- or thick-cut bacon.",
+        "ingredients": [
+            "bacon"
+        ],
+        "tags": [
+            "components"
+        ]
     }
 }
