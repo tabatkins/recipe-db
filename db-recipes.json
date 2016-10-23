@@ -6640,7 +6640,7 @@
     "id168": {
         "id": "id168",
         "name": "Roasted salmon with white wine sauce",
-        "source": "http:\/\/www.marthastewart.com\/318680\/roasted-salmon-with-white-wine-sauce?czone=food\/fish-and-shellfish\/fish-varieties&center=344318&gallery=275293&slide=262282",
+        "source": "http:\/\/www.marthastewart.com\/318680\/roasted-salmon-with-white-wine-sauce?czone=food\/fish-and-shellfish\/fish-varieties&amp;center=344318&gallery=275293&slide=262282",
         "preptime": 300,
         "waittime": 0,
         "cooktime": 1200,
@@ -15561,8 +15561,7 @@
         ],
         "tags": [
             "breakfast",
-            "vegetarian",
-            "untried"
+            "vegetarian"
         ]
     },
     "id429": {
@@ -15996,7 +15995,7 @@
             "3 clove garlic, unpeeled\r",
             "3 tablespoon extra-virgin olive oil\r",
             "Coarse salt and freshly ground pepper\r",
-            "<hr>",
+            "<hr>\r",
             "1 cup semi-pearled farro (1 cup=about 7 ounces)\r",
             "2 tablespoon extra-virgin olive oil\r",
             "1 lemon, zested and juiced\r",
@@ -16006,8 +16005,7 @@
         "tags": [
             "salad",
             "vegetarian",
-            "main",
-            "untried"
+            "main"
         ]
     },
     "id442": {
