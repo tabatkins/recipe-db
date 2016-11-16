@@ -5753,9 +5753,9 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "In a large saucepan, bring 4 cups of water to a rapid boil. Stir in brown rice and return to a boil; reduce heat to a simmer and cover. Cook, without lifting lid, for 30 minutes.\r\n\r\nMeanwhile, in a large saucepan or Dutch oven, heat oil over medium heat. Add onion and cook, stirring frequently, until tender, about 5 minutes. Add garlic and mushrooms and cook, stirring occasionally, until mushrooms are tender, about 5 minutes. Add broth and rosemary; bring to a boil. Cover and remove from heat.\r\n\r\nCheck rice after 30 minutes; if it's not yet tender, cover and continue cooking, up to 10 more minutes. Stir 2 cups cooked rice and chickpeas into the broth; return to a boil. Reduce to a simmer, cover, and continue cooking for 5 more minutes to allow flavors to blend.\r\n\r\nStir in spinach and cook, uncovered, until just wilted, about 1 minute. Season with salt and pepper. Garnish with cheese; serve immediately.",
+        "instructions": "Cook rice if not already done.\r\n\r\nMeanwhile, in a large saucepan or Dutch oven, heat oil over medium heat. Add onion and cook, stirring frequently, until tender, about 5 minutes. Add garlic and mushrooms and cook, stirring occasionally, until mushrooms are tender, about 5 minutes. Add broth and rosemary; bring to a boil.\r\n\r\nStir cooked rice and chickpeas into the broth; return to a boil. Reduce to a simmer, cover, and continue cooking for 5 more minutes to allow flavors to blend.\r\n\r\nStir in spinach and cook, uncovered, until just wilted, about 1 minute. Season with salt and pepper. Garnish with cheese; serve immediately.",
         "ingredients": [
-            "2 cup uncooked brown rice\r",
+            "2 cup cooked brown rice\r",
             "1 tablespoon olive oil\r",
             "1 medium onion, finely chopped\r",
             "2 clove garlic, minced\r",
