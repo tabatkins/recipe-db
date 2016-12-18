@@ -16601,5 +16601,75 @@
             "main",
             "untried"
         ]
+    },
+    "id458": {
+        "id": "id458",
+        "name": "Carrot kinpira",
+        "source": "http:\/\/justbento.com\/handbook\/recipes-side-dishes-and-space-fillers\/easy-sugarfree-carrot-kinpira",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 240,
+        "servings": 4,
+        "comments": "Not sure of serving size",
+        "calories": 208,
+        "fat": 16,
+        "satfat": 0,
+        "carbs": 12,
+        "fiber": 4,
+        "sugar": 4,
+        "protein": 4,
+        "instructions": "Heat up a frying pan or wok with the sesame oil. Add the carrots and toss around until crisp-tender, about 4 to 5 minutes depending on how skinny the matchsticks are. Add the red pepper flakes and toss some more. Add soy sauce, toss toss. Add the sesame seeds near the end.\r\n\r\nThis does keep in the refrigerator for a couple of days.",
+        "ingredients": [
+            "2 medium carrots, cut into matchsticks\r",
+            "1 Tbsp dark sesame oil\r",
+            "1\/8 tsp red pepper flakes (or shichimi togarashi)\r",
+            "1 Tbsp soy sauce\r",
+            "1 tsp sesame seeds"
+        ],
+        "tags": [
+            "bento",
+            "lunch",
+            "sides",
+            "untried"
+        ]
+    },
+    "id459": {
+        "id": "id459",
+        "name": "Lentil snacks",
+        "source": "http:\/\/redfox.typepad.com\/hungry\/2005\/05\/lentil-snacks.html",
+        "preptime": 0,
+        "waittime": 1800,
+        "cooktime": 2700,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Put hulled red lentils (red dal) in a saucepan with salted water. Bring to a boil over high heat and skim off the foam that collects on the surface. Turn the heat to low and simmer until the lentils are yellow and very mushy, 20-30 minutes.\r\n\r\n2. Meanwhile, put fine-grain bulgur (see above) in a sizeable bowl.\r\n\r\n3. Stir tomato paste and hot red pepper paste into lentils. Turn the heat back up to high and bring this mixture to a boil. Once it's boiling, turn off the heat and pour it over the bulgar. Stir well and set aside for half an hour.\r\n\r\n4. Meanwhile, saute onion in olive oil. When it begins to get golden brown, add minced cloves of garlic, ground cumin, and plenty of freshly ground black pepper. Cook about two minutes more.\r\n\r\n5. Once the bulgur and lentils have sat for their full half hour, add the contents of the skillet, oil and all. Mix very well, kneading everything together. Add tarragon, dried red pepper, and a little lemon juice. Mix again and adjust for salt.\r\n\r\n6. Preheat the oven to 350. Using wet hands, make balls about 3\/4 the size of a golf ball. Shape each piece into an oval and arrange these on a parchment lined baking sheet. You only need to leave a tiny bit of space between them.\r\n\r\n7. Bake for 10-15 minutes. They shouldn't get brown, just form a bit of a firmer crust. Let them cool on the sheet, then transfer to a plate. Make sure they are completely cool, then cover with plastic wrap and store in the refrigerator. I think these would be excellent with a yogurt sauce of the type made with just yogurt, garlic, and salt.",
+        "ingredients": [
+            "1 cup red lentils\r",
+            "2 1\/2 cup water\r",
+            "salt\r",
+            "1\/2 cup fine-grain bulgur\r",
+            "1 1\/2 tsp tomato paste\r",
+            "1 large onion, chopped\r",
+            "2 tbsp olive oil\r",
+            "2 clove garlic, minced\r",
+            "1 1\/2 tsp ground cumin\r",
+            "black pepper\r",
+            "2 tbsp fresh tarragon, chopped\r",
+            "1 pinch dried red pepper\r",
+            "1\/4 lemon, juiced"
+        ],
+        "tags": [
+            "bento",
+            "lunch",
+            "main",
+            "untried"
+        ]
     }
 }
