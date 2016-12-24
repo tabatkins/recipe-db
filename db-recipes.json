@@ -16671,5 +16671,100 @@
             "main",
             "untried"
         ]
+    },
+    "id460": {
+        "id": "id460",
+        "name": "Salt block cucumber salad",
+        "source": "Bitterman salt company",
+        "preptime": 600,
+        "waittime": 180,
+        "cooktime": 0,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Arrange the cucumber slices in a single layer on the salt block, as though setting up a checkers board (you will have to do this in batches). Let sit for 2 minutes, then flip the slices and let cure for 1 more minute. Remove the cucumber slices from the block and put in a clean, lint-free kitchen towel. Wrap the towel around the cucumber slices and wring purposefully but gently to remove any excess moisture. Put the cucumbers in a serving bowl. Wipe off the block and repeat the process with the remaining cucumber slices.\r\n\r\nWhisk together remaining ingredients in a small mixing bowl. Pour over cucumbers. Toss gently and serve.",
+        "ingredients": [
+            "4 small Persian cucumbers (or substitute English cucumber), cut into 1\/4-inch-thick slices\r",
+            "2 tbsp extra-virgin olive oil\r",
+            "1 garlic clove, minced\r",
+            "1\/4 small red onion, finely chopped\r",
+            "1\/4 tsp black pepper, freshly ground\r",
+            "1 tbsp rice wine vinegar (or white wine vinegar)\r",
+            "2 tbsp fresh dill, chopped"
+        ],
+        "tags": [
+            "sides",
+            "untried"
+        ]
+    },
+    "id461": {
+        "id": "id461",
+        "name": "Salt-baked walnut brioche scones",
+        "source": "Bitterman salt company",
+        "preptime": 900,
+        "waittime": 3600,
+        "cooktime": 1080,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Place the tempered salt block on a heavy baking sheet and place on the middle rack of the oven. Turn on the oven to 350F, and heat the block for 1 hour.\r\n\r\nIn the work bowl of a food processor equipped with a steel blade, combine the flour, sugar, baking powder and salt. Process in short pulses to combine. Add the butter and process in 2 to 3 pulses until it is dispersed evenly.Add the egg yolks and cream and process until the mixture becomes a cohesive dough, about 40 seconds. Add the walnuts and process in pulses until combined, but not so much that the walnuts become finely ground.\r\n\r\nTurn the dough out onto a clean work surface and pat into a 9-inch circle about 3\/4-inch thick. Cut into 8 wedges. Arrange the cut scones on the hot salt block and bake until puffed and browned, about 18 minutes.\r\n\r\nRemove from the salt block with a spatula and let cool on a rack for 5 minutes before serving.",
+        "ingredients": [
+            "1 1\/2 cup all-purpose flour\r",
+            "1\/2 cup sugar\r",
+            "1 1\/2 tsp baking powder\r",
+            "1 pinch fine salt (Himalayan salt is preferred)\r",
+            "6 tbsp unsalted butter, softened, cut into 12 pieces\r",
+            "6 extra-large egg yolks\r",
+            "1\/4 cup heavy cream\r",
+            "1 cup walnuts, chopped"
+        ],
+        "tags": [
+            "dessert",
+            "untried"
+        ]
+    },
+    "id462": {
+        "id": "id462",
+        "name": "Hot buttered rum",
+        "source": "http:\/\/www.foodnetwork.com\/recipes\/emeril-lagasse\/hot-buttered-rum-cocktail-recipe.html",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 12,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "In a bowl, cream together the butter, sugar, cinnamon, nutmeg, cloves, and salt. Refrigerate until almost firm. Spoon about 2 tablespoons of the butter mixture into 12 small mugs. Pour about 3 ounces of rum into each mug (filling about halfway). Top with boiling water (to fill the remaining half), stir well, and serve immediately.",
+        "ingredients": [
+            "1 stick unsalted butter, softened\r",
+            "2 cup light brown sugar\r",
+            "1 teaspoon ground cinnamon\r",
+            "1\/2 teaspoon grated nutmeg\r",
+            "1 Pinch ground cloves\r",
+            "1 Pinch salt\r",
+            "1 Bottle dark rum\r",
+            "Boiling water"
+        ],
+        "tags": [
+            "drinks",
+            "untried"
+        ]
     }
 }
