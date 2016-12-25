@@ -16763,8 +16763,49 @@
             "Boiling water"
         ],
         "tags": [
-            "drinks",
+            "drink",
             "untried"
+        ]
+    },
+    "id463": {
+        "id": "id463",
+        "name": "Overnight Cinnamon Rolls",
+        "source": "http:\/\/altonbrown.com\/overnight-cinnamon-rolls-recipe\/",
+        "preptime": 1200,
+        "waittime": 68400,
+        "cooktime": 3600,
+        "servings": 8,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "FOR THE DOUGH\r\n\r\n1. Combine the egg yolks, whole egg, sugar, butter and buttermilk in the bowl of a stand mixer and whisk at medium speed.\r\n2. As the mixture comes together add 10 ounces of the flour, along with the yeast and salt and continue whisking until combined.\r\n3. Remove the whisk attachment and replace it with a dough hook. Add another 4 ounces of the remaining flour and knead on low speed for 5 minutes. At this point the dough should feel soft and moist but not sticky. If it is sticky, add a bit more flour (one ounce at a time). Knead on low for another 5 minutes or until the dough clears the sides of the bowl.\r\n4. Turn the dough out onto a lightly floured work surface; and form dough into a smooth ball. Transfer to a large bowl that has been lightly lubed with the vegetable oil. Rotate the bowl so that the dough ball is evenly covered. Cover with a clean kitchen towel and set aside until the dough doubles in volume, about 3 hours. (Exact times will vary depending on the temperature of the room and the temperature of the ingredients.)\r\n\r\nFOR THE FILLING\r\n\r\n1. Combine the brown sugar, cinnamon and salt in a medium bowl and set aside.\r\n\r\nTO ASSEMBLE\r\n\r\n1. Butter a 9 by 13-inch glass baking dish with the cold butter.\r\n2. Turn the dough out onto a lightly floured work surface and gently shape into a rectangle with the long side nearest you. Then use a rolling pin to shape into 18 by 12-inch rectangle.\r\n3. Brush the dough with the the melted butter, leaving a 1-inch border along the top edge.\r\n4. Sprinkle the brown sugar mixture over the dough, also avoiding the top border.\r\n5. Gently press the filling into the dough. (If you tend to have hot hands, you may want to cover the filling with a layer of plastic wrap first.)\r\n6. Beginning with the long edge nearest you, roll the dough away from you into a tight cylinder. Firmly pinch the seam to seal and roll the cylinder seam side down. Very gently squeeze the cylinder to create even thickness.\r\n8. Using a serrated knife, gently cut the cylinder into 2-inch rolls; yielding 8 pieces.\r\n9. Arrange rolls cut side down in the baking dish; cover tightly with plastic wrap and store in the refrigerator overnight, or up to 16 hours.\r\n\r\nTO BAKE\r\n\r\n1. Heat the oven to 200 degrees F.\r\n2. When the oven has reached 200 degrees F, turn it off and place the rolls in the turned-off oven. Let the rolls rise until they look slightly puffy, about 30 minutes.\r\n3. Without taking the rolls out of the oven, increase the oven temperature to 350 degrees F and let the rolls continue to bake for 25 to 30 minutes, or until the internal temperature reaches 190 degrees F. Remove the rolls and let cool while you make the icing.\r\n\r\nFOR THE ICING\r\n\r\n1. Whisk the cream cheese in the bowl of a stand mixer until creamy. Add the milk and whisk until combined. Sift in the powdered sugar, and whisk until smooth. Spread over the rolls and serve immediately.\r\n\r\nNotes\r\n\r\nIn case there are leftovers, arrange them on a plate and cover thoroughly with plastic wrap for up to 3 days. To reheat, move to a small plate (I usually use a paper plate) and microwave on high for 30 seconds. Two rolls can be reheated this way, three may require a few seconds more. Four will ... let's face it, you're not going to have that many left over and you know it.\r\n\r\nTo freeze: Individually wrap the rolls in plastic wrap and place them in a zip-top freezer-safe bag. When ready to eat, uncover and defrost on the counter for an hour. Then microwave for 30 seconds.",
+        "ingredients": [
+            "4 large egg yolks, room temperature\r",
+            "1 large whole egg, room temperature\r",
+            "2 ounce sugar, approximately 1\/4 cup\r",
+            "6 tablespoon unsalted butter, melted\r",
+            "1 teaspoon cold butter for lubricating baking dish\r",
+            "3\/4 cup buttermilk, room temperature\r",
+            "15 ounce all-purpose flour divided into 10 ounces, 4 ounces and 1 ounce batches\r",
+            "1 package rapid rise yeast, approximately 1\/4 ounce\r",
+            "1 1\/4 teaspoon kosher salt\r",
+            "<hr>\r",
+            "8 ounce light brown sugar\r",
+            "1 tablespoon cinnamon, ground\r",
+            "Pinch kosher salt\r",
+            "1 1\/2 tablespoon unsalted butter, melted\r",
+            "<hr>\r",
+            "2 1\/2 ounce cream cheese, softened\r",
+            "3 tablespoon milk\r",
+            "5 1\/2 ounce confectioners' sugar"
+        ],
+        "tags": [
+            "breakfast"
         ]
     }
 }
