@@ -16807,5 +16807,71 @@
         "tags": [
             "breakfast"
         ]
+    },
+    "id464": {
+        "id": "id464",
+        "name": "Sweet pepper and onion confit",
+        "source": "http:\/\/justbento.com\/handbook\/johbisai\/sweet-pepper-and-onion-confit",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 1800,
+        "servings": 6,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Heat up a large pan or heavy pot. Put in the oil and the garlic. Add the vegetables. Sprinkle with some salt (the salt will help the vegetables exude moisture).\r\n\r\nCook over a medium low heat, stirring sometimes, for at least 10 minutes, up to about 30 minutes. The longer you cook it the the more intense and sweet and brown it gets. The shorter cooking time will yield a still crispy and nice vegetable saut\u00e9 mix.\r\n\r\nIt keeps well covered in the refrigerator for about a week. You can freeze it too.\r\n\r\nWhen you use it, you can add your cuisine-specific herb and flavorings if you like, though it\u2019s tasty as it is.\r\n\r\nVariation: Add a thinly sliced fennel bulb for a slightly aniseedy version.\r\n\r\nJust a few ideas for use:\r\n\r\nMixed with pasta\r\nHeat up and add some cold rice; stir-fry for a quick vegetable fried rice. (No added oil needed since there\u2019s enough in the confit)\r\nAs an omelette filling - great for a Spanish omelette or tortilla\r\nWrap with rice paper\r\nOn a sandwich (e.g. feta or fresh goats cheese, the confit, and some arugula on a crusty roll)\r\nJust tucked into a corner of your bento box!",
+        "ingredients": [
+            "2 medium onions, thinly sliced\r",
+            "4 large sweet peppers (mixing red, yellow, and green), thinly sliced\r",
+            "1 fennel bulb (optional), thinly sliced\r",
+            "2 clove garlic, thinly sliced\r",
+            "1\/2 tsp salt\r",
+            "2 Tbsp olive oil"
+        ],
+        "tags": [
+            "bento",
+            "side",
+            "untried"
+        ]
+    },
+    "id465": {
+        "id": "id465",
+        "name": "Basic bento: tofu and egg",
+        "source": "http:\/\/justbento.com\/bento-no-1-basic-bento-20-minutes",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. The first thing you should always do is to pack the rice into the bento box and to leave it until the rice has cooled down. Rice retains heat longer compared to other ingredients, and closing the lid of the bento box while the rice is still hot can cause excess condensation. This leads to spoilage in the warm months at worst, not to mention a soggy bento. If you\u2019re using pre-frozen rice, microwave on high for about 3-4 minutes until warmed through and pack into your bento box.\r\n\r\n2. As soon as the rice is in the bento box, fill the water kettle and switch on.\r\n\r\n3. Take out the tofu and vegetables from the fridge while the water boils, and take out your pots and pans.\r\nIf egg is not already cooked, put the egg in a small pan and cover with cold water. Turn heat on high.\r\n\r\n4. Cut the tofu into bitesize cubes. Place in the bowl and pour hot water over it. Leave for a bit while you deal with the vegetables.\r\n\r\n5. Cut up the green onion into 3-4 inch lengths (7 cm or so). Cut the tops and tails off the green beans. Peel and cut the carrots into sticks.\r\n\r\n6. By this time the egg should be boiling. Turn the heat off, and put a lid on.\r\n\r\n7. Put the second saucepan and the frying pan on the heat. Add the rest of the boiling water from the kettle in the saucepan, and add salt. Add the carrots and green beans.\r\n\r\n8. Put the green onions in the frying pan with a little bit of boiling water. \u2018Stir-fry the green onions in the water (this cuts down on the amount of oil in the dish.)\r\n\r\n9. Drain the tofu cubes and add to the frying pan. Stir-fry (the oil on the tofu cubes is enough to do this).\r\n\r\n10. Drain the carrots and green beans. Run cold water over them from the tap.\r\n\r\n11. Drain the egg and run cold water over it. Peel the egg and slice into two lengthwise.\r\n\r\n12. Add 2-3 tablespoons of oyster sauce to the tofu and green onion. Stir rapidly and take off the heat. Pack into the bento box. Let cool for a couple minutes.\r\n\r\n13. Pack the green beans and carrots into the bento box.\r\n\r\n14. Pack the egg into the bento box. Sprinkle sesame seeds on the rice. Close the bento and pack.",
+        "ingredients": [
+            "5 oz fried tofu block (atsuage dofu)\r",
+            "2 green onions\r",
+            "1 medium carrot\r",
+            "1 Handful of fresh green beans\r",
+            "1 egg, hard-cooked\r",
+            "Oyster sauce\r",
+            "1 cup cooked brown rice (2 cups for a hungry eater)\r",
+            "Sesame seeds\r",
+            "Salt"
+        ],
+        "tags": [
+            "bento",
+            "lunch",
+            "main",
+            "untried"
+        ]
     }
 }
