@@ -15499,7 +15499,7 @@
     },
     "id427": {
         "id": "id427",
-        "name": "Poached eggs with mushrooms and tomatoes",
+        "name": "Eggs with mushrooms and tomatoes",
         "source": "http:\/\/www.realsimple.com\/food-recipes\/browse-all-recipes\/poached-eggs-mushrooms-tomatoes",
         "preptime": 900,
         "waittime": 0,
@@ -15513,28 +15513,24 @@
         "fiber": 28,
         "sugar": 40,
         "protein": 100,
-        "instructions": "Fill a large, deep skillet with 3 inches of water. Add the vinegar and bring to a bare simmer.\r\n\r\nMeanwhile, heat 1 teaspoon of the oil in a large nonstick skillet over medium-high heat. Add the tomatoes, season with salt and pepper, and cook until just tender, 1 to 2 minutes per side. Transfer to a plate.\r\n\r\nAdd the remaining tablespoon oil to the skillet and heat over medium-high heat. Add the mushrooms, thyme, salt, and pepper. Cook, tossing occasionally, until golden brown and tender, 6 to 7 minutes. \r\n\r\nMeanwhile, crack 4 of the eggs into separate custard cups (this is for full recipe). One at a time, slide each gently into the water in the deep skillet. Cook for 2 to 3 minutes for slightly runny yolks and remove with a slotted spoon. Repeat with the remaining 4 eggs (for full recipe).\r\n\r\nDividing evenly, top the bread with the tomatoes, mushrooms, eggs, Parmesan, and \u00bc teaspoon each salt and pepper. Sprinkle with the chives.",
+        "instructions": "Toast the bread.\r\n\r\nThen, do the following two things simultaneously:\r\n\r\n* Fry the eggs. As each pair of eggs is fried, put them on top of the bread.\r\n\r\n* Heat 1 teaspoon of the oil in a large nonstick skillet over medium-high heat. Add the tomatoes, mushroom, and thyme, season with salt and pepper, and cook until tender, 5-7 minutes. Distribute this on top of the eggs (and around the plate, as there will be too much to stack).\r\n\r\nFinally, sprinkle with parmesan and chives.",
         "ingredients": [
-            "2 teaspoon white vinegar\r",
-            "1 teaspoon olive oil\r",
-            "2 medium tomatoes, each whole tomato sliced into 4 rounds\r",
-            "1\/4 tsp kosher salt \r",
-            "1\/4 tsp black pepper\r",
-            "<hr>\r",
-            "1 tablespoon olive oil\r",
-            "1 pound mushrooms, sliced\r",
-            "1\/2 tsp salt\r",
-            "1\/4 tsp black pepper\r",
-            "1 tablespoon fresh thyme leaves\r",
-            "8 large eggs\r",
             "4 slices country bread, toasted\r",
+            "<hr>\r",
+            "1 teaspoon olive oil\r",
+            "1 cup grape tomatoes, halved\r",
+            "1\/2 tsp kosher salt \r",
+            "1\/2 tsp black pepper\r",
+            "1 pound mushrooms, sliced\r",
+            "1 tablespoon fresh thyme leaves\r",
+            "<hr>\r",
+            "8 large eggs\r",
             "1 ounce Parmesan, shaved\r",
             "2 tablespoon chopped fresh chives"
         ],
         "tags": [
             "breakfast",
-            "vegetarian",
-            "untried"
+            "vegetarian"
         ]
     },
     "id428": {
