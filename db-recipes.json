@@ -8295,46 +8295,6 @@
             "untried"
         ]
     },
-    "id217": {
-        "id": "id217",
-        "name": "Crispy chicken and apple salad",
-        "source": "Everyday Food Nov 2011",
-        "preptime": 1200,
-        "waittime": 0,
-        "cooktime": 600,
-        "servings": 4,
-        "comments": "",
-        "calories": 1820,
-        "fat": 52,
-        "satfat": 8,
-        "carbs": 204,
-        "fiber": 24,
-        "sugar": 0,
-        "protein": 136,
-        "instructions": "On a plate, season flour with salt. In a shallow dish, whisk egg with 1 tablespoon water. On another plate, season panko with salt and pepper. Pat chicken dry. Dredge chicken in flour, then dip in egg, letting excess drip off. Coat with panko, pressing gently to adhere.\r\n\r\nIn a large nonstick skillet, heat oil over medium. Add chicken; cook until golden brown and cooked through, 8 to 10 minutes total, flipping once. In a small bowl, whisk buttermilk, mayonnaise, vinegar, and parsley; season with salt and pepper. Arrange lettuce, apples, and cranberries on a platter. Slice chicken, add to platter, and drizzle with dressing.",
-        "ingredients": [
-            "1\/4 cup all-purpose flour\r",
-            "1\/4 teaspoon salt, for flour\r",
-            "1 large egg\r",
-            "1 cup panko\r",
-            "1\/2 teaspoon salt, for panko\r",
-            "1\/4 teaspoon pepper, for panko\r",
-            "2 boneless skinless chicken breasts, (about 1 pound total)\r",
-            "2 tablespoon extra-virgin olive oil\r",
-            "1\/4 cup buttermilk\r",
-            "2 tablespoon mayonnaise\r",
-            "1 tablespoon white-wine vinegar\r",
-            "1 tablespoon fresh parsley, chopped\r",
-            "1 large head red leaf lettuce, torn into bite-size pieces (8 cups)\r",
-            "2 apples, such as Gala or Fuji, cored and cut into thin wedges\r",
-            "1\/2 cup dried cranberries"
-        ],
-        "tags": [
-            "chicken",
-            "salad",
-            "untried"
-        ]
-    },
     "id218": {
         "id": "id218",
         "name": "Maple brown butter semifreddo",
@@ -14564,7 +14524,7 @@
     "id403": {
         "id": "id403",
         "name": "Baked tofu",
-        "source": "thekitchn.com",
+        "source": "http:\/\/www.thekitchn.com\/how-to-make-baked-tofu-cooking-lessons-from-the-kitchn-74358",
         "preptime": 300,
         "waittime": 2700,
         "cooktime": 2700,
@@ -14577,7 +14537,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "1. Press the tofu: remove the tofu from package and drain. Line a plate with a paper towel and set the tofu on top. Set a small plate on top of the tofu and weigh it down with something heavy, like a 28oz can of tomatoes. Press for 15-30 minutes.\r\n\r\n2. Cut the tofu pieces depending on how you plan to use it.\r\n\r\n3. Marinate the tofu (optional). Place marinade in a shallow dish and add tofu; toss. Place in the fridge for at least 30m and up to overnight.\r\n\r\n4. Preheat the oven or toaster oven to 350F. Line a baking sheet with parchment paper or silpat.\r\n\r\n6. Bake the tofu: arrange the tofu on the baking sheet in a single layer. Try to avoid the pieces touching each other. Bake until the outside of the tofu is golden and the pieces look slightly puffed, 20 to 45 minutes depending on the size and shape of your tofu. Toss the tofu every 10 minutes so the pieces bake evenly. The longer you bake the tofu, the chewier it will be.\r\n\r\n7. Cool and store: if save the tofu for later, let it cool on the baking sheet, then transfer to a refrigerator container. The tofu will keep refrigerated for up to a week.",
+        "instructions": "1. Press the tofu: remove the tofu from package and drain. Line a plate with a paper towel and set the tofu on top. Set a small plate on top of the tofu and weigh it down with something heavy, like a 28oz can of tomatoes. Press for 15-30 minutes.\r\n\r\n2. Cut the tofu pieces depending on how you plan to use it.\r\n\r\n3. Marinate the tofu (optional). Place marinade in a shallow dish and add tofu; toss. Place in the fridge for at least 30m and up to overnight.\r\n\r\n4. Preheat the oven or toaster oven to 350F. Line a baking sheet with parchment paper or silpat.\r\n\r\n6. Bake the tofu: arrange the tofu on the baking sheet in a single layer. Try to avoid the pieces touching each other. Bake until the outside of the tofu is golden and the pieces look slightly puffed, 20 to 45 minutes depending on the size and shape of your tofu. Toss the tofu every 10 minutes so the pieces bake evenly. The longer you bake the tofu, the chewier it will be.\r\n\r\n7. Cool and store: if save the tofu for later, let it cool on the baking sheet, then transfer to a refrigerator container. The tofu will keep refrigerated for up to a week.\r\n\r\nMarinade:\r\n1 tablespoon sesame oil\r\n1 tablespoon soy sauce\r\n1 tablespoon rice vinegar\r\n1 tablespoon water\r\nOther marinade ideas: minced ginger, minced garlic, lemon or lime juice, hot sauce, Worcestershire sauce, barbecue sauce (thinned with water)\r\n\r\n1 tablespoon cornstarch, optional for crispy tofu (toss tofu in starch just before baking)",
         "ingredients": [
             "1 16oz container extra-firm tofu\r",
             "Marinade (optional)"
@@ -16805,12 +16765,12 @@
     "id465": {
         "id": "id465",
         "name": "Basic bento: tofu and egg",
-        "source": "http:\/\/justbento.com\/bento-no-1-basic-bento-20-minutes",
+        "source": "Rachel Atkins",
         "preptime": 900,
         "waittime": 0,
         "cooktime": 0,
         "servings": 1,
-        "comments": "",
+        "comments": "Combining ideas from http:\/\/justbento.com\/bento-no-1-basic-bento-20-minutes and http:\/\/www.thekitchn.com\/how-to-make-baked-tofu-cooking-lessons-from-the-kitchn-74358",
         "calories": 0,
         "fat": 0,
         "satfat": 0,
@@ -16818,15 +16778,18 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "1. The first thing you should always do is to pack the rice into the bento box and to leave it until the rice has cooled down. Rice retains heat longer compared to other ingredients, and closing the lid of the bento box while the rice is still hot can cause excess condensation. This leads to spoilage in the warm months at worst, not to mention a soggy bento. If you\u2019re using pre-frozen rice, microwave on high for about 3-4 minutes until warmed through and pack into your bento box.\r\n\r\n2. As soon as the rice is in the bento box, fill the water kettle and switch on.\r\n\r\n3. Take out the tofu and vegetables from the fridge while the water boils, and take out your pots and pans.\r\nIf egg is not already cooked, put the egg in a small pan and cover with cold water. Turn heat on high.\r\n\r\n4. Cut the tofu into bitesize cubes. Place in the bowl and pour hot water over it. Leave for a bit while you deal with the vegetables.\r\n\r\n5. Cut up the green onion into 3-4 inch lengths (7 cm or so). Cut the tops and tails off the green beans. Peel and cut the carrots into sticks.\r\n\r\n6. By this time the egg should be boiling. Turn the heat off, and put a lid on.\r\n\r\n7. Put the second saucepan and the frying pan on the heat. Add the rest of the boiling water from the kettle in the saucepan, and add salt. Add the carrots and green beans.\r\n\r\n8. Put the green onions in the frying pan with a little bit of boiling water. \u2018Stir-fry the green onions in the water (this cuts down on the amount of oil in the dish.)\r\n\r\n9. Drain the tofu cubes and add to the frying pan. Stir-fry (the oil on the tofu cubes is enough to do this).\r\n\r\n10. Drain the carrots and green beans. Run cold water over them from the tap.\r\n\r\n11. Drain the egg and run cold water over it. Peel the egg and slice into two lengthwise.\r\n\r\n12. Add 2-3 tablespoons of oyster sauce to the tofu and green onion. Stir rapidly and take off the heat. Pack into the bento box. Let cool for a couple minutes.\r\n\r\n13. Pack the green beans and carrots into the bento box.\r\n\r\n14. Pack the egg into the bento box. Sprinkle sesame seeds on the rice. Close the bento and pack.",
+        "instructions": "1. The night before, cut tofu into 1 inch cubes. Combine marinade ingredients in a plastic bag and mix well. Add tofu. Gently mix to cover all of the tofu. Marinated overnight in the refrigerator (at least 30 minutes if in a hurry).\r\n\r\n2. Preheat oven or toaster oven to 350F. Line a baking sheet with parchment or a silpat. Remove tofu from marinade (discard liquid). Place on baking sheet leaving some space between pieces. Bake for 30 minutes.\r\n\r\n3. Pack the rice into the bento box to allow it to start cooling. If you\u2019re using pre-frozen rice, microwave on high for about 3-4 minutes until warmed through and pack into your bento box.\r\n\r\n4. As soon as the rice is in the bento box, fill the water kettle and switch on.\r\n\r\n5. Peel and cut the carrots into sticks. Combine carrots and green beans in a saucepan.\r\n\r\n7. Add the boiling water from the kettle in the saucepan, and add salt. Allow to stand for 2 minutes.\r\n\r\n8. Drain carrots and green beans and run under cold water to stop the cooking. Drain again. Pack into bento.\r\n\r\n14. Peel the egg and cut in half lengthwise. Pack the egg into the bento box. Sprinkle sesame seeds on the rice. Close the bento and pack.",
         "ingredients": [
-            "5 oz fried tofu block (atsuage dofu)\r",
-            "2 green onions\r",
+            "7 oz extra-firm tofu, drained and pressed\r",
+            "1 tablespoon sesame oil\r",
+            "1 tablespoon soy sauce\r",
+            "1 tablespoon rice vinegar\r",
+            "1 tablespoon water\r",
+            "<hr>\r",
             "1 medium carrot\r",
-            "1 Handful of fresh green beans\r",
+            "1\/4 cup frozen green beans\r",
             "1 egg, hard-cooked\r",
-            "Oyster sauce\r",
-            "1 cup cooked brown rice (2 cups for a hungry eater)\r",
+            "1 cup cooked brown rice\r",
             "Sesame seeds\r",
             "Salt"
         ],
@@ -16868,6 +16831,43 @@
         "tags": [
             "vegetarian",
             "main",
+            "untried"
+        ]
+    },
+    "id467": {
+        "id": "id467",
+        "name": "Couscous Salad with Roasted Vegetables and Chickpeas",
+        "source": "http:\/\/www.marthastewart.com\/315061\/couscous-salad-with-roasted-vegetables-a?czone=food%2Fvegetarian-cnt%2Fvegetarian-favorite-recipes&gallery=360580&slide=315061&center=852566",
+        "preptime": 1800,
+        "waittime": 0,
+        "cooktime": 1800,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 450 degrees. Place carrots and cauliflower on a rimmed baking sheet; toss with cumin and 2 tablespoons oil. Season with salt and pepper. Spread half the vegetables on a second baking sheet. Roast until browned and tender, 25 to 30 minutes, rotating sheets and tossing halfway through. Cool to room temperature.\r\n\r\nMeanwhile, in a medium saucepan, bring 1 1\/4 cups salted water to a boil. Stir in couscous; cover and remove from heat. Let stand until tender, 5 minutes. Fluff with a fork; set aside to cool, uncovered.\r\n\r\nMake dressing: In a small bowl, whisk together lemon zest and juice and remaining tablespoon oil; season with salt and pepper.\r\n\r\nIn a large bowl, combine roasted vegetables with couscous, chickpeas, and scallions. Place arugula on a serving platter, and drizzle with 1 tablespoon dressing. Add remaining dressing to couscous mixture, and toss; serve over arugula.",
+        "ingredients": [
+            "1 pound carrots, sliced 3\/4 inch thick on the diagonal\r",
+            "3 pound cauliflower, cored and cut into florets\r",
+            "1 1\/2 teaspoon ground cumin\r",
+            "3 tablespoon olive oil\r",
+            "Coarse salt and ground pepper\r",
+            "1 cup whole-wheat couscous\r",
+            "1 tablespoon lemon zest\r",
+            "1\/2 cup fresh lemon juice\r",
+            "1 15oz can chickpeas, rinsed and drained\r",
+            "6 green onions, thinly sliced\r",
+            "5 ounce baby arugula"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "salad",
             "untried"
         ]
     }
