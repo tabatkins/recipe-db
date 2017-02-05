@@ -16859,5 +16859,110 @@
             "salad",
             "untried"
         ]
+    },
+    "id468": {
+        "id": "id468",
+        "name": "Roasted Shrimp, Endive, and Red Onion Salad",
+        "source": "Whole Foods recipe thinger",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 2400,
+        "servings": 2,
+        "comments": "",
+        "calories": 720,
+        "fat": 36,
+        "satfat": 4,
+        "carbs": 34,
+        "fiber": 8,
+        "sugar": 8,
+        "protein": 54,
+        "instructions": "Preheat oven to 400F. Lightly oil a large rimmed baking sheet, and place endive and onion on it, cut side down. Roast for 20 minutes.\r\n\r\nMeanwhile, whisk vinaigrette ingredients in a large bowl.\r\n\r\nWhen roasting is done, gently flip vegetables and add shrimp, then return to oven for another 15 minutes, until shrimp is just cooked and vegetables are golden-brown and tender.\r\n\r\nAdd veggies and shrimp to bowl with vinaigrette, gently toss. Serve, drizzling any remaining vinaigrette.",
+        "ingredients": [
+            "1\/2 tbsp olive oil\r",
+            "4 endive, halved lengthwise\r",
+            "2 medium red onion, each cut into 6 wedges\r",
+            "1\/2 lb shrimp, deveined and peeled\r",
+            "<hr>",
+            "2 tbsp extra-virgin olive oil\r",
+            "2 tbsp fresh sage, chopped\r",
+            "1 tbsp lemon juice\r",
+            "1 1\/2 tbsp red wine vinegar\r",
+            "1 tsp dijon mustard\r",
+            "1\/2 tsp salt\r",
+            "1\/4 tsp pepper"
+        ],
+        "tags": [
+            "main",
+            "vegetarian",
+            "untried"
+        ]
+    },
+    "id469": {
+        "id": "id469",
+        "name": "Roasted Salmon stuffed with Spinach, Feta, & Ricotta",
+        "source": "Whole Foods recipe thinger",
+        "preptime": 1200,
+        "waittime": 300,
+        "cooktime": 1200,
+        "servings": 6,
+        "comments": "",
+        "calories": 2040,
+        "fat": 120,
+        "satfat": 48,
+        "carbs": 18,
+        "fiber": 0,
+        "sugar": 6,
+        "protein": 216,
+        "instructions": "Preheat the oven to 450F. Butterfly salmon fillet thru the center, without cutting all the way thru, so that it lays open flat in one large piece like a book.  Turn salmon over so skin side is facing up and place on a clean work surface. In a bowl, mash together feta and ricotta until well blended.\r\n\r\nSeason salmon with half the salt and pepper, then spread fillet with mustard. Arrange half the spinach on top, leaving a 1-inch border around the edges. Evenly dot cheese mixture on top of the spinach, then top with remaining spinach. Starting from one fo the long sides, gently roll up salmon and tie snugly with cooking twine at 1-inch intervals.\r\n\r\nGently transfer salmon to an oiled baking sheet. Brush top and sides of salmon with oil and season with remaining half of salt and pepper. Scatter dill and oregano over top and sides. roast until salmon is just cooked thru, about 20 minutes.  Let rest for 5 minutes, then carefully transfer to a serving platter, remove and discard the twine, and serve.",
+        "ingredients": [
+            "1 2lb center-cut boneless skinless salmon filet\r",
+            "1 cup feta\r",
+            "1 cup ricotta\r",
+            "1\/2 tsp salt, divided in half\r",
+            "1\/2 tsp pepper, divided in half\r",
+            "1 tbsp dijon mustard\r",
+            "1 cup packed baby spinach\r",
+            "2 tsp extra-virgin olive oil\r",
+            "2 tsp fresh dill, chopped\r",
+            "2 tsp fresh oregano, chopped"
+        ],
+        "tags": [
+            "main",
+            "salmon",
+            "untried",
+            "party"
+        ]
+    },
+    "id470": {
+        "id": "id470",
+        "name": "Champagne Baked Eggs with Spinach & Crispy Ham",
+        "source": "Whole Foods recipe thinger",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 420,
+        "fat": 24,
+        "satfat": 12,
+        "carbs": 18,
+        "fiber": 6,
+        "sugar": 2,
+        "protein": 34,
+        "instructions": "Preheat the oven to 350F.\r\n\r\nIn a large saucepan, cook shallot and half the wine over medium heat, stirring, until most liquid has evaporated, about 3 minutes. Scrape into a small bowl. \r\n\r\nReturn the pan to heat and add spinach, remaining wine, and a pinch of salt and pepper. Cook, stirring frequently, until spinach is very soft and most liquid has evaporated, about 6 minutes.\r\n\r\nMeanwhile, in a large skillet, cook ham over medium-high heat until very crisp, about 5 min.\r\n\r\nForm wells in the spinach and crack the eggs into them. Top with shallots, any remaining liquid, a pinch of salt and pepper, the cheese, then the ham. Place pan in oven and cook until eggs are set, about 10 minutes.  Let sit for 5 minutes before serving.",
+        "ingredients": [
+            "1 cup champagne, divided in half\r",
+            "1 shallot, diced\r",
+            "8 oz baby spinach (8oz \u2248 7 1\/2 cups)\r",
+            "salt and pepper\r",
+            "4 eggs\r",
+            "3 oz gruyere, shredded\r",
+            "2 oz ham, cut into slices"
+        ],
+        "tags": [
+            "main",
+            "vegetarian",
+            "untried"
+        ]
     }
 }
