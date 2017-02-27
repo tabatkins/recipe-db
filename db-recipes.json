@@ -16964,5 +16964,78 @@
             "vegetarian",
             "untried"
         ]
+    },
+    "id471": {
+        "id": "id471",
+        "name": "Udon noodle soup",
+        "source": "Blue Apron",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 2100,
+        "servings": 2,
+        "comments": "",
+        "calories": 1220,
+        "fat": 60,
+        "satfat": 9,
+        "carbs": 138,
+        "fiber": 12,
+        "sugar": 22,
+        "protein": 40,
+        "instructions": "Cook & peel the eggs:\r\nBring 1\/2-inch of water to boil over high heat in a small saucepan. Carefully add the eggs to the pot of boiling water. Cover, reduce the heat to medium and cook for exactly 6 1\/2 minutes. Drain thoroughly and rinse under cold water for 30 seconds to 1 minute to stop the cooking process. When cool enough to handle, carefully peel the cooked eggs. Transfer to a cutting board and set aside in a warm place.\r\n\r\nCook the aromatics:\r\nWhile the eggs cook, in a large pot, heat 2 teaspoons of olive oil on medium-high until hot.Add the garlic, ginger and white bottoms of the scallions. Cook, stirring constantly, 30 seconds to 1 minute, or until fragrant. Add the carrot; season with salt and pepper. Cook, stirring occasionally, 2 to 3 minutes, or until slightly softened.\r\n\r\nStart the soup:\r\nWhile the eggs continue to cook, add the miso paste, hoisin sauce and 5 cups of water to the pot of aromatics. Heat to boiling on high. Once boiling, reduce the heat to medium and cook, stirring occasionally, 7 to 9 minutes, or until reduced in volume by about \u00bc. Add the bok choy and season with salt and pepper. Cook, stirring occasionally, 4 to 6 minutes, or until the bok choy stems have softened and the leaves have wilted.\r\n\r\nFinish the soup:\r\nTo the pot, add the noodles (carefully separating with your hands before adding), sesame oil and the lime juice. Cook, stirring occasionally, 2 to 4 minutes, or until thoroughly combined and heated through. Turn off the heat; season with salt and pepper to taste.\r\n\r\nPlate your dish:\r\nDivide the finished soup between 2 bowls. Halve the peeled eggs lengthwise and season with salt and pepper. Top the soup with the seasoned eggs. Garnish with the peanuts and green tops of the scallions. Enjoy!",
+        "ingredients": [
+            "2 large eggs\r",
+            "2 clove garlic, minced or pressed\r",
+            "1 1-inch piece ginger, grated or finely minced\r",
+            "2 scallions, thinly sliced, white and green parts separated\r",
+            "1 carrot, diced\r",
+            "1\/4 cup sweet white miso paste\r",
+            "1 tbsp hoisin sauce\r",
+            "5 cup water\r",
+            "4 oz baby bok choy, roughly chopped\r",
+            "1\/2 lb fresh udon noodles\r",
+            "1 lime, juiced\r",
+            "1 tbsp sesame oil\r",
+            "3 tbsp peanuts, roasted\r",
+            "salt and pepper"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
+    },
+    "id472": {
+        "id": "id472",
+        "name": "Oaxaca Cheese & Plantain Tortas with Tangelo & Radish Salad",
+        "source": "Blue Apron",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 1800,
+        "servings": 2,
+        "comments": "",
+        "calories": 1580,
+        "fat": 55,
+        "satfat": 20,
+        "carbs": 228,
+        "fiber": 20,
+        "sugar": 102,
+        "protein": 56,
+        "instructions": "Prepare the ingredients:\r\nPeel the plantain; Halve the rolls.Peel and thinly slice the shallot.Peel the plantain; cut on an angle into \u00bc-inch-thick pieces.Thinly slice the cheese.Cut off and discard the ends of the radishes; thinly slice into rounds.Peel and large dice the tangelo.Cut off and discard the root end of the romaine; roughly chop the leaves.Finely chop the peppers.\r\n\r\nMarinate the shallot:\r\nIn a medium bowl, combine the shallot, sugar and vinegar; drizzle with olive oil and season with salt and pepper. Set aside to marinate, stirring occasionally, for at least 10 minutes. Season with salt and pepper to taste.\r\n\r\nCook the plantain:\r\nWhile the shallot marinates, in a large pan (nonstick, if you have one), heat 1 teaspoon of olive oil on medium-high until hot. Add the plantain and season with salt and pepper. Cook 3 to 4 minutes on the first side, or until browned. Flip and cook 2 to 3 minutes, or until browned and softened. Transfer to a paper towel-lined plate and immediately season with salt and pepper. Wipe out the pan.\r\n\r\nAssemble the tortas:\r\nPlace the rolls on a clean, dry work surface. Top the roll bottoms with the cheese, cooked plantain, peppers and marinated shallot (reserving the liquid). Season with salt and pepper. Complete the tortas with the roll tops.\r\n\r\nCook the tortas:\r\nIn the same pan, heat 2 teaspoons of olive oil on medium until hot. Add the tortas. Place a heavy-bottomed pot (or pan) on top of the tortas; press down. Cook, occasionally pressing down on the pot, 2 to 3 minutes per side, or until lightly browned and slightly flattened. Transfer to a cutting board.\r\n\r\nMake the salad & plate your dish:\r\nIn a large bowl, combine the radishes, tangelo and romaine; season with salt and pepper. Add the reserved shallot marinating liquid and a drizzle of olive oil; toss to thoroughly combine. Season with salt and pepper to taste. Cut the cooked tortas in half on an angle. Divide the tortas and salad between 2 dishes. Enjoy!",
+        "ingredients": [
+            "2 Sandwich Rolls\r",
+            "4 Ounces Queso Oaxaca\r",
+            "3 Radishes\r",
+            "1 Black Plantain\r",
+            "1 Romaine Heart\r",
+            "1 Tangelo\r",
+            "2 Roasted Piquillo Peppers\r",
+            "1 Shallot\r",
+            "1 Tablespoon Sugar\r",
+            "1 Tablespoon Red Wine Vinegar"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "untried"
+        ]
     }
 }
