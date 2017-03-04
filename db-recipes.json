@@ -17037,5 +17037,83 @@
             "main",
             "untried"
         ]
+    },
+    "id473": {
+        "id": "id473",
+        "name": "Restaurant Style Butter Chicken in Slow Cooker",
+        "source": "http:\/\/www.chefdehome.com\/Recipes\/597\/restaurant-style-butter-chicken-in-slow-cooker",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 10800,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Marinade: In a food processor jar, add all the chicken marinade ingredients except yogurt, then process to make a fine puree. (if mixture is hard to blend, add 1 tbsp water)\r\n\r\n2. Transfer marinade to a wide bowl, and mix in yogurt. Then add cubed chicken meat and coat into the marinade. Set aside for 15\u00ad-20 minutes\r\n\r\n3. Infuse Flavors: In meantime, heat 2 tbsp butter in a wide pan. Saute onion in butter on medium heat until soft and fragrant (2-\u00ad3 minutes). Now, add remaining 1\/2 tsp garam masala and continue saute for 1 more minute.\r\n\r\n4. Transfer the marinated chicken with all marinade and remaining 1 tbsp butter and honey into the saute pan. Cook chicken in pan for 5 minutes on medium\u00ad-high heat or until curry looks darker color.\r\n\r\n5. Slow Cooker: Transfer everything in slow cooker with 1\/4 cup water (or chicken stock for more flavor). Cook on high for 1.25 hours Or on slow for 3-\u00ad4 hours.\r\n\r\n6. Before serving, after the cooker timer is up, add heavy cream and mix well. Taste and adjust salt. Leave on warm until ready to serve.\r\n",
+        "ingredients": [
+            "1\/4 Cup slivered almonds\r",
+            "2 Tomatoes\r",
+            "1 1\/2 tbsp Tomato Paste\r",
+            "1 tsp garam masala\r",
+            "1 tsp Chili Powder, (or 1\/2 tsp cayenne (add more if like spicy))\r",
+            "1 tsp Cumin Powder\r",
+            "1 2-inch piece Ginger\r",
+            "3 clove Garlic, peeled\r",
+            "1\/2 tsp Salt\r",
+            "1\/3 Cup non-fat Greek yogurt\r",
+            "<hr>",
+            "1 1\/2 lb Chicken (boneless chicken thigh), cut into 2-\u00ad3 inch cubes\r",
+            "1\/2 tsp garam masala\r",
+            "2 tbsp Cilantro, chopped, for garnish)\r",
+            "1 tbsp Honey\r",
+            "3 tbsp Heavy Cream (adjust per taste, I add up to 1\/3 cup based on tartness of tomatoes)\r",
+            "3 tbsp Unsalted Butter\r",
+            "1\/2 Cup Red Onion, sliced to thin half\u00admoon slices"
+        ],
+        "tags": [
+            "indian",
+            "main",
+            "slow_cooker",
+            "untried"
+        ]
+    },
+    "id474": {
+        "id": "id474",
+        "name": "Grown-Up Prosciutto & Cheddar Hot Pockets",
+        "source": "http:\/\/www.thekitchn.com\/recipe-grown-up-prosciutto-amp-cheddar-hot-pockets-recipes-from-the-kitchn-199400",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 1200,
+        "servings": 6,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Unwrap one sheet of puff pastry on a clean work surface. Using a pizza cutter or sharp knife, cut the pastry lengthwise into 3 wide strips of equal size (follow the seams as a guide). Cut each strip in half crosswise for a total of 6 equal-sized rectangles. Transfer the rectangles to a parchment-lined baking sheet and repeat with remaining pastry sheet. Transfer the baking sheet to the refrigerator while continuing with the recipe.\r\n\r\nCombine cheese, cornstarch, and ground mustard in a small saucepan and toss to combine. Add evaporated milk, Worcestershire, and hot sauce and cook over low heat, whisking occasionally, until melted and smooth, about 5 minutes. Season with salt and pepper, to taste. Stir in the prosciutto and set aside to cool slightly and thicken up.\r\n\r\nSort through the rectangles and remove the 6 widest to use as the tops, keeping the 6 thinner rectangles on the baking sheet to fill. Mound 2 to 3 tablespoons of the cheese mixture onto each rectangle, leaving a 1\/2-inch space along the edges. Brush the space along the edges with the beaten egg and top with the larger rectangles of pastry. Gently press the edges of each pocket to adhere. Press a fork along all the sides to fully seal. Transfer the baking sheet to the freezer for 15 to 20 minutes before baking.\r\n\r\nMeanwhile, preheat oven to 400\u00b0F. Remove the pan from the freezer. Lay a sheet of parchment over the \"pockets\" and nestle another baking sheet on top \u2014 this will prevent the pastry from puffing too high. Transfer the sheet pan(s) to the oven and bake for 15 minutes. Transfer the oven rack to the broiler position and remove the top baking sheet. Adjust oven setting to broil and continue cooking the pockets, rotating the pan as needed, until golden brown, 2 to 3 minutes. Cool for 10 minutes before serving.\r\n\r\nTo freeze the pockets, bake according to directions and allow to cool completely. Freeze in a single layer on a baking sheet, then transfer to an airtight zip-top bag and return to the freezer. To reheat, cover in aluminum foil and warm in a 350\u00b0F oven, or cook in the microwave for 2 to 3 minutes until hot.",
+        "ingredients": [
+            "2 sheets frozen puff pastry, thawed according to package directions \r",
+            "1 packed cup grated cheddar cheese (about 3 ounces)\r",
+            "3\/4 teaspoon cornstarch\r",
+            "1\/4 teaspoon ground mustard powder\r",
+            "1\/2 cup evaporated milk\r",
+            "1\/8 teaspoon Worcestershire sauce\r",
+            "1\/8 teaspoon hot sauce, such as Tabasco\r",
+            "Kosher salt and black pepper, to taste\r",
+            "3 ounce diced prosciutto or ham\r",
+            "1 large egg, lightly beaten"
+        ],
+        "tags": [
+            "main",
+            "untried"
+        ]
     }
 }
