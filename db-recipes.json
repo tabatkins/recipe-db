@@ -16760,13 +16760,13 @@
         "cooktime": 0,
         "servings": 1,
         "comments": "Combining ideas from http:\/\/justbento.com\/bento-no-1-basic-bento-20-minutes and http:\/\/www.thekitchn.com\/how-to-make-baked-tofu-cooking-lessons-from-the-kitchn-74358",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
+        "calories": 600,
+        "fat": 24,
+        "satfat": 4,
+        "carbs": 61,
+        "fiber": 9,
+        "sugar": 7,
+        "protein": 33,
         "instructions": "1. The night before, cut tofu into 1 inch cubes. Combine marinade ingredients in a plastic bag and mix well. Add tofu. Gently mix to cover all of the tofu. Marinated overnight in the refrigerator (at least 30 minutes if in a hurry).\r\n\r\n2. Preheat oven or toaster oven to 350F. Line a baking sheet with parchment or a silpat. Remove tofu from marinade (discard liquid). Place on baking sheet leaving some space between pieces. Bake for 30 minutes.\r\n\r\n3. Pack the rice into the bento box to allow it to start cooling. If you\u2019re using pre-frozen rice, microwave on high for about 3-4 minutes until warmed through and pack into your bento box.\r\n\r\n4. As soon as the rice is in the bento box, fill the water kettle and switch on.\r\n\r\n5. Peel and cut the carrots into sticks. Combine carrots and green beans in a saucepan.\r\n\r\n7. Add the boiling water from the kettle in the saucepan, and add salt. Allow to stand for 2 minutes.\r\n\r\n8. Drain carrots and green beans and run under cold water to stop the cooking. Drain again. Pack into bento.\r\n\r\n14. Peel the egg and cut in half lengthwise. Pack the egg into the bento box. Sprinkle sesame seeds on the rice. Close the bento and pack.",
         "ingredients": [
             "7 oz extra-firm tofu, drained and pressed\r",
@@ -16785,8 +16785,7 @@
         "tags": [
             "bento",
             "lunch",
-            "main",
-            "untried"
+            "main"
         ]
     },
     "id466": {
@@ -17423,6 +17422,34 @@
             "mexican",
             "salad",
             "vegetarian",
+            "untried"
+        ]
+    },
+    "id484": {
+        "id": "id484",
+        "name": "Chocolate covered strawberry quick oatmeal",
+        "source": "https:\/\/www.pamperedchef.com\/recipe\/Breakfast%7CBrunch\/American\/Chocolate-Covered+Strawberry+Quick+Oatmeal\/1139578",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 120,
+        "servings": 1,
+        "comments": "",
+        "calories": 270,
+        "fat": 9,
+        "satfat": 3,
+        "carbs": 44,
+        "fiber": 6,
+        "sugar": 18,
+        "protein": 7,
+        "instructions": "Microwave water in 2-cup Silicone Prep Bowl on HIGH for 1-1\/2 to 2 minutes.   \r\n\r\nMeanwhile, add dry oats and chocolate morsels to Make & Take Snack Jar; stir to mix. \r\n\r\nCarefully pour in water; stir until blended.  \r\n\r\nPlace lid loosely on Jar; let stand 3 minutes.  \r\n\r\nStir before serving; top with strawberry. ",
+        "ingredients": [
+            "3\/4 cup water\r",
+            "1\/2 cup quick oats\r",
+            "2 tbsp semi-sweet chocolate morsels\r",
+            "1 large strawberry, chopped"
+        ],
+        "tags": [
+            "breakfast",
             "untried"
         ]
     }
