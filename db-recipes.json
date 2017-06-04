@@ -16502,8 +16502,8 @@
             "freshly ground black pepper\r",
             "<hr>\r",
             "1 cup uncooked small pasta (such as tiny bowties\/farfalline\/small elbow macaroni\/orzo)\r",
-            "8 cherry tomatoes\r",
-            "6 snowpeas\r",
+            "1\/2 cup cherry tomatoes\r",
+            "1\/2 cup snowpeas\r",
             "washed lettuce leaves\r",
             "1 oz fresh goat cheese (or feta cheese)\r",
             "salt\r",
@@ -16594,13 +16594,13 @@
         "cooktime": 0,
         "servings": 4,
         "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
+        "calories": 372,
+        "fat": 28,
+        "satfat": 4,
+        "carbs": 28,
+        "fiber": 12,
         "sugar": 0,
-        "protein": 0,
+        "protein": 4,
         "instructions": "Arrange the cucumber slices in a single layer on the salt block, as though setting up a checkers board (you will have to do this in batches). Let sit for 2 minutes, then flip the slices and let cure for 1 more minute. Remove the cucumber slices from the block and put in a clean, lint-free kitchen towel. Wrap the towel around the cucumber slices and wring purposefully but gently to remove any excess moisture. Put the cucumbers in a serving bowl. Wipe off the block and repeat the process with the remaining cucumber slices.\r\n\r\nWhisk together remaining ingredients in a small mixing bowl. Pour over cucumbers. Toss gently and serve.",
         "ingredients": [
             "4 small Persian cucumbers (or substitute English cucumber), cut into 1\/4-inch-thick slices\r",
@@ -17452,6 +17452,34 @@
         "tags": [
             "breakfast",
             "untried"
+        ]
+    },
+    "id485": {
+        "id": "id485",
+        "name": "Golden-crusted Brussels sprouts",
+        "source": "Super Natural Cooking by Heidi Swanson",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 4,
+        "comments": "",
+        "calories": 424,
+        "fat": 24,
+        "satfat": 4,
+        "carbs": 40,
+        "fiber": 16,
+        "sugar": 12,
+        "protein": 28,
+        "instructions": "",
+        "ingredients": [
+            "24 small Brussels sprouts\r",
+            "1 tbsp extra-virgin olive oil\r",
+            "Salt\r",
+            "Black pepper\r",
+            "1\/3 cup Parmesan, grated"
+        ],
+        "tags": [
+            "sides"
         ]
     }
 }
