@@ -17481,5 +17481,38 @@
         "tags": [
             "sides"
         ]
+    },
+    "id486": {
+        "id": "id486",
+        "name": "Bacon cheddar chive scones",
+        "source": "http:\/\/www.kingarthurflour.com\/recipes\/bacon-cheddar-chive-scones-recipe",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 1320,
+        "servings": 8,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat the oven to 425\u00b0F. Lightly grease a baking sheet, or line it with parchment.\r\n\r\nWhisk together the flour, salt, baking powder, and sugar. Work the butter into the flour until the mixture is unevenly crumbly, with some of the butter remaining in larger pieces.\r\n\r\nMix in the cheese, chives, and bacon until evenly distributed.\r\n\r\nAdd \u00be cup of the cream, stirring to combine. Try squeezing the dough together; if it's crumbly and won't hang together, or if there are crumbs remaining in the bottom of the bowl, add cream until the dough comes together. Transfer the shaggy dough to a well-floured work surface.\r\n\r\nPat the dough into a smooth 7\" disk about 3\/4\" thick. Transfer the disk to the prepared baking sheet. Use a knife or bench knife to cut the disk into 8 wedges, spreading the wedges apart a bit on the pan.\r\nBrush the scones with a bit of cream; this will help their crust brown.\r\n\r\nBake the scones for 22 to 24 minutes, until they're golden brown. Remove them from the oven, and cool right on the pan. Serve warm, or at room temperature.\r\n\r\nTips:\r\nWant to make scones now, freeze and bake later? Make scones up to the point they're on the baking sheet, cut and ready to bake; don't brush them with cream. Freeze, then remove from the sheet, and wrap airtight in a plastic bag. When you're ready to bake, remove however many you want to bake from the freezer, place on a baking sheet, brush with cream, and bake in a preheated 425\u00b0F oven for 35 to 40 minutes, until golden brown.\r\n\r\nMake mini-scones: Divide the dough in half, and roll each half into a 5\" round. Cut each round into 8 wedges. Bake in a preheated 425\u00b0F oven till golden brown, 18 to 20 minutes; or for about 25 minutes if frozen.",
+        "ingredients": [
+            "2 cup All-Purpose Flour (or Pastry Flour Blend)\r",
+            "1 teaspoon salt\r",
+            "1 tablespoon baking powder\r",
+            "2 teaspoon sugar\r",
+            "4 tablespoon butter, cold\r",
+            "1 cup cheddar cheese, very coarsely grated or diced\r",
+            "1\/3 cup fresh chives, snipped\r",
+            "1\/2 pound bacon, cooked, cooled, and crumbled (about 1 cup)\r",
+            "3\/4 cup heavy cream, or enough to make the dough cohesive\r",
+            "2 tablespoon heavy cream"
+        ],
+        "tags": [
+            "breakfast"
+        ]
     }
 }
