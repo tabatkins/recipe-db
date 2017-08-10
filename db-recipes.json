@@ -17513,5 +17513,77 @@
         "tags": [
             "breakfast"
         ]
+    },
+    "id487": {
+        "id": "id487",
+        "name": "Sweet and Spicy Seitan with Jasmine Rice and Crispy Shallot",
+        "source": "Blue Apron",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 1560,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Remove the honey from the refrigerator to bring to room temperature. In a small saucepan, combine the rice, a big pinch of salt, and 1 cup of water. Heat to boiling on high. Once boiling, cover and reduce the heat to low. Cook 12 to 14 minutes, or until the water has been absorbed and the rice is tender. Turn off the heat and fluff the cooked rice with a fork.\r\n\r\n2. Add the flour to the bowl of shallot; season with salt and pepper. Toss to thoroughly coat. In a large pan (nonstick, if you have one), heat a thin layer of oil on medium-high until hot. Once the oil is hot enough that a piece of shallot sizzles immediately when added to the pan, add the coated shallot in a single layer (tapping off any excess flour before adding). Cook, stirring frequently, 2 to 3 minutes, or until browned and crispy. Transfer to a paper towel-lined plate; immediately season with salt and pepper. Rinse and wipe out the pan.\r\n\r\n3. In the same pan, heat 2 teaspoons of olive oil on medium-high until hot. Add the squash and sweet peppers. Cook, stirring occasionally, 3 to 4 minutes, or until lightly browned. Turn off the heat; stir in the green tops of the scallions. Season with salt and pepper to taste. Transfer to a bowl; set aside in a warm place. Wipe out the pan.\r\n\r\n4. In the same pan, heat 2 teaspoons of olive oil on medium-high until hot. Add the ground beef; season with salt and pepper. Cook, frequently breaking the meat apart with a spoon, 3 to 4 minutes, or until browned. Add the garlic, white bottoms of the scallions, honey, Golden Mountain sauce, the juice of 2 lime wedges, 2 tablespoons of water, and as much of the chile pepper as you\u2019d like, depending on how spicy you\u2019d like the dish to be. Cook, stirring frequently, 1 to 2 minutes, or until thoroughly combined and the beef is cooked through. Turn off the heat.\r\n\r\n5. Divide the cooked rice between 2 dishes. Top with the cooked beef and sauce and cooked vegetables. Garnish with the fried shallot, cilantro and mint (tearing the mint leaves just before adding), and remaining lime wedges. Enjoy!",
+        "ingredients": [
+            "1\/2 cup Jasmine rice\r",
+            "4 oz Sweet Peppers, halved lengthwise, seeds\/ribs removed, thinly sliced crosswise\r",
+            "2 clove Garlic, roughly chopped\r",
+            "2 Scallions, thinly sliced, whites and greens separated\r",
+            "1 Lime\r",
+            "1 Summer Squash, large diced\r",
+            "1\/2 tbsp fresh cilantro, chopped\r",
+            "1\/2 tbsp fresh mint, chopped\r",
+            "2 Tbsp  Rice Flour\r",
+            "8 oz Seitan\r",
+            "2 tsp Golden Mountain Sauce\r",
+            "1 Bird's Eye Chile Pepper, thinly sliced into rounds\r",
+            "1 Shallot, peeled and thinly sliced\r",
+            "1 Tbsp  Honey"
+        ],
+        "tags": [
+            "main",
+            "vegetarian",
+            "asian"
+        ]
+    },
+    "id488": {
+        "id": "id488",
+        "name": "Olive and Pepper Grilled Cheese Sandwiches",
+        "source": "Blue Apron",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 2,
+        "comments": "",
+        "calories": 1180,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Place the tomatoes in a bowl and season with salt and pepper. In another medium bowl, combine the olives and peppers. Drizzle with olive oil and season with salt and pepper to taste.\r\n\r\n2. Place the bread slices on a work surface. Divide half the cheddar cheese between 2 of the bread slices; top with the filling and remaining cheddar cheese. Season with salt and pepper. Complete the sandwiches with the remaining bread slices.\r\n\r\n3. In a medium pan (nonstick, if you have one), heat 2 teaspoons of olive oil on medium until hot. Add the sandwiches and cook 3 to 5 minutes per side, or until the bread is golden brown and the cheese has melted. (If the pan seems dry, add 1 teaspoon of olive oil before flipping the sandwiches.) Transfer to a cutting board.\r\n\r\n4. While the sandwiches cook, in a bowl, combine the labneh cheese, vinegar, and as much of the garlic paste as you\u2019d like. Drizzle with olive oil and season with salt and pepper to taste.\r\n\r\n5. Just before serving, place the lettuce in a large bowl. Add enough of the dressing to coat the lettuce (you may have extra dressing). Toss to combine; season with salt and pepper to taste. To the bowl of seasoned tomatoes, add a drizzle of olive oil; season with salt and pepper to taste. Cut the cooked sandwiches in half on an angle. Divide the sandwiches and dressed lettuce between 2 dishes. Top the lettuce with the tomatoes. Enjoy!",
+        "ingredients": [
+            "4 slices Sourdough Bread\r",
+            "6 oz Cherry Tomatoes, halved\r",
+            "1 clove Garlic, minced\r",
+            "1 head Butter Lettuce, washed and dried, torn into bite sized pieces\r",
+            "1 oz Castelvetrano Olives, pitted and finely chopped\r",
+            "1 oz Pickled Goathorn Peppers, finely chopped\r",
+            "1 Tbsp Red Wine Vinegar\r",
+            "1\/4 cup Labneh Cheese (or Creme Fraiche?)\r",
+            "4 oz White Cheddar Cheese, shredded"
+        ],
+        "tags": [
+            "main",
+            "vegetarian"
+        ]
     }
 }
