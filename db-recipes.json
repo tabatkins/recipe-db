@@ -4557,46 +4557,6 @@
             "main"
         ]
     },
-    "id106": {
-        "id": "id106",
-        "name": "Rice with almond pesto and beans",
-        "source": "Food Network Magazine Nov 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 2844,
-        "fat": 128,
-        "satfat": 28,
-        "carbs": 336,
-        "fiber": 40,
-        "sugar": 0,
-        "protein": 100,
-        "instructions": "1. Make the pesto: Pulse the almonds and garlic in a food processor until finely chopped. Add the parsley, basil and parmesan and pulse until the herbs are chopped, scraping down the side of the processor as needed. With the motor running, drizzle in the olive oil and blend until combined. Transfer to a large bowl; stir in the ricotta and olives. Season with salt and pepper to taste.\r\n\r\n2. Make rice as directed. Stir in beans. Transfer to the bowl with the pesto and toss to coat. Add the tomatoes and toss to combine. Season with salt and pepper to taste.",
-        "ingredients": [
-            "Kosher salt\r",
-            "1\/3 cup unsalted roasted almonds\r",
-            "1 clove garlic\r",
-            "1 1\/2 cup fresh parsley\r",
-            "1 1\/2 cup fresh basil\r",
-            "1\/4 cup grated parmesan cheese\r",
-            "1\/4 cup extra-virgin olive oil\r",
-            "1\/3 cup ricotta cheese\r",
-            "1\/2 cup kalamata olives, pitted and chopped\r",
-            "4 cup cooked rice\r",
-            "1 can chickpeas, drained and rinsed\r",
-            "2 plum tomatoes, chopped\r",
-            "Freshly ground pepper"
-        ],
-        "tags": [
-            "rice",
-            "pesto",
-            "vegetarian",
-            "salad",
-            "main"
-        ]
-    },
     "id107": {
         "id": "id107",
         "name": "Warm shrimp and potato salad",
@@ -6988,38 +6948,6 @@
         "tags": [
             "granola",
             "breakfast"
-        ]
-    },
-    "id178": {
-        "id": "id178",
-        "name": "Spinach and pear salad with lamb",
-        "source": "Everyday Food April 2011",
-        "preptime": 1200,
-        "waittime": 0,
-        "cooktime": 600,
-        "servings": 4,
-        "comments": "",
-        "calories": 1724,
-        "fat": 124,
-        "satfat": 36,
-        "carbs": 64,
-        "fiber": 16,
-        "sugar": 0,
-        "protein": 92,
-        "instructions": "1. In a small bowl, whisk together lemon juice, shallot, and 3 tablespoons oil; season with salt and pepper and set aside.\r\n\r\n2. In a large skillet, heat 1 tablespoon oil over medium-high. Season lamb chops with salt and pepper and cook until medium-rare, 10 minutes, flipping once. Transfer to a work surface and loosely tent with foil. Let rest 5 minutes, then cut away from bone and thinly slice.\r\n\r\n3. In a large bowl, toss together spinach and pears. Divide among four plates, top with lamb and drizzle with dressing.",
-        "ingredients": [
-            "2 tbsp lemon juice\r",
-            "1 tbsp shallot, minced\r",
-            "1\/4 cup extra-virgin olive oil\r",
-            "salt and pepper\r",
-            "4 lamb shoulder chops, 3\/4 inch thick, about 1 1\/2 pounds total\r",
-            "5 oz baby spinach, washed\r",
-            "2 small pears, such as Anjou, thinly sliced lengthwise"
-        ],
-        "tags": [
-            "lamb",
-            "salad",
-            "untried"
         ]
     },
     "id179": {
@@ -17422,8 +17350,7 @@
         "tags": [
             "mexican",
             "salad",
-            "vegetarian",
-            "untried"
+            "vegetarian"
         ]
     },
     "id484": {
@@ -17584,6 +17511,41 @@
         "tags": [
             "main",
             "vegetarian"
+        ]
+    },
+    "id489": {
+        "id": "id489",
+        "name": "Mediterranean Salad with Artichokes, Penne, and Sun-Dried Tomatoes",
+        "source": "http:\/\/www.marthastewart.com\/312643\/mediterranean-salad-with-artichokes-penn",
+        "preptime": 2100,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "In a large saucepan of boiling salted water, cook pasta until 1 minute short of al dente. Add sun-dried tomatoes, and cook until tender and pasta is al dente, 1 minute more. Drain pasta and tomatoes, rinse under cold water, and drain again; transfer to a large bowl.\r\n\r\nMake dressing: In a large bowl, whisk together vinegar, oil, mustard, and 1 tablespoon water; season with salt and pepper.\r\n\r\nAdd pasta and tomatoes, romaine, beans, artichoke hearts, and feta; toss until combined, and serve immediately.",
+        "ingredients": [
+            "Coarse salt and ground pepper\r",
+            "1 cup penne pasta\r",
+            "1\/4 cup sun-dried tomatoes (not oil-packed), thinly sliced lengthwise\r",
+            "2 tablespoon red-wine vinegar\r",
+            "2 tablespoon olive oil\r",
+            "1 tablespoon Dijon mustard\r",
+            "1 1\/4 lb romaine lettuce, torn into bite-size pieces\r",
+            "1 15oz can cannellini beans, rinsed and drained\r",
+            "1 14oz can artichoke hearts (water-packed), drained and quartered\r",
+            "4 ounce feta, crumbled"
+        ],
+        "tags": [
+            "salad",
+            "vegetarian",
+            "untried"
         ]
     }
 }
