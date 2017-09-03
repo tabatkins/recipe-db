@@ -17551,5 +17551,42 @@
             "main",
             "untried"
         ]
+    },
+    "id491": {
+        "id": "id491",
+        "name": "Super veggie onigirazu",
+        "source": "http:\/\/hapanom.com\/super-veggie-onigirazu\/",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Place a square piece of plastic wrap on your work surface and then place the sheet of nori (shiny side down) with a corner pointing up, on top of the plastic wrap.\r\n\r\n2. Form a thin layer of rice into the shape of a square in the center of the nori sheet, with the flat sides facing up\/down and side-to-side (see video). It helps to wet your fingers when your shaping the rice.\r\n\r\n3. Spread the mayo and mustard on top of the rice and sprinkle with salt and pepper. Then pile on the veggies. Spoon some more rice on top of the veggies and form into another square. Tightly, but gently fold up the corners of the nori so that it completely covers the rice. Then fold up two corners of the plastic wrap to cover the nori and hold it in place. Place a piece of julienned carrot perpendicular to the way the ingredients run on top so that you know which direction to slice the onigirazu. Then fold up the last two sides of plastic wrap and set aside for at least 5 minutes and up to overnight.\r\n\r\n4. When ready to serve, slice the onigirazu along the length of the carrot you placed on the outside, remove the plastic wrap and enjoy.",
+        "ingredients": [
+            "1 sheet of nori\r",
+            "3\/4 cup cooked sushi rice\r",
+            "mayonnaise, to taste\r",
+            "Dijon mustard, to taste\r",
+            "2 small leaves of romaine lettuce\r",
+            "1\/2 small carrot, peeled and julienned\r",
+            "1\/8 English cucumber, thinly sliced\r",
+            "1\/8 cup red onion, thinly sliced and halved\r",
+            "1\/4 large avocado, sliced\r",
+            "1\/8 small red cabbage, thinly sliced\r",
+            "1 slice large tomato\r",
+            "Kosher salt and freshly ground black pepper, to taste"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "untried"
+        ]
     }
 }
