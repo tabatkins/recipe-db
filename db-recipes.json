@@ -15021,7 +15021,7 @@
             "3 clove garlic, roughly chopped\r",
             "1 1\/2 tablespoon extra-virgin olive oil\r",
             "1 orange, juiced\r",
-            "<hr>",
+            "<hr>\r",
             "4 small whole-wheat hoagie rolls, split\r",
             "1\/4 cup yellow mustard\r",
             "tabasco, to taste\r",
@@ -15032,8 +15032,7 @@
         "tags": [
             "vegetarian",
             "main",
-            "sandwich",
-            "untried"
+            "sandwich"
         ]
     },
     "id420": {
@@ -17582,6 +17581,69 @@
             "1\/8 small red cabbage, thinly sliced\r",
             "1 slice large tomato\r",
             "Kosher salt and freshly ground black pepper, to taste"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "untried"
+        ]
+    },
+    "id492": {
+        "id": "id492",
+        "name": "Hummus vegetable sandwich",
+        "source": "http:\/\/www.marthastewart.com\/326601\/hummus-vegetable-sandwich",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Spread 1 slice bread with hummus; spread remaining slice of bread with tapenade. Top hummus with cucumber slices and carrot. Place bread with tapenade on top to form a sandwich.\r\n\r\nWrapping this sandwich in wax paper instead of plastic wrap will prevent the bread from absorbing too much moisture and will keep the sandwich fresher.",
+        "ingredients": [
+            "2 slices whole-wheat bread\r",
+            "1\/4 cup hummus\r",
+            "1 tablespoon olive tapenade\r",
+            "1\/4 cucumber, thinly sliced\r",
+            "1 carrot, coarsely grated"
+        ],
+        "tags": [
+            "sandwich",
+            "vegetarian",
+            "main",
+            "untried"
+        ]
+    },
+    "id493": {
+        "id": "id493",
+        "name": "Oregano halloumi with orzo salad",
+        "source": "https:\/\/www.bbcgoodfood.com\/recipes\/oregano-halloumi-orzo-salad",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 480,
+        "servings": 4,
+        "comments": "",
+        "calories": 2352,
+        "fat": 160,
+        "satfat": 56,
+        "carbs": 112,
+        "fiber": 16,
+        "sugar": 16,
+        "protein": 112,
+        "instructions": "Bring a large pan of salted water to the boil and cook the orzo following pack instructions. Meanwhile, mix the chopped oregano in a small bowl with the oil and brush some over the halloumi. Heat a large, non-stick frying pan and cook the halloumi for a few mins each side until golden and soft.\r\n\r\nDrain the cooked orzo and mix with the tomatoes, olives and pesto. Season to taste. Spoon onto a serving plate and top with the halloumi. Drizzle over any remaining oregano oil and scatter over the leaves.",
+        "ingredients": [
+            "12 oz dried orzo\r",
+            "1\/2 oz fresh oregano, leaves picked, large ones roughly chopped\r",
+            "3 tbsp olive oil\r",
+            "9 oz halloumi, sliced\r",
+            "7 oz cherry tomatoes, halved\r",
+            "1\/4 cup pitted black olives, chopped\r",
+            "5 oz pesto"
         ],
         "tags": [
             "vegetarian",
