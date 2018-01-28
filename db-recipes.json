@@ -563,7 +563,7 @@
             "1 teaspoon kosher salt\r",
             "2 tablespoon olive oil\r",
             "12 portobello mushroom caps, wiped clean\r",
-            "2 tablespoon finely chopped fresh chives, for garnish, optional\r",
+            "2 tablespoon fresh chives, finely chopped, for garnish, optional\r",
             "1 serving [Sherry Vinaigrette](http:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=18)"
         ],
         "tags": [
@@ -16540,8 +16540,7 @@
         ],
         "tags": [
             "dessert",
-            "breakfast",
-            "untried"
+            "breakfast"
         ]
     },
     "id462": {
@@ -17931,10 +17930,8 @@
             "2 eggs, beaten"
         ],
         "tags": [
-            "untried",
             "vegetarian",
-            "breakfast",
-            "quick"
+            "breakfast"
         ]
     },
     "id502": {
@@ -17972,6 +17969,100 @@
             "breakfast",
             "quick",
             "make_ahead"
+        ]
+    },
+    "id503": {
+        "id": "id503",
+        "name": "Eggs baked in avocados",
+        "source": "http:\/\/www.seriouseats.com\/2013\/04\/eggs-baked-in-avocado-recipe.html",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 2,
+        "comments": "",
+        "calories": 766,
+        "fat": 62,
+        "satfat": 12,
+        "carbs": 28,
+        "fiber": 22,
+        "sugar": 4,
+        "protein": 32,
+        "instructions": "1. Adjust oven rack to middle position and preheat to 450\u00b0F.\r\n\r\n2. Cut each avocado in half and remove the pit. Using a spoon, scrape out the center of each halved avocado so that it is large enough to accommodate an egg (about 1 1\/2 tablespoons). Squeeze lime juice over the avocados and season with salt and pepper, then place on baking sheet. Break an egg into the center of each avocado. Don\u2019t worry if some of the white spills out as long as the yolk is intact.\r\n\r\n3. Bake in the oven until whites are set and yolk is runny, about 10 to 12 minutes. Remove from oven and garnish with cilantro, green onion, and jalapenos.",
+        "ingredients": [
+            "2 avocados\r",
+            "4 eggs\r",
+            "1 lime\r",
+            "Kosher salt and freshly ground black pepper\r",
+            "1 tbsp fresh cilantro, chopped\r",
+            "1 green onion, thinly sliced\r",
+            "Pickled jalapenos, optional"
+        ],
+        "tags": [
+            "breakfast",
+            "untried"
+        ]
+    },
+    "id504": {
+        "id": "id504",
+        "name": "Creamy scrambled eggs with dill and smoked salmon",
+        "source": "https:\/\/www.atkins.com\/recipes\/creamy-scrambled-eggs-with-dill-and-smoked-salmon\/570",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 900,
+        "servings": 2,
+        "comments": "",
+        "calories": 616,
+        "fat": 46,
+        "satfat": 22,
+        "carbs": 4,
+        "fiber": 0,
+        "sugar": 4,
+        "protein": 42,
+        "instructions": "In a large bowl, beat eggs, milk, dill and salt.\r\n\r\nMelt butter in a large skillet over medium heat. Add scallions; cook 8 minutes until softened. Pour in egg mixture; cook 3-4 minutes, stirring occasionally, until almost set.\r\n\r\nMix in salmon, cook 1 minute more or until eggs reach desired doneness.\r\n\r\nServe.",
+        "ingredients": [
+            "2 green onions, sliced\r",
+            "4 large Eggs\r",
+            "1 1\/2 tbsp whole milk\r",
+            "1\/4 tsp Salt\r",
+            "1 tbsp fresh dill, chopped\r",
+            "2 tablespoon Unsalted Butter\r",
+            "3 oz Smoked Chinook Salmon"
+        ],
+        "tags": [
+            "breakfast",
+            "untried"
+        ]
+    },
+    "id505": {
+        "id": "id505",
+        "name": "Herbed smoked salmon in tomato halves",
+        "source": "https:\/\/www.atkins.com\/recipes\/herbed-smoked-salmon-in-tomato-halves\/296",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 2,
+        "comments": "",
+        "calories": 504,
+        "fat": 32,
+        "satfat": 10,
+        "carbs": 4,
+        "fiber": 0,
+        "sugar": 2,
+        "protein": 48,
+        "instructions": "Preheat broiler.\r\n\r\nCut tomatoes in half and scoop out seeds. Drizzle each half with a little olive oil and sprinkle with herbs. Broil for about 3 minutes to heat tomatoes. Turn off broiler and close oven door.\r\n\r\nMeanwhile, in a medium skillet over medium heat, scramble the eggs. Before they are set, add salmon, cream cheese and chives.\r\n\r\nRemove tomatoes from oven and fill each with the egg mixture. Sprinkle with cheese and serve.",
+        "ingredients": [
+            "2 medium Tomatoes\r",
+            "1\/2 tsp Extra Virgin Olive Oil\r",
+            "1\/4 tsp Herbs de Provence or Italian seasoning\r",
+            "4 large Eggs\r",
+            "4 oz Smoked Chinook Salmon\r",
+            "1 tbsp Cream Cheese\r",
+            "2 tbsp chopped Chives\r",
+            "1 tsp Parmesan Cheese, grated"
+        ],
+        "tags": [
+            "breakfast",
+            "untried"
         ]
     }
 }
