@@ -720,37 +720,6 @@
             "breakfast"
         ]
     },
-    "23": {
-        "id": "23",
-        "name": "Popeye's Green Drink",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 1,
-        "comments": "",
-        "calories": 311,
-        "fat": 6,
-        "satfat": 1,
-        "carbs": 59,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 8,
-        "instructions": "Combine all ingredients in blender. Blend until smooth.",
-        "ingredients": [
-            "1 cup baby spinach\r",
-            "1 banana\r",
-            "1 apple\r",
-            "2 tbsp hemp seeds\r",
-            "1 lime, juiced\r",
-            "1 1\/2 cup water"
-        ],
-        "tags": [
-            "smoothie",
-            "FUF",
-            "breakfast"
-        ]
-    },
     "26": {
         "id": "26",
         "name": "Tropical Nut Smoothie",
@@ -1115,37 +1084,6 @@
             "FUF",
             "spinach",
             "main"
-        ]
-    },
-    "52": {
-        "id": "52",
-        "name": "Sweet Green Goodness",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Combine all ingredients in blender. Blend until smooth.",
-        "ingredients": [
-            "1 cup spinach\r",
-            "1 cup pineapple\r",
-            "1 mango\r",
-            "1 banana\r",
-            "1 orange\r",
-            "1 1\/2 cup water"
-        ],
-        "tags": [
-            "smoothie",
-            "FUF",
-            "breakfast"
         ]
     },
     "54": {
@@ -1821,37 +1759,6 @@
             "vegetarian",
             "rice",
             "main"
-        ]
-    },
-    "id16": {
-        "id": "id16",
-        "name": "Morning Muesli",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1.  Mix together all the nuts, berries, and fruit in a bowl.\r\n2.  Top with shredded coconut flakes, and ground sesame and flaxseeds.\r\n3.  Pour milk over top and enjoy!",
-        "ingredients": [
-            "2 cup unsalted mixed nuts, chopped\r",
-            "1 cup mixed berries\r",
-            "1 apple, diced  \r",
-            "1 banana, sliced  \r",
-            "2 tbsp dried shredded coconut   \r",
-            "1 tbsp ground flaxseed  \r",
-            "2 cup skim milk"
-        ],
-        "tags": [
-            "FUF",
-            "breakfast"
         ]
     },
     "id17": {
@@ -3002,35 +2909,6 @@
         "tags": [
             "dressing",
             "components"
-        ]
-    },
-    "id54": {
-        "id": "id54",
-        "name": "Monster Hot Chocolate",
-        "source": "King Arthur Flour",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 24,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1) In the bowl of a food processor, combine the sugar and vanilla and pulse for 5 to 6 seconds until well combined.\r\n\r\n2) Coarsely chop the semi-sweet and milk chocolates and add them to the bowl. Pulse in 10 second intervals until until finely ground and combined with the vanilla sugar.\r\n\r\n3) Add the dry cocoa and salt, pulsing again until everything is well mixed. The mix will be slightly coarse, like brown sugar. Pour into a large glass or plastic jar for storing.\r\n\r\n4) For each cup of hot chocolate, combine 1\/4 cup of mix with 8 ounces of hot milk. Stir until all of the chocolate is melted. Top with whipped cream, marshmallows or your favorite topping. Makes 24 8-ounce servings.\r\n\r\nStore airtight for 6 to 9 months. Excellent for holiday gift giving. Try packing in pretty mason jars tied with bright ribbons. Be sure to add a card with the mix directions.",
-        "ingredients": [
-            "2 cup granulated sugar\r",
-            "2 teaspoon vanilla\r",
-            "12 1\/2 ounce semi-sweet chocolate\r",
-            "4 ounce milk chocolate\r",
-            "1 cup Double Dutch Dark cocoa\r",
-            "pinch of salt , optional"
-        ],
-        "tags": [
-            "drink"
         ]
     },
     "id55": {
@@ -4201,44 +4079,6 @@
         "tags": [
             "dessert",
             "cake",
-            "untried"
-        ]
-    },
-    "id94": {
-        "id": "id94",
-        "name": "Carrot currant muffins",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 1200,
-        "waittime": 0,
-        "cooktime": 1500,
-        "servings": 14,
-        "comments": "",
-        "calories": 2212,
-        "fat": 70,
-        "satfat": 14,
-        "carbs": 364,
-        "fiber": 28,
-        "sugar": 182,
-        "protein": 56,
-        "instructions": "1. Preheat oven to 350F. Line 14 cups of two 12-cup muffin tins with baking cups, and lightly coat each with cooking spray.\r\n2. Whisk together flours, sugar, baking powder, salt, and cinnamon in a large bowl. Whisk together yogurt, oil, eggs, and egg whites in a medium bowl. Fold yogurt mixture into flour mixture, then gently fold in carrots and currants until combined.\r\n3. Spoon the batter into baking cups until each is three-quarters full. Bake until a toothpick inserted into the center of each comes out clean, about 25 minutes. Transfer pans to wire racks, and let cool for 10 minutes. Turn out muffins onto racks and let cool completely.",
-        "ingredients": [
-            "Vegetable oil cooking spray\r",
-            "1 cup all-purpose flour\r",
-            "3\/4 cup whole-wheat flour\r",
-            "3\/4 cup sugar\r",
-            "2 1\/2 tsp baking powder\r",
-            "1\/2 tsp salt\r",
-            "1\/4 tsp ground cinnamon\r",
-            "1 cup plain low-fat yogurt\r",
-            "1\/4 cup vegetable oil\r",
-            "2 eggs\r",
-            "2 egg whites\r",
-            "2 carrots, grated\r",
-            "1\/2 cup dried currants"
-        ],
-        "tags": [
-            "muffins",
-            "breakfast",
             "untried"
         ]
     },
@@ -15235,44 +15075,6 @@
             "untried"
         ]
     },
-    "id425": {
-        "id": "id425",
-        "name": "Morning glory muffins",
-        "source": "http:\/\/www.marthastewart.com\/339779\/morning-glory-muffins",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 1500,
-        "servings": 12,
-        "comments": "",
-        "calories": 2136,
-        "fat": 5,
-        "satfat": 1,
-        "carbs": 33,
-        "fiber": 2,
-        "sugar": 14,
-        "protein": 3,
-        "instructions": "Preheat oven to 400 degrees. Coat a 12-cup muffin pan with cooking spray. In a large bowl, whisk together flour, brown sugar, baking soda, baking powder, nutmeg, and salt until there are no lumps. Stir in oats and raisins. Add oil, egg, milk, carrots, and banana and stir until blended.\r\n\r\nFill each muffin cup with 1\/4 cup batter. Bake until a toothpick inserted in center of a muffin comes out clean, 23 to 25 minutes. Serve muffins warm or at room temperature.\r\n",
-        "ingredients": [
-            "Nonstick cooking spray\r",
-            "1 1\/4 cup all-purpose flour (spooned and leveled)\r",
-            "1\/2 cup packed dark-brown sugar\r",
-            "1\/2 teaspoon baking soda\r",
-            "1\/2 teaspoon baking powder\r",
-            "1\/2 teaspoon ground nutmeg\r",
-            "1\/2 teaspoon coarse salt\r",
-            "1 cup old-fashioned rolled oats\r",
-            "1\/2 cup raisins\r",
-            "3 tablespoon extra-virgin olive oil\r",
-            "1 large egg\r",
-            "1\/3 cup skim milk\r",
-            "4 medium carrots, shredded\r",
-            "1 medium ripe banana, mashed"
-        ],
-        "tags": [
-            "breakfast",
-            "untried"
-        ]
-    },
     "id426": {
         "id": "id426",
         "name": "Gazpacho Soup",
@@ -16571,8 +16373,7 @@
             "Boiling water"
         ],
         "tags": [
-            "drink",
-            "untried"
+            "drink"
         ]
     },
     "id463": {
@@ -17683,7 +17484,9 @@
             "1 teaspoon freshly grated nutmeg (plus more for serving)\r",
             "1\/4 teaspoon kosher salt"
         ],
-        "tags": []
+        "tags": [
+            "drink"
+        ]
     },
     "id495": {
         "id": "id495",
@@ -18062,6 +17865,69 @@
         ],
         "tags": [
             "breakfast",
+            "untried"
+        ]
+    },
+    "id506": {
+        "id": "id506",
+        "name": "Almond muffin in a minute",
+        "source": "https:\/\/www.atkins.com\/recipes\/almond-muffin-in-a-minute\/629",
+        "preptime": 180,
+        "waittime": 0,
+        "cooktime": 60,
+        "servings": 1,
+        "comments": "",
+        "calories": 327,
+        "fat": 23,
+        "satfat": 3,
+        "carbs": 23,
+        "fiber": 11,
+        "sugar": 5,
+        "protein": 12,
+        "instructions": "Place all dry ingredients in a coffee mug. Stir to combine.\r\n\r\nAdd the egg and oil. Stir until thoroughly combined.\r\n\r\nMicrowave for 1 minute. Use a knife if necessary to help remove the muffin from the cup, slice, butter, eat.",
+        "ingredients": [
+            "1\/4 cup Almond Meal\/Flour, 1\/4 cup is 28g\r",
+            "1 tsp granulated sugar\r",
+            "1\/4 tsp Baking Powder\r",
+            "1 dash Salt\r",
+            "1\/2 tsp Cinnamon\r",
+            "1 large Egg\r",
+            "1 tsp Canola Vegetable Oil"
+        ],
+        "tags": [
+            "breakfast",
+            "quick",
+            "untried"
+        ]
+    },
+    "id507": {
+        "id": "id507",
+        "name": "Flaxseed muffin in a minute",
+        "source": "https:\/\/www.atkins.com\/recipes\/muffin-in-a-minute\/165",
+        "preptime": 180,
+        "waittime": 0,
+        "cooktime": 60,
+        "servings": 1,
+        "comments": "",
+        "calories": 344,
+        "fat": 21,
+        "satfat": 1,
+        "carbs": 37,
+        "fiber": 24,
+        "sugar": 4,
+        "protein": 12,
+        "instructions": "Mix the flax meal, baking powder, sugar and cinnamon in a coffee mug or single-serving souffl\u00e9 dish.\r\n\r\nAdd the egg and butter (or oil). Mix with dry ingredients.\r\n\r\nMicrowave 1 minute or more, until firm\r\n\r\nTurn out and serve with butter or cream cheese. Or toast before applying spread. Makes 1 serving.",
+        "ingredients": [
+            "4 tbsp ground flaxseed\r",
+            "1\/2 tsp Baking Powder\r",
+            "1 tsp granulated sugar\r",
+            "1 tsp Cinnamon\r",
+            "1 large Egg\r",
+            "1 tsp olive oil, or butter"
+        ],
+        "tags": [
+            "breakfast",
+            "quick",
             "untried"
         ]
     }
