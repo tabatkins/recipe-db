@@ -9750,7 +9750,8 @@
             "4 slices bacon, optional, cooked and crumbled"
         ],
         "tags": [
-            "main"
+            "main,",
+            "pork"
         ]
     },
     "id310": {
@@ -14749,7 +14750,8 @@
         ],
         "tags": [
             "bento",
-            "main"
+            "main",
+            "vegetarian"
         ]
     },
     "id458": {
@@ -16395,7 +16397,9 @@
             "1\/2 cup Parmesan cheese (about 2 ounces), grated\r",
             "1\/2 lemon, cut into wedges"
         ],
-        "tags": []
+        "tags": [
+            "soup"
+        ]
     },
     "id509": {
         "id": "id509",
