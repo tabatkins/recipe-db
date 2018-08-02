@@ -15710,7 +15710,7 @@
             "4 oz White Cheddar Cheese, shredded\r",
             "1 oz Castelvetrano Olives, pitted and finely chopped\r",
             "1 oz Pickled Goathorn Peppers, finely chopped\r",
-            "<hr>",
+            "<hr>\r",
             "6 oz Cherry Tomatoes, halved\r",
             "1 head Butter Lettuce, washed and dried, torn into bite sized pieces\r",
             "1 clove Garlic, minced\r",
@@ -15719,7 +15719,8 @@
         ],
         "tags": [
             "main",
-            "vegetarian"
+            "vegetarian",
+            "sandwich"
         ]
     },
     "id489": {
