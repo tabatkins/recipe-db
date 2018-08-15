@@ -13592,7 +13592,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "In a large skillet, heat the oil or butter, then add the onions and cook, stirring often, until they're translucent and browning on the edges. Add the vinegar, sugar, and salt, and cook until evenly browned, and all the liquid is evaporated. Remove from the heat and set aside to cool.\r\n\r\nPreheat the oven to 425\u00b0F. Shape the dough on the pan, cover with a layer of onions, then scatter with the Brie. Grind a sprinkling of fresh pepper over the top. Sprinkle with sliced almonds, if desired.\r\n\r\nBake pizzas for 15 to 18 minutes, until the crust is brown. Serve hot, or at room temperature.",
+        "instructions": "Preheat the oven to 425\u00b0F.\r\n\r\nIn a large skillet, heat the oil or butter, then add the onions and cook, stirring often, until they're translucent and browning on the edges. Add the vinegar, sugar, and salt, and cook until evenly browned, and all the liquid is evaporated. Remove from the heat and set aside to cool.\r\n\r\nShape the dough on the pan, cover with a layer of onions, then scatter with the Brie. Grind a sprinkling of fresh pepper over the top. Sprinkle with sliced almonds, if desired.\r\n\r\nBake pizzas for 15 to 18 minutes, until the crust is brown. Serve hot, or at room temperature.",
         "ingredients": [
             "2 lb pizza dough\r",
             "2 teaspoon olive oil\r",
@@ -13606,8 +13606,7 @@
         ],
         "tags": [
             "pizza",
-            "main",
-            "untried"
+            "main"
         ]
     },
     "id424": {
