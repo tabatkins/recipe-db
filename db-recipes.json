@@ -1063,9 +1063,7 @@
             "1 tbsp ground flax seed"
         ],
         "tags": [
-            "breakfast",
-            "FUF",
-            "grains"
+            "breakfast"
         ]
     },
     "56": {
@@ -6810,7 +6808,7 @@
             "Green onions, chopped, for serving"
         ],
         "tags": [
-            "slowcooker",
+            "slow_cooker",
             "main",
             "beef",
             "untried"
@@ -7794,7 +7792,7 @@
         "ingredients": [
             "1\/2 cup pumpkin seeds\r",
             "8 cup baby kale, or chopped regular kale\r",
-            "8 ounce feta, crumbled\r",
+            "8 oz feta cheese, crumbled\r",
             "1 small red onion, sliced\r",
             "1\/2 cup olive oil\r",
             "1 lemon, zested and juiced\r",
@@ -8974,7 +8972,8 @@
         "tags": [
             "vegetarian",
             "greek",
-            "main"
+            "main",
+            "slow_cooker"
         ]
     },
     "id287": {
@@ -9428,7 +9427,7 @@
             "1\/4 cup pesto"
         ],
         "tags": [
-            "slowcooker",
+            "slow_cooker",
             "main",
             "vegetarian"
         ]
@@ -10790,7 +10789,7 @@
         "tags": [
             "vegetarian",
             "main",
-            "slowcooker"
+            "slow_cooker"
         ]
     },
     "id345": {
@@ -11680,7 +11679,7 @@
         ],
         "tags": [
             "vegetarian",
-            "slowcooker",
+            "slow_cooker",
             "main"
         ]
     },
