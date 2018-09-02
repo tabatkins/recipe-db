@@ -1627,7 +1627,7 @@
             "3 cup spinach leaves, stemmed and well rinsed\r",
             "1 cup toasted pine nuts\r",
             "1\/2 cup crumbled feta cheese\r",
-            "<hr>",
+            "<hr>\r",
             "1 orange, zested and juiced\r",
             "1 tablespoon fresh lemon juice\r",
             "1 tablespoon shallot, minced\r",
@@ -1635,7 +1635,6 @@
             "salt and freshly ground pepper"
         ],
         "tags": [
-            "salad",
             "vegetarian",
             "rice",
             "main"
@@ -16677,6 +16676,47 @@
             "breakfast",
             "eggs",
             "untried"
+        ]
+    },
+    "id517": {
+        "id": "id517",
+        "name": "Peach & Pickled Pepper Grilled Cheese",
+        "source": "Blue Apron",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 2,
+        "comments": "Pairs with crisp & minerally ros\u00e9",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Assemble sandwiches with **bread**, **cheese**, **peach**, and **peppers**. Season with salt and pepper. Melt **butter** over medium heat, and cook sandwiches 2-4 minutes per side until golden brown. When finished, rub with **garlic clove** and season if desired.\r\n\r\nWhile the sandwiches cook, whisk together the **mustard**, **mayo**, **vinegar**, **olive oil**, and a pinch of **salt and pepper**. Toss the **lettuce**, **radish**, and **goat cheese** with the dressing. Serve.",
+        "ingredients": [
+            "4 slices sandwich bread\r",
+            "1\/2 oz sweet piquante peppers, roughly chopped\r",
+            "1 peach, pitted and thinly sliced\r",
+            "2 oz fontina cheese, thinly sliced\r",
+            "2 oz white cheddar cheese, thinly sliced\r",
+            "1 tbsp butter\r",
+            "1 clove garlic\r",
+            "<hr>\r",
+            "1 head butter lettuce, washed and torn\r",
+            "3 oz radishes, halved and thinly sliced\r",
+            "1\/2 tbsp dijon mustard\r",
+            "1\/2 tbsp mayonnaise\r",
+            "1 tsp olive oil\r",
+            "1 tbsp apple cider vinegar\r",
+            "salt and pepper\r",
+            "1 oz goat cheese"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "sandwich"
         ]
     }
 }
