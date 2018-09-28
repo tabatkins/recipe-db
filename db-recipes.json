@@ -16718,5 +16718,40 @@
             "main",
             "sandwich"
         ]
+    },
+    "id518": {
+        "id": "id518",
+        "name": "Black bean and zucchini enchiladas",
+        "source": "Blue Apron",
+        "preptime": 2100,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 2,
+        "comments": "Pair with a fruity rose",
+        "calories": 1620,
+        "fat": 54,
+        "satfat": 24,
+        "carbs": 228,
+        "fiber": 20,
+        "sugar": 20,
+        "protein": 64,
+        "instructions": "",
+        "ingredients": [
+            "1\/2 cup Jasmine Rice\r",
+            "4 Flour Tortillas\r",
+            "1 15-Ounce Can Black Beans\r",
+            "2 Scallions\r",
+            "1 Zucchini\r",
+            "2 Tbsp Ancho Chile Paste\r",
+            "1\/4 cup Sour Cream Or Mexican Crema\r",
+            "2 Tbsp Tomato Paste\r",
+            "1 Tbsp White Wine Vinegar\r",
+            "2 oz White Cheddar Cheese\r",
+            "1 Tbsp Mexican spice blend"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
     }
 }
