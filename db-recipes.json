@@ -9658,38 +9658,6 @@
             "potatoes"
         ]
     },
-    "id306": {
-        "id": "id306",
-        "name": "Veggie-Goat cheese baked sweet potatoes",
-        "source": "Food Network Magazine 50 Stuffed Potatoes",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 4800,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 400F. Pierce sweet potatoes all over with fork. Place directly on oven rack and bake for 50 minutes. Meanwhile, toss remaining veggies in olive oil. Roast for 20 minutes. Remove potatoes from oven and slice open. Fluff inside with fork. Serve veggies over sweet potatoes, top with goat cheese and warm in oven before serving.",
-        "ingredients": [
-            "4 sweet potatoes, scrubbed clean\r",
-            "2 carrots, diced\r",
-            "2 parsnips, diced\r",
-            "1 butternut squash, diced\r",
-            "4 shallots, quartered\r",
-            "olive oil\r",
-            "4 tbsp goat cheese, crumbled"
-        ],
-        "tags": [
-            "vegetarian",
-            "main",
-            "untried"
-        ]
-    },
     "id308": {
         "id": "id308",
         "name": "Samosa baked potatoes",
@@ -16461,15 +16429,13 @@
             "1\/2 tsp ground cumin\r",
             "1 tsp flour\r",
             "1\/2 tsp ground allspice\r",
-            "<hr>",
+            "<hr>\r",
             "1 tbsp vegetable oil\r",
             "salsa, for dipping"
         ],
         "tags": [
             "vegetarian",
-            "bento",
-            "main",
-            "untried"
+            "bento"
         ]
     },
     "id511": {
@@ -16727,7 +16693,7 @@
         "waittime": 0,
         "cooktime": 600,
         "servings": 2,
-        "comments": "Pair with a fruity rose",
+        "comments": "Pair with a fruity rose wine",
         "calories": 1620,
         "fat": 54,
         "satfat": 24,
@@ -16735,23 +16701,99 @@
         "fiber": 20,
         "sugar": 20,
         "protein": 64,
-        "instructions": "",
+        "instructions": "Preheat the oven to 450\u00b0F. In a small pot, combine the **rice**, a big pinch of salt, the **spice blend**, and **water**. Heat to boiling on high. Once boiling, reduce the heat to low. Cover and cook, without stirring, 12 to 14 minutes, or until the water has been absorbed and the rice is tender. Turn off the heat and fluff with a fork. Transfer to a large bowl.\r\n\r\nWhile the rice continues to cook, in a large pan (nonstick, if you have one), heat **olive oil** on medium-high until hot. Add the diced **zucchini** in an even layer. Cook, without stirring, 3 to 4 minutes, or until lightly browned. Season with salt and pepper. Continue to cook, stirring frequently, 2 to 3 minutes, or until softened. Transfer to the bowl of cooked rice. Add the **beans**, **vinegar**, and a drizzle of olive oil. Season with salt and pepper and stir to combine. Wipe out the pan.\r\n\r\nIn the same pan, heat a drizzle of olive oil on medium-high until hot. Add the sliced **white bottoms of the scallions**; season with salt and pepper. Cook, stirring frequently, 30 seconds to 1 minute, or until slightly softened. Add the **tomato paste** and **chile paste**. Cook, stirring frequently, 1 to 2 minutes, or until thoroughly combined. Add **water** (carefully, as the liquid may splatter). Cook, stirring constantly, 30 seconds to 1 minute, or until slightly thickened. Turn off the heat. Stir in the **sour cream or crema** and season with salt and pepper to taste.\r\n\r\nSpread about 2 cups of the filling into the bottom of a baking dish. Place the **tortillas** on a work surface. Divide the remaining filling among the tortillas; tightly roll up each tortilla around the filling. Transfer to the baking dish in an even layer, seam side down. Evenly top with the sauce and **grated cheese**. Season with salt and pepper.\r\n\r\nBake the enchiladas 7 to 9 minutes, or until lightly browned and the cheese is melted. Remove from the oven. Let stand at least 2 minutes before serving. Garnish the baked enchiladas with the sliced **green tops of the scallions**. Enjoy! \r\n",
         "ingredients": [
             "1\/2 cup Jasmine Rice\r",
-            "4 Flour Tortillas\r",
-            "1 15-Ounce Can Black Beans\r",
-            "2 Scallions\r",
-            "1 Zucchini\r",
-            "2 Tbsp Ancho Chile Paste\r",
-            "1\/4 cup Sour Cream Or Mexican Crema\r",
-            "2 Tbsp Tomato Paste\r",
+            "1\/2 serving [Mexican spice blend](https:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id519)",
+            "1 cup water\r",
+            "<hr>\r",
+            "2 tsp olive oil\r",
+            "1 Zucchini, medium diced\r",
+            "1 15-Ounce Can Black Beans, drained and rinsed\r",
             "1 Tbsp White Wine Vinegar\r",
-            "2 oz White Cheddar Cheese\r",
-            "1 Tbsp Mexican spice blend"
+            "2 Scallions, thinly slice, white and green parts separated\r",
+            "2 Tbsp Tomato Paste\r",
+            "2 Tbsp Ancho Chile Paste\r",
+            "1\/2 cup water\r",
+            "1\/4 cup Sour Cream Or Mexican Crema\r",
+            "<hr>\r",
+            "4 small flour tortillas\r",
+            "2 oz White Cheddar Cheese, grated"
         ],
         "tags": [
             "vegetarian",
             "main"
+        ]
+    },
+    "id519": {
+        "id": "id519",
+        "name": "Mexican spice blend",
+        "source": "Blue Apron",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 5,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix all ingredients",
+        "ingredients": [
+            "1 tbsp Ancho chile powder\r",
+            "1 tbsp Smoked paprika\r",
+            "1 tbsp garlic powder\r",
+            "1 tbsp ground cumin\r",
+            "1 tbsp dried Mexican oregano"
+        ],
+        "tags": [
+            "components"
+        ]
+    },
+    "id520": {
+        "id": "id520",
+        "name": "Vietnamese-Style Vegetable Sandwiches with Spicy Mayo and Roasted Broccoli",
+        "source": "Blue Apron",
+        "preptime": 600,
+        "waittime": 1800,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "Pair with a zesty, tropical white wine",
+        "calories": 1540,
+        "fat": 82,
+        "satfat": 8,
+        "carbs": 174,
+        "fiber": 16,
+        "sugar": 36,
+        "protein": 36,
+        "instructions": "Place an oven rack in the center of the oven, then preheat to 450\u00b0F. Line a sheet pan with aluminum foil. Place **broccoli** on the sheet pan. Drizzle with olive oil and season with salt and pepper; toss to coat. Arrange in an even layer. Roast 19 to 21 minutes, or until lightly browned and tender when pierced with a fork. Leaving the oven on, transfer the roasted broccoli to a bowl. Reserving the sheet pan, remove and discard the foil.\r\n\r\nTo make the spicy mayonnaise, in a bowl, combine the **mayonnaise** and as much of the **sambal oelek** as you\u2019d like, depending on how spicy you\u2019d like the dish to be. Season with salt and pepper to taste. In a medium bowl, combine the sliced **radishes**, **grated carrots**, **sugar**, and **vinegar**; season with salt and pepper. Set aside to marinate, stirring occasionally, for at least 10 minutes. Season with salt and pepper to taste.\r\n\r\nWhile the vegetables marinate, in a medium pan (nonstick, if you have one), heat 2 tablespoons of olive oil on medium-high until hot. Add the quartered **mushrooms** in an even layer. Cook, without stirring, 2 to 3 minutes, or until lightly browned and slightly softened; season with salt and pepper. Continue to cook, stirring occasionally, 2 to 3 minutes, or until softened. Add the chopped **ginger**; season with salt and pepper. Cook, stirring frequently, 1 to 2 minutes, or until softened. Turn off the heat and season with salt and pepper to taste.\r\n\r\nPlace the halved **baguettes** cut side up on the sheet pan used to roast the broccoli. Drizzle with olive oil and season with salt and pepper. Toast in the oven 5 to 7 minutes, or until the edges are lightly browned. Carefully transfer to a work surface.\r\n\r\nWhile the baguettes toast, reserving the liquid, drain the marinated vegetables. Set aside. Add the reserved marinating liquid and **sesame seeds** to the bowl of roasted broccoli; stir to coat. Season with salt and pepper to taste.\r\n\r\nBuild the sandwiches using the toasted baguettes, spicy mayonnaise, cooked mushrooms, and marinated vegetables. Serve the sandwiches with the dressed broccoli. Enjoy!",
+        "ingredients": [
+            "1\/2 lb Broccoli, cut into small florets\r",
+            "1\/2 lb Cremini Mushrooms, quartered\r",
+            "1 1-Inch Piece Ginger, peeled and finely chopped\r",
+            "<hr>",
+            "1\/4 cup Mayonnaise\r",
+            "1 Tbsp Sambal Oelek\r",
+            "<hr>",
+            "3 oz Radishes, thinly sliced into half-moons\r",
+            "6 oz Carrots, grated\r",
+            "1 Tbsp Sugar\r",
+            "2 Tbsp Rice Vinegar\r",
+            "<hr>",
+            "2 Small Baguettes, halved\r",
+            "1\/2 tsp Black sesame seeds\r",
+            "1\/2 tsp White Sesame Seeds\r",
+            "Olive oil\r",
+            "Salt\r",
+            "Black pepper"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "sandwiches"
         ]
     }
 }
