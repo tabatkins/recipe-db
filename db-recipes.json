@@ -16837,5 +16837,41 @@
             "vegetarian",
             "main"
         ]
+    },
+    "id522": {
+        "id": "id522",
+        "name": "Vadouvan curry spice blend",
+        "source": "https:\/\/www.epicurious.com\/recipes\/food\/views\/vadouvan-indian-spice-blend-243607",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 350\u00b0F with rack in middle.\r\n\r\nPulse onions in 3 batches in a food processor until very coarsely chopped (there may be a few large pieces remaining), transferring to a bowl. Repeat with shallots, then garlic.\r\n\r\nHeat oil in a deep 12-inch heavy nonstick skillet over high heat until it shimmers, then saut\u00e9 onions, shallots, and garlic (stir often) until golden and browned in spots, 25 to 30 minutes\r\n\r\nGrind fenugreek seeds in grinder or with mortar and pestle. Add to onion mixture along with remaining ingredients, and stir until combined.\r\n\r\nTransfer to a parchment-paper-lined large 4-sided sheet pan and spread as thinly and evenly as possible. Bake, stirring occasionally with a skewer to separate onions, until well browned and barely moist, 1 to 1 1\/4 hours.",
+        "ingredients": [
+            "2 pound onions, cut into 1-inch pieces\r",
+            "1 pound shallots, halved\r",
+            "12 garlic cloves, peeled\r",
+            "1\/4 cup vegetable oil\r",
+            "1 teaspoon fenugreek seeds\r",
+            "1 tablespoon thinly sliced fresh curry leaves (optional)\r",
+            "1 tablespoon ground cumin\r",
+            "1 teaspoon ground cardamom\r",
+            "1 teaspoon brown mustard seeds\r",
+            "3\/4 teaspoon turmeric\r",
+            "1\/2 teaspoon grated nutmeg\r",
+            "1\/2 teaspoon hot red-pepper flakes\r",
+            "1\/4 teaspoon ground cloves\r",
+            "1 tablespoon salt\r",
+            "1 teaspoon black pepper"
+        ],
+        "tags": []
     }
 }
