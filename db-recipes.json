@@ -16919,5 +16919,36 @@
             "vegetarian",
             "main"
         ]
+    },
+    "id524": {
+        "id": "id524",
+        "name": "Mulled cranberry apple cider",
+        "source": "https:\/\/www.thekitchn.com\/recipe-mulled-cranberry-apple-cider-recipes-from-the-kitchn-180627",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1800,
+        "servings": 6,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Place all ingredients in a large pot and bring to a boil. Reduce heat and simmer, partially covered, for 30 minutes. Strain and serve warm.\r\n\r\nNotes on juices and sweeteners: \r\n\u2022 I prefer to use an unsweetened cranberry juice blend and unsweetened apple cider\/juice and to sweeten the drink with honey (or not at all). Whether you sweeten it will depend on personal preference and the juices you use. If using sweetener, start with a couple tablespoons and increase as desired. \r\n\u2022 If using pure unsweetened cranberry juice (instead of a juice blend), reduce the amount to 2 cups and increase the apple cider\/juice to 6 cups.",
+        "ingredients": [
+            "4 cup cranberry juice blend or cranberry cocktail\r",
+            "4 cup apple cider or apple juice\r",
+            "1 orange, peeled and cut peel in large strips\r",
+            "1-inch piece of ginger, peeled and sliced\r",
+            "2 (3-inch) cinnamon sticks\r",
+            "4 whole allspice berries\r",
+            "4 whole cloves\r",
+            "Honey or brown sugar"
+        ],
+        "tags": [
+            "drinks"
+        ]
     }
 }
