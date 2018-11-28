@@ -16950,5 +16950,35 @@
         "tags": [
             "drinks"
         ]
+    },
+    "id525": {
+        "id": "id525",
+        "name": "Creamy chipotle salad dressing",
+        "source": "http:\/\/www.nutritiouseats.com\/chicken-taco-salad-with-creamy-chipotle-dressing\/",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "",
+        "ingredients": [
+            "1\/2 cup Greek yogurt (or creme fraiche) \r",
+            "2 tablespoon lime juice\r",
+            "2 teaspoon chipotle in adobo\r",
+            "1\/2 teaspoon Mexican seasoning\r",
+            "1\/4 teaspoon salt\r",
+            "1 tablespoon olive oil\r",
+            "1\/4 cup cilantro"
+        ],
+        "tags": [
+            "components"
+        ]
     }
 }
