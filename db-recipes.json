@@ -16980,5 +16980,85 @@
         "tags": [
             "components"
         ]
+    },
+    "id526": {
+        "id": "id526",
+        "name": "Baked macaroni and cheese",
+        "source": "https:\/\/altonbrown.com\/baked-macaroni-and-cheese-recipe\/",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 6,
+        "comments": "",
+        "calories": 3648,
+        "fat": 216,
+        "satfat": 132,
+        "carbs": 282,
+        "fiber": 12,
+        "sugar": 54,
+        "protein": 156,
+        "instructions": "Heat the oven to 350 degrees F.\r\n\r\nPlace dry pasta in a 4-quart pot and barely cover with cold water. Bring just to a boil over high heat, stirring occasionally, then test for doneness. You\u2019re looking for al dente, that is the noodles should put up some resistance to the tooth but not so much that it gums up in your back teeth. Drain pasta in a colander but do not rinse.\r\n\r\nMeanwhile, melt the butter in a 3-quart saucier or saucepan over medium heat. Whisk in the flour and cook until the mixture is pale blond, stirring occasionally, about 3 minutes. Whisk in the mustard, paprika and onion and cook another minute. Whisk in the milk and cook over medium-high heat, whisking often for 7 to 8 minutes, or until slightly thickened. Remove from the heat.\r\n\r\nLightly beat the egg in a small bowl then drizzle in about half a cup of the milk mixture, whisking constantly. Then, whisk the egg mixture into to the milk mixture. (This common maneuver called \u201ctempering\u201d prevents curdling of the egg by slowly increasing their temperature. Skip this and you\u2019ll be making scrambled eggs.) Stir in the cheese, 1 teaspoon salt and the pepper. Fold in the macaroni then move to a 4-quart casserole or souffl\u00e9 dish.\r\n\r\nSprinkle with the remaining cheese, then toss the breadcrumbs with the melted butter and distribute evenly over the top. Bake for 30 minutes, cool for 5 minutes, then serve to a grateful world.",
+        "ingredients": [
+            "8 ounce elbow macaroni\r",
+            "3 tablespoon unsalted butter\r",
+            "3 tablespoon all-purpose flour\r",
+            "1 tablespoon ground mustard\r",
+            "1 teaspoon smoked paprika\r",
+            "1\/2 cup onion, diced small\r",
+            "3 cup whole milk\r",
+            "1 large egg\r",
+            "9 ounce sharp cheddar cheese, grated\r",
+            "1 teaspoon kosher salt\r",
+            "1\/2 teaspoon black pepper, freshly ground\r",
+            "<hr>\r",
+            "3 ounce sharp cheddar cheese, grated\r",
+            "3 tablespoon unsalted butter, melted\r",
+            "1 cup panko breadcrumbs"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "pasta"
+        ]
+    },
+    "id527": {
+        "id": "id527",
+        "name": "Cavatelli and kale with fried rosemary and walnuts",
+        "source": "Blue Apron",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 900,
+        "servings": 2,
+        "comments": "",
+        "calories": 1662,
+        "fat": 100,
+        "satfat": 36,
+        "carbs": 162,
+        "fiber": 18,
+        "sugar": 12,
+        "protein": 44,
+        "instructions": "Heat a medium pot of salted water to boiling on high.\r\n\r\nFry the rosemary & walnuts: \r\nIn a large pan, heat a thin layer of oil on medium-high until hot. Once the oil is hot enough that a rosemary leaf sizzles immediately when added to the pan, add the rosemary and walnuts. Cook, stirring frequently, 2 to 3 minutes, or until the rosemary is crispy and the walnuts are golden brown. Leaving any oil in the pan, transfer the fried rosemary and walnuts to a paper towel-lined plate. Immediately season with salt and pepper.\r\n\r\nAdd the pasta to the pot of boiling water; cook according to package instructions or until al dente (still slightly firm to the bite). Reserving 1\/2 cup of the pasta cooking water, drain thoroughly.\r\n\r\nCook the kale:\r\nAdd 2 teaspoons of olive oil, the shallot, and the garlic to the pan; season with salt and pepper. Cook on medium-high, stirring occasionally, 2 to 3 minutes, or until softened and fragrant. Add the kale and as much of the red pepper flakes as you\u2019d like, depending on how spicy you\u2019d like the dish to be; season with salt and pepper. Cook, stirring frequently, 3 to 4 minutes, or until the kale has wilted. Add the vinegar (be careful, as the liquid may splatter) and cook, stirring constantly, 30 seconds to 1 minute, or until the liquid has cooked off. Add the heavy cream and cook, stirring constantly, 30 seconds to 1 minute, or until thoroughly combined. Turn off the heat and season with salt and pepper to taste.\r\n\r\nAdd the cooked pasta, butter, and half the reserved pasta cooking water to the pan of cooked kale. Cook on medium-high, stirring vigorously, 1 to 2 minutes, or until the pasta is thoroughly coated. (If the pasta seems dry, gradually add the remaining cooking water to achieve your desired consistency.) Turn off the heat and season with salt and pepper to taste. Divide the finished pasta between 2 dishes. Drizzle with olive oil. Top with the fried rosemary and walnuts. Garnish with the cheese. Enjoy!",
+        "ingredients": [
+            "1 bunch Rosemary, stems removed\r",
+            "1\/4 cup Walnuts, roughly chopped\r",
+            "<hr>",
+            "6 oz dried cavatelli pasta\r",
+            "2 tsp olive oil\r",
+            "1 Shallot, peeled and thinly sliced\r",
+            "2 clove Garlic, peeled and roughly chopped\r",
+            "1 bunch Kale, washed, stems removed, roughly chopped\r",
+            "1\/4 tsp Crushed Red Pepper Flakes\r",
+            "2 Tbsp White wine vinegar\r",
+            "1\/4 cup Heavy Cream\r",
+            "<hr>",
+            "2 Tbsp Butter\r",
+            "1\/2 cup reserved pasta cooking water\r",
+            "2 Tbsp Parmesan, grated"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "pasta"
+        ]
     }
 }
