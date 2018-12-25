@@ -9563,42 +9563,6 @@
             "main"
         ]
     },
-    "id303": {
-        "id": "id303",
-        "name": "Mushroom gravy baked potatoes",
-        "source": "Food Network Magazine 50 Stuffed Potatoes",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 3600,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 400F. Pierce potatoes all over with fork. Bake potatoes for 1 hour. Meanwhile, cook the mushrooms in butter until soft; add salt and pepper to taste. Cook the butter, flour and onion in a saucepan over medium-low heat until onion is soft. Whisk in beef broth and Worcestershire sauce; bring to a simmer and cook until thick. \r\n\r\nScoop out the flesh of the baked potatoes, mash with the mushrooms. Stuff into the skins. Top with gravy.",
-        "ingredients": [
-            "4 russet potatoes, scrubbed clean\r",
-            "1\/2 lb mushrooms, diced\r",
-            "1 tbsp butter\r",
-            "salt and pepper\r",
-            "<hr>\r",
-            "1\/4 cup butter\r",
-            "1\/4 cup flour\r",
-            "1\/4 cup yellow onion, minced\r",
-            "2 cup beef broth\r",
-            "1 tsp Worcestershire sauce"
-        ],
-        "tags": [
-            "main",
-            "potato",
-            "untried",
-            "vegetarian"
-        ]
-    },
     "id304": {
         "id": "id304",
         "name": "Guacamole baked potatoes",
