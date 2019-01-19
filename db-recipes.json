@@ -14614,9 +14614,7 @@
             "vegetable oil, for frying"
         ],
         "tags": [
-            "bento",
-            "protein",
-            "untried"
+            "bento"
         ]
     },
     "id456": {
@@ -14647,8 +14645,7 @@
         ],
         "tags": [
             "bento",
-            "side",
-            "untried"
+            "side"
         ]
     },
     "id457": {
@@ -17023,6 +17020,95 @@
             "vegetarian",
             "main",
             "pasta"
+        ]
+    },
+    "id528": {
+        "id": "id528",
+        "name": "Falafel with Spicy Feta Sauce and Vegetable Salad",
+        "source": "http:\/\/www.foodthinkers.com\/falafel-with-spicy-feta-sauce\/",
+        "preptime": 1800,
+        "waittime": 30000,
+        "cooktime": 900,
+        "servings": 4,
+        "comments": "",
+        "calories": 2350,
+        "fat": 141,
+        "satfat": 50,
+        "carbs": 184,
+        "fiber": 47,
+        "sugar": 48,
+        "protein": 95,
+        "instructions": "Rinse chickpeas and place in a large bowl. Cover with enough cold water to allow chickpeas to triple in volume. Cover and let stand at room temperature overnight.\r\n\r\nThe next day, rinse chickpeas and let drain thoroughly in a strainer while preparing remaining ingredients.\r\n\r\nCombine all falafel ingredients in the bowl of a food processor. Process until finely ground, about 30 seconds, stopping to scrape down the sides of the bowl as necessary.\r\n\r\nTransfer mixture to a medium bowl and cover. Refrigerate for 20 minutes before forming falafel. Prepare sauce while mixture is resting.\r\n\r\nScoop two heaping tablespoons per falafel and gently form into a slightly flattened ball. Place falafel on the airfry basket, being careful not to press down.\r\n\r\nSelect AIRFRY\/450\u00b0F\/SUPER CONVECTION\/15 minutes and press START to preheat oven.\r\nCook in rack position 4 until lightly browned and cooked through, about 15 minutes.\r\n\r\nMeanwhile, combine feta, garlic, oregano and pepper flakes in the bowl of a food processor. Process until feta is broken down and smooth, about 30 seconds. Scrape down the sides of the bowl.\r\n\r\nWith the machine running, add the olive oil through the feed tube and process until incorporated. Combine water and lemon juice in a small bowl. With the machine running, add the lemon juice mixture through the feed tube and process until a sauce forms. Set aside.\r\n\r\nIn a large bowl, whisk together olive oil and red wine vinegar. Season to taste with salt and black pepper. Add red onion, tomatoes, cucumber, feta, and olives to bowl. Toss to combine.\r\n\r\nServe falafel immediately with spicy feta sauce and salad.",
+        "ingredients": [
+            "8 ounce dried chickpeas\r",
+            "1\/2 oz fresh parsley\r",
+            "1\/2 oz fresh cilantro\r",
+            "6 green onions, sliced\r",
+            "3 clove garlic, sliced\r",
+            "1 tablespoon kosher salt\r",
+            "1 1\/2 teaspoon ground cumin\r",
+            "3\/4 teaspoon ground coriander\r",
+            "1\/4 teaspoon cayenne pepper\r",
+            "<hr>\r",
+            "8 ounce feta cheese (block form)\r",
+            "1 clove garlic, chopped\r",
+            "1\/2 teaspoon dried oregano\r",
+            "1 teaspoon red pepper flakes\r",
+            "1\/4 cup olive oil\r",
+            "2 tablespoon water\r",
+            "1 teaspoon lemon juice\r",
+            "<hr>\r",
+            "1\/2 cup red onion, thinly sliced\r",
+            "1 cup cherry tomatoes, halved\r",
+            "1 cup English cucumber, thinly sliced into half-moons\r",
+            "4 tbsp feta cheese, crumbled\r",
+            "2 oz kalamata olives, pitted and roughly chopped\r",
+            "2 tbsp olive oil\r",
+            "1 tbsp red wine vinegar"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "beans",
+            "untried"
+        ]
+    },
+    "id529": {
+        "id": "id529",
+        "name": "Spicy salmon onigirazu",
+        "source": "https:\/\/makemysushi.com\/Recipes\/spicy-canned-tuna-onigirazu-sushi-sandwich",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "In a small bowl, microwave vinegar, sugar, and salt on high for 20-30 seconds. Stir until salt and sugar have dissolved. While rice is still warm, add vinegar and stir for a minute or two to combine.\r\n\r\nIn a medium bowl, stir together mayo, chili sauce, and sesame oil until combined. Season with salt to taste. Break up salmon into small pieces and add to sauce. Mix well.\r\n\r\nTo assemble, place a piece of plastic wrap on a cutting board. Place nori sheet on top, shiny side down.\r\n\r\nStart by wetting your hands and taking half the rice and shaping into a dense square-shaped patty. Place in the middle of the nori, then layer lettuce, radish, salmon, lettuce, and finally top with remaining rice.\r\n\r\nBring one corner of the nori to the center of the filling, then bring up the opposite corner. Be firm so that the nori closes well around the filling, but don't be so rough that the nori breaks. Repeat with remaining corners until they all meet in the center.\r\n\r\nWrap plastic wrap tightly around onigirazu. Refrigerate for a few minutes to soften the nori. Wet a sharp knife and cut onigirazu in half. Unwrap and enjoy.",
+        "ingredients": [
+            "1 cup cooked sushi rice\r",
+            "1 tbsp rice vinegar\r",
+            "2 tsp sugar\r",
+            "1\/2 tsp salt\r",
+            "<hr>",
+            "1 tbsp mayonnaise\r",
+            "1 tsp chili sauce, such as Sriracha, sambal olek, etc\r",
+            "1 tsp toasted sesame oil\r",
+            "<hr>",
+            "1 can salmon, drained\r",
+            "lettuce\r",
+            "2 radishes, thinly sliced\r",
+            "1 sheet nori"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "untried"
         ]
     }
 }
