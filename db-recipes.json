@@ -7148,41 +7148,6 @@
             "untried"
         ]
     },
-    "id225": {
-        "id": "id225",
-        "name": "Shiitake and egg tart",
-        "source": "Everyday Food Nov 2011",
-        "preptime": 1500,
-        "waittime": 0,
-        "cooktime": 1500,
-        "servings": 6,
-        "comments": "Try as a pizza?",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "On a lightly floured piece of parchment paper, roll out puff pastry to an 11-by-14-inch rectangle. Trim edges to make a neat rectangle and transfer pastry on parchment to a rimmed baking sheet (trim parchment to fit, if necessary). With a sharp knife, score a 1\/2-inch border around edges. With a fork, prick pastry all over inside border. Refrigerate 20 minutes.\r\n\r\nPreheat oven to 375 degrees. In a large skillet, melt butter over medium. Add onion and cook, stirring occasionally, until soft and golden, 10 to 15 minutes. Add mushrooms and tarragon and cook until mushrooms begin to soften, about 8 minutes; season with salt and pepper.\r\n\r\nBake puff pastry until light golden, about 15 minutes. Remove from oven and top with mushroom mixture, staying within border. Carefully crack eggs on top of mushroom mixture, spacing them evenly, and bake until pastry is golden and egg whites are set but yolks are still runny, about 10 minutes. To serve, sprinkle with tarragon and Parmesan and cut into 6 squares.",
-        "ingredients": [
-            "All-purpose flour, for rolling\r",
-            "1 sheet frozen puff pastry, thawed\r",
-            "2 tablespoon unsalted butter\r",
-            "1 large yellow onion, thinly sliced\r",
-            "3\/4 pound shiitake mushrooms, stemmed and large ones halved\r",
-            "1 tablespoon fresh tarragon leaves, chopped, plus more for serving\r",
-            "Coarse salt and ground pepper\r",
-            "6 eggs\r",
-            "Grated Parmesan, for serving"
-        ],
-        "tags": [
-            "vegetarian",
-            "main",
-            "pizza",
-            "untried"
-        ]
-    },
     "id226": {
         "id": "id226",
         "name": "Pumpkin chocolate whoopie pies",
@@ -13542,47 +13507,6 @@
             "14 ounce Brie cheese, rind removed, cut into cubes\r",
             "freshly ground black pepper\r",
             "1\/2 cup sliced almonds, optional"
-        ],
-        "tags": [
-            "pizza",
-            "main"
-        ]
-    },
-    "id424": {
-        "id": "id424",
-        "name": "Spicy honey caramelized onion pizza with prosciutto, feta, and arugula",
-        "source": "http:\/\/www.kingarthurflour.com\/recipes\/spicy-honey-caramelized-onion-pizza-with-prosciutto-feta-and-arugula-recipe",
-        "preptime": 1800,
-        "waittime": 17100,
-        "cooktime": 720,
-        "servings": 8,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. To make the dough: Using a stand mixer equipped with the beater blade, beat the ingredients at high speed for 2 minutes. Switch to the dough hook, and knead for 7 minutes; the dough should be smooth and quite soft.\r\n2. Allow the dough to rise, covered, for 45 minutes; then refrigerate it for 4 hours (or up to 36 hours) to develop the crust's flavor. It'll continue to rise in the fridge, so make sure it's in a big enough bowl.\r\n3. To make the caramelized onions: In a large skillet, heat the butter, then add the onions and cook, stirring often, until they're translucent and browning on the edges. Add the vinegar, honey, and salt, and cook until evenly browned and all the liquid is evaporated. Set aside to cool.\r\n4. To make the pizza: Divide the dough in half. Working with one piece of dough at a time, pick it up and let gravity gently stretch it into an oval, then move your hands around the perimeter of the dough until it's 12\" in diameter, lengthwise.\r\n5. Cover the dough, and let it rest for 30 minutes while you heat the oven and a pizza steel or stone to 450\u00b0F; you'll want one rack at the top of the oven and the steel or stone on the middle rack. Not using a stone? See \"tips,\" below.\r\n6. Use a pizza peel to transfer the pizzas and parchment to the hot steel or stone.\r\n7. Bake pizza crusts, one at a time, for 8 minutes, then remove from the oven.\r\n8. Top the pizzas with caramelized onions, feta, and prosciutto, and return them to the upper rack of the oven (not to the steel or stone), and bake again, one at a time, for an additional 4 to 6 minutes, or until the crust is golden brown and the cheese has started to melt.\r\n9. Remove the pizzas from the oven, top with the arugula, drizzle with spicy honey, and cut into slices.\r\n\r\nNote:\r\nTo bake the pizza without a baking steel or stone, transfer the shaped dough on parchment to a baking sheet, and bake on the middle rack of the oven for the same amount of time.\r\n",
-        "ingredients": [
-            "1 3\/4 cup all-purpose flour\r",
-            "1 1\/4 cup semolina\r",
-            "1 tablespoon Pizza Dough Flavor (optional), for enhanced flavor\r",
-            "1 teaspoon instant yeast\r",
-            "1 1\/4 teaspoon salt\r",
-            "2 tablespoon olive oil\r",
-            "1 1\/4 cup lukewarm water, not all may be used!\r",
-            "<hr>\r",
-            "1 tablespoon butter\r",
-            "3 large yellow onions, peeled and thinly sliced (about 7 to 8 cups)\r",
-            "1 tablespoon cider vinegar\r",
-            "1 tablespoon honey, plus extra for drizzling\r",
-            "1\/4 tsp chili powder\r",
-            "1\/4 teaspoon salt\r",
-            "1 cup crumbled feta cheese\r",
-            "4 ounce prosciutto, thinly sliced\r",
-            "arugula"
         ],
         "tags": [
             "pizza",
