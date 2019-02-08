@@ -17000,5 +17000,34 @@
             "main",
             "untried"
         ]
+    },
+    "id530": {
+        "id": "id530",
+        "name": "Malted hot cocoa",
+        "source": "King Arthur Flour",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix all ingredients by sifting or whisking together in a large bowl until evenly incorporated. Store at room temperature in an airtight container.\r\n\r\nEach serving is 1\/4 cup mix in 1 cup hot milk.",
+        "ingredients": [
+            "42 oz superfine or granulated sugar\r",
+            "12 oz malted milk powder\r",
+            "12 oz cocoa powder\r",
+            "2 tbsp espresso powder\r",
+            "2 tbsp vanilla powder\r",
+            "1 1\/2 tsp salt"
+        ],
+        "tags": [
+            "drinks"
+        ]
     }
 }
