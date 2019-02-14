@@ -17029,5 +17029,36 @@
         "tags": [
             "drinks"
         ]
+    },
+    "id531": {
+        "id": "id531",
+        "name": "Miso-ginger dressing",
+        "source": "https:\/\/cooking.nytimes.com\/recipes\/1012694-miso-ginger-dressing",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 10,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Put all ingredients except salt and pepper into a food processor and pulse a few times to mince carrots. Then let machine run for a minute or so, until mixture is chunky-smooth. (If you want it smoother, use a blender.) Taste and add salt and pepper to taste.",
+        "ingredients": [
+            "1\/4 cup peanut oil\r",
+            "1\/4 cup rice vinegar\r",
+            "3 tablespoon mild or sweet miso, like yellow or white\r",
+            "1 tablespoon dark sesame oil\r",
+            "2 medium carrots, roughly chopped\r",
+            "1 inch long piece fresh ginger, cut into coins\r",
+            "Salt\r",
+            "Black pepper"
+        ],
+        "tags": [
+            "dressing"
+        ]
     }
 }
