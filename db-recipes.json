@@ -17028,5 +17028,38 @@
         "tags": [
             "dressing"
         ]
+    },
+    "id532": {
+        "id": "id532",
+        "name": "Pizza dough",
+        "source": "King Arthur Flour",
+        "preptime": 1500,
+        "waittime": 7200,
+        "cooktime": 0,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Dissolve the sugar, yeast, and salt in the lukewarm water (and olive oil, if you're using it).\r\n\r\n2. Add the flour and Pizza Dough Flavor, starting with 5 1\/2 cups flour and adding more as necessary to make a soft, smooth dough.\r\n\r\n3. Knead the dough (with your hands, a mixer, or your bread machine set on the dough cycle) until it's smooth and elastic, about 7 to 10 minutes.\r\n\r\n4. Place the dough in a lightly greased bowl or other container, cover it, and let it rise for 1 to 2 hours, whatever fits your schedule.\r\n\r\n5. Gently deflate the dough, and divide it into four pieces. Use a rolling pin to roll each piece, on a lightly greased surface, into a circle to fit a 12\" pizza pan. Let the dough rest several times to relax it and make it more cooperative. If you prefer a more artisan look to your crust, with scattered random air pockets throughout, hand-stretch the dough to size. Again, letting it rest periodically makes the job easier.\r\n\r\n6. Place the rounds on pizza pans; on baking sheets; or, if you have a pizza stone in your oven, on parchment.\r\n\r\n7. Preheat your oven to 450\u00b0F. While it's heating, get out your toppings, which you've prepared ahead. \r\n\r\n8. Brush each crust with a bit of olive oil; spread pizza or spaghetti sauce lightly over the surface, and let your guests add their favorite toppings. Sprinkle the top with grated cheese.\r\nBake the pizzas for 15 to 20 minutes, until they're golden brown, the toppings are hot and bubbly, and the cheese is melted. Remove the pizzas from the oven.\r\n\r\n9. Immediately transfer pizzas to a cooling rack, so their bottoms don't get soggy. After about 10 minutes (to allow the toppings to set), slice and serve; a pair of scissors is a great cutting tool.\r\n\r\nYield: 4 12\" pizzas, 6 to 8 servings each.\r\nTo freeze: After dividing dough in step 5, wrap ball of dough in plastic wrap and freeze. Allow to defrost in refrigerator and then set out at room temperature for about 30 minutes before shaping crust.",
+        "ingredients": [
+            "2 cup lukewarm water\r",
+            "1 tablespoon sugar\r",
+            "1 tablespoon active dry yeast or instant yeast; or 1 packet active dry yeast\r",
+            "1 tablespoon salt\r",
+            "2 tablespoon olive oil, optional\r",
+            "1 1\/2 cup semolina\r",
+            "4 to 4 1\/2 cups Italian-style flour\r",
+            "1 teaspoon baking soda\r",
+            "2 tablespoon Pizza Dough Flavor, optional\r",
+            "2 tablespoon dough improver, optional"
+        ],
+        "tags": [
+            "pizza"
+        ]
     }
 }
