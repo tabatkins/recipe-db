@@ -5699,10 +5699,9 @@
         "protein": 64,
         "instructions": "In a large bowl, whisk together avocado, cilantro and lime juice until blended. Season with salt and pepper to taste. Add remaining ingredients and toss until evenly coated.",
         "ingredients": [
-            "1 avocado, mashed\r",
-            "1\/4 cup cilantro, chopped\r",
-            "2 tbsp lime juice\r",
-            "<hr>",
+            "4 servings [chipotle honey vinaigrette](https:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id258)",
+            "<hr>\r",
+            "2 avocados, diced\r",
             "2 can black beans, rinsed and drained\r",
             "4 cup romaine lettuce, shredded\r",
             "1 cup grape tomatoes, halved\r",
@@ -8022,14 +8021,14 @@
             "salad"
         ]
     },
-    "id257": {
-        "id": "id257",
-        "name": "Chipotle honey vinaigrette #1",
-        "source": "http:\/\/www.chipotlefan.com\/index.php?id=chipotle_honey_vinaigrette_recipe",
-        "preptime": 300,
+    "id258": {
+        "id": "id258",
+        "name": "Chipotle honey vinaigrette",
+        "source": "http:\/\/www.recipesecrets.net\/forums\/recipe-exchange\/25747-chipotle-mexican-grill-chipotle-honey-vinaigrette.html",
+        "preptime": 0,
         "waittime": 0,
         "cooktime": 0,
-        "servings": 12,
+        "servings": 2,
         "comments": "",
         "calories": 0,
         "fat": 0,
@@ -8038,57 +8037,18 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "1. Combine all ingredients, except oil in blender and blend on low speed\r\nfor ten seconds.\r\n\r\n2. SLOWLY drizzle olive oil into blender on low speed.\r\n\r\n3. Chill for at least an hour.\r\n\r\nWhole recipe yields 1.5 cups.",
+        "instructions": "Mix all ingredients. Season with salt and pepper to taste.",
         "ingredients": [
-            "1\/2 cup red wine vinegar\r",
-            "1\/3 cup honey\r",
-            "2 tsp Grey Poupon Dijon mustard\r",
-            "1 1\/4 tsp ground chipotle powder\r",
-            "1 tsp lime juice\r",
-            "3\/4 tsp black pepper\r",
-            "3\/4 tsp salt\r",
-            "1\/2 tsp paprika\r",
-            "1\/4 tsp garlic powder\r",
-            "1\/4 tsp onion powder\r",
-            "1\/4 tsp dried oregano\r",
-            "1\/2 cup extra virgin olive oil"
+            "1 tbsp red wine vinegar\r",
+            "2 tsp honey\r",
+            "1\/2 tsp adobo paste\r",
+            "1\/2 tsp dried oregano\r",
+            "3 tbsp olive oil\r",
+            "salt & pepper"
         ],
         "tags": [
             "dressing",
-            "components",
-            "untried"
-        ]
-    },
-    "id258": {
-        "id": "id258",
-        "name": "Chipotle honey vinaigrette #2",
-        "source": "http:\/\/www.recipesecrets.net\/forums\/recipe-exchange\/25747-chipotle-mexican-grill-chipotle-honey-vinaigrette.html",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 24,
-        "comments": "Amount of salt needs to be drastically reduced",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Mix all ingredients in blender, adding oil slowly at the end. \r\n\r\n\r\nServes 19, 2 1\/3 cups",
-        "ingredients": [
-            "1\/2 cup red wine vinegar\r",
-            "1\/3 cup honey\r",
-            "1 tablespoon adobo paste\r",
-            "2 tablespoon kosher salt\r",
-            "1 teaspoon pepper\r",
-            "1 tablespoon fresh oregano, chopped\r",
-            "1 1\/2 cup olive oil"
-        ],
-        "tags": [
-            "dressing",
-            "components",
-            "untried"
+            "components"
         ]
     },
     "id259": {
