@@ -17060,5 +17060,34 @@
             "vegetarian",
             "main"
         ]
+    },
+    "id534": {
+        "id": "id534",
+        "name": "Leftover BonChon Salad",
+        "source": "",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix all ingredients, toss with dressing.",
+        "ingredients": [
+            "2 pieces leftover BonChon chicken, chopped\r",
+            "1 cup salad greens\r",
+            "1 cup cabbage\r",
+            "1\/4 cup grape tomatoes, halved\r",
+            "1\/4 cup leftover BonChon radish\r",
+            "1 serving [Miso-Ginger Dressing](https:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id531)"
+        ],
+        "tags": [
+            "salad"
+        ]
     }
 }
