@@ -10642,13 +10642,14 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "Stem and thinly slice 1 pepperoncini; in an airtight container, mix with lettuce, tomato, cheese, salami, and whole pepperoncini.\r\n\r\nIn a small bowl, whisk oil, vinegar, mustard, and a pinch each of salt and pepper; transfer to a small container. Refrigerate both containers, covered, up to overnight. Toss just before serving.",
+        "instructions": "Mix all veggie ingredients.\r\n\r\nIn a small bowl, whisk oil, vinegar, mustard, and a pinch each of salt and pepper; transfer to a small container. Refrigerate both containers, covered, up to overnight. Toss just before serving.",
         "ingredients": [
-            "2 whole pepperoncini\r",
-            "5 ounce romaine, finely shredded\r",
+            "2 whole pepperoncini, thinly sliced\r",
+            "3 cup romaine, finely shredded\r",
             "1 plum tomato, cored, seeded, and finely diced\r",
             "2 ounce sliced provolone cheese, cut into thin strips\r",
-            "2 ounce thinly sliced hard salami, cut into thin strips\r",
+            "1 ounce salami, cut into thin strips\r",
+            "<hr>",
             "2 teaspoon olive oil\r",
             "2 teaspoon red-wine vinegar\r",
             "1\/2 teaspoon Dijon mustard\r",
@@ -15178,36 +15179,6 @@
             "1\/2 tsp espresso powder\r",
             "1\/2 cup chocolate almond milk\r",
             "1\/3 cup water"
-        ],
-        "tags": [
-            "breakfast"
-        ]
-    },
-    "id480": {
-        "id": "id480",
-        "name": "Apple cheddar bacon egg muffins",
-        "source": "https:\/\/www.pamperedchef.com\/recipe\/Breakfast%7CBrunch\/American\/Apple+Cheddar+Bacon+Egg+Muffins\/1228358",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 900,
-        "servings": 6,
-        "comments": "Can be frozen after baking",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat the oven to 350\u00b0F (180\u00b0C). Spray 12 silicon muffin cups with oil, set out on a baking sheet.\r\n\r\nWhisk the eggs, milk, and salt in the Classic Batter Bowl until combined.\r\n\r\nAdd the cheese, apples, bacon bits, and seasoning to the batter bowl and stir to combine.\r\n\r\nTransfer the batter evenly into the muffin cups, about 1\/4 cup in each. Bake for 15\u201318 minutes, or until the eggs are set.\r\n\r\nRemove the pan from the oven. Cool for 5 minutes in the cups and carefully remove. Sprinkle with additional seasoning.",
-        "ingredients": [
-            "8 eggs\r",
-            "1\/2 cup milk\r",
-            "1\/4 tsp salt\r",
-            "2 oz cheddar cheese, grated\r",
-            "1\/2 Granny Smith apple, cored and diced small\r",
-            "2 slices bacon, cooked and crumbled\r",
-            "1 serving [French Toast Popcorn Seasoning](http:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id481)"
         ],
         "tags": [
             "breakfast"
