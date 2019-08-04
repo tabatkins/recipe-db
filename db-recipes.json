@@ -14109,7 +14109,8 @@
         ],
         "tags": [
             "main",
-            "untried"
+            "untried",
+            "meat"
         ]
     },
     "id448": {
@@ -15667,7 +15668,7 @@
         "fiber": 26,
         "sugar": 26,
         "protein": 56,
-        "instructions": "Remove the **avocado** from the peel and place in a bowl, with the juice of **half the lime** and a drizzle of olive oil. Using a fork, mash to your desired consistency; season with salt and pepper to taste.\r\n\r\nIn a large pan, heat 2 teaspoons of olive oil on high until hot. Add **half the onion**; season with salt and pepper. Cook, stirring occasionally, 4 to 5 minutes, or until lightly browned and softened. Add the **squash** and cook, stirring occasionally, 2 to 3 minutes, or until lightly browned and softened. Transfer to a medium bowl. Wipe out the pan.\r\n\r\nIn the same pan, heat 2 teaspoons of olive oil on medium-high until hot. Add the **remaining onion**; season with salt and pepper. Cook, stirring occasionally, 3 to 4 minutes, or until lightly browned and softened. Add the **poblano pepper**; season with salt and pepper. Cook, stirring occasionally, 3 to 4 minutes, or until slightly softened. Turn off the heat.\r\n\r\nPlace the **rolls** on a work surface. Divide the **mashed avocado** between the roll tops. Divide **half the Monterey Jack cheese** between the roll bottoms; top with the **cooked poblano pepper**, **goathorn peppers**, and **remaining Monterey Jack cheese**. Season with salt and pepper. Complete the tortas with the roll tops.\r\n\r\nWipe out the pan used to cook the vegetables. In the same pan, heat a drizzle of olive oil on medium-high until hot. Add the tortas. Place a heavy-bottomed pot (or pan) on top of the tortas and press down. Cook, occasionally pressing down on the pot, 1 to 2 minutes per side, or until lightly browned and the cheese has melted. Transfer to a cutting board and cut in half on an angle.\r\n\r\nWhile the tortas cook, to the bowl of **cooked squash**, add the **cilantro**, **radishes**, the other half of the **lime**, and a drizzle of olive oil. Gently stir to combine; season with salt and pepper to taste. Divide the cooked tortas and salad between 2 dishes. Garnish the salad with the Cotija cheese.",
+        "instructions": "Remove the **avocado** from the peel and place in a bowl, with the juice of **half the lime** and a drizzle of olive oil. Using a fork, mash to your desired consistency; season with salt and pepper to taste.\r\n\r\nIn a large pan, heat 2 teaspoons of olive oil on medium-high until hot. Add the **onion**; season with salt and pepper. Cook, stirring occasionally, 3 to 4 minutes, or until lightly browned and softened. Add the **poblano pepper**; season with salt and pepper. Cook, stirring occasionally, 3 to 4 minutes, or until slightly softened. Turn off the heat.\r\n\r\nWhile the onion and peppers cook, assemble the slaw. Mix the **carrot** and **radish** in a bowl. Add the **lime zest** and other half of the **lime juice**, plus 2 tsp of **olive oil**, and salt and pepper to taste. Marinate at least 10 minutes.\r\n\r\nPlace the **rolls** on a work surface. Divide the **mashed avocado** between the roll tops. Divide **half the Monterey Jack cheese** between the roll bottoms; top with the **cooked poblano pepper**, **goathorn peppers**, and **remaining Monterey Jack cheese**. Season with salt and pepper. Complete the tortas with the roll tops.\r\n\r\nWipe out the pan used to cook the vegetables. In the same pan, heat a drizzle of olive oil on medium-high until hot. Add the tortas. Place a heavy-bottomed pot (or pan) on top of the tortas and press down. Cook, occasionally pressing down on the pot, 1 to 2 minutes per side, or until lightly browned and the cheese has melted. Transfer to a cutting board and cut in half on an angle.",
         "ingredients": [
             "2 Sandwich Rolls\r",
             "4 oz Monterey Jack Cheese, grated\r",
@@ -15676,11 +15677,9 @@
             "1 Poblano Pepper, seeded and thinly sliced crosswise\r",
             "1 Vidalia Onion, thinly sliced and divided\r",
             "2 oz Pickled Goathorn Peppers, roughly chopped\r",
-            "<hr>",
-            "1 Summer Squash, medium diced\r",
-            "3 Radishes, thinly sliced into rounds\r",
-            "1 tbsp Cilantro, roughly chopped\r",
-            "2 Tbsp Cotija Cheese, grated"
+            "<hr>\r",
+            "1 large carrot, shredded\r",
+            "3 Radishes, halved and thinly sliced"
         ],
         "tags": [
             "vegetarian",
