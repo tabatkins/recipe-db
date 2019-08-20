@@ -4023,41 +4023,6 @@
             "appetizer"
         ]
     },
-    "id115": {
-        "id": "id115",
-        "name": "Koulourakia - Greek Butter Cookies with Sesame",
-        "source": "http:\/\/greekfood.about.com\/od\/cookiescakes\/r\/Koulourakia-Greek-Butter-Cookies-With-Sesame.htm",
-        "preptime": 1500,
-        "waittime": 0,
-        "cooktime": 1200,
-        "servings": 1,
-        "comments": "A \u201ckouloura\u201d (koo-LOU-rah) in Greek is a round twist. The name for these traditional butter cookies comes from their round twisted shape but you will also see Koulourakia as small braids or in the shape of the letter \u201cS.\u201d  Koulourakia are delicious dunked in coffee or milk and are the traditional Easter cookie.",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat the oven to 350 degrees.\r\nUsing the mixer beat the butter and sugar until light and fluffy. Add the vanilla extract and ouzo and mix well. While the mixer is running, add eggs one by one and mix until well incorporated.\r\n\r\nIn a separate bowl, sift the flour with the baking powder and soda. Add the flour mixture to the butter mixture little by little. The dough will be soft and malleable but it should not be sticky. You should be able to pinch off a ball of dough and roll it in to a cord or thin tube.\r\n\r\nIf the dough is too sticky, add a little bit more flour. Allow the dough to rest a bit before rolling into shapes.\r\n\r\nTo shape the cookies, pinch off a piece of dough about the size of a walnut. Roll out a cord or thin tube of dough about the length of a dinner knife. Fold in half then twist two times. You can also make a coiled circle or an \u201cS\u201d shape.\r\n\r\nBeat the remaining two eggs in a bowl and add a splash of water to the egg. Brush the cookies lightly with the egg wash and sprinkle with sesame seeds if desired.\r\n\r\nBake cookies on parchment paper or on a lightly greased cookie sheet at 350 degrees for approximately 20 minutes or until they are nicely golden brown.",
-        "ingredients": [
-            "1 lb unsalted butter\r",
-            "1 1\/2 cup sugar\r",
-            "6 eggs (reserve 2 for brushing cookies)\r",
-            "6 tsp baking powder\r",
-            "1\/2 tsp baking soda\r",
-            "4 cup all-purpose flour\r",
-            "2 tsp vanilla extract\r",
-            "2 oz Ouzo\r",
-            "Sesame seeds (optional)"
-        ],
-        "tags": [
-            "cookies",
-            "greek",
-            "dessert",
-            "untried"
-        ]
-    },
     "id116": {
         "id": "id116",
         "name": "Gluten-free chocolate chips cookies",
@@ -4198,36 +4163,6 @@
             "asian"
         ]
     },
-    "id120": {
-        "id": "id120",
-        "name": "Spicy Parmesan Kettle Chips",
-        "source": "Martha Stewart Living Oct 2011",
-        "preptime": 300,
-        "waittime": 0,
-        "cooktime": 360,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Spread potato chips on a rimmed baking sheet. Bake at 350F until oil appears, 6 to 7 minutes. Meanwhile, mix together remaining ingredients. Remove chips from oven and immediately sprinkle with cheese mixture. Serve warm or at room temperature.",
-        "ingredients": [
-            "5 oz Kettle-cooked potato chips\r",
-            "1 oz Parmesan cheese, very finely grated\r",
-            "1\/2 tsp paprika\r",
-            "1\/8 tsp cayenne pepper"
-        ],
-        "tags": [
-            "chips",
-            "appetizer",
-            "snack",
-            "untried"
-        ]
-    },
     "id121": {
         "id": "id121",
         "name": "Pasta with roasted vegetables and bacon",
@@ -4260,40 +4195,6 @@
         "tags": [
             "pasta",
             "main"
-        ]
-    },
-    "id122": {
-        "id": "id122",
-        "name": "Homemade sausage",
-        "source": "Martha Stewart Living Oct 2011",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Stir together herbs and spices. Arrange pork cubes on rimmed baking sheets and freeze for 20 minutes. Working in 4 batches (1 lb at a time), grind meat in a food pricessor until only small pieces of fat remain, and mix in about 2 tablespoons of the spice mixture. Transfer to an 8x12-inch piece of parchment. Roll into a log. Twist at ends to secure.\r\n\r\nMakes four 1-pound logs.\r\n\r\nSausages can be frozen for up to 6 weeks.",
-        "ingredients": [
-            "2 tbsp fresh sage, chopped\r",
-            "2 tbsp fresh thyme, chopped\r",
-            "1 1\/2 tbsp coarse salt\r",
-            "8 clove garlic, minced\r",
-            "1 tbsp nutmeg, freshly grated\r",
-            "1 tbsp cayenne pepper\r",
-            "4 lb boneless pork shoulder, cut into 1\/2-inch cubes"
-        ],
-        "tags": [
-            "homemade",
-            "main",
-            "sausage",
-            "pork",
-            "untried"
         ]
     },
     "id123": {
@@ -4462,73 +4363,6 @@
             "cupcakes",
             "dessert",
             "halloween",
-            "untried"
-        ]
-    },
-    "id129": {
-        "id": "id129",
-        "name": "Garlic-Pepper Sauce",
-        "source": "http:\/\/www.marthastewart.com\/337273\/garlic-pepper-sauce",
-        "preptime": 2700,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 5,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a 5-quart Dutch oven or pot, heat oil over medium heat. Add onion; cook, stirring often, until starting to soften, about 5 minutes.\r\n\r\nAdd bell peppers, garlic, oregano, and cumin; cook, stirring often, until peppers are crisp-tender, about 10 minutes. Add tomato; cook, stirring occasionally, 5 minutes more.\r\n\r\nTransfer to a food processor. Add cilantro, and puree until slightly chunky. Season with salt and pepper.\r\n\r\nIf not using immediately, transfer sauce, in 1-cup quantities, to airtight containers. Freeze until ready to use, up to 3 months.",
-        "ingredients": [
-            "3 tablespoon olive oil\r",
-            "2 large onions, coarsely chopped (4 cups)\r",
-            "2 green bell peppers, ribs and seeds removed, coarsely chopped (2 1\/4 cups)\r",
-            "2 red bell peppers, ribs and seeds removed, coarsely chopped (2 1\/4 cups)\r",
-            "5 clove garlic, minced\r",
-            "1 teaspoon dried oregano\r",
-            "1 teaspoon ground cumin\r",
-            "1 large tomato, cored and coarsely chopped (2 cups)\r",
-            "3 cup cilantro (mixed leaves and tender stems)\r",
-            "Coarse salt and ground pepper"
-        ],
-        "tags": [
-            "dip",
-            "components",
-            "untried"
-        ]
-    },
-    "id130": {
-        "id": "id130",
-        "name": "Black bean soup",
-        "source": "http:\/\/www.marthastewart.com\/338612\/black-bean-soup?center=0&gallery=274637&slide=283540",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 300,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a medium saucepan, heat Garlic-Pepper Sauce over medium heat. Cook, stirring occasionally, 2 minutes.\r\n\r\nStir in black beans, chicken broth, and 1\/2 cup water. Bring to a boil; reduce to a simmer. Cook 5 minutes.\r\n\r\nPuree with an immersion blender or regular blender (work in batches, filling container halfway each time). Season with salt and pepper.\r\n\r\nReheat if necessary. Stir in lime juice; serve with sour cream, if desired.",
-        "ingredients": [
-            "1 serving [Garlic-Pepper Sauce](http:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id129)",
-            "1 14.5oz can reduced-sodium chicken broth\r",
-            "2 can black beans, drained and rinsed\r",
-            "Coarse salt and ground pepper\r",
-            "3 teaspoon fresh lime juice\r",
-            "Sour cream, optional"
-        ],
-        "tags": [
-            "soup",
-            "beans",
-            "main",
             "untried"
         ]
     },
@@ -5451,42 +5285,6 @@
             "untried"
         ]
     },
-    "id166": {
-        "id": "id166",
-        "name": "PB&J Tiramisu",
-        "source": "Food Network Magazine Sept 2011",
-        "preptime": 1800,
-        "waittime": 28800,
-        "cooktime": 0,
-        "servings": 10,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Beat the peanut butter, cream cheese, confectioners' sugar, vanilla and 1\/2 cup cream in a large bowl with a mixer on medium speed until smooth and fluffy, 3 to 4 minutes. Add the remaining 1\/2 cup cream and beat until creamy, about 2 more minutes. (Do not overbeat.)\r\n\r\n2. Whisk the jam, framboise and 1\/3 cup water in a bowl until smooth. Spread about 3 tablespoons of the jam mixture in a 9-by-5-inch glass loaf pan. Cover with half of the ladyfingers, arranging them lengthwise. Brush with half of the remaining jam mixture. (Don't worry if it looks like a lot of liquid; the ladyfingers with absorb it as the tiramisu sites.)\r\n\r\n3. Spread half of the peanut butter cream over the ladyfingers. Top with 2 cups raspberries and the remaining ladyfingers. Brush the ladyfingers with the remaining jam mixture and spread the remaining peanut butter cream on top. Cover with plastic wrap and refrigerate at least 8 hours.\r\n\r\n4. Uncover the tiramisu and top with the remaining 2 cups raspberries and shaved chocolate. Dust with confectioners' sugar.",
-        "ingredients": [
-            "1\/2 cup creamy peanut butter\r",
-            "8 oz cream cheese, at room temperature\r",
-            "1 1\/4 cup confectioners' sugar, plus more for dusting\r",
-            "1 tsp vanilla extract\r",
-            "1 cup heavy cream\r",
-            "1\/2 cup seedless raspberry jam\r",
-            "1\/3 cup framboise, or raspberry juice\r",
-            "14 Italian-style crisp ladyfingers\r",
-            "4 cup raspberries\r",
-            "Shaved chocolate, for topping"
-        ],
-        "tags": [
-            "dessert",
-            "tiramisu",
-            "raspberry",
-            "untried"
-        ]
-    },
     "id167": {
         "id": "id167",
         "name": "Herb crusted salmon with spinach salad",
@@ -6042,42 +5840,6 @@
         "tags": [
             "salmon",
             "main"
-        ]
-    },
-    "id189": {
-        "id": "id189",
-        "name": "Pear and cranberry crisp",
-        "source": "Everyday Food Oct 2011",
-        "preptime": 1500,
-        "waittime": 600,
-        "cooktime": 1200,
-        "servings": 6,
-        "comments": "Serve with vanilla icecream",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 400 degrees. In a medium bowl, combine oats, 1\/3 cup brown sugar, flour, almonds, cinnamon, and salt. With your hands or a pastry cutter, work in butter until large clumps form.\r\n\r\nIn a large bowl, gently toss together pears, 2 tablespoons brown sugar, ginger (if using), cranberries, and cornstarch. Transfer to an 8-inch square baking dish and sprinkle with oat mixture.\r\n\r\nBake until juices are bubbling and topping is browned and crisp, 20 minutes. Let cool 10 minutes. Serve warm or at room temperature.",
-        "ingredients": [
-            "3\/4 cup rolled oats, not quick-cooking\r",
-            "1\/3 cup brown sugar\r",
-            "2 tbsp brown sugar\r",
-            "1 cup all-purpose flour\r",
-            "1\/4 cup blanched almonds, chopped\r",
-            "1\/2 tsp ground cinnamon\r",
-            "1\/4 tsp fine salt\r",
-            "5 tbsp unsalted butter, room temperature\r",
-            "3 lb pears, such as Bartlett or Anjou (about 6), cored, peeled, and cut into 1\/2-inch pieces\r",
-            "1\/4 cup crystallized ginger, finely chopped, optional\r",
-            "1 cup dried cranberries\r",
-            "2 tbsp cornstarch"
-        ],
-        "tags": [
-            "dessert",
-            "untried"
         ]
     },
     "id190": {
@@ -9328,39 +9090,6 @@
             "vegetarian"
         ]
     },
-    "id299": {
-        "id": "id299",
-        "name": "Whipped Yogurt with Pineapple and Dried Fruit",
-        "source": "http:\/\/www.marthastewart.com\/1062411\/whipped-yogurt-pineapple-and-dried-fruit",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 8,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Whisk together yogurt, cream, honey, and zest in a bowl until mixture thickens and holds soft peaks.\r\n\r\n2. Divide half of pineapple evenly among 8 serving bowls. Top with yogurt mixture, then remaining pineapple, dividing evenly. Sprinkle with dried fruits, coconut, and nutmeg and serve.",
-        "ingredients": [
-            "2 cup plain low-fat Greek yogurt\r",
-            "2\/3 cup heavy cream\r",
-            "2 tablespoon honey\r",
-            "1 teaspoon lime zest, finely grated\r",
-            "2 cup fresh pineapple, coarsely chopped\r",
-            "Sliced dried fruits, such as papayas, plums, and strawberries, for serving\r",
-            "Shaved coconut or unsweetened shredded coconut, toasted, for serving\r",
-            "Freshly grated nutmeg, for serving (optional)"
-        ],
-        "tags": [
-            "dessert",
-            "brunch",
-            "untried"
-        ]
-    },
     "id300": {
         "id": "id300",
         "name": "Berry Granola Parfait",
@@ -11404,43 +11133,6 @@
             "untried"
         ]
     },
-    "id368": {
-        "id": "id368",
-        "name": "Curried lentils in tomato sauce",
-        "source": "http:\/\/www.marthastewart.com\/281269\/curried-lentils-in-tomato-sauce",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 600,
-        "servings": 6,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a large saucepan, heat oil over medium. Add onion and ginger; season with salt. Cook, stirring frequently, until beginning to brown, 5 to 8 minutes.\r\n\r\nAdd spices; cook, stirring, until fragrant, 30 to 60 seconds.\r\n\r\nAdd tomato sauce, lentils, and 1 cup water. Simmer until slightly thickened, 5 to 10 minutes. Stir in lime juice and cilantro; season with salt.\r\n\r\nServe lentil mixture with rice; garnish with more cilantro, if desired.",
-        "ingredients": [
-            "3 tablespoon vegetable oil\r",
-            "1 medium onion, finely chopped\r",
-            "2 tbsp ginger, peeled and finely grated\r",
-            "Coarse salt\r",
-            "2 teaspoon curry powder\r",
-            "1 teaspoon garam masala, optional\r",
-            "1\/4 teaspoon cayenne pepper\r",
-            "1 26oz can tomato sauce\r",
-            "40 ounce cooked lentils, rinsed and drained\r",
-            "2 tablespoon fresh lime juice\r",
-            "1\/2 cup fresh cilantro, chopped, plus more for garnish (optional)\r",
-            "6 servings Cooked rice, for serving"
-        ],
-        "tags": [
-            "vegetarian",
-            "main",
-            "untried"
-        ]
-    },
     "id369": {
         "id": "id369",
         "name": "Arroz non pollo (slow cooker)",
@@ -12943,15 +12635,14 @@
             "2 tbsp all-purpose flour\r",
             "1 cup milk\r",
             "4 oz garlic and herb-flavored cheese spread (such as Boursin)\r",
-            "<hr>",
+            "<hr>\r",
             "8 sheets frozen phyllo dough, thawed\r",
             "Nonstick cooking spray\r",
             "1\/2 cup fresh parsley (loosely packed)"
         ],
         "tags": [
             "vegetarian",
-            "main",
-            "untried"
+            "main"
         ]
     },
     "id413": {
@@ -13035,7 +12726,7 @@
         "preptime": 600,
         "waittime": 0,
         "cooktime": 2400,
-        "servings": 6,
+        "servings": 4,
         "comments": "",
         "calories": 1620,
         "fat": 60,
@@ -13052,7 +12743,7 @@
             "4 clove garlic, pressed\r",
             "1 cup medium pearled barley (not quick-cooking)\r",
             "1 cup dry white wine\r",
-            "<hr>",
+            "<hr>\r",
             "1 clove garlic\r",
             "2 cup fresh basil (loosely packed)\r",
             "1 1\/2 cup baby spinach\r",
@@ -14501,45 +14192,6 @@
             "untried"
         ]
     },
-    "id459": {
-        "id": "id459",
-        "name": "Lentil snacks",
-        "source": "http:\/\/redfox.typepad.com\/hungry\/2005\/05\/lentil-snacks.html",
-        "preptime": 0,
-        "waittime": 1800,
-        "cooktime": 2700,
-        "servings": 1,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Put hulled red lentils (red dal) in a saucepan with salted water. Bring to a boil over high heat and skim off the foam that collects on the surface. Turn the heat to low and simmer until the lentils are yellow and very mushy, 20-30 minutes.\r\n\r\n2. Meanwhile, put fine-grain bulgur (see above) in a sizeable bowl.\r\n\r\n3. Stir tomato paste and hot red pepper paste into lentils. Turn the heat back up to high and bring this mixture to a boil. Once it's boiling, turn off the heat and pour it over the bulgar. Stir well and set aside for half an hour.\r\n\r\n4. Meanwhile, saute onion in olive oil. When it begins to get golden brown, add minced cloves of garlic, ground cumin, and plenty of freshly ground black pepper. Cook about two minutes more.\r\n\r\n5. Once the bulgur and lentils have sat for their full half hour, add the contents of the skillet, oil and all. Mix very well, kneading everything together. Add tarragon, dried red pepper, and a little lemon juice. Mix again and adjust for salt.\r\n\r\n6. Preheat the oven to 350. Using wet hands, make balls about 3\/4 the size of a golf ball. Shape each piece into an oval and arrange these on a parchment lined baking sheet. You only need to leave a tiny bit of space between them.\r\n\r\n7. Bake for 10-15 minutes. They shouldn't get brown, just form a bit of a firmer crust. Let them cool on the sheet, then transfer to a plate. Make sure they are completely cool, then cover with plastic wrap and store in the refrigerator. I think these would be excellent with a yogurt sauce of the type made with just yogurt, garlic, and salt.",
-        "ingredients": [
-            "1 cup red lentils\r",
-            "2 1\/2 cup water\r",
-            "salt\r",
-            "1\/2 cup fine-grain bulgur\r",
-            "1 1\/2 tsp tomato paste\r",
-            "1 large onion, chopped\r",
-            "2 tbsp olive oil\r",
-            "2 clove garlic, minced\r",
-            "1 1\/2 tsp ground cumin\r",
-            "black pepper\r",
-            "2 tbsp fresh tarragon, chopped\r",
-            "1 pinch dried red pepper\r",
-            "1\/4 lemon, juiced"
-        ],
-        "tags": [
-            "bento",
-            "lunch",
-            "main",
-            "untried"
-        ]
-    },
     "id460": {
         "id": "id460",
         "name": "Salt block cucumber salad",
@@ -15962,38 +15614,6 @@
             "untried"
         ]
     },
-    "id505": {
-        "id": "id505",
-        "name": "Herbed smoked salmon in tomato halves",
-        "source": "https:\/\/www.atkins.com\/recipes\/herbed-smoked-salmon-in-tomato-halves\/296",
-        "preptime": 1200,
-        "waittime": 0,
-        "cooktime": 600,
-        "servings": 2,
-        "comments": "",
-        "calories": 504,
-        "fat": 32,
-        "satfat": 10,
-        "carbs": 4,
-        "fiber": 0,
-        "sugar": 2,
-        "protein": 48,
-        "instructions": "Preheat broiler.\r\n\r\nCut tomatoes in half and scoop out seeds. Drizzle each half with a little olive oil and sprinkle with herbs. Broil for about 3 minutes to heat tomatoes. Turn off broiler and close oven door.\r\n\r\nMeanwhile, in a medium skillet over medium heat, scramble the eggs. Before they are set, add salmon, cream cheese and chives.\r\n\r\nRemove tomatoes from oven and fill each with the egg mixture. Sprinkle with cheese and serve.",
-        "ingredients": [
-            "2 medium Tomatoes\r",
-            "1\/2 tsp Extra Virgin Olive Oil\r",
-            "1\/4 tsp italian seasoning\r",
-            "4 large Eggs\r",
-            "4 oz Smoked Salmon\r",
-            "1 tbsp Cream Cheese\r",
-            "2 tbsp chopped Chives\r",
-            "1 tsp Parmesan Cheese, grated"
-        ],
-        "tags": [
-            "breakfast",
-            "untried"
-        ]
-    },
     "id506": {
         "id": "id506",
         "name": "Almond muffin in a minute",
@@ -16178,24 +15798,22 @@
             "1 serving mini burger recipe\r",
             "1 2-inch length of carrot, sliced into 1\/4 inch rounds\r",
             "1\/2 oz cheese\r",
-            "<hr>",
+            "<hr>\r",
             "1\/2 medium red onion, very thinly sliced\r",
             "salt\r",
             "1\/4 cup parsley, loosely packed, finely chopped\r",
             "black pepper\r",
             "1 tsp rice vinegar\r",
             "1 pinch sugar\r",
-            "<hr>",
+            "<hr>\r",
             "1\/4 cup snow peas\r",
-            "<hr>",
+            "<hr>\r",
             "1 cup cooked short-grain white rice\r",
             "sesame salt, for sprinkling"
         ],
         "tags": [
-            "vegetarian",
             "bento",
-            "main",
-            "untried"
+            "main"
         ]
     },
     "id512": {
@@ -16223,12 +15841,11 @@
             "1 egg\r",
             "2 tbsp fresh dill, chopped\r",
             "2 tbsp cream cheese\r",
-            "<hr>",
+            "<hr>\r",
             "1 tbsp butter\r",
             "1 tbsp vegetable oil"
         ],
         "tags": [
-            "vegetarian",
             "bento",
             "main",
             "untried"
@@ -16814,8 +16431,7 @@
         "tags": [
             "vegetarian",
             "main",
-            "beans",
-            "untried"
+            "beans"
         ]
     },
     "id529": {
@@ -16840,19 +16456,19 @@
             "1 tbsp rice vinegar\r",
             "2 tsp sugar\r",
             "1\/2 tsp salt\r",
-            "<hr>",
+            "<hr>\r",
             "1 tbsp mayonnaise\r",
             "1 tsp chili sauce, such as Sriracha, sambal olek, etc\r",
             "1 tsp toasted sesame oil\r",
-            "<hr>",
+            "<hr>\r",
             "1 can salmon, drained\r",
             "lettuce\r",
             "2 radishes, thinly sliced\r",
             "1 sheet nori"
         ],
         "tags": [
-            "vegetarian",
             "main",
+            "seafood",
             "untried"
         ]
     },
@@ -17137,6 +16753,48 @@
         ],
         "tags": [
             "dessert"
+        ]
+    },
+    "id538": {
+        "id": "id538",
+        "name": "Pickled Beet & Hard-Boiled Egg Sandwiches with Smoky Mayonnaise",
+        "source": "Blue Apron",
+        "preptime": 1800,
+        "waittime": 0,
+        "cooktime": 1500,
+        "servings": 2,
+        "comments": "",
+        "calories": 1520,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat the oven to 475\u00b0F. Heat a small pot of water to boiling on high. Once boiling, add the **eggs** and cook for exactly 10 minutes. Drain thoroughly and rinse under cold water for 30 seconds to 1 minute to stop the cooking process. When cool enough to handle, carefully peel the cooked eggs. Transfer to a cutting board and thinly slice; season with salt and pepper. Wipe out the pot.\r\n\r\nWhile the eggs cook, prep remaining ingredients. For the **beet**: On a paper towel-lined cutting board, peel and thinly slice. In a bowl, combine the **mayonnaise**, **capers**, **paprika**, and as much of the **garlic**  as you'd like. Season with salt and pepper to taste.\r\n\r\nPlace the **carrots** on a sheet pan. Drizzle with olive oil and season with salt and pepper; toss to thoroughly coat. Arrange in a single, even layer. Roast, stirring halfway through, 14 to 16 minutes, or until tender when pierced with a fork. Remove from the oven.\r\n\r\nWhile the carrots roast, in the same pot, combine the **beet**, **vinegar**, **shallot**, and **water**. Season with salt and pepper. Heat to boiling on high. Once boiling, cover and cook, stirring occasionally, 8 to 10 minutes, or until tender when pierced with a fork. Turn off the heat. Season with salt and pepper to taste.\r\n\r\nWhile the carrots continue to roast, place the **rolls** on a clean, dry work surface. Spread a layer of the **smoky mayonnaise** onto the cut sides of the rolls. Reserving the **pickling liquid**, drain the pickled beet. Divide the **beet**, sliced **eggs**, **cheese**, and as much of the **dill** as you'd like between the roll bottoms. Season with salt and pepper. Complete the sandwiches with the roll tops. In a medium pan (nonstick, if you have one), heat 2 teaspoons of olive oil on medium until hot. Add the sandwiches. Place a heavy-bottomed pot (or pan) on top of the sandwiches; press down. Cook, occasionally pressing down on the pot, 2 to 3 minutes per side, or until lightly browned and slightly flattened. Transfer to a cutting board and cut in half on an angle.\r\n\r\nWhile the sandwiches cook, to make the dressing, place the **reserved pickling liquid** in a bowl; slowly whisk in 1 tablespoon of olive oil until well combined. Season with salt and pepper to taste. In a large bowl, combine the **baby greens** and **roasted carrots**; season with salt and pepper. Add enough of the dressing to coat the salad (you may have extra dressing); toss to combine. Season with salt and pepper to taste. Divide the cooked sandwiches and salad between 2 dishes. Enjoy!",
+        "ingredients": [
+            "2 Eggs\r",
+            "<hr>\r",
+            "2 Tbsp  Mayonnaise\r",
+            "1 1\/2 Tbsp  Capers, roughly chopped\r",
+            "1 clove Garlic, pressed\r",
+            "1\/8 tsp Smoked Paprika\r",
+            "<hr>\r",
+            "2 Carrots, quartered lengthwise and cut crosswise into 2-inch pieces\r",
+            "1 Red Beet, see instructions for prep\r",
+            "1\/4 cup Red Wine Vinegar\r",
+            "1 Shallot, peeled and thinly sliced\r",
+            "3\/4 cup water\r",
+            "<hr>\r",
+            "2 Ciabatta Rolls, halved\r",
+            "1 bunch Dill, roughly chopped\r",
+            "1\/4 cup Crumbled Feta Cheese\r",
+            "2 oz Baby arugula"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "sandwich"
         ]
     }
 }
