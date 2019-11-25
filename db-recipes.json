@@ -10319,42 +10319,6 @@
             "slow_cooker"
         ]
     },
-    "id345": {
-        "id": "id345",
-        "name": "Roasted vegetable salad with goat cheese",
-        "source": "http:\/\/www.marthastewart.com\/338103\/roasted-vegetable-salad-with-goat-cheese",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 1500,
-        "servings": 1,
-        "comments": "",
-        "calories": 575,
-        "fat": 46,
-        "satfat": 10,
-        "carbs": 33,
-        "fiber": 9,
-        "sugar": 16,
-        "protein": 14,
-        "instructions": "1. Preheat oven or toaster oven to 450 degrees. On a rimmed baking sheet, toss carrots, zucchini, and onion with 1 tablespoon oil; season with salt and pepper.\r\n\r\n2. Roast until vegetables are tender and browned, 20 to 25 minutes, tossing once.\r\nIn a serving bowl, whisk together vinegar and remaining tablespoon oil; season with salt and pepper. Add lettuce, and toss. Top with roasted vegetables, pine nuts and goat cheese.",
-        "ingredients": [
-            "2 carrots, cut into 2-inch matchsticks\r",
-            "1 medium zucchini, quartered lengthwise and cut into 1-inch chunks\r",
-            "1 small red onion, cut into wedges, layers separated\r",
-            "1 tablespoon olive oil\r",
-            "Coarse salt and ground pepper\r",
-            "<hr>\r",
-            "1 tablespoon olive oil\r",
-            "1 tablespoon sherry or balsamic vinegar\r",
-            "1 small head Boston lettuce, torn into bite-size pieces\r",
-            "1 oz goat cheese, crumbled\r",
-            "2 tablespoon pine nuts, toasted"
-        ],
-        "tags": [
-            "vegetarian",
-            "salad",
-            "main"
-        ]
-    },
     "id347": {
         "id": "id347",
         "name": "Chopped antipasto salad",
@@ -15070,12 +15034,12 @@
         "fiber": 20,
         "sugar": 8,
         "protein": 100,
-        "instructions": "For the tofu:\r\n\r\n1. Set the oven to 400\u00b0 F and line a baking tray with baking paper. \r\n2. Toast panko breadcrumbs in a small pan until golden (they will gain more colour in the oven). \r\n3. Cut tofu into 4 (or # of servings) thin blocks. Sprinkle tofu with some soy sauce or you can season the flour with plenty of salt instead. \r\n4. Drag tofu in flour making sure that the entire surface area has been coated. Dip the tofu in the egg and finally drag it in the pre-toasted breadcrumbs. \r\n5. Brush a bit of oil on the baking paper underneath the tofu and bake for about 30 minutes (until crisp and dry) flipping the pieces to the other side half way through.\r\n\r\nTo assemble:\r\n\r\n1. Cut a square of cling film slightly larger than your nori sheet. Place it on the table, place the nori sheet on top with the shiny side down and rotated 45\u00b0 in relation to the cling film.\r\n2. Wet your hands (keep a small bowl of water handy to wet your hands) and grab a handful of rice. Place it in the middle of the sheet and using your hands form it into a compacted square (about 9 cm \/ 3.5 \u201d by 9 cm \/ 3.5 \u201c). Try to make that layer as even and compacted as possible. Season well with salt.\r\n3. Place remaining ingredients on top. For the tofu onigirazu, I put a layer of spinach, avocado slices, Sriracha and tofu katsu. At this point cover all the ingredients with another layer of compacted rice. I found it a bit tricky to get the rice packed tightly without squashing the ingredients underneath. My hack solution was to create that top layer of rice on a lightly oiled piece of aluminium foil, put this rice layer on the top of the stack and then peel the foil off at the end (see the video above). Otherwise you can get a special onigirazu mould that makes this easier, but I do not have one.\r\n4. Once you are done with your stack, seal all four corners of the nori sheet on top of the filling. Fold the right corner over the stack, wet the end of the nori sheet with a wet finger and fold the left corner over the stack and \u2018glue\u2019 it to the right corner. Repeat the same thing with bottom and top corners until you get a small packet.\r\n5. Finally gather all the cling film over the stack and tie on the top. Put something moderately heavy (like a breadboard) on the onigirazu and set it aside to let the seaweed soften a little. Cut in half with a sharp knife.",
+        "instructions": "Cook rice: \r\n1. However much cooked rice you need, start with half that of dry rice.\r\n2. Rinse rice to remove starchy coating.\r\n3. Mix with ~1.7x water and a heavy pinch of salt.\r\n4. Boil until done, 20ish minutes.\r\n\r\nFor the tofu:\r\n1. Set the oven to 400\u00b0 F and line a baking tray with baking paper. \r\n2. Toast panko breadcrumbs in a small pan until golden (they will gain more colour in the oven). \r\n3. Cut tofu into thin blocks; ideally equal to # of servings, but if the tofu blocks are narrow, twice that. Sprinkle tofu with some soy sauce or you can season the flour with plenty of salt instead. \r\n4. Drag tofu in flour making sure that the entire surface area has been coated. Dip the tofu in the egg and finally drag it in the pre-toasted breadcrumbs. \r\n5. Brush a bit of oil on the baking paper underneath the tofu and bake for about 10 minutes per side, flipping halfway thru.\r\n\r\nTo assemble:\r\n\r\n1. Cut a square of cling film slightly larger than your nori sheet. Place it on the table, place the nori sheet on top with the shiny side down and rotated 45\u00b0 in relation to the cling film.\r\n2. Wet your hands (keep a small bowl of water handy to wet your hands) and grab a handful of rice. Place it in the middle of the sheet and using your hands form it into a compacted square (about 9 cm \/ 3.5 \u201d by 9 cm \/ 3.5 \u201c). Try to make that layer as even and compacted as possible. Season well with salt. (Ideally, use an onigirazu mold.)\r\n3. Top with tofu, mayo, then veggies, and finally a second layer of rice.\r\n4. Fold the nori corners over the stack, using the cling film to help keep it together without tearing, until you get a small packet.\r\n5. Finally gather all the cling film over the stack and tie on the top. Put something moderately heavy (like a breadboard) on the onigirazu and set it aside to let the seaweed soften a little. Cut in half with a sharp knife.",
         "ingredients": [
             "14 oz firm tofu, pressed\r",
             "soy sauce\r",
             "1 egg, lightly beaten\r",
-            "2 cup panko breadcrumbs\r",
+            "1 cup panko breadcrumbs\r",
             "all purpose flour\r",
             "canola oil\r",
             "<hr>\r",
