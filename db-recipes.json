@@ -16751,5 +16751,39 @@
             "vegetarian",
             "main"
         ]
+    },
+    "id540": {
+        "id": "id540",
+        "name": "Mushroom Barley Soup",
+        "source": "https:\/\/twitter.com\/arh279\/status\/1199061800295305223",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 3600,
+        "servings": 15,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Clean **barley** and put to boil in a large pot of salted water. (If using pearled, boil for 30min; if using hulled, boil for ~1hr.)\r\n2. Soak **porcini mushrooms** in a bowl of very hot water, just enough to cover them.\r\n3. Saute the **onion** with some salt. When they're translucent (~5min), add the **garlic**, **cremini mushrooms**, and more salt, and cook until the mushroom's water is boiled out (~12min).\r\n4. Remove now-rehydrated mushrooms from the water (reserving the water!) and rough chop. Add to the onion\/mushroom mixture, along with a tsp of truffle oil. Cook for 5min.\r\n5. When barley is done (do not drain!), add the onion\/mushroom mixture, the **potatoes**, the **reserved mushroom water**, some more truffle oil, and a heavy pinch of salt. Cook for ~15min, until potatoes are tender.\r\n6. Serve with dollop of sour cream and a few drops of truffle oil.",
+        "ingredients": [
+            "2 cup barley (preferably pearled)\r",
+            "1 large onion, diced\r",
+            "4 clove garlic, rough chopped\r",
+            "2 large potatoes, medium diced\r",
+            "2 lb cremini mushrooms, diced\r",
+            "4 oz dried porcini mushrooms\r",
+            "truffle oil\r",
+            "sour cream (for serving)"
+        ],
+        "tags": [
+            "vegetarian",
+            "soup",
+            "main",
+            "untried"
+        ]
     }
 }
