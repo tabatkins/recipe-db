@@ -15077,6 +15077,7 @@
             "3\/4 cup cooked sushi rice\r",
             "mayonnaise, to taste\r",
             "Dijon mustard, to taste\r",
+            "1 egg, hard cooked\r",
             "2 small leaves of romaine lettuce\r",
             "1\/2 small carrot, peeled and julienned\r",
             "1\/8 English cucumber, thinly sliced\r",
@@ -15137,10 +15138,10 @@
         "fiber": 16,
         "sugar": 16,
         "protein": 112,
-        "instructions": "Bring a large pan of salted water to the boil and cook the orzo following pack instructions. Meanwhile, mix the chopped oregano in a small bowl with the oil and brush some over the halloumi. Heat a large, non-stick frying pan and cook the halloumi for a few mins each side until golden and soft.\r\n\r\nDrain the cooked orzo and mix with the tomatoes, olives and pesto. Season to taste. Spoon onto a serving plate and top with the halloumi. Drizzle over any remaining oregano oil and scatter over the leaves.",
+        "instructions": "Bring a large pan of salted water to the boil and cook the orzo following pack instructions. Meanwhile, mix the oregano in a small bowl with the oil and brush some over the halloumi. Heat a large, non-stick frying pan and cook the halloumi for a few mins each side until golden and soft.\r\n\r\nDrain the cooked orzo and mix with the tomatoes, olives and pesto. Season to taste. Spoon onto a serving plate and top with the halloumi. Drizzle over any remaining oregano oil and scatter over the leaves.",
         "ingredients": [
             "12 oz dried orzo\r",
-            "1\/2 oz fresh oregano, leaves picked, large ones roughly chopped\r",
+            "1 tsp dried oregano\r",
             "3 tbsp olive oil\r",
             "9 oz halloumi, sliced\r",
             "7 oz cherry tomatoes, halved\r",
@@ -16783,6 +16784,78 @@
             "soup",
             "main",
             "untried"
+        ]
+    },
+    "id541": {
+        "id": "id541",
+        "name": "Egg, cucumber and smoked gouda spread sandwiches",
+        "source": "Blue Apron",
+        "preptime": 1500,
+        "waittime": 0,
+        "cooktime": 540,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "",
+        "ingredients": [
+            "2 small baguettes or rolls\r",
+            "2 eggs\r",
+            "2 Persian cucumbers\r",
+            "1 persimmon\r",
+            "2 oz smoked Gouda cheese\r",
+            "2 Tbsp mayonnaise\r",
+            "1 Tbsp sugar\r",
+            "1 oz pickled jalapenos\r",
+            "1 Tbsp Dijon mustard\r",
+            "1 Tbsp apple cider vinegar\r",
+            "1\/2 Tbsp Southern Spice Blend\r",
+            "1 head butter lettuce"
+        ],
+        "tags": [
+            "vegetarian",
+            "sandwich"
+        ]
+    },
+    "id542": {
+        "id": "id542",
+        "name": "Miso sweet potato donburi",
+        "source": "Blue Apron",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 1200,
+        "servings": 2,
+        "comments": "Reduced amount of rice and sweet potatoes",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "",
+        "ingredients": [
+            "1\/2 cup sushi rice, uncooked\r",
+            "2 eggs\r",
+            "3\/4 lb sweet potatoes\r",
+            "2 green onions\r",
+            "1\/2 lb cabbage\r",
+            "2 tbsp mayonnaise\r",
+            "2 clove black garlic\r",
+            "1 tbsp mirin\r",
+            "1\/4 cup sweet chili sauce\r",
+            "1 tbsp sweet white miso paste\r",
+            "1 tbsp rice vinegar\r",
+            "1 tsp furikake"
+        ],
+        "tags": [
+            "vegetarian",
+            "rice"
         ]
     }
 }
