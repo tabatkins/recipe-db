@@ -15830,41 +15830,6 @@
             "vegetarian"
         ]
     },
-    "id515": {
-        "id": "id515",
-        "name": "Maple-sherry sweet potato hash",
-        "source": "Blue Apron",
-        "preptime": 1200,
-        "waittime": 0,
-        "cooktime": 1200,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a large pan (nonstick, if you have one), heat olive oil on medium-high until hot. Add the sweet potatoes, onion and parsnips; season with salt and pepper. Cook, stirring occasionally, 11 to 13 minutes, or until browned and just tender.\r\n\r\nAdd the apple and thyme; season with salt and pepper. Cook, stirring occasionally, 4 to 6 minutes or until softened and fragrant. Add the maple syrup and vinegar. Cook stirring constantly, 30 seconds to 1 minute, or until thoroughly combined. Season with salt and pepper to taste. Top with eggs before serving.",
-        "ingredients": [
-            "1 tbsp olive oil\r",
-            "2 small sweet potatoes, peeled and medium diced\r",
-            "1 medium red onion, peeled and medium diced\r",
-            "2 medium parsnips, peeled and medium diced\r",
-            "1 medium apple, peeled, cored and medium diced\r",
-            "1\/2 tsp fresh thyme\r",
-            "1 1\/2 tbsp maple syrup\r",
-            "1 1\/2 tbsp sherry vinegar\r",
-            "2 eggs, fried or soft boiled\r",
-            "salt and pepper"
-        ],
-        "tags": [
-            "breakfast",
-            "vegetarian",
-            "untried"
-        ]
-    },
     "id516": {
         "id": "id516",
         "name": "Whipped eggs on toast",
