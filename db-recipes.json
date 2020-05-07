@@ -17094,5 +17094,40 @@
         "tags": [
             "components"
         ]
+    },
+    "id551": {
+        "id": "id551",
+        "name": "Gluten-Free Chocolate-Tahini Brownies",
+        "source": "https:\/\/www.bonappetit.com\/recipe\/gluten-free-chocolate-tahini-brownies",
+        "preptime": 900,
+        "waittime": 600,
+        "cooktime": 1500,
+        "servings": 16,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 350\u00b0. Line an 8x8\" baking dish with 2 overlapping pieces of parchment paper, leaving at least a 3\" overhang on 2 sides.\r\n\r\nWhisk cornstarch and cocoa powder in a medium bowl until no lumps remain. Heat chocolate, oil, and 1 Tbsp. tahini in a small saucepan over low, stirring, until melted and smooth.\r\n\r\nUsing an electric mixer on medium-high speed, beat eggs, granulated sugar, and brown sugar in a large bowl until light, smooth, and doubled in volume, 3\u20134 minutes. Beat in salt and vanilla to combine, then beat in chocolate mixture, scraping down sides as needed, until incorporated. Beat in cornstarch mixture, then increase speed to medium-high and beat until mixture is thick and holds its shape, about 30 seconds.\r\n\r\nStir agave syrup and remaining 3 Tbsp. tahini in a small bowl. Scrape batter into prepared baking dish and smooth top. Dollop agave mixture over and swirl into top of batter with a skewer or toothpick.\r\n\r\nBake brownies until sides are puffed, top is browned, and a tester inserted into the center comes out with a few moist crumbs attached, 22\u201326 minutes. Let cool before removing from pan and cutting into 16 squares.\r\n\r\nDo Ahead: Brownies can be made 3 days ahead. Wrap in plastic and store at room temperature.",
+        "ingredients": [
+            "3 tablespoon cornstarch\r",
+            "2 tablespoon unsweetened cocoa powder\r",
+            "6 ounce bittersweet chocolate, coarsely chopped\r",
+            "3 tablespoon virgin coconut oil\r",
+            "4 tablespoon tahini, divided\r",
+            "2 large eggs\r",
+            "1\/3 cup granulated sugar\r",
+            "1\/4 cup light brown sugar, packed\r",
+            "1 teaspoon kosher salt\r",
+            "1 teaspoon vanilla extract\r",
+            "1 tablespoon light agave syrup"
+        ],
+        "tags": [
+            "dessert",
+            "untried"
+        ]
     }
 }
