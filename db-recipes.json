@@ -6575,38 +6575,6 @@
             "untried"
         ]
     },
-    "id214": {
-        "id": "id214",
-        "name": "Vegetable egg scramble with feta",
-        "source": "Everyday Food Nov 2011",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 480,
-        "servings": 2,
-        "comments": "",
-        "calories": 536,
-        "fat": 38,
-        "satfat": 14,
-        "carbs": 14,
-        "fiber": 2,
-        "sugar": 6,
-        "protein": 36,
-        "instructions": "In a large nonstick skillet, heat oil over medium-high. Add onion, tomato, and zucchini and cook until vegetables are just tender, about 5 minutes.\r\n\r\nStir in spinach and cook until beginning to wilt, 1 minute. Season eggs with salt and pepper and add to skillet. Cook, stirring with a rubber spatula, until eggs are set, about 2 minutes. To serve, divide between two plates and sprinkle with feta.",
-        "ingredients": [
-            "2 teaspoon extra-virgin olive oil\r",
-            "1 small red onion, cut into 1\/2-inch wedges\r",
-            "1 plum tomato, seeded and diced medium\r",
-            "1\/2 small zucchini, diced medium\r",
-            "1 ounce baby spinach, about 1 cup\r",
-            "4 eggs, lightly beaten \r",
-            "Coarse salt and ground pepper\r",
-            "1 1\/2 ounce feta, crumbled (3 tablespoons)"
-        ],
-        "tags": [
-            "breakfast",
-            "vegetarian"
-        ]
-    },
     "id215": {
         "id": "id215",
         "name": "Roasted sweet potato salsa",
@@ -7497,38 +7465,6 @@
             "salad",
             "kale",
             "main"
-        ]
-    },
-    "id248": {
-        "id": "id248",
-        "name": "Shaved Brussels Sprout and Kale Slaw with Pecorino and Toasted Hazelnuts",
-        "source": "http:\/\/www.foodnetwork.com\/recipes\/guy-fieri\/shaved-brussels-sprout-and-kale-slaw-with-pecorino-and-toasted-hazelnuts-recipe\/index.html",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat the oven to 375 degrees F.\r\n\r\nRoughly chop the hazelnuts, and then spread them out on a sheet pan and roast in the oven until golden, 5 to 7 minutes.\r\n\r\nWash and pat dry the Brussels sprouts and kale. Cut the Brussels sprouts in half lengthwise, through the stem. Using a sharp knife or mandoline, finely slice the Brussels sprouts crosswise to give you fine ribbons. Remove the tough stems from the kale leaves and discard. Stack the leaves up on top of one another and cut across the stem so it yields a similar shape to the shaved Brussels sprouts. Cut the sides of the apple off and cut into thin slices.\r\n\r\nTo make the vinaigrette, combine the olive oil, champagne vinegar, Dijon mustard and some salt and pepper in a bowl, whisking together until lightly emulsified. To serve, mix the Brussels sprouts, kale and apple together well in a large salad bowl. Lightly dress with the champagne vinaigrette, and then top with shaved Pecorino and chopped toasted hazelnuts.",
-        "ingredients": [
-            "1\/2 cup skinless hazelnuts\r",
-            "8 ounce Brussels sprouts\r",
-            "1 small bunch kale (about 4 cups lightly packed leaves)\r",
-            "1 small Granny Smith apple\r",
-            "6 tablespoon olive oil\r",
-            "3 tablespoon champagne vinegar\r",
-            "1\/2 teaspoon Dijon mustard\r",
-            "Kosher salt and freshly cracked black pepper\r",
-            "1\/3 cup grated Pecorino"
-        ],
-        "tags": [
-            "salad"
         ]
     },
     "id249": {
@@ -17124,6 +17060,32 @@
         "tags": [
             "dessert",
             "untried"
+        ]
+    },
+    "id552": {
+        "id": "id552",
+        "name": "Eggs on Toast",
+        "source": "",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Make toast. When done, top with garlic salt to taste.\r\n\r\nWhile the toast is cooking, fry the eggs to a hard yolk. Put one on each slice of toast.",
+        "ingredients": [
+            "2 eggs\r",
+            "2 slices toast\r",
+            "garlic salt"
+        ],
+        "tags": [
+            "breakfast"
         ]
     }
 }
