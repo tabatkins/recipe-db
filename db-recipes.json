@@ -17128,5 +17128,38 @@
             "beans",
             "untried"
         ]
+    },
+    "id554": {
+        "id": "id554",
+        "name": "Smoky Brussels Sprouts & Black Bean Tacos",
+        "source": "https:\/\/www.blueapron.com\/recipes\/smoky-brussels-sprouts-black-bean-tacos-with-roasted-sweet-potatoes",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1500,
+        "servings": 2,
+        "comments": "",
+        "calories": 1480,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat the oven to 450\u00b0. Toss **potatoes** with oil, salt, and pepper, and roast for 22 minutes (until browned and tender).\r\n\r\nAdd oil to a large pan. When hot, add the **brussels sprouts**, **chili paste**, salt, and pepper. Saute, stirring occasionally, until browned and tender, about 5 minutes. Transfer to bowl.\r\n\r\nAdd more oil to pan, then add **scallion whites** and **brown sugar**, and season. Cook 30s-1min, until lightly browned and softened. Add the **beans** and 1\/8 cup water. Cook 3-4min, stirring occasionally and mashing the beans as they soften until the mixture is thickened. Taste and season if needed.\r\n\r\nCombine the **sour cream** and **vinegar**, seasoning to taste.\r\n\r\nWarm the **tortillas**, fill with beans and brussels sprouts, and top with seasoned sour cream and scallion greens. Serve with potatoes on the side.",
+        "ingredients": [
+            "4 flour tortillas\r",
+            "1 can black beans, drained and rinsed\r",
+            "1 lb sweet potatoes, sliced thin for roasting\r",
+            "1\/2 lb brussels sprouts, shredded\r",
+            "2 scallions, diced, greens and whites divided\r",
+            "1 tbsp light brown sugar\r",
+            "2 tsp chipotle chili paste\r",
+            "1\/4 cup sour cream\r",
+            "1 tbsp rice vinegar"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
     }
 }
