@@ -4510,7 +4510,7 @@
         "preptime": 0,
         "waittime": 0,
         "cooktime": 0,
-        "servings": 8,
+        "servings": 4,
         "comments": "",
         "calories": 1168,
         "fat": 48,
@@ -16731,7 +16731,8 @@
         ],
         "tags": [
             "vegetarian",
-            "rice"
+            "rice",
+            "main"
         ]
     },
     "id543": {
