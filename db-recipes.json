@@ -17131,5 +17131,107 @@
             "vegetarian",
             "main"
         ]
+    },
+    "id555": {
+        "id": "id555",
+        "name": "Japanese egg salad sandwich (tamago sando)",
+        "source": "NYT Cooking",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1200,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Fill a large pot with water, leaving a few inches of space at the top, and bring to a boil over high. Prepare 2 ice baths in 2 medium bowls.\r\n\r\nMeanwhile, prepare the dressing: In a small bowl, stir together the scallion, mayonnaise, cr\u00e8me fra\u00eeche, vinegar and mustard. Season to taste with kosher\r\n\r\nOnce the water reaches a boil, gently drop in all eggs and let the water come back to a boil. As soon as it does so, reduce the heat to medium-low and cook the eggs at a gentle simmer, 8 minutes. Transfer half of the soft-boiled eggs to one ice bath. Continue to cook the remaining eggs until hard-boiled, another 6 minutes, then transfer them to the second ice bath. Let sit, 5 minutes. Crack all cooked egg shells by gently hitting them all over with the back of a spoon.\r\n\r\nWorking directly in the bowl, peel the hard-boiled eggs, keeping them partly immersed (the water helps loosen the shells). Transfer the hard-boiled eggs to a cutting board and chop them into 1\/4-inch pieces. Gently fold the chopped eggs into the egg salad dressing using a rubber spatula. Season to taste with kosher salt.\r\n\r\nWorking directly in the second bowl, carefully peel the soft-boiled eggs. Transfer the peeled eggs to the cutting board and slice them in half lengthwise. The yolks should be creamy but not runny. If the yolks are runny, make another batch of soft-boiled eggs. (You\u2019ll only need 1 soft-boiled egg per sandwich, so snack on any extra or imperfectly peeled pieces with some flaky sea salt, if desired.)\r\n\r\nSlather mustard on 1 side of 4 bread slices and mayonnaise on 1 side of the remaining 4 bread slices. \r\n\r\nSprinkle flaky sea salt on the halved soft-boiled eggs. Arrange 2 halves down the center of each slice of mustard-slathered bread, laying them yolk side down, and positioning them so the narrower tips point outward toward the crust of the bread and the wider, rounder portions (with the yolks) are in the middle of the bread. Place both halves close enough so that they touch in the center of the bread.\r\n\r\nDivide the egg salad among the sandwiches, gently plopping 1\/2-cup scoops of egg salad on top of each pair of soft-boiled eggs on each of the 4 bread slices. Using an offset spatula, spread the egg salad evenly toward the crusts in all directions until bread is covered.\r\n\r\nTop with the remaining slices of bread, mayonnaise side down. Using a serrated knife, carefully slice the crusts off on the left and the right sides of each sandwich. (These should be the 2 sides that are parallel to the soft-boiled eggs.)\r\n\r\nRotate each sandwich 90 degrees and cut each sandwich into thirds, cutting parallel to the crust sides of the sandwiches, creating a beautiful exposed cross section. Serve immediately or refrigerate up to 24 hours.",
+        "ingredients": [
+            "Ice cubes, for ice baths\r",
+            "1 green onion, very thinly sliced\r",
+            "1 tablespoon Kewpie mayonnaise, plus more for spreading on bread\r",
+            "1 tablespoon creme fraiche\r",
+            "1 1\/2 teaspoon rice wine vinegar\r",
+            "1 1\/2 teaspoon Dijon mustard, plus more for spreading on bread\r",
+            "Kosher salt\r",
+            "12 large eggs\r",
+            "Flaky sea salt, such as Maldon\r",
+            "8 slices milk bread, brioche or white sandwich bread"
+        ],
+        "tags": [
+            "vegetarian",
+            "sandwich",
+            "untried"
+        ]
+    },
+    "id556": {
+        "id": "id556",
+        "name": "Kaeshi",
+        "source": "The Just Bento Cookbook by Makiko Itoh",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 900,
+        "servings": 6,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Put the mirin in a saucepan over high heat and bring to a boil. Lower the heat and simmer for 5-6 minutes.\r\n\r\nAdd the sugar and stir until melted. Add the soy sauce and heat up slowly over medium-low heat, stirring several times, until the surface is barely bubbling. It should not boil vigorously or the flavor of the soy sauce will dissipate. Simmer gently for 5 minutes, skimming off any white scum that forms on the surface.\r\n\r\nLet cool and store in a glass jar or other nonreactive, airtight container. The kaeshi can be used immediately but is better if rested for at least a day. Store in the refrigerator or other cool, dark, place. It will keep for several months.",
+        "ingredients": [
+            "3\/4 cup mirin\r",
+            "3\/4 cup granulated sugar\r",
+            "4 1\/4 cup soy sauce (dark)"
+        ],
+        "tags": [
+            "components"
+        ]
+    },
+    "id557": {
+        "id": "id557",
+        "name": "Soba Noodle Bento",
+        "source": "The Just Bento Cookbook by Makiko Itoh",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "For noodles:: Bring a large pot of water to a boil. Put the noodles in the boiling water and lower the heat. The water should just bubble gently, not be at a rolling boil. Stir gently. Cook for 5 to 8 minutes until noodles are cooked through, a bit past the al dente stage.\r\n\r\nDrain the noodles and rinse under cold water to cool quickly. Rinse until noodles are smooth and firm and not at all sticky. Allow noodle to drain in colander while the rest is being prepped.\r\n\r\nFor dipping sauce: combine dashi and kaeshi. Pack in a leak-proof container.\r\n\r\nFor crab salad: Massage the cabbage with the salt until the cabbage has wilted. Squeeze well to expel excess moisture. Put in a bowl, add the vinegar and sugar, and mix. Add the crab and taste; add a little more salt if needed. Sprinkle with sansho or black pepper.\r\n\r\nTo pack: Put the noodles in one compartment, sprinkle with green onion, keep nori and sesame seeds separate. Pack crab and cabbage salad in a divider cup. Halve egg and pack near noodles. Fill in any gaps with cherry tomatoes.",
+        "ingredients": [
+            "3 1\/2 oz dried soba noodles (1 bundle)\r",
+            "2 Tbsp green onion, finely chopped\r",
+            "1\/2 Tbsp toasted sesame seeds\r",
+            "1 Tbsp nori seaweed, finely shredded\r",
+            "shichimi pepper, to taste\r",
+            "<hr>\r",
+            "1\/4 cup dashi stock\r",
+            "1\/4 cup kaeshi\r",
+            "<hr>\r",
+            "1 cup cabbage, finely shredded\r",
+            "1\/4 tsp salt\r",
+            "1 Tbsp rice vinegar\r",
+            "1 tsp sugar\r",
+            "1\/4 cup crabmeat or imitation crab\r",
+            "<hr>\r",
+            "1 egg, hard-boiled\r",
+            "4 cherry tomatoes"
+        ],
+        "tags": [
+            "bento",
+            "untried"
+        ]
     }
 }
