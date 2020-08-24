@@ -609,71 +609,6 @@
             "vegetarian"
         ]
     },
-    "22": {
-        "id": "22",
-        "name": "The Ultimate Green Smoothie",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 427,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "To prepare, just throw everything in a blender and give it a whirl!",
-        "ingredients": [
-            "1 apple\r",
-            "1 banana\r",
-            "3 leaves kale, stemmed\r",
-            "1\/2 cup spinach\r",
-            "1 scoop protein powder\r",
-            "1 tbsp hemp seeds\r",
-            "1 tsp maple syrup or agave\r",
-            "1 lime, juiced\r",
-            "2 cup water"
-        ],
-        "tags": [
-            "smoothie",
-            "FUF",
-            "breakfast"
-        ]
-    },
-    "26": {
-        "id": "26",
-        "name": "Tropical Nut Smoothie",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 628,
-        "fat": 18,
-        "satfat": 14,
-        "carbs": 81,
-        "fiber": 7,
-        "sugar": 61,
-        "protein": 42,
-        "instructions": "Combine all ingredients in blender. Blend until smooth.",
-        "ingredients": [
-            "1 cup pineapple chunks\r",
-            "1 banana\r",
-            "1\/4 cup coconut milk\r",
-            "2 tbsp cocoa powder\r",
-            "1 scoop protein powder (optional)\r",
-            "2 cup skim milk"
-        ],
-        "tags": [
-            "smoothie",
-            "FUF",
-            "breakfast"
-        ]
-    },
     "28": {
         "id": "28",
         "name": "Guacamole",
@@ -733,38 +668,6 @@
             "1 tsp maple syrup\r",
             "2 tsp cinnamon\r",
             "2 cup almond milk, or skim milk"
-        ],
-        "tags": [
-            "smoothie",
-            "FUF",
-            "breakfast"
-        ]
-    },
-    "31": {
-        "id": "31",
-        "name": "The Ironman Smoothie",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a blender, blend all ingredients until smooth",
-        "ingredients": [
-            "10 strawberries\r",
-            "10 raspberries\r",
-            "1 slice of watermelon\r",
-            "1 handful parsley\r",
-            "1\/2 cup water\r",
-            "3 ice cubes, if desired\r",
-            "1\/2 lemon, juiced"
         ],
         "tags": [
             "smoothie",
@@ -912,36 +815,6 @@
             "asian",
             "vegetarian",
             "main"
-        ]
-    },
-    "47": {
-        "id": "47",
-        "name": "Blueberry Bliss Smoothie",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 501,
-        "fat": 3,
-        "satfat": 1,
-        "carbs": 82,
-        "fiber": 6,
-        "sugar": 62,
-        "protein": 40,
-        "instructions": "Combine all ingredients in blender. Blend until smooth.",
-        "ingredients": [
-            "1 cup blueberries\r",
-            "1 banana\r",
-            "1 scoop protein powder\r",
-            "1 tsp maple syrup\r",
-            "2 cup skim milk"
-        ],
-        "tags": [
-            "FUF",
-            "smoothie",
-            "breakfast"
         ]
     },
     "48": {
@@ -1768,39 +1641,6 @@
             "chocolate"
         ]
     },
-    "id23": {
-        "id": "id23",
-        "name": "Exercise Rejuvenator",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Blend until smooth",
-        "ingredients": [
-            "2 cup almond milk\r",
-            "1 banana \r",
-            "1\/2 cup blueberries \r",
-            "1 tbsp ground flax seed \r",
-            "1 tbsp hemp protein powder \r",
-            "1 tbsp ground sesame seeds \r",
-            "1 tbsp pumpkin seeds \r",
-            "1 tbsp flax\/hemp\/fish oil"
-        ],
-        "tags": [
-            "smoothie",
-            "FUF",
-            "breakfast"
-        ]
-    },
     "id25": {
         "id": "id25",
         "name": "Pesto Orzo with Peas",
@@ -2276,37 +2116,6 @@
         "tags": [
             "vegetarian",
             "main"
-        ]
-    },
-    "id40": {
-        "id": "id40",
-        "name": "Muscle Maximizer",
-        "source": "Yuri Elkhaim",
-        "preptime": 300,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 850,
-        "fat": 50,
-        "satfat": 26,
-        "carbs": 100,
-        "fiber": 16,
-        "sugar": 68,
-        "protein": 10,
-        "instructions": "Blend all ingredients until smooth",
-        "ingredients": [
-            "1 banana\r",
-            "2 tbsp almond butter\r",
-            "2 dates\r",
-            "1\/4 cup shredded coconut\r",
-            "1 cup water\r",
-            "1 cup almond milk"
-        ],
-        "tags": [
-            "FUF",
-            "smoothie",
-            "breakfast"
         ]
     },
     "id43": {
@@ -8015,34 +7824,6 @@
             "sauce"
         ]
     },
-    "id269": {
-        "id": "id269",
-        "name": "Cherry almond smoothie",
-        "source": "",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 1,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Blend until smooth. Add ice to blender if desired.",
-        "ingredients": [
-            "1 cup milk\r",
-            "1 cup cherries, pitted\r",
-            "1\/4 tsp almond extract\r",
-            "1 scoop vanilla protein powder"
-        ],
-        "tags": [
-            "smoothie",
-            "breakfast"
-        ]
-    },
     "id270": {
         "id": "id270",
         "name": "Veggie Pizza",
@@ -9388,7 +9169,7 @@
         "preptime": 600,
         "waittime": 0,
         "cooktime": 1800,
-        "servings": 8,
+        "servings": 4,
         "comments": "",
         "calories": 0,
         "fat": 0,
@@ -15069,7 +14850,7 @@
         "fiber": 16,
         "sugar": 16,
         "protein": 112,
-        "instructions": "Bring a large pan of salted water to the boil and cook the orzo following pack instructions. Meanwhile, mix the oregano in a small bowl with the oil and brush some over the halloumi. Heat a large, non-stick frying pan and cook the halloumi for a few mins each side until golden and soft.\r\n\r\nDrain the cooked orzo and mix with the tomatoes, olives and pesto. Season to taste. Spoon onto a serving plate and top with the halloumi. Drizzle over any remaining oregano oil and scatter over the leaves.",
+        "instructions": "Bring a large pan of salted water to the boil and cook the orzo following pack instructions. Meanwhile, mix the oregano in a small bowl with the oil and brush some over the halloumi. Heat a large, non-stick frying pan and cook the halloumi for a few mins each side until golden and soft.\r\n\r\nDrain the cooked orzo and mix with the tomatoes, olives and pesto. Season to taste. Spoon onto a serving plate and top with the halloumi.",
         "ingredients": [
             "12 oz dried orzo\r",
             "1 tsp dried oregano\r",
