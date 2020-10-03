@@ -17050,5 +17050,46 @@
             "vegetarian",
             "untried"
         ]
+    },
+    "id559": {
+        "id": "id559",
+        "name": "Scallops over Truffled Mushroom Risotto",
+        "source": "Hello Fresh",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 3000,
+        "servings": 2,
+        "comments": "Rachel added white wine to the recipe and moved the mushroom to cook in the risotto rather than separately",
+        "calories": 1520,
+        "fat": 84,
+        "satfat": 34,
+        "carbs": 154,
+        "fiber": 10,
+        "sugar": 14,
+        "protein": 28,
+        "instructions": "Bring stock to a boil in a medium pot. Once boiling, reduce to a low simmer. Meanwhile, prep remaining ingredients.\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add mushrooms and season with salt and pepper. Cook, stirring occasionally, until browned and crisp, 6-8 minutes. Add garlic and shallot. Cook, stirring, until softened, 1 minute. Add rice; stir until translucent, 1-2 minutes. Add wine; stir until liquid has mostly absorbed. Add stock 1\/2 cup at a time and stirring until liquid has mostly absorbed\u2014until rice is al dente and mixture is creamy, 25-30 minutes. TIP: Depending on the size of your pan, you may need a little more or a little less liquid.\r\n\r\nAfter about half of stock is used in risotto, pat scallops* dry with paper towels and season generously all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add scallops and cook until browned and cooked through, 3-5 minutes per side. Turn off heat; remove from pan and set aside, covered. Wipe out pan.\r\n\r\nMelt 2 tbsp butter in same pan over medium heat. Cook, stirring, until foamy and flecked with amber brown bits, 2-4 minutes. Stir in half the chopped parsley and a squeeze of lemon juice. Immediately transfer to a small bowl. Once risotto is done, stir in Parmesan, 1 tbsp plain butter, a squeeze of lemon juice, and lemon zest and truffle oil to taste.\r\n\r\nSeason risotto with salt, pepper, and more lemon juice to taste. \u2022 Divide between bowls; top with scallops. Drizzle with as much brown butter as you like and any remaining truffle oil to taste. Garnish with remaining chopped parsley. Serve with any remaining lemon wedges on the side.\r\n\r\n",
+        "ingredients": [
+            "3 1\/2 cup chicken stock\r",
+            "1 clove garlic, peeled and thinly sliced\r",
+            "1 shallot, minced\r",
+            "3\/4 cup arborio rice\r",
+            "1\/4 cup dry white wine\r",
+            "8 oz cremini mushrooms, sliced into 1\/4-inch thick pieces\r",
+            "1 lemon, zested and juiced\r",
+            "1\/4 oz fresh parsley, chopped\r",
+            "8 oz scallops, tough muscle removed if needed\r",
+            "2 tbsp butter\r",
+            "<hr>\r",
+            "1\/4 cup parmesan cheese, grated\r",
+            "1 tbsp butter\r",
+            "5 tsp truffle oil\r",
+            "vegetable oil\r",
+            "salt\r",
+            "pepper"
+        ],
+        "tags": [
+            "seafood",
+            "untried"
+        ]
     }
 }
