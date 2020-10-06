@@ -17091,5 +17091,72 @@
             "seafood",
             "untried"
         ]
+    },
+    "id560": {
+        "id": "id560",
+        "name": "Snickerdoodle mug cake",
+        "source": "Kirbiecravings.com",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 60,
+        "servings": 1,
+        "comments": "This fits an 8oz mug, can multiply by 1.5 or 2 for a 12-16oz mug.",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "In a small bowl, add all cake ingredients. Mix with a whisk until batter is smooth. It will be thick.\r\n\r\nIn another small bowl, add cinnamon and sugar topping ingredients. Whisk until evenly mixed.\r\n\r\nWith a large spoon, place about half of the cake batter into a microwave-safe mug. Sprinkle half of the cinnamon sugar topping over the batter in the mug. Then add the other half of the cake batter to the mug. Sprinkle remaining cinnamon sugar topping evenly across the top of the cake.\r\n\r\nMicrowave cake at full power for about 1 minute or until cake is cooked. Let cool a few minutes before eating. Cake is best enjoyed shortly after it is cooked.",
+        "ingredients": [
+            "1\/4 cup all-purpose flour\r",
+            "1\/4 tsp baking powder\r",
+            "1 tbsp granulated sugar\r",
+            "1\/4 tsp ground cinnamon\r",
+            "3 tbsp milk\r",
+            "1 tbsp unsalted butter, melted\r",
+            "1\/4 tsp vanilla\r",
+            "<hr>",
+            "1\/8 tsp ground cinnamon\r",
+            "1\/2 tbsp granulated sugar"
+        ],
+        "tags": [
+            "dessert"
+        ]
+    },
+    "id561": {
+        "id": "id561",
+        "name": "Dark chocolate raspberry breakfast bake",
+        "source": "https:\/\/www.runningwithspoons.com\/dark-chocolate-raspberry-breakfast-bake\/",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 1200,
+        "servings": 1,
+        "comments": "removed maple syrup and applesauce and increased almond milk (since we only use sweetened almond milk at home)",
+        "calories": 384,
+        "fat": 9,
+        "satfat": 3,
+        "carbs": 67,
+        "fiber": 13,
+        "sugar": 10,
+        "protein": 14,
+        "instructions": "Preheat your oven to 350\u00b0F (176\u00b0C), and lightly coat an individual sized ramekin or oven-safe bowl with cooking spray or oil.\r\n\r\nIn a medium-sized mixing bowl, whisk together the oats, flour, cocoa powder, baking powder, and salt. Add the almond milk, and vanilla, and mix until well combined. Fold in the raspberries and dark chocolate chunks, reserving a few to sprinkle on the top.\r\n\r\nTransfer the batter to your greased ramekin and top it with the remaining chocolate chunks . Bake for 20-25 minutes, depending on desired consistency.\r\n\r\nRemove your bake from oven and allow to cool for about 5 minutes before adding any additional toppings and digging in!",
+        "ingredients": [
+            "1\/3 cup rolled oats\r",
+            "2 Tbsp all-purpose flour\r",
+            "2 Tbsp unsweetened cocoa powder\r",
+            "1\/4 tsp baking powder\r",
+            "pinch of salt\r",
+            "1\/4 cup almond milk\r",
+            "1 tsp vanilla\r",
+            "1\/4 cup raspberries, fresh or frozen\r",
+            "1\/2 Tbsp dark chocolate, coarsely chopped"
+        ],
+        "tags": [
+            "breakfast",
+            "vegetarian",
+            "untried"
+        ]
     }
 }
