@@ -17191,5 +17191,47 @@
             "vegetarian",
             "untried"
         ]
+    },
+    "id563": {
+        "id": "id563",
+        "name": "Spicy poblano and mushroom quesadillas",
+        "source": "Blue Apron",
+        "preptime": 1500,
+        "waittime": 0,
+        "cooktime": 900,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Combine diced **avocado** and juice from **1\/4 lime** in a bowl, season with salt and pepper.\r\n\r\nIn a large pan, heat 1 tbsp olive oil on medium-high until hot. Add **mushrooms** and **pepper**, season with salt and pepper. Cook, stirring occasionally, 5 to 6 minutes, or until lightly browned and slightly softened.\r\n\r\nAdd **water** and as much of the **chile paste** as you'd like. Season with salt and pepper. Cook, stirring constantly, 30 seconds to a minute, or until thickened and most of the water has cooked off.\r\n\r\nTurn off heat and stir in **1\/2 tbsp cilantro** and juice from **1\/4 lime**.\r\n\r\nPlace the **tortillas** on a work surface. Divide **half the cheddar cheese** between 2 of the tortillas; top with the cooked vegetables and **remaining cheddar**. Complete the quesadillas with the remaining tortillas. Rinse and wipe out the pan.\r\n\r\nIn the same pan, heat 1 tbsp olive oil on medium until hot. Working 1 at a time, add the quesadillas and cook 2-3 minutes per side, or until the tortillas are browned and the cheese has melted. Transfer to a work surface. Immediately season with salt.\r\n\r\nWhile the quesadillas cook, in a medium bowl, combine the lettuce, radishes, **juice of 1\/2 lime**, and a drizzle of olive oil. Season with salt and pepper. Toss to combine.\r\n\r\nTo serve, cut the quesadillas into quarters. Divide the salad and quesadillas between 2 dishes. Top the salad with the **seasoned avocado** and **Cotija cheese**. Garnish the quesadillas with the remaining **cilantro**. Enjoy!",
+        "ingredients": [
+            "1 avocado, pitted, peeled and large diced\r",
+            "1\/4 lime, juiced\r",
+            "<hr>\r",
+            "4 oz cremini mushrooms, thinly sliced\r",
+            "1 poblano pepper, thinly sliced lengthwise\r",
+            "1\/4 cup water\r",
+            "1 tbsp chipotle chile paste, or to taste\r",
+            "1\/2 tbsp cilantro, roughly chopped\r",
+            "1\/4 lime, juiced\r",
+            "<hr>\r",
+            "4 small flour tortillas\r",
+            "4 oz cheddar cheese, grated\r",
+            "<hr>\r",
+            "1 romaine lettuce heart, cut into bite sized pieces\r",
+            "3 radishes, sliced into rounds\r",
+            "1\/2 lime, juiced\r",
+            "2 tbsp Cotija cheese, grated\r",
+            "1\/2 tbsp cilantro, roughly chopped"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
     }
 }
