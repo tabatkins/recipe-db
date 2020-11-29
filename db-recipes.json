@@ -17233,5 +17233,97 @@
             "vegetarian",
             "main"
         ]
+    },
+    "id564": {
+        "id": "id564",
+        "name": "Ranch Dressing Dry Mix",
+        "source": "NYT",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix all ingredients. Keeps indefinitely.",
+        "ingredients": [
+            "1 1\/2 tsp dried chives\r",
+            "1 tsp dried parsley\r",
+            "1 tsp dried dill\r",
+            "1 tbsp onion powder\r",
+            "1 tsp garlic powder\r",
+            "1 tsp salt\r",
+            "1\/4 tsp black pepper\r",
+            "1\/4 tsp mustard powder (optional)\r",
+            "2 tbsp buttermilk powder (optional)"
+        ],
+        "tags": [
+            "component"
+        ]
+    },
+    "id565": {
+        "id": "id565",
+        "name": "Ranch Dressing",
+        "source": "NYT",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 8,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Ranch Dressing Dry Mix: https:\/\/xanthir.com\/recipes\/addrecipe.php?id=id564\r\n\r\nMix all ingredients.",
+        "ingredients": [
+            "1\/2 cup milk (or buttermilk)\r",
+            "1\/2 cup sour cream (or mayonnaise)\r",
+            "1 tbsp ranch dressing dry mix"
+        ],
+        "tags": [
+            "component"
+        ]
+    },
+    "id566": {
+        "id": "id566",
+        "name": "Fontina, Persimmon, and Onion Grilled Cheese",
+        "source": "https:\/\/www.blueapron.com\/recipes\/fontina-sourdough-grilled-cheese-with-persimmon-onion",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Saute the onion for 3-4 minutes until softened and lightly browned. Add vinegar, cook until it evaporates.  Assemble sandwich from cheese, persimmon, and onion, and cook in the pan 3-4 minutes per side.\r\n\r\nMeanwhile, mix all ingredients for the salad.",
+        "ingredients": [
+            "1\/4 red onion, medium diced\r",
+            "1 tbsp sherry vinegar\r",
+            "1 persimmon, thinly sliced\r",
+            "4 oz fontina cheese, shredded\r",
+            "4 slices sourdough bread (sandwich)\r",
+            "<hr>",
+            "2 tbsp sliced almonds, roasted\r",
+            "3 oz radishes, halved and thinly sliced\r",
+            "1 head butter lettuce, shredded\r",
+            "1 1\/2 servings [ranch dressing](https:\/\/xanthir.com\/recipes\/showrecipe.php?id=id565)"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
     }
 }
