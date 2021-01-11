@@ -17315,7 +17315,7 @@
             "1 persimmon, thinly sliced\r",
             "4 oz fontina cheese, shredded\r",
             "4 slices sourdough bread (sandwich)\r",
-            "<hr>",
+            "<hr>\r",
             "2 tbsp sliced almonds, roasted\r",
             "3 oz radishes, halved and thinly sliced\r",
             "1 head butter lettuce, shredded\r",
@@ -17323,7 +17323,8 @@
         ],
         "tags": [
             "vegetarian",
-            "main"
+            "main",
+            "sandwich"
         ]
     }
 }
