@@ -4332,7 +4332,7 @@
             "1 1\/2 tablespoon extra-virgin olive oil\r",
             "1 medium onion, coarsely chopped\r",
             "2 garlic cloves, coarsely chopped\r",
-            "2 bunches broccoli (about 3 1\/4 pounds), stems and florets chopped separately into 1\/2-inch pieces\r",
+            "2 bunches broccoli (1 bunch \u2248 1\u00bdlbs), stems and florets chopped separately into 1\/2-inch pieces\r",
             "7 cup low-sodium chicken stock\r",
             "1 teaspoon coarse salt\r",
             "1 cup skim milk\r",
@@ -17325,6 +17325,41 @@
             "vegetarian",
             "main",
             "sandwich"
+        ]
+    },
+    "id567": {
+        "id": "id567",
+        "name": "Broccoli and Mozzarella Pizza",
+        "source": "Blue Apron",
+        "preptime": 2400,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 1483,
+        "fat": 61,
+        "satfat": 26,
+        "carbs": 268,
+        "fiber": 26,
+        "sugar": 32,
+        "protein": 68,
+        "instructions": "",
+        "ingredients": [
+            "1\/2 lb pizza dough\r",
+            "1\/2 lb broccoli\r",
+            "2 clove garlic\r",
+            "1 Tbsp capers\r",
+            "8 oz tomato sauce\r",
+            "1 shallot\r",
+            "4 oz mozzarella\r",
+            "1 oz roasted red peppers\r",
+            "1\/2 cup part-skim ricotta\r",
+            "1 1\/2 tsp calabrian chile paste"
+        ],
+        "tags": [
+            "vegetarian",
+            "pizza",
+            "main"
         ]
     }
 }
