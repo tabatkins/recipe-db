@@ -1328,7 +1328,7 @@
         "protein": 0,
         "instructions": "Mix together",
         "ingredients": [
-            "500 ml water\r",
+            "2 cup water\r",
             "1\/2 lemon, juiced\r",
             "1\/2 lime, juiced\r",
             "4 tbsp maple syrup\r",
@@ -2849,7 +2849,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "1. Heat broiler, with rack in top position. Place tomatoes, onion halves, jalapenos, and garlic in a single layer on a rimmed baking sheet.\r\n\r\n2. Broil until vegetables are blistered and slightly softened, rotating sheet and flipping vegetables frequently, 6 to 8 minutes (garlic may need to be removed earlier if it is browning too quickly.)\r\n\r\n3. Discard glaric skins. In a food processor, pulse garlic and vegetables until coarsely pureed. Add lime juice, season with salt and pepper, and pulse to combine.\r\n\r\n4. Transfer salsa to a bowl and stir in cilantro.\r\n\r\nYields 3 cups. Refrigerate up to 3 days or freeze up to 3 months.\r\n\r\nFor green salsa, use 1 1\/2 lbs tomatillos and omit lime juice.",
+        "instructions": "1. Heat broiler, with rack in top position. Place tomatoes, onion halves, jalapenos, and garlic in a single layer on a rimmed baking sheet.\r\n\r\n2. Broil until vegetables are blistered and slightly softened, rotating sheet and flipping vegetables frequently, 6 to 8 minutes (garlic may need to be removed earlier if it is browning too quickly.)\r\n\r\n3. Discard garlic skins. In a food processor, pulse garlic and vegetables until coarsely pureed. Add lime juice, season with salt and pepper, and pulse to combine.\r\n\r\n4. Transfer salsa to a bowl and stir in cilantro.\r\n\r\nYields 3 cups. Refrigerate up to 3 days or freeze up to 3 months.\r\n\r\nFor green salsa, use 1 1\/2 lbs tomatillos and omit lime juice.",
         "ingredients": [
             "1 1\/2 lb tomatoes\r",
             "1 medium white onion, halved\r",
@@ -2928,35 +2928,6 @@
             "dessert",
             "untried",
             "strawberries"
-        ]
-    },
-    "id80": {
-        "id": "id80",
-        "name": "No-churn vanilla ice cream",
-        "source": "Everyday Food June 2011",
-        "preptime": 600,
-        "waittime": 21600,
-        "cooktime": 0,
-        "servings": 12,
-        "comments": "",
-        "calories": 1512,
-        "fat": 108,
-        "satfat": 72,
-        "carbs": 120,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 24,
-        "instructions": "In a medium bowl, stir together condensed milk, vanilla, and Bourbon, if desired. In a large bowl, using and electric mixer, beat cream on high until stiff peaks form, 3 minutes. With a rubber spatula, gently fold whipped cream into condensed milk mixture. Pour into a 4.5x8.5-inch loaf pan. Freeze until firm, 6 hours (or covered, up to 1 week).\r\n\r\nEach serving is 1\/2 cup.",
-        "ingredients": [
-            "1 14oz can sweetened condensed milk\r",
-            "2 teaspoon pure vanilla extract\r",
-            "2 tbsp Bourbon, optional\r",
-            "2 cup heavy cream, cold"
-        ],
-        "tags": [
-            "icecream",
-            "dessert",
-            "untried"
         ]
     },
     "id81": {
@@ -12652,39 +12623,6 @@
             "untried"
         ]
     },
-    "id423": {
-        "id": "id423",
-        "name": "Caramelized onion and brie pizza",
-        "source": "http:\/\/www.kingarthurflour.com\/recipes\/caramelized-onion-and-brie-pizza-recipe",
-        "preptime": 3600,
-        "waittime": 0,
-        "cooktime": 900,
-        "servings": 8,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat the oven to 425\u00b0F.\r\n\r\nIn a large skillet, heat the oil or butter, then add the onions and cook, stirring often, until they're translucent and browning on the edges. Add the vinegar, sugar, and salt, and cook until evenly browned, and all the liquid is evaporated. Remove from the heat and set aside to cool.\r\n\r\nShape the dough on the pan, cover with a layer of onions, then scatter with the Brie. Grind a sprinkling of fresh pepper over the top. Sprinkle with sliced almonds, if desired.\r\n\r\nBake pizzas for 15 to 18 minutes, until the crust is brown. Serve hot, or at room temperature.",
-        "ingredients": [
-            "2 lb pizza dough\r",
-            "2 teaspoon olive oil\r",
-            "2 lb yellow onions, thinly sliced\r",
-            "1 tablespoon red wine vinegar\r",
-            "1 tablespoon sugar\r",
-            "1\/4 teaspoon salt\r",
-            "14 ounce Brie cheese, rind removed, cut into cubes\r",
-            "freshly ground black pepper\r",
-            "1\/2 cup sliced almonds, optional"
-        ],
-        "tags": [
-            "pizza",
-            "main"
-        ]
-    },
     "id426": {
         "id": "id426",
         "name": "Gazpacho Soup",
@@ -12904,7 +12842,6 @@
         "tags": [
             "japanese",
             "soup",
-            "untried",
             "sides"
         ]
     },
@@ -13983,8 +13920,7 @@
         ],
         "tags": [
             "bento",
-            "side",
-            "untried"
+            "side"
         ]
     },
     "id465": {
@@ -17012,8 +16948,7 @@
             "4 cherry tomatoes"
         ],
         "tags": [
-            "bento",
-            "untried"
+            "bento"
         ]
     },
     "id558": {
@@ -17344,16 +17279,17 @@
         "fiber": 26,
         "sugar": 32,
         "protein": 68,
-        "instructions": "",
+        "instructions": "1. Remove the **dough** from the refrigerator to bring to room temperature. Preheat the oven to 475F. In a small pot, heat **tomato sauce** over medium-high heat. Reduce to a simmer and cook until slightly reduced and thickened.\r\n\r\n2. In a medium pan, heat 2 teaspoons of olive oil on medium-high until hot. Add the **chopped broccoli**, season with salt and pepper. Cook, stirring occasionally, 3-4 minutes or until slightly softened. Add the **chopped garlic** and **capers**. Cook, stirring frequently, 1-2 minutes or until softened. Turn off the heat.\r\n\r\n3. Lightly oil a sheet pan or sprinkle generously with semolina. Using your hands, gently stretch the **dough** to 1\/4-inch thickness. Carefully transfer to the sheet pan. Leaving a 1-inch border around the edges, spread enough of the **tomato sauce** onto the prepared dough to coat (you may have extra). Evenly top with the **cooked broccoli**, **sliced shallot**, **mozzarella cheese**, and **chopped peppers**. Season with salt and pepper. Bake, rotating the sheet pan half way through, 17-19 minutes or until the cheese is melted and the crust is golden brown. Remove from oven and let stand at least 2 minutes.\r\n\r\n4. While the pizza bakes, in a bowl, combine the **ricotta cheese**, a drizzle of olive oil, and as much of the chile paste as you'd like, depending on how spicy you'd like the dish to be. Season with salt and pepper.\r\n\r\n5. Transfer the **baked pizza** to a cutting board, evenly top with the **spicy ricotta**. Cut the pizza into equal-sized pieces. Enjoy!",
         "ingredients": [
             "1\/2 lb pizza dough\r",
-            "1\/2 lb broccoli\r",
-            "2 clove garlic\r",
-            "1 Tbsp capers\r",
             "8 oz tomato sauce\r",
-            "1 shallot\r",
-            "4 oz mozzarella\r",
-            "1 oz roasted red peppers\r",
+            "<hr>",
+            "1\/2 lb broccoli, roughly chopped\r",
+            "2 clove garlic, roughly chopped\r",
+            "1 Tbsp capers\r",
+            "1 shallot, thinly sliced\r",
+            "4 oz mozzarella, shredded or torn into bite-sized pieces\r",
+            "1 oz roasted red peppers, roughly chopped\r",
             "1\/2 cup part-skim ricotta\r",
             "1 1\/2 tsp calabrian chile paste"
         ],
@@ -17361,6 +17297,76 @@
             "vegetarian",
             "pizza",
             "main"
+        ]
+    },
+    "id568": {
+        "id": "id568",
+        "name": "Roasted broccoli and fregola sarda pasta",
+        "source": "Blue Apron",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 2100,
+        "servings": 2,
+        "comments": "",
+        "calories": 1204,
+        "fat": 51,
+        "satfat": 12,
+        "carbs": 107,
+        "fiber": 26,
+        "sugar": 17,
+        "protein": 57,
+        "instructions": "1. Preheat oven to 450F. Heat a large pot of salted water to boiling on high. Place **broccoli** and **onion** on a sheet pan. Drizzle with olive oil and season with salt, pepper, and **za'atar seasoning**; toss to coat. Arrange in an even layer. Roast 20-22 minutes, or until browned and tender when pierced with a fork. Remove from the oven.\r\n\r\n2. While the vegetables continue to roast, add the **pasta** to the pot of boiling water and cook 14-16 minutes (or according to package directions), or until tender. Turn off the heat. Drain thoroughly and return to the pot.\r\n\r\n3. While everything is cooking, combine **lemon juice**, **tahini**, **water**, **olive oil**, and **garlic** in a small bowl. Whisk until smooth. Season with salt and pepper to taste.\r\n\r\n4. To the pot of **cooked pasta**, add the **roasted vegetables**, **chopped almonds**, **cheese**, and **dressing**. Stir to combine. Taste and adjust seasonings if needed.\r\n\r\n5. Serve **finished pasta** topped with **eggs**. Season the egg with salt and pepper, if desired. Garnish with the **mint leaves**. Enjoy!",
+        "ingredients": [
+            "1 lb broccoli, cut into small florets\r",
+            "1 red onion, thinly sliced\r",
+            "1 tbsp za'atar seasoning\r",
+            "2\/3 cup fregola sarda pasta\r",
+            "2 eggs, hard cooked, peeled, and sliced into rounds\r",
+            "<hr>\r",
+            "1 lemon, juiced\r",
+            "2 tbsp tahini\r",
+            "2 tbsp water\r",
+            "1 tbsp olive oil\r",
+            "1 clove garlic, minced\r",
+            "<hr>\r",
+            "3 tbsp almonds, toasted and roughly chopped\r",
+            "1 oz parmesan cheese, grated\r",
+            "2 tbsp fresh mint, leaves picked, roughly torn"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "pasta"
+        ]
+    },
+    "id569": {
+        "id": "id569",
+        "name": "Ancho chile paste",
+        "source": "https:\/\/capefearnutrition.com\/2018\/01\/23\/ancho-chili-paste\/",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 0,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Bring water to a boil either in a kettle or in the microwave. Tear dried peppers and place in a 2 cup pyrex measuring cup. Pour boiling water over peppers to cover and allow to sit 30 minutes or until softened. \r\n\r\n(original recipe missing a step, so I'm guessing) Place softened peppers in the bowl of a food processor. Process until a paste consistency. \r\n\r\nAdd a bit of reserved liquid one tablespoon at a time to thin paste if necessary. Add cumin, garlic, salt, and pepper. Pulse to combine. Store in the refrigerator in a covered container for 5 days . May freeze in an ice cube tray for longer storage.",
+        "ingredients": [
+            "4 dried ancho chilis, stems and seeds removed\r",
+            "4 cup water\r",
+            "1 teaspoon cumin\r",
+            "1 teaspoon minced garlic\r",
+            "1\/8 teaspoon salt\r",
+            "dash of pepper"
+        ],
+        "tags": [
+            "components",
+            "untried"
         ]
     }
 }
