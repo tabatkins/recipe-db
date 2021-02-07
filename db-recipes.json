@@ -13624,29 +13624,38 @@
     },
     "id455": {
         "id": "id455",
-        "name": "Breaded and fried shrimps",
+        "name": "Fried Shrimp Bento",
         "source": "The Just Bento Cookbook by Makiko Itoh",
         "preptime": 0,
         "waittime": 0,
         "cooktime": 0,
         "servings": 1,
         "comments": "",
-        "calories": 105,
-        "fat": 4,
-        "satfat": 4,
-        "carbs": 7,
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
         "fiber": 0,
         "sugar": 0,
-        "protein": 3,
-        "instructions": "Make tiny cuts along the inside of each shrimp (opposite site to where the vein was) and gently pull the shrimp straight. This is an optional step, but it does make the shrimp look much bigger.\r\n\r\nPat the shrimps dry, and season with a little salt and pepper.\r\n\r\nPut the potato starch in one plate, the beaten egg in a small bowl, and the panko bread crumbs on another plate. Have another plate ready, lined with a couple of paper towels.\r\n\r\nHeat 1\/2 inch of vegetable oil in a small frying pan over high heat. The oil is hot enough when a panko bread crumb dropped into it turns light brown right away.\r\n\r\nWorking rapidly, coat the shrimps in the cornstarch, dip in the egg,then roll in the bread crumbs. Try to do this with one hand, leaving the other hand clean to hold a pair of chopsticks or tongs to turn the shrimps. Gently put the shrimps one by one into the hot oil. Turn after a minute, and cook for another 30 seconds to a minute on the other side. The shrimps should feel firm when lightly tapped with the chopsticks.\r\n\r\nAs soon as each shrimp is cooked, remove from the oil and drain on the paper towels. When the last shrimp is removed from the oil, turn off the heat. If you're using an electric range, take the pan off the still-hot heating element for safety.\r\n\r\nLeave the shrimps to cool thoroughly before packing into a bento box.\r\n\r\nPut the dipping sauce of your choice in the sauce cup, to tuck into a corner of the bento box. Tartar sauce, mayonnaise, sriracha sauce, ketchup, Japanese brown sauce (tonkatsu sauce), sweet chili sauce and ranch dressing all go well with fried shrimps.\r\n\r\nAhead of time note: Bread the shrimps and freeze in a single layer, ideally on a metal baking sheet. Once the shrimps are frozen stiff, pack them in freezer bags or containers. Frozen breaded shrimps should be cooked for 2-3 minutes longer than fresh.",
+        "protein": 0,
+        "instructions": "Pack **rice** into bento box and allow to cool while prepping remaining ingredients.\r\n\r\nMake tiny cuts along the inside of each **shrimp** (opposite site to where the vein was) and gently pull the shrimp straight. This is an optional step, but it does make the shrimp look much bigger.\r\n\r\nPat the shrimps dry, and season with a little salt and pepper.\r\n\r\nPut the **potato starch** in one plate, the **beaten egg** in a small bowl, and the **panko bread crumbs** on another plate. Have another plate ready, lined with a couple of paper towels.\r\n\r\nHeat 1\/2 inch of vegetable oil in a small frying pan over high heat. The oil is hot enough when a panko bread crumb dropped into it turns light brown right away.\r\n\r\nWorking rapidly, coat the shrimps in the cornstarch, dip in the egg,then roll in the bread crumbs. Try to do this with one hand, leaving the other hand clean to hold a pair of chopsticks or tongs to turn the shrimps. Gently put the shrimps one by one into the hot oil. Turn after a minute, and cook for another 30 seconds to a minute on the other side. The shrimps should feel firm when lightly tapped with the chopsticks.\r\n\r\nAs soon as each shrimp is cooked, remove from the oil and drain on the paper towels. Sprinkle with salt while still hot. Leave the shrimps to cool thoroughly before packing into a bento box.\r\n\r\n\r\nAhead of time note: Bread the shrimps and freeze in a single layer, ideally on a metal baking sheet. Once the shrimps are frozen stiff, pack them in freezer bags or containers. Frozen breaded shrimps should be cooked for 2-3 minutes longer than fresh.\r\n\r\nFor **broccoli**, cook or blanch to desired doneness, then let cool. Combine the rest of the ingredients, then mix with the cooled broccoli.\r\n\r\nTo pack bento:\r\n\r\nPut the **dipping sauce** of your choice in the sauce cup, to tuck into a corner of the bento box. Pack **carrot and celeriac salad** and **dressed broccoli**. Place shrimp on top of rice, if possible.",
         "ingredients": [
-            "3 large shrimp (16\/20 count, fresh or defrosted), shelled and deveined, tails left on\r",
+            "3 large shrimp (16\/20 count fresh or defrosted), shelled and deveined, tails left on\r",
             "Salt\r",
             "Pepper\r",
             "2 Tbsp potato starch\r",
             "1 egg, beaten\r",
             "3 Tbsp panko bread crumbs\r",
-            "vegetable oil, for frying"
+            "vegetable oil, for frying\r",
+            "Dipping sauce (tartar\/sriracha mayo\/ketchup\/tonkatsu\/sweet chili\/ranch\/etc)\r",
+            "<hr>\r",
+            "1 serving [carrot and celeriac salad](https:\/\/xanthir.com\/recipes\/showrecipe.php?id=id456)",
+            "3 broccoli florets\r",
+            "1\/2 tbsp grainy mustard\r",
+            "1\/2 tsp lemon juice\r",
+            "pinch sugar\r",
+            "<hr>\r",
+            "1 cup cooked white rice"
         ],
         "tags": [
             "bento"
@@ -15084,7 +15093,7 @@
     },
     "id502": {
         "id": "id502",
-        "name": "Black Forest Bircher",
+        "name": "Black Forest Bircher (overnight oats)",
         "source": "https:\/\/www.bbcgoodfood.com\/recipes\/black-forest-bircher",
         "preptime": 600,
         "waittime": 0,
@@ -15112,7 +15121,6 @@
             "1 oz semisweet chocolate chips"
         ],
         "tags": [
-            "untried",
             "vegetarian",
             "breakfast",
             "quick",
@@ -15179,37 +15187,6 @@
         "tags": [
             "breakfast",
             "quick"
-        ]
-    },
-    "id507": {
-        "id": "id507",
-        "name": "Flaxseed muffin in a minute",
-        "source": "https:\/\/www.atkins.com\/recipes\/muffin-in-a-minute\/165",
-        "preptime": 180,
-        "waittime": 0,
-        "cooktime": 60,
-        "servings": 1,
-        "comments": "",
-        "calories": 344,
-        "fat": 21,
-        "satfat": 1,
-        "carbs": 37,
-        "fiber": 24,
-        "sugar": 4,
-        "protein": 12,
-        "instructions": "Mix the flax meal, baking powder, sugar and cinnamon in a coffee mug or single-serving souffl\u00e9 dish.\r\n\r\nAdd the egg and butter (or oil). Mix with dry ingredients.\r\n\r\nMicrowave 1 minute or more, until firm\r\n\r\nTurn out and serve with butter or cream cheese. Or toast before applying spread. Makes 1 serving.",
-        "ingredients": [
-            "4 tbsp ground flaxseed\r",
-            "1\/2 tsp Baking Powder\r",
-            "1 tsp granulated sugar\r",
-            "1 tsp Cinnamon\r",
-            "1 large Egg\r",
-            "1 tsp olive oil, or butter"
-        ],
-        "tags": [
-            "breakfast",
-            "quick",
-            "untried"
         ]
     },
     "id508": {
@@ -17115,7 +17092,7 @@
         "ingredients": [
             "1 Tbsp peanut butter\r",
             "1\/4 cup unsweetened applesauce\r",
-            "2 tsp maple syrup\r",
+            "2 tsp maple syrup, optional\r",
             "1\/2 tsp vanilla extract\r",
             "1\/4 tsp baking powder\r",
             "1\/4 cup rolled oats\r",
@@ -17124,8 +17101,7 @@
         ],
         "tags": [
             "breakfast",
-            "vegetarian",
-            "untried"
+            "vegetarian"
         ]
     },
     "id563": {
@@ -17366,6 +17342,114 @@
         ],
         "tags": [
             "components",
+            "untried"
+        ]
+    },
+    "id570": {
+        "id": "id570",
+        "name": "Single Serve Mug Coffee Cake",
+        "source": "https:\/\/www.crazyforcrust.com\/single-serve-mug-coffee-cake\/",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "I cut back on the granulated sugar, seemed like too much",
+        "calories": 189,
+        "fat": 6,
+        "satfat": 1,
+        "carbs": 29,
+        "fiber": 1,
+        "sugar": 13,
+        "protein": 5,
+        "instructions": "Spray a mug or a ramekin with nonstick cooking spray. Add sugar, flour, salt, baking powder, oil, milk, and vanilla and stir until combined. Sprinkle brown sugar and cinnamon on top.\r\n\r\nMicrowave for 45 seconds (my microwave is 1100 watts - if yours is less you may need to microwave it longer, do so in 15 second increments).\r\n\r\nEnjoy warm!",
+        "ingredients": [
+            "1 teaspoon granulated sugar\r",
+            "2 1\/2 tablespoon all purpose flour\r",
+            "1\/8 teaspoon salt\r",
+            "1\/4 teaspoon baking powder\r",
+            "1 tablespoon plain nonfat greek yogurt\r",
+            "1 tablespoon whole milk\r",
+            "Dash of vanilla\r",
+            "1 tablespoon walnuts, finely chopped\r",
+            "1\/2 tablespoon brown sugar\r",
+            "1\/4 teaspoon ground cinnamon"
+        ],
+        "tags": [
+            "untried",
+            "breakfast"
+        ]
+    },
+    "id571": {
+        "id": "id571",
+        "name": "Mediterranean egg salad",
+        "source": "Bon Appetit",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 4,
+        "comments": "reduced amount of olive oil by half. seemed like too much.",
+        "calories": 1528,
+        "fat": 74,
+        "satfat": 14,
+        "carbs": 161,
+        "fiber": 14,
+        "sugar": 13,
+        "protein": 60,
+        "instructions": "Whisk together oil, za'atar, and lemon juice. Toss with eggs, olives, cilantro, onion, and pine nuts; season with salt and pepper to taste. Serve on toast.",
+        "ingredients": [
+            "2 tbsp olive oil\r",
+            "1 tbsp za'atar\r",
+            "2 tsp lemon juice\r",
+            "4 eggs, hard-cooked and chopped\r",
+            "1\/2 cup green olives, chopped\r",
+            "2 tbsp fresh cilantro, roughly chopped\r",
+            "2 tbsp red onion, minced\r",
+            "2 tbsp pine nuts, toasted\r",
+            "Salt\r",
+            "Black pepper\r",
+            "8 slices rustic bread, toasted"
+        ],
+        "tags": [
+            "breakfast",
+            "untried"
+        ]
+    },
+    "id572": {
+        "id": "id572",
+        "name": "Cold soba and shrimp fritter bento",
+        "source": "JustBento.com",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Cook soba noodles according to package directions. Rinse very well under cold water until cool and excess starch is removed. Pack into larger compartment of bento.\r\n\r\nMeanwhile, in a small pot, combine the kaeshi and dashi. Bring to a gentle simmer. Simmer for 2 minutes, then let cool.\r\n\r\nTo make the shrimp fritters, roughly chop up the frozen shrimp into small pieces. Combine with the green onion, salt, cayenne, and furikake. Add the tempura mix and add just a little water so that everything is coated.\r\n\r\nPlace a paper towel on a plate. Heat up a thin layer of olive oil in a frying pan. Drop the frigger mixture onto the hot oil with a tablespoon. Fry until crispy on both sides. Remove to paper towel-lined plate and sprinkle with salt immediately. Drain well and cool completely before packing in bento.\r\n\r\n(Note: you can make these fritters ahead of time and freeze them. Heat and crisp them up in a toasted oven before putting into your bento).\r\n\r\nPack cooled shrimp fritters, cherry tomatoes, and chopped green onion garnish into separate compartment from the noodles. Place dipping sauce in a leak-proof container.\r\n\r\nTo eat, you can either dip the noodles in the sauce or dump sauce over noodles. You can dip the fritters in the sauce, too.",
+        "ingredients": [
+            "3 oz dried soba noodles\r",
+            "<hr>\r",
+            "1 tbsp kaeshi\r",
+            "1\/4 cup dashi\r",
+            "<hr>\r",
+            "6 medium size frozen shrimp, peeled and deveined\r",
+            "2 green onions, roughly chopped\r",
+            "1 pinch salt\r",
+            "1\/8 tsp ground cayenne (or hot paprika), optional\r",
+            "1 Tbsp furikake\r",
+            "2 Tbsp tempura mix (or equal parts flour and potato starch)\r",
+            "1 Tbsp water\r",
+            "<hr>\r",
+            "3 cherry tomatoes\r",
+            "1\/2 green onion, chopped"
+        ],
+        "tags": [
+            "bento",
             "untried"
         ]
     }
