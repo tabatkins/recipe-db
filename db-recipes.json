@@ -2322,12 +2322,12 @@
         "protein": 0,
         "instructions": "Combine all ingredients.",
         "ingredients": [
-            "1\/2 cup chili sauce, (recommended: Heinz)\r",
-            "1\/2 cup ketchup, (recommended: Heinz)\r",
+            "1\/2 cup chili sauce (American, like Heinz)\r",
+            "1\/2 cup ketchup\r",
             "3 tablespoon prepared horseradish\r",
             "2 teaspoon fresh lemon juice\r",
             "1\/2 teaspoon Worcestershire sauce\r",
-            "1\/4 teaspoon hot sauce, (recommended: Tabasco)"
+            "1\/4 teaspoon hot sauce"
         ],
         "tags": [
             "condiment",
@@ -17087,13 +17087,13 @@
         "fiber": 8,
         "sugar": 21,
         "protein": 14,
-        "instructions": "Preheat your oven to 350\u00b0F (176\u00b0C) and lightly spray an individual sized (~16oz.\/500 ml) ramekin with cooking spray or grease it with cooking oil. Set aside.\r\n\r\nIn a small bowl, combine the almond butter, applesauce, maple syrup, vanilla, baking powder, and salt. Mix well until fully combined. Add the oats and almond meal, mixing until you\u2019re left with a sticky dough. Fold in the chocolate chips.\r\n\r\nTransfer dough to your greased ramekin, topping with a few extra chocolate chips and a sprinkle of sea salt, if desired. Bake for 18-20 minutes, until the centre has set and the bake has reached your desired consistency.",
+        "instructions": "Preheat your oven to 350\u00b0F (175\u00b0C) and prep a baking tray surface with oil or a baking sheet.\r\n\r\nIn a small bowl, combine the almond butter, applesauce, maple syrup, baking powder, and salt. Mix well until fully combined. Add the oats, almond meal, and chocolate chips, mixing until you\u2019re left with a sticky dough.\r\n\r\nTransfer dough to the baking sheet, one \"lump\" per serving, topping with a few extra chocolate chips and a sprinkle of sea salt, if desired. Bake for 18-20 minutes, until the center has set and the bake has reached your desired consistency.",
         "ingredients": [
             "1 Tbsp peanut butter\r",
             "1\/4 cup unsweetened applesauce\r",
-            "2 tsp maple syrup, optional\r",
             "1\/2 tsp vanilla extract\r",
             "1\/4 tsp baking powder\r",
+            "1\/4 tsp salt\r",
             "1\/4 cup rolled oats\r",
             "2 Tbsp almond meal\r",
             "1 Tbsp chocolate chips"
