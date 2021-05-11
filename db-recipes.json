@@ -17454,5 +17454,45 @@
             "bento",
             "untried"
         ]
+    },
+    "id573": {
+        "id": "id573",
+        "name": "Red Cabbage Okonomiyaki",
+        "source": "https:\/\/www.hellofresh.com\/recipes\/red-cabbage-okonomiyaki-fritters-605a5d4bb041cf0acc518afc",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 2400,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Heat oil in medium pot. Add half the ginger and half the sesame seeds; cook 1-2 minutes until seeds are golden brown. Add rice, water, and a pinch of salt; bring to boil, then cover and simmer on low for 12-15 minutes until cooked. Keep covered off heat until ready to serve.\r\n\r\nMix mayonnaise, sriracha, and a small amount of water, to achieve a drizzling consistency.\r\n\r\nIn large bowl, whisk eggs and vegetable stock, then whisk in tempura mix until no lumps remain. Fold in cabbage, garlic, scallion whites, other half of ginger, and salt; mix thoroly.\r\n\r\nHeat a large drizzle of oil in a medium pan, over medium-high heat. When pan is hot enough to immediately sizzle a drop of batter, add half the batter (for 2 servings). Cook for 2-4 minutes on each side, following pancake rules, then transfer to cutting board while preparing additional fritters.\r\n\r\nTo serve, divide ginger rice, then quarter fritters and top rice. Drizzle with spicy mayo and hoisin, then scatter scallion greens and remaining sesame seeds.",
+        "ingredients": [
+            "1\/2 cup white rice\r",
+            "1 cup water\r",
+            "2 tsp minced ginger, divided\r",
+            "1 tbsp sesame seeds, divided\r",
+            "<hr>",
+            "2 tbsp mayonnaise\r",
+            "1 tsp sriracha\r",
+            "<hr>",
+            "2 eggs\r",
+            "1\/4 cup vegetable stock\r",
+            "82g tempura mix\r",
+            "4 oz red cabbage, diced small\r",
+            "4 clove garlic, rough chopped\r",
+            "2 green onions, chopped, whites and greens divided\r",
+            "1\/2 tsp salt\r",
+            "2 tbsp hoisin sauce"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
     }
 }
