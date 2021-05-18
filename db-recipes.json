@@ -7911,39 +7911,6 @@
             "components"
         ]
     },
-    "id274": {
-        "id": "id274",
-        "name": "Vineyard tofu salad",
-        "source": "Whole Foods",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 6,
-        "comments": "Serve on a whole grain bun, wrap in a tortilla, or serve over a bed of romaine.",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a large bowl, whisk together the vinegar and mustard. Using a lint-free kitchen towel, lightly press the tofu to extract some of the moisture. Cut the pressed tofu into 1\/2-inch cubes and add it to the bowl. Add the grapes, celery, pecans, avocado, and poppy seeds. Gently toss to combine. Serve on whole grain bread or over a bed of greens.",
-        "ingredients": [
-            "1 tbsp apple cider vinegar\r",
-            "1 tsp dijon mustard\r",
-            "4 oz medium tofu, rinsed and drained\r",
-            "2 cup red grapes, halved\r",
-            "3 stalk celery, chopped\r",
-            "1\/2 cup pecans, chopped and roasted\r",
-            "1 avocado, cubed\r",
-            "2 tbsp poppy seeds\r",
-            "12 tortillas"
-        ],
-        "tags": [
-            "salad",
-            "vegetarian"
-        ]
-    },
     "id275": {
         "id": "id275",
         "name": "Tempeh sauerbraten",
