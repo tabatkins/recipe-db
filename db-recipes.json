@@ -15092,37 +15092,6 @@
             "make_ahead"
         ]
     },
-    "id503": {
-        "id": "id503",
-        "name": "Eggs baked in avocados",
-        "source": "http:\/\/www.seriouseats.com\/2013\/04\/eggs-baked-in-avocado-recipe.html",
-        "preptime": 300,
-        "waittime": 0,
-        "cooktime": 600,
-        "servings": 2,
-        "comments": "",
-        "calories": 766,
-        "fat": 62,
-        "satfat": 12,
-        "carbs": 28,
-        "fiber": 22,
-        "sugar": 4,
-        "protein": 32,
-        "instructions": "1. Adjust oven rack to middle position and preheat to 450\u00b0F.\r\n\r\n2. Cut each avocado in half and remove the pit. Using a spoon, scrape out the center of each halved avocado so that it is large enough to accommodate an egg (about 1 1\/2 tablespoons). Squeeze lime juice over the avocados and season with salt and pepper, then place on baking sheet. Break an egg into the center of each avocado. Don\u2019t worry if some of the white spills out as long as the yolk is intact.\r\n\r\n3. Bake in the oven until whites are set and yolk is runny, about 10 to 12 minutes. Remove from oven and garnish with cilantro, green onion, and jalapenos.",
-        "ingredients": [
-            "2 avocados\r",
-            "4 eggs\r",
-            "1 lime\r",
-            "Kosher salt and freshly ground black pepper\r",
-            "1 tbsp fresh cilantro, chopped\r",
-            "1 green onion, thinly sliced\r",
-            "Pickled jalapenos, optional"
-        ],
-        "tags": [
-            "breakfast",
-            "untried"
-        ]
-    },
     "id506": {
         "id": "id506",
         "name": "Almond muffin in a minute",
@@ -17478,14 +17447,14 @@
         "protein": 0,
         "instructions": "1. Tofu Preparation\r\n\r\nDay 1: Drain the tofu and then dry with a kitchen cloth. Gently press to remove any excess water. Cover and store in the freezer. \r\nDay 2: Remove the tofu from the freezer and place into the fridge to let it thaw completely. Then press the tofu, removing as much liquid as you can without breaking it apart. Place into container and freeze again.\r\nDay 3: Remove the tofu from the freezer. Cover with a damp paper towel and microwave for 3 minutes. Flip and microwave for another 1-2 minutes or until thawed. Once cool enough to handle, squeeze out any excess liquid. Now it\u2019s ready to be used!\r\n\r\n2. For the karaage:\r\n\r\nAdd garlic, ginger, soy sauce, sake and sugar together. This is the marinade.\r\nTear off chunks of tofu and place into the marinade. Add soy curls and toss with the marinade. Let it marinate for 10 minutes. a\r\nAdd potato starch to the container and then shake it up. Let it sit for a few minutes\u2013 the potato starch should start firming up while sticking the soy chunks to the pieces of tofu. Before frying, add another thin coat of potato starch.\r\nOver medium heat, fry the karaage or until crispy golden brown (2-3 minutes). Place on a wire rack to allow excess oil to drip off. Fry in small batches until complete.\r\n\r\n3. For onigiri and veggies:\r\n\r\nRinse the rice in cold water until the water runs clear. Cook the rice in a rice cooker according to manufacturer's instructions or place the rice and 1 1\/4 cups of water in a heavy bottomed saucepan. Bring to a boil over medium-high heat, then reduce the heat to the lowest setting, cover, and cook until all the water has been absorbed, 10-13 minutes. Remove from heat, leave the cover on, and allow to rest for another 10 minutes.\r\n\r\nRemove the cover, fluff the rice with a fork or rice scooper and allow to rest until just cool enough to handle. It should still be warm to hot. If using furikake, mix desired amount gently into rice using rice scooper. Pack the freshly steamed, warm rice in onigiri mold (making sure not to pack the rice too densely). If forming by hand, wet your hands with cold water, rub with salt and form the onigiri, using plastic wrap if needed.\r\n\r\nPack bento with cooled karaage, onigiri, grape tomatoes, shelled edamame, and carrots. Place mayo in separate container for dipping karaage.\r\n\r\nHeat the instant miso packet according to package instructions right before serving.",
         "ingredients": [
-            "16 oz medium tofu\r",
-            "1 oz TVP\r",
+            "8 oz medium tofu\r",
+            "1\/2 oz TVP\r",
             "1 garlic clove, minced\r",
-            "2 tsp ginger, minced\r",
-            "2\u20133 tbsp soy sauce, to taste\r",
-            "2\u20133 tbsp sake, to taste\r",
-            "1 1\/2 tbsp sugar\r",
-            "6\u20138 tbsp potato starch\r",
+            "1 tsp ginger, minced\r",
+            "1 tbsp soy sauce, to taste\r",
+            "1 tbsp sake, to taste\r",
+            "1\/2 tbsp sugar\r",
+            "3 tbsp potato starch, more if needed\r",
             "<hr>\r",
             "1 cup uncooked Japanese short grain rice\r",
             "1 1\/4 cup water\r",
