@@ -8025,40 +8025,6 @@
             "untried"
         ]
     },
-    "id279": {
-        "id": "id279",
-        "name": "Kale panzanella",
-        "source": "http:\/\/www.pbs.org\/food\/fresh-tastes\/kale-panzanella-salad\/",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Preheat the oven to 400 degrees. Line a sheet tray with aluminum foil and scatter the cherry tomatoes on top. Drizzle with a tsp of olive oil and roast for 25 minutes, stirring occasionally.\r\n\r\n2. While the tomatoes are roasting, heat up a large skillet over medium high heat on the stove. Add the other tsp of olive oil and the cubed bread. Toss the bread well in the oil, so each cube of bread has some oil on it. Add a sprinkle of salt. Toast the bread, tossing constantly, for about five minutes or until bread turns golden. Remove from heat and place bread in a large bowl.\r\n\r\n3. Add chopped cucumber and kale to the bowl with the cubed bread. Toss. Add roasted tomatoes when they are out of the oven.\r\n\r\n4. To make the dressing, combine all ingredients in a glass jar {or small bowl}. Shake until creamy then drizzle over salad, tossing well to coat all of the bread and kale in dressing.\r\n\r\n5. Serve salad immediately or chilled.",
-        "ingredients": [
-            "3 cup grape tomatoes\r",
-            "1 bunch kale, roughly chopped into bite-sized pieced\r",
-            "1\/2 cucumber, chopped\r",
-            "5 cup French bread (preferably day old), cubed\r",
-            "2 tsp olive oil, divided\r",
-            "<hr>\r",
-            "3 tbsp olive oil\r",
-            "1 tbsp balsamic vinegar\r",
-            "1\/2 tsp garlic, minced\r",
-            "1\/4 shallot, chopped\r",
-            "salt and pepper"
-        ],
-        "tags": [
-            "salad"
-        ]
-    },
     "id280": {
         "id": "id280",
         "name": "Salmon Tuscano with Herbed Orzo",
@@ -15123,39 +15089,6 @@
             "quick"
         ]
     },
-    "id508": {
-        "id": "id508",
-        "name": "44-Clove Garlic Soup",
-        "source": "Bon Appetit, February 1999",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 5400,
-        "servings": 4,
-        "comments": "",
-        "calories": 1428,
-        "fat": 100,
-        "satfat": 52,
-        "carbs": 88,
-        "fiber": 8,
-        "sugar": 28,
-        "protein": 40,
-        "instructions": "Preheat oven to 350\u00b0F. Place 26 garlic cloves in small glass baking dish. Add 2 tablespoons olive oil and sprinkle with salt and pepper; toss to coat. Cover baking dish tightly with foil and bake until garlic is golden brown and tender, about 45 minutes. Cool. Squeeze garlic between fingertips to release cloves. Transfer cloves to small bowl.\r\n\r\nMelt butter in heavy large saucepan over medium-high heat. Add onions and thyme and cook until onions are translucent, about 6 minutes. Add roasted garlic and 18 raw garlic cloves and cook 3 minutes. Add chicken stock; cover and simmer until garlic is very tender, about 20 minutes. Working in batches, puree soup in blender until smooth. Return soup to saucepan; add cream and bring to simmer. Season with salt and pepper.\r\n\r\nDivide grated cheese among 4 bowls and ladle soup over. Squeeze juice of 1 lemon wedge into each bowl and serve.\r\n\r\nDo ahead: Can be prepared 1 day ahead. Cover and refrigerate. Rewarm over medium heat, stirring occasionally.",
-        "ingredients": [
-            "26 garlic cloves, unpeeled\r",
-            "2 tbsp olive oil\r",
-            "2 tbsp butter\r",
-            "2 1\/4 cup onion, sliced\r",
-            "1 1\/2 tsp fresh thyme, chopped\r",
-            "18 garlic cloves, peeled\r",
-            "3 1\/2 cup chicken stock\r",
-            "1\/2 cup whipping cream\r",
-            "1\/2 cup Parmesan cheese (about 2 ounces), grated\r",
-            "1\/2 lemon, cut into wedges"
-        ],
-        "tags": [
-            "soup"
-        ]
-    },
     "id509": {
         "id": "id509",
         "name": "Pesto Cavatelli w\/ Mushrooms and Spicy Breadcrumbs",
@@ -17388,8 +17321,7 @@
             "1\/2 green onion, chopped"
         ],
         "tags": [
-            "bento",
-            "untried"
+            "bento"
         ]
     },
     "id573": {
