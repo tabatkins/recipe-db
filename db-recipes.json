@@ -804,7 +804,8 @@
             "1 large avocado, diced\r",
             "1\/2 cucumber, finely sliced into half moons\r",
             "3 tablespoon sesame seeds\r",
-            "1\/2 lime (or orange if you prefer a sweeter dressing), juiced\r",
+            "<hr>",
+            "1\/2 lime, juiced\r",
             "1\/2 teaspoon wasabi paste\r",
             "1 tablespoon soy sauce\r",
             "2 teaspoon sesame oil\r",
@@ -10951,7 +10952,7 @@
     "id377": {
         "id": "id377",
         "name": "Thai Vegetable Stir-fry",
-        "source": "Pampered Chef",
+        "source": "https:\/\/www.pamperedchef.com\/pws\/pamallan\/recipe\/Main+Dishes\/Budget+Friendly\/Thai+Vegetable+Stir-Fry\/888041",
         "preptime": 1200,
         "waittime": 0,
         "cooktime": 660,
@@ -10964,7 +10965,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "1. Cook rice according to directions.  \r\n\r\n2. In a small bowl, whisk together coconut sauce ingredients; set aside.  \r\n\r\n3. Combine vegetables in large mixing bowl. Add edamame to bowl; toss vegetables thoroughly.  \r\n\r\n4. Heat oil in Stir-Fry Skillet or 12\u201d Skillet over medium heat 3\u20135 minutes. Press garlic into Skillet with Garlic Press; cook and stir 30\u201345 seconds or until fragrant. Whisk coconut sauce and add to Skillet, stir until thickened (less than 1 minute).  \r\n\r\n5. Add vegetables to Skillet; toss well to coat. Cook, uncovered, 3\u20136 minutes or until vegetables begin to soften and mixture is heated through, stirring frequently.  \r\n\r\n6. Remove Skillet from heat. Top with basil and peanuts. Serve immediately over rice.\r\n\r\nhttps:\/\/www.pamperedchef.com\/pws\/pamallan\/recipe\/Main+Dishes\/Budget+Friendly\/Thai+Vegetable+Stir-Fry\/888041",
+        "instructions": "1. Cook rice according to directions.  \r\n\r\n2. In a small bowl, whisk together coconut sauce ingredients; set aside.  \r\n\r\n3. Combine vegetables in large mixing bowl. Add edamame to bowl; toss vegetables thoroughly.  \r\n\r\n4. Heat oil in Stir-Fry Skillet or 12\u201d Skillet over medium heat 3\u20135 minutes. Press garlic into Skillet with Garlic Press; cook and stir 30\u201345 seconds or until fragrant. Whisk coconut sauce and add to Skillet, stir until thickened (less than 1 minute).  \r\n\r\n5. Add vegetables to Skillet; toss well to coat. Cook, uncovered, 3\u20136 minutes or until vegetables begin to soften and mixture is heated through, stirring frequently.  \r\n\r\n6. Remove Skillet from heat. Top with basil and peanuts. Serve immediately over rice.",
         "ingredients": [
             "3 cup uncooked brown rice\r",
             "<hr>\r",
