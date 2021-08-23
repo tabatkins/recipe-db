@@ -16633,7 +16633,7 @@
         "waittime": 0,
         "cooktime": 0,
         "servings": 4,
-        "comments": "For crockpot beans, you can skip soaking and cook for 8-10 hours on high",
+        "comments": "",
         "calories": 0,
         "fat": 0,
         "satfat": 0,
@@ -16641,29 +16641,29 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "If you remember, soak the beans in cold water overnight, or for 10 to 12 hours. Rinse beans, and place in a large heavy-bottomed pot with onion, garlic, Parmesan rinds, olive oil and salt. Cover beans with water, so the water level is a couple of inches above the beans, and bring to a boil, then turn heat down so it\u2019s simmering gently. Put a lid on the pot, and cook until beans are tender, adding more water as needed to keep the beans submerged. This could take 1 to 2 hours or more, depending on the beans and whether or not you soaked them.\r\n\r\nUse a spoon to fish out the onion and garlic; discard. In a small bowl, whisk together the miso and and a little bean broth until smooth. Add back to beans. Taste a couple of beans along with the broth. It should be opaque and slightly creamy; adjust the seasoning with more salt if needed.\r\n\r\nBrush both sides of each piece of bread with olive oil, and place on a foil-lined sheet pan. Run the pan under the broiler for 2 minutes, so the bread is crisp at the edges and nicely toasted, then flip bread and repeat. While the bread is still hot, rub a garlic clove along one side of each piece, as if you were grating the garlic on the bread, pushing just firmly enough for the clove to fray and dissolve slightly into the bread.\r\n\r\nTo assemble, place a piece of bread at the bottom of four wide, shallow bowls and ladle hot beans and broth on top. Wait a few seconds for the bread to absorb some broth, then ladle a little extra on each one, so it\u2019s swimming. Garnish the bowls generously: Drizzle olive oil all over the beans, sprinkle with herbs and flaky sea salt, cover with finely grated Parmesan and grind a little black pepper on top.",
+        "instructions": "Rinse beans, and place in a slow-cooker with water, onion, garlic, miso, olive oil and salt. Cover and set to slow-cook on High for 8-10 hours. When done, use a spoon to fish out the onion and garlic; discard.\r\n\r\nLightly toast diced bread, just enough to be firm and dry. Divide croutons into bowls, then ladel beans and broth over them. Top with herbs, parmesan, salt, and pepper.",
         "ingredients": [
-            "1 cup dried beans, such as cannellini or cranberry\r",
-            "1 small onion, peeled \r",
+            "1 cup dried beans (such as cannellini or cranberry)\r",
+            "6 cup water\r",
+            "1 small onion, peeled AND LEFT WHOLE\r",
             "2 garlic cloves, peeled \r",
             "2 tablespoon extra-virgin olive oil\r",
             "1 teaspoon kosher salt\r",
-            "1 tablespoon white miso (heaping tbsp)\r",
+            "1 1\/2 tablespoon white miso\r",
             "<hr>\r",
-            "4 thick slices crusty sourdough bread\r",
-            "Extra-virgin olive oil\r",
-            "1 garlic clove, peeled\r",
+            "4 cup crusty sourdough bread, large-diced\r",
             "2 tablespoon parsley leaves, chopped\r",
             "1 tablespoon marjoram leaves, chopped\r",
+            "2 tbsp Parmesan, finely grated\r",
             "Flaky sea salt\r",
-            "Parmesan, finely grated \r",
             "black pepper"
         ],
         "tags": [
             "main",
             "vegetarian",
             "beans",
-            "soup"
+            "soup",
+            "slow-cooker"
         ]
     },
     "id554": {
