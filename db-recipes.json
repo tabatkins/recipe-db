@@ -1032,36 +1032,6 @@
             "main"
         ]
     },
-    "62": {
-        "id": "62",
-        "name": "Roquefort Cheese Sauce",
-        "source": "http:\/\/www.foodnetwork.com\/recipes\/ina-garten\/steakhouse-steaks-recipe\/index.html",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "Use your favorite blue cheese",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Bring the heavy cream to a boil in a small heavy-bottomed saucepan over medium-high heat. Cook at a low boil, stirring occasionally, until the mixture has become thick and creamy, about 20 minutes. Remove the pan from the heat, add the cheese, salt, pepper and chives and whisk rapidly until the cheese melts.",
-        "ingredients": [
-            "1 1\/2 cup heavy cream\r",
-            "2 ounce French Roquefort cheese, crumbled (4 ounces with rind)\r",
-            "1\/2 teaspoon kosher salt\r",
-            "1\/4 teaspoon freshly ground black pepper\r",
-            "1 tablespoon chives, chopped"
-        ],
-        "tags": [
-            "sauce",
-            "cheese",
-            "components"
-        ]
-    },
     "63": {
         "id": "63",
         "name": "Stove top mac and cheese",
@@ -2727,36 +2697,6 @@
             "1 1\/2 tsp fresh thyme, chopped\r",
             "1 garlic clove, minced\r",
             "Pinch cayenne pepper\r",
-            "Salt and freshly ground pepper"
-        ],
-        "tags": [
-            "dressing",
-            "components",
-            "untried"
-        ]
-    },
-    "id69": {
-        "id": "id69",
-        "name": "Creamy blue cheese dressing",
-        "source": "Everyday Food June 2011",
-        "preptime": 300,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 16,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Whisk together all ingredients in a bowl. Season to taste with salt and pepper.",
-        "ingredients": [
-            "1 cup buttermilk\r",
-            "1\/2 cup sour cream\r",
-            "1\/4 cup mayonnaise\r",
-            "3 oz blue cheese, crumbled\r",
             "Salt and freshly ground pepper"
         ],
         "tags": [
@@ -16730,8 +16670,7 @@
         ],
         "tags": [
             "vegetarian",
-            "sandwich",
-            "untried"
+            "sandwich"
         ]
     },
     "id556": {
@@ -17458,42 +17397,24 @@
         "protein": 0,
         "instructions": "Cut the tofu into four equal pieces.\r\n\r\nIn a small bowl, combine 1 teaspoon each of salt, pepper, garlic powder, and oregano.\r\n\r\nCoat the tofu in the seasoning mixture and let marinate for 30 minutes in separate bowls.\r\n\r\nSeason each bowl with 1 teaspoon each of salt, pepper, garlic powder, and oregano.\r\n\r\nSprinkle some red pepper, garlic powder, and oregano. Sprinkle some red pepper flakes into each bowl.\r\n\r\nDip each tofu piece into the flour, then the mayonnaise, then the bread crumbs. Repeat and place on a sheet pan.\r\n\r\nPlace the pan in the refrigerator for 20 minutes or overnight.\r\n\r\nPreheat the oven to 400 degrees.\r\n\r\nSpray the breaded tofu with cooking spray and bake on the middle rack of the oven for 20 minutes.\r\n\r\nSquirt some ketchup on the bun, top with crispy tofu, add a slice of cheese, and finish off with a few spoonfuls of coleslaw and enjoy!",
         "ingredients": [
-            "Ingredients One package (14-16 ounces) firm tofu, drained 4 teaspoons salt, divided\r",
-            "\r",
+            "14 ounce firm tofu, drained \r",
+            "4 teaspoon salt, divided\r",
             "4 teaspoon pepper, divided\r",
-            "\r",
             "4 teaspoon garlic powder, divided\r",
-            "\r",
             "4 teaspoon oregano, divided\r",
-            "\r",
             "1 cup flour\r",
-            "\r",
             "1\u20442 cup vegan mayonnaise\r",
-            "\r",
             "1 cup bread crumbs\r",
-            "\r",
             "1\u20444 teaspoons red pepper flakes\r",
-            "\r",
-            "Tom\u2019s Sriracha ketchup ingredients:\r",
-            "\r",
+            "<hr>",
             "1\/2 cup plain ketchup\r",
-            "\r",
             "1 tablespoon sriracha\r",
-            "\r",
             "Juice of half a lemon\r",
-            "\r",
             "1 teaspoon garlic powder\r",
-            "\r",
             "1 teaspoon honey\r",
-            "\r",
-            "Toppings\r",
-            "\r",
-            "Sriracha ketchup\r",
-            "\r",
+            "<hr>",
             "4 hamburger buns\r",
-            "\r",
             "4 slices sharp cheddar cheese\r",
-            "\r",
             "Your favorite coleslaw"
         ],
         "tags": [
@@ -17539,7 +17460,9 @@
         ],
         "tags": [
             "vegetarian",
-            "low_tyramine"
+            "low_tyramine",
+            "main",
+            "pasta"
         ]
     },
     "id578": {
@@ -17729,6 +17652,104 @@
         "tags": [
             "vegetarian",
             "salad",
+            "low_tyramine",
+            "untried"
+        ]
+    },
+    "id583": {
+        "id": "id583",
+        "name": "Cream cheese fruit dip",
+        "source": "https:\/\/auntbeesrecipes.com\/2015\/05\/whipped-cream-cheese-fruit-dip.html",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Beat cream cheese, powdered sugar, and vanilla at medium speed with an electric beater until fluffy. Fold in whipped cream; serve with fresh fruit.",
+        "ingredients": [
+            "8 oz cream cheese (block), softened\r",
+            "2 cup powdered sugar\r",
+            "2 teaspoon vanilla extract\r",
+            "1\/2 cup whipping cream, whipped"
+        ],
+        "tags": [
+            "components",
+            "snacks",
+            "untried"
+        ]
+    },
+    "id584": {
+        "id": "id584",
+        "name": "Overnight Chia Pudding",
+        "source": "",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix milk, vanilla, and honey until combined. Stir in chia seeds, then chill overnight.\r\n\r\nStir in remaining ingredients before serving.",
+        "ingredients": [
+            "1\/4 cup chia seeds\r",
+            "1 cup milk\r",
+            "1 tsp vanilla\r",
+            "1 tsp honey\r",
+            "<hr>\r",
+            "2 tsp sunbutter\r",
+            "1\/4 cup fruit, diced\r",
+            "1\/8 cup pumpkin or sunflower seeds"
+        ],
+        "tags": [
+            "breakfast",
+            "low_tiramine"
+        ]
+    },
+    "id585": {
+        "id": "id585",
+        "name": "Pear clafouti",
+        "source": "https:\/\/thedizzycook.com\/pear-clafouti-jeffery-life\/",
+        "preptime": 300,
+        "waittime": 600,
+        "cooktime": 2400,
+        "servings": 8,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 375 degrees. Butter a 10 inch round baking dish. You could also use a large cast iron pan or a pie dish here. Sprinkle the bottom and sides with the extra tbsp of granulated sugar. \r\n\r\nBeat the eggs and the 1\/3 cup of granulated sugar in the bowl of an electric mixer fitted with the paddle attachment on medium-high speed until light and fluffy, about 3 minutes. On low speed, mix in the flour, cream, vanilla extract, salt, and pear juice. Set aside for at least 10 minutes, but up to 30 minutes is ok.\r\n\r\nMeanwhile, peel, quarter, core, and slice the pears. Arrange the slices in a single layer, slightly fanned out, in the baking dish. Pour the batter over the pears and bake until the top is golden brown and the custard is firm, 35 to 40 minutes. \r\n\r\nServe warm or at room temperature, sprinkled with powdered sugar or whipped cream.",
+        "ingredients": [
+            "1 tbsp unsalted butter, at room temperature\r",
+            "1 tbsp granulated sugar\r",
+            "<hr>",
+            "1\/3 cup granulated sugar\r",
+            "3 extra large large eggs at room temperature\r",
+            "6 tbsp all-purpose flour\r",
+            "1 1\/2 cup heavy cream\r",
+            "2 tsp pure vanilla extract\r",
+            "1\/4 tsp kosher salt\r",
+            "2 tbsp pear juice\r",
+            "3 firm Bartlett (or green) pears\r",
+            "powdered sugar or fresh whipped cream (optional toppings)"
+        ],
+        "tags": [
+            "dessert",
             "low_tyramine",
             "untried"
         ]
