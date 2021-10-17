@@ -17497,8 +17497,7 @@
         "tags": [
             "vegetarian",
             "soup",
-            "low_tyramine",
-            "untried"
+            "low_tyramine"
         ]
     },
     "id579": {
@@ -17526,13 +17525,12 @@
             "1 tbsp chia seeds\r",
             "1\/4 cup sunflower seeds\r",
             "1 tsp vanilla extract\r",
-            "1\/4-1\/2 cup white chocolate pieces (OPTIONAL)"
+            "1\/4-1\/2 cup white chocolate pieces"
         ],
         "tags": [
             "vegetarian",
             "low_tyramine",
-            "snack",
-            "untried"
+            "snack"
         ]
     },
     "id580": {
@@ -17542,7 +17540,7 @@
         "preptime": 0,
         "waittime": 0,
         "cooktime": 0,
-        "servings": 2,
+        "servings": 4,
         "comments": "Reduced # of servings to make a vegetarian main dish instead of a side dish",
         "calories": 1050,
         "fat": 0,
@@ -17568,8 +17566,7 @@
         "tags": [
             "vegetarian",
             "main",
-            "low_tyramine",
-            "untried"
+            "low_tyramine"
         ]
     },
     "id581": {
@@ -17597,7 +17594,7 @@
             "1\/4 cup cilantro, chopped\r",
             "1\/4 cup basil, chopped\r",
             "4 small red radish, cut into strips\r",
-            "<hr>",
+            "<hr>\r",
             "1\/4 cup sunflower seed butter\r",
             "1\/4 cup unsweetened pomegranate or tart cherry juice\r",
             "2 tablespoon distilled white vinegar\r",
@@ -17614,8 +17611,7 @@
             "main",
             "pasta",
             "salad",
-            "low_tyramine",
-            "untried"
+            "low_tyramine"
         ]
     },
     "id582": {
@@ -17626,7 +17622,7 @@
         "waittime": 0,
         "cooktime": 0,
         "servings": 2,
-        "comments": "This can probably be two servings as main dish salads?",
+        "comments": "",
         "calories": 0,
         "fat": 0,
         "satfat": 0,
@@ -17640,7 +17636,7 @@
             "6 large fresh strawberries, sliced\r",
             "2 small fresh peaches, sliced * Any kind is fine\r",
             "1 ball of burrata, torn into pieces\r",
-            "<hr>",
+            "<hr>\r",
             "2 cup fresh basil leaves\r",
             "1 small shallot, peeled\r",
             "1 small garlic clove\r",
@@ -17652,8 +17648,7 @@
         "tags": [
             "vegetarian",
             "salad",
-            "low_tyramine",
-            "untried"
+            "low_tyramine"
         ]
     },
     "id583": {
