@@ -1328,7 +1328,7 @@
         "protein": 6,
         "instructions": "1. Cook leeks, carrots, onion, and garlic, covered stirring occasionally in a medium saucepan over medium heat for 10 minutes.\r\n2. Add water, parsley, thyme, bay leaf, and peppercorns. Raise heat to high. Bring to a boil, reduce heat. Simmer, uncovered, for 30 minutes. Pour through a cheesecloth-lined strainer; discard solids.\r\n\r\nStorage: stock can be refrigerated for up to 2 days or frozen for up to 3 months.",
         "ingredients": [
-            "2 leeks, white and pal-green parts only, cut into 1-inch rounds, rinsed well\r",
+            "2 leeks, white and pale-green parts only, cut into 1-inch rounds, rinsed well\r",
             "2 carrots, cut into 1-inch rounds\r",
             "1 small onion, cut into 1-inch pieces\r",
             "3 garlic cloves\r",
@@ -17406,19 +17406,19 @@
             "1\u20442 cup vegan mayonnaise\r",
             "1 cup bread crumbs\r",
             "1\u20444 teaspoons red pepper flakes\r",
-            "<hr>",
+            "<hr>\r",
             "1\/2 cup plain ketchup\r",
             "1 tablespoon sriracha\r",
             "Juice of half a lemon\r",
             "1 teaspoon garlic powder\r",
             "1 teaspoon honey\r",
-            "<hr>",
+            "<hr>\r",
             "4 hamburger buns\r",
             "4 slices sharp cheddar cheese\r",
             "Your favorite coleslaw"
         ],
         "tags": [
-            "Sandwich",
+            "sandwich",
             "vegetarian",
             "untried"
         ]
@@ -17747,6 +17747,137 @@
             "dessert",
             "low_tyramine",
             "untried"
+        ]
+    },
+    "id586": {
+        "id": "id586",
+        "name": "Summer Veggie and Egg Paninis",
+        "source": "Blue Apron",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1200,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "In a large pan, heat oil over medium-high heat, and cook squash slices 3-4 minutes per side, until lightly browned. Season with salt and pepper, then remove from pan.\r\n\r\nAdd bell pepper, salt, and pepper, and cook for 2-3 minutes until lightly browned. Add garlic and vinegar, and cook for an additional minute. Remove from heat, stir in olives.\r\n\r\nMix mayo and chili paste, adding salt and pepper to taste. Spread on top of baguette buns. Layer the bottom of each bun with peppers, squash slices, then sliced egg, seasoning the egg slightly if desired. Put top on, then return sandwiches to a hot pan and press, 3-4 minutes per side.\r\n\r\nWhen done, slice on a bias and plate.",
+        "ingredients": [
+            "2 eggs, hardboiled\r",
+            "2 sandwich baguettes\r",
+            "1 summer squash, sliced lengthwise into long strips\r",
+            "1 bell pepper, sliced into thin strips\r",
+            "2 clove garlic, roughly chopped\r",
+            "1\/2 tbsp red wine vinegar\r",
+            "1 oz castelvatrano olives\r",
+            "2 tbsp mayo\r",
+            "1\/2 tbsp calabrian chili paste"
+        ],
+        "tags": [
+            "sandwich",
+            "vegetarian",
+            "low_tyramine"
+        ]
+    },
+    "id587": {
+        "id": "id587",
+        "name": "Creamy Summer Veggie Risotto",
+        "source": "Blue Apron",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix the tomatoes in a bowl with oil, salt, and pepper, and leave to the side to season for at least ten minutes.\r\n\r\nIn a medium pot, heat olive oil over medium-high heat, then cook shallot and garlic, seasoning, for 1 minute, until slightly softened. Add the rice, stirring requently for 1-2 minutes, until lightly browned. Add water, season, and heat to boiling on high; once boiling, reduce to medium-high and cook 16-18 minutes, stirring occasionally, until liquid is mostly absorbed and rice is al dente.\r\n\r\nMeanwhile, when risotta has about 10 minutes left, heat oil in a medium pan over medium-high heat, then cook sweet peppers and jalape\u00f1o for 2-3 minutes, until slightly softened. Add tomatoes, and cook for another 2-3 minutes. Season as needed.\r\n\r\nWhen risotto is done, add the butter, mascarpone, and half the parmesan, stirring until combined. Adjust seasoning if needed. Serve, topped with vegetables, remaining parmesan, and chives. ",
+        "ingredients": [
+            "1\/2 cup grape tomatoes, halved\r",
+            "1 shallot, finely chopped\r",
+            "2 clove garlic, roughly chopped\r",
+            "1 cup carnaroli rice\r",
+            "3 1\/2 cup water\r",
+            "2 tbsp mascarpone cheese\r",
+            "2 tbsp butter\r",
+            "1 oz parmesan, grated\r",
+            "1 jalape\u00f1o pepper, seeded and diced\r",
+            "4 oz sweet peppers, seeded and medium diced\r",
+            "1 bunch chives, small diced"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "low_tyramine"
+        ]
+    },
+    "id588": {
+        "id": "id588",
+        "name": "Roasted Garlic",
+        "source": "https:\/\/cookieandkate.com\/best-roasted-garlic-recipe\/",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 3000,
+        "servings": 1,
+        "comments": "1 \"serving\" is one head of garlic",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 400F.\r\n\r\nSlice top ~1\/4 inch off of the garlic head, slightly exposing each clove. Remove some paper and manually slice open cloves on the side if necessary.\r\n\r\nPlace heads, cut side up, in pan, not touching the sides. Drizzle oil over the heads, ensuring the opened surface of the cloves are fully coated. Cover (either with foil, or with an oven-safe lid), then bake for 40-70 minutes, until exposed garlic is golden-brown and cloves are easily pierced with a knife.\r\n\r\nLet cool for 10 minutes, then separate cloves and remove from paper (using fork or spoon to help squeeze). Use or refrigerate immediately.",
+        "ingredients": [
+            "1 head garlic\r",
+            "2 tsp olive oil"
+        ],
+        "tags": [
+            "component",
+            "vegetarian"
+        ]
+    },
+    "id589": {
+        "id": "id589",
+        "name": "Roasted Garlic Hummus",
+        "source": "https:\/\/cookieandkate.com\/best-hummus-recipe\/",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 1200,
+        "servings": 8,
+        "comments": "8 servings is ~2 cups",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Prepare the roasted garlic ahead of time (takes ~1 hr).\r\n\r\nBoil chickpeas and baking soda in several inches of water, for about 20 minutes until they look bloated and soft with their skins coming off. Drain and rinse to remove excess baking soda.\r\n\r\nMeanwhile, blend garlic, salt, and water until garlic is very finely chopped. Let rest for 10min for garlic flavor to mellow. Add tahini and blend until thick and creamy. Add ice water a tbsp at a time until ultra-smooth.\r\n\r\nAdd chickpeas, cumin, oil, and roasted garlic, and blend until smooth. Add more ice water if needed for texture. Season to taste.",
+        "ingredients": [
+            "1 serving [roasted garlic](https:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id588)",
+            "1 can chickpeas\r",
+            "1\/2 tsp baking soda\r",
+            "1 clove garlic, roughly chopped\r",
+            "1\/2 tsp salt\r",
+            "1\/4 cup water\r",
+            "1\/2 cup tahini\r",
+            "1\/4 cup ice water\r",
+            "1\/2 tsp ground cumin\r",
+            "1 tbsp olive oil"
+        ],
+        "tags": [
+            "component",
+            "vegetarian",
+            "low_tyramine"
         ]
     }
 }
