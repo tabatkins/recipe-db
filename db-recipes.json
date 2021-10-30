@@ -10949,11 +10949,9 @@
         "fiber": 4,
         "sugar": 3,
         "protein": 10,
-        "instructions": "In a heatproof bowl, mix bulgur with salt and boiling water. Cover, and let stand until tender but slightly chewy, about 30 minutes.\r\n\r\nDrain bulgur in a fine-mesh sieve, pressing to remove liquid; return to bowl. Add tomatoes, parsley, shallot, vinegar, and oil. Season with salt and pepper, and toss. Top with cheese.",
+        "instructions": "Bring small pot of lightly salted water to a boil, rinse farro and add to boiling water, and cook for 30 minutes or until tender but chewy. Or cook according to package direction.\r\n\r\nDrain farro and place in a small mixing bowl. Add tomatoes, parsley, shallot, vinegar, and oil. Season with salt and pepper, and toss. Top with cheese.",
         "ingredients": [
-            "1\/3 cup medium-grind bulgur\r",
-            "1\/4 tsp salt\r",
-            "1 cup water, boiling\r",
+            "1\/4 cup farro\r",
             "Coarse salt and ground pepper\r",
             "1 cup grape tomatoes, halved\r",
             "1\/2 cup fresh parsley, chopped\r",
@@ -17878,6 +17876,38 @@
             "component",
             "vegetarian",
             "low_tyramine"
+        ]
+    },
+    "id590": {
+        "id": "id590",
+        "name": "Potato and kale hash with baked eggs and hot sauce",
+        "source": "Blue Apron",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 1200,
+        "servings": 2,
+        "comments": "",
+        "calories": 1040,
+        "fat": 62,
+        "satfat": 18,
+        "carbs": 82,
+        "fiber": 16,
+        "sugar": 0,
+        "protein": 44,
+        "instructions": "Place an oven rack inthe center of the oven; preheat to 450F. Fill a medium pot 3\/4 of the way up with salted water; cover and heat to boiling on high. Once boiling, add the **diced potatoes** to the pot. Cook 6 to 7 minutes, or until slightly tender when pierced with a fork. Drain thoroughly.\r\n\r\nIn an oven-safe medium pan, heat 1 tbsp olive oil on medium-high until hot. Add the **parboiled potatoes** in an even layer (carefully, as the oil may splatter). Cook, without stirring, 3-4 minutes or until lightly browned and crispy.\r\n\r\nAdd the **diced peppers**, **garlic**, and **white part of the green onions** to the pan; season with salt and pepper. Cook, stirring frequently, 2-3 minutes, or until softened. Add the **chopped kale** and a drizzle of olive oil to the pan; season with salt and pepper. Cook, stirring frequently, 3-4 minutes, or until slightly wilted. Turn off the heat, taste, then season with salt and pepper, if desired.\r\n\r\nUsing a spoon, create 2 wells inthe center of the hash. Crack an **egg** into each well; season with salt and pper. Evenly top the hash with the grated cheese. Bake in the oven 5-7 minutes, or until egg whites are set and the yolks are cooked to your desired degree of doneness. Remove from the oven. Let stand at least 2 minutes before serving.\r\n\r\nServe the **baked eggs and hash** garnished with the **green tops of the green onions** and as much of the **hot sauce** as you'd like. Enjoy!",
+        "ingredients": [
+            "3\/4 lb golden potatoes, medium diced\r",
+            "1 red bell pepper, medium diced\r",
+            "2 clove garlic, roughly chopped\r",
+            "2 green onions, thinly sliced, white and green parts separated\r",
+            "1 bunch kale, stems removed and roughly chopped\r",
+            "2 eggs\r",
+            "2 oz cheddar cheese, grated\r",
+            "1 tbsp hot sauce"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
         ]
     }
 }
