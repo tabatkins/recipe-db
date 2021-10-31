@@ -17909,5 +17909,36 @@
             "vegetarian",
             "main"
         ]
+    },
+    "id591": {
+        "id": "id591",
+        "name": "Goat Cheese Sandwich with Arugula & Cucumber",
+        "source": "https:\/\/thedizzycook.com\/goat-cheese-sandwich-with-arugula-cucumber\/",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Spread goat cheese on one slice of bread and sweet chili jam\/sauce on the other side. Add cucumber and arugula, then assemble the sandwich and eat!",
+        "ingredients": [
+            "2 slices sandwich bread\r",
+            "1\/8 English cucumber, thinly sliced, enough to cover sandwich\r",
+            ".5 oz arugula\r",
+            "1 oz fresh goat cheese\r",
+            "1 tbsp sweet chili jam"
+        ],
+        "tags": [
+            "vegetarian",
+            "sandwich",
+            "low_tyramine",
+            "untried"
+        ]
     }
 }
