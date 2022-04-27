@@ -1350,9 +1350,9 @@
         "id": "id15",
         "name": "Spicy Rice Casserole",
         "source": "Betty Crocker",
-        "preptime": 0,
+        "preptime": 600,
         "waittime": 0,
-        "cooktime": 0,
+        "cooktime": 1200,
         "servings": 2,
         "comments": "",
         "calories": 1294,
@@ -1362,7 +1362,7 @@
         "fiber": 14,
         "sugar": 26,
         "protein": 44,
-        "instructions": "Preheat oven to 425 degrees.\r\n\r\nMix rice, oats, onion, bread crumbs, milk, basil, oregano, cayenne, and egg.  Press mixture into small baking dish.  Mix panko and parmesan, put on top of mixture.  Bake for 20 minutes or until crispy or browned.  (If topping starts browning too soon, cover loosely with aluminum foil.)\r\n\r\nServe with marinara sauce.",
+        "instructions": "Preheat oven to 425 degrees. (If not already done, cook rice according to package directions. Ideally, use a rice cooker earlier in the day.)\r\n\r\nMix rice, oats, onion, bread crumbs, milk, basil, oregano, cayenne, and egg.  Season to taste.  Press mixture into small baking dish.  Bake for 20 minutes.\r\n\r\nAs the rice goes into the oven, heat some olive oil in a small pan over medium heat and add panko. Stir occasionally until evenly brown.\r\n\r\nAlso as the rice goes into the oven, heat olive oil in a small pot and make marinara sauce.\r\n\r\nServe rice, topped with marinara and then panko.",
         "ingredients": [
             "2 cup cooked rice\r",
             "1\/2 cup quick-cooking oats\r",
@@ -1372,9 +1372,13 @@
             "1 tbsp italian seasoning\r",
             "1\/8 tsp cayenne pepper\r",
             "1 large egg, beaten\r",
+            "salt and pepper\r",
+            "<hr>\r",
+            "4 serving [marinara sauce](http:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id34)",
+            "<hr>\r",
+            "olive oil\r",
             "1\/2 cup panko\r",
-            "1\/4 cup parmesan cheese\r",
-            "4 serving [marinara sauce](http:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id34)"
+            "salt and pepper"
         ],
         "tags": [
             "vegetarian",
