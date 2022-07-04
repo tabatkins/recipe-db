@@ -17185,8 +17185,7 @@
             "8 slices rustic bread, toasted"
         ],
         "tags": [
-            "breakfast",
-            "untried"
+            "breakfast"
         ]
     },
     "id572": {
@@ -17606,15 +17605,15 @@
         "preptime": 0,
         "waittime": 0,
         "cooktime": 0,
-        "servings": 1,
+        "servings": 2,
         "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
+        "calories": 668,
+        "fat": 42,
+        "satfat": 10,
+        "carbs": 53,
+        "fiber": 23,
+        "sugar": 24,
+        "protein": 25,
         "instructions": "Mix milk, vanilla, and honey until combined. Stir in chia seeds, then chill overnight.\r\n\r\nStir in remaining ingredients before serving.",
         "ingredients": [
             "1\/4 cup chia seeds\r",
@@ -17622,9 +17621,8 @@
             "1 tsp vanilla\r",
             "1 tsp honey\r",
             "<hr>\r",
-            "2 tsp sunbutter\r",
-            "1\/4 cup fruit, diced\r",
-            "1\/8 cup pumpkin or sunflower seeds"
+            "2 tbsp peanut butter\r",
+            "1\/2 cup fruit, diced"
         ],
         "tags": [
             "breakfast",
