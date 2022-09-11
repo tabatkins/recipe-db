@@ -12685,48 +12685,6 @@
             "sides"
         ]
     },
-    "id433": {
-        "id": "id433",
-        "name": "Charred Eggplant and Walnut Pesto Pasta Salad",
-        "source": "http:\/\/smittenkitchen.com\/blog\/2016\/06\/charred-eggplant-and-walnut-pesto-pasta-salad\/",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "Unsure about servings as a dinner; try it out as written and see if it's too much.",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Cook pasta: In very well salted water until 1 to 2 minutes before doneness and drain.\r\n\r\nPrepare eggplant: Trim eggplant and slice into 1\/2-inch coins. Brush both sides with olive oil and sprinkle with salt and freshly ground black pepper. Heat grill to medium-high. Arrange eggplant in one layer and cook until charred underneath, about 8 minutes. (If it\u2019s sticking to the grill, it wants to cook longer.) Flip pieces over and cook until charred on second side, about 5 to 8 minutes more. Set aside to cool slightly then chop into chunks.\r\n\r\nNo grill? Heat oven to 425. Trim eggplant and slice into 1\/2-inch coins. Coat a baking sheet generously with olive oil, arrange eggplant on top and sprinkle with salt and pepper. Roast, without disturbing, for 15 to 20 minutes. Carefully flip each piece: the undersides should be blistery, dark and a bit puffy and should release easily; if they don\u2019t want to, cook them a few minutes longer. Flip each piece, sprinkle again with salt and pepper, and roast on the second side for 10 to 12 minutes, or until charred underneath again.\r\n\r\nMake dressing: In food processor, coarsely grind walnuts, cheese, garlic, thyme, salt and freshly ground black pepper and\/or red pepper flakes. Stir in oil and tomatoes, then whisk in vinegar to taste.\r\n\r\nAssemble salad: Toss cooked pasta with walnut dressing and additional vinegar and oil to loosen (I used about 1 tablespoon extra oil and 2 tablespoons extra vinegar in total). Add eggplant and toss again. Adjust seasonings to taste, then stir in cheese and herbs.",
-        "ingredients": [
-            "1\/2 cup walnuts, toasted\r",
-            "2 tbsp Parmesan\r",
-            "1 clove garlic, pressed\r",
-            "1 sprig thyme\r",
-            "1 tsp sherry vinegar\r",
-            "2 tbsp cup olive oil\r",
-            "1\/8 cup sun-dried tomatoes in oil, minced\r",
-            "1\/8 tbsp salt\r",
-            "1\/8 tbsp red pepper flakes\r",
-            "<hr>\r",
-            "6oz curly pasta\r",
-            "1 medium eggplant\r",
-            "salt\r",
-            "black pepper\r",
-            "2 oz feta\r",
-            "2 tbsp basil, chiffonaded\r",
-            "olive oil\r",
-            "sherry vinegar"
-        ],
-        "tags": [
-            "main",
-            "vegetarian"
-        ]
-    },
     "id434": {
         "id": "id434",
         "name": "Baked English Muffins",
@@ -18078,6 +18036,118 @@
         "tags": [
             "vegetarian",
             "main"
+        ]
+    },
+    "id599": {
+        "id": "id599",
+        "name": "Stuffed Delicata Squash",
+        "source": "Blue Apron",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1800,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 450F. Trim the ends of the delicata. Cut in half and scoop out the seeds. Rub all surfaces with olive oil, salt, and pepper, then place cut-side-down on a baking sheet. Bake for 20min, or until browned and tender when pierced with a fork.\r\n\r\nCook the rice per package directions, then decant to a mixing bowl.\r\n\r\nIn a small pot, combine the vinegar, brown sugar, and water; season to taste. Whisk together, then add the figs. Bring to a boil, stirring occasionally, for 1-2 minutes until well-coated.\r\n\r\nIn a medium pan, saute the onion 2-3 minutes, until softened. Add the peppers and carrots, season, then cook 4-5 minutes. Add garlic, cook for an additional 1-2 minutes. Transfer to the rice, add the parmesan and half the feta. Mix well.\r\n\r\nFill the squash halves with filling; serve the remaining filling alongside\/under the squash. Garnish with the pickled figs and remaining feta.",
+        "ingredients": [
+            "1\/2 cup rice\r",
+            "1 delicata squash\r",
+            "2 figs, diced\r",
+            "1 tbsp red wine vinegar\r",
+            "1 tbsp brown sugar\r",
+            "1\/4 cup water\r",
+            "2 clove garlic, roughly chopped\r",
+            "1 yellow onion, small diced\r",
+            "3 oz shishito peppers, medium diced crosswise\r",
+            "1 large carrot, medium diced\r",
+            "1 1\/2 oz feta cheese\r",
+            "1\/4 parmesan cheese"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
+    },
+    "id600": {
+        "id": "id600",
+        "name": "Fairy Tale Eggplant Pizza",
+        "source": "Blue Apron",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 2400,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 475F.\r\n\r\nHeat a large pan with olive oil to medium heat. Arrange the eggplant in a single layer, and cook without stirring 2-3 minutes, until lightly browned. Add chives and half the garlic, season. Cook 1-2 minutes until softened. Add tomato paste and water, and cook 1-2 minutes, stirring frequently, until dark red and fragrant.\r\n\r\nLay out the pizza dough. Top with mozzarella and eggplant, and bake 15 minutes, until crust is golden brown and cheese has melted.\r\n\r\nMeanwhile, blister the tomatoes at medium-high for 3-4 minutes, until browned. Add half the vinegar and season, cooking for another 30s-1min, until slightly thickened. Transfer to a bowl.\r\n\r\nLayer squash in a single layer and cook 2-3 minutes without stirring, until lightly browned. Add remaining garlic and season, stirring and cooking for another 2-3 minutes. Add fig and remaining vinegar, stir to combine. Add to tomatoes and gently combine.\r\n\r\nWhen serving, top salad with parmesan and half the basil; add remaining basil to pizza.",
+        "ingredients": [
+            "1\/2 lb fairy tale eggplant, 1\/4-inch slices\r",
+            "1 tbsp capers\r",
+            "2 clove garlic, roughly chopped and divided\r",
+            "2 tbsp tomato paste\r",
+            "2 tbsp water\r",
+            "1\/2 lb fresh mozzarella, torn into bite-size pieces\r",
+            "1\/2 cup cherry tomatoes, whole\r",
+            "2 tbsp red wine vinegar, divided\r",
+            "1 large fig, diced\r",
+            "1 small zucchini (or other squash), 1\/2-inch half moons\r",
+            "1 tbsp basil, chiffonaded\r",
+            "1\/2 lb pizza dough"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "pizza"
+        ]
+    },
+    "id601": {
+        "id": "id601",
+        "name": "Vegetarian Jjajangmyeon",
+        "source": "https:\/\/www.maangchi.com\/recipe\/jjajangmyeon",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 1200,
+        "servings": 2,
+        "comments": "Adapted to use mushroom instead of pork",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Cook noodles according to package directions. Drain and rinse under cold water. Set aside.\r\n\r\nHeat 1 Tablespoon of vegetable oil over medium high heat in a wok or large skillet. Add mushrooms and radish and stir fry for 1 minute.\r\n\r\nAdd potato, onion, and zucchini and keep stirring for about 3 minutes until the potato looks a little translucent.\r\n\r\nClear a space in the center of the wok by pushing the ingredients to the edges.\r\n\r\nAdd 2 Tablespoons of vegetable oil to the center of the wok, then add 1\/4 cup of black bean paste and stir it with a wooden spoon for 1 minute to fry it. Then mix everything in the wok and keep stirring.\r\n\r\nAdd  2 cups of water to the wok and let it cook with the lid closed for about 10 minutes.\r\n\r\nOpen the lid and taste a sample of the radish and potato. If they\u2019re fully cooked, stir in the starch water little by little. Keep stirring until it\u2019s well mixed and thick.\r\n\r\nAdd the sesame oil and remove from the heat.\r\n\r\nServe over noodles, garnish with cucumber.",
+        "ingredients": [
+            "6 oz fresh udon noodles (or 4 oz dried udon or spaghetti noodles)\r",
+            "1 tablespoon vegetable oil\r",
+            "8 oz shiitake mushrooms\r",
+            "1 cup daikon radish, cut into \u00bd inch cubes\r",
+            "1 cup zucchini, cut into \u00bd inch cubes\r",
+            "1 cup potato, peeled and cut into \u00bd inch cubes\r",
+            "1 1\/2 cup onion, large diced\r",
+            "2 tablespoon vegetable oil\r",
+            "1\/4 cup black bean paste\r",
+            "2 cup water\r",
+            "2 tablespoon potato starch powder, combined with \u00bc cup water and 1 teaspoon of sugar in a small bowl, set aside\r",
+            "1 teaspoon toasted sesame oil\r",
+            "1\/2 cup cucumber, cut into thin matchsticks for garnish"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "korean",
+            "untried"
         ]
     }
 }
