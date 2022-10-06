@@ -18099,5 +18099,36 @@
             "korean",
             "untried"
         ]
+    },
+    "id602": {
+        "id": "id602",
+        "name": "Cheese Board Bento",
+        "source": "https:\/\/www.hormelfoods.com\/inspired\/story\/the-bold-and-the-bento\/",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "Heavily edited due to calories in original recipe",
+        "calories": 504,
+        "fat": 33,
+        "satfat": 0,
+        "carbs": 38,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 19,
+        "instructions": "Toss apple pieces with lemon juice to prevent browning. Arrange ingredients in bento box. ",
+        "ingredients": [
+            "1 oz parmesan cheese, broken into rustic bite-sized pieces\r",
+            "1\/4 cup castelvetrano olives\r",
+            "1\/2 cup grapes\r",
+            "1\/2 apples, cut into wedges or large pieces\r",
+            "2 tsp lemon juice\r",
+            "1\/4 cup Marcona almonds"
+        ],
+        "tags": [
+            "vegetarian",
+            "bento",
+            "untried"
+        ]
     }
 }
