@@ -18130,5 +18130,79 @@
             "bento",
             "untried"
         ]
+    },
+    "id603": {
+        "id": "id603",
+        "name": "Chocolate Chip Cookies (NYT)",
+        "source": "https:\/\/cooking.nytimes.com\/recipes\/1015819-chocolate-chip-cookies",
+        "preptime": 1200,
+        "waittime": 259200,
+        "cooktime": 1080,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Step 1\r\nSift flours, baking soda, baking powder and salt into a bowl. Set aside.\r\n\r\nStep 2\r\nUsing a mixer fitted with paddle attachment, cream butter and sugars together until very light, about 5 minutes. Add eggs, one at a time, mixing well after each addition. Stir in the vanilla. Reduce speed to low, add dry ingredients and mix until just combined, 5 to 10 seconds. Drop chocolate pieces in and incorporate them without breaking them. Press plastic wrap against dough and refrigerate for 24 to 36 hours. Dough may be used in batches, and can be refrigerated for up to 72 hours.\r\n\r\nStep 3\r\nWhen ready to bake, preheat oven to 350 degrees. Line a baking sheet with parchment paper or a nonstick baking mat. Set aside.\r\n\r\nStep 4\r\nScoop 6 3\u00bd-ounce mounds of dough (the size of generous golf balls) onto baking sheet, making sure to turn horizontally any chocolate pieces that are poking up; it will make for a more attractive cookie. Sprinkle lightly with sea salt and bake until golden brown but still soft, 18 to 20 minutes. Transfer sheet to a wire rack for 10 minutes, then slip cookies onto another rack to cool a bit more. Repeat with remaining dough, or reserve dough, refrigerated, for baking remaining batches the next day. Eat warm, with a big napkin.",
+        "ingredients": [
+            "8.5 oz cake flour\r",
+            "8.5 oz bread flour\r",
+            "1 1\/4 teaspoon baking soda\r",
+            "1 1\/2 teaspoon baking powder\r",
+            "1 1\/2 teaspoon coarse salt\r",
+            "1 1\/4 cup unsalted butter (2\u00bd sticks)\r",
+            "10 oz light brown sugar\r",
+            "8 oz granulated sugar\r",
+            "2 large eggs\r",
+            "2 teaspoon vanilla extract\r",
+            "1 1\/4 pound semisweet chocolate chips\r",
+            "Sea salt"
+        ],
+        "tags": [
+            "cookies"
+        ]
+    },
+    "id604": {
+        "id": "id604",
+        "name": "Vegetable Fried Rice with Broccoli, Carrots, & Spicy Pepper Sauce",
+        "source": "Blue Apron",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 1180,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "In a medium pot, combine the **rice**, a big pinch of salt, and 1 cup of water. Heat to boiling on high. Once boiling, reduce the heat to low. Cover and cook, without stirring, 12 to 14 minutes, or until the water has been absorbed and the rice is tender. Turn off the heat and fluff with a fork.\r\n\r\nIn a medium pan (nonstick, if you have one), heat 2 teaspoons of olive oil on medium-high until hot. Add the chopped **broccoli**; season with salt and pepper. Cook, stirring occasionally, 4 to 5 minutes, or until slightly softened. Add the sliced **carrots**; season with salt and pepper. Cook, stirring occasionally, 4 to 5 minutes, or until slightly softened. Add the chopped **ginger** and sliced **white bottoms of the scallions**. Cook, stirring occasionally, 2 to 3 minutes, or until softened. Transfer to a large bowl; cover with aluminum foil to keep warm. Wipe out the pan.\r\n\r\nWhile the vegetables cook, in a bowl, whisk together the **vinegar** and **honey**. Stir in the sliced **pepper**. Season with salt and pepper.\r\n\r\nIn the same pan, heat 1 tablespoon of olive oil on medium-high until hot. Add the **cooked rice** in an even layer. Cook, without stirring, 3 to 4 minutes, or until slightly crispy. Turn off the heat; stir in the **soy sauce**, **sweet chili sauce**, and **chopped garlic**. Transfer to the bowl of cooked vegetables; stir to combine. Season with salt and pepper to taste. Cover with the foil to keep warm. Rinse and wipe out the pan.\r\n\r\nIn the same pan, heat 2 teaspoons of olive oil on medium-high until hot. Keeping them separate, crack the **eggs** into the pan; season with salt and pepper. Cook 3 to 5 minutes, or until the whites are set and the yolks are cooked to your desired degree of doneness. Turn off the heat. Serve the fried rice topped with the fried eggs and as much of the sauce as you\u2019d like, depending on how spicy you\u2019d like the dish to be. Garnish with the **sliced green tops of the scallions**. Enjoy!",
+        "ingredients": [
+            "1\/2 cup Jasmine Rice\r",
+            "<hr>\r",
+            "1\/2 lb Broccoli, roughly chopped\r",
+            "2 medium Carrots, thinly sliced at an angle\r",
+            "1 1-Inch Piece Ginger, peeled and finely chopped\r",
+            "2 Scallions, thinly sliced, separate white and green parts\r",
+            "<hr>\r",
+            "1 Tbsp White Wine Vinegar\r",
+            "1 Tbsp Honey\r",
+            "1 Bird's Eye Chile Pepper, thinly sliced\r",
+            "<hr>\r",
+            "2 Tbsps Soy Sauce\r",
+            "3 Tbsps Sweet Chili Sauce\r",
+            "2 clove Black Garlic, peeled and roughly chopped\r",
+            "2 Pasture-Raised Eggs"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
     }
 }
