@@ -747,41 +747,6 @@
             "breakfast"
         ]
     },
-    "40": {
-        "id": "40",
-        "name": "Apple Carrot Salad",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "Great with pork!",
-        "calories": 880,
-        "fat": 74,
-        "satfat": 9,
-        "carbs": 32,
-        "fiber": 8,
-        "sugar": 19,
-        "protein": 27,
-        "instructions": "1. In small bowl, whisk olive oil, vinegar, and lemon juice.\r\n2. Combine salad ingredients in a medium bowl. Pour dressing over salad. Slice eggs and place on top.",
-        "ingredients": [
-            "1\/2 cup walnuts, chopped\r",
-            "1 apple, chopped\r",
-            "4 carrots, spiralized or grated in food processor\r",
-            "1 tbsp apple cider vinegar\r",
-            "2 tbsp olive oil\r",
-            "1\/2 lemon, juiced\r",
-            "salt and pepper, to taste\r",
-            "2 eggs"
-        ],
-        "tags": [
-            "raw",
-            "salad",
-            "FUF",
-            "vegetarian",
-            "main"
-        ]
-    },
     "42": {
         "id": "42",
         "name": "Extreme Green Salad",
@@ -12728,8 +12693,8 @@
             "1 bunch asparagus, trimmed and halved crosswise\r",
             "2 cup baby spinach leaves\r",
             "2 clove garlic\r",
-            "1 cup freshly grated Parmesan cheese, plus more for topping\r",
-            "3\/4 cup toasted pine nuts\r",
+            "1 cup parmesan cheese, freshly grated\r",
+            "3\/4 cup pine nuts, toasted\r",
             "1\/4 cup extra-virgin olive oil, plus more for topping\r",
             "1\/2 lemon, juiced\r",
             "1\/2 teaspoon salt"
@@ -18127,8 +18092,7 @@
         ],
         "tags": [
             "vegetarian",
-            "bento",
-            "untried"
+            "bento"
         ]
     },
     "id603": {
