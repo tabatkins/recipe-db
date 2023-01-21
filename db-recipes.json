@@ -17859,26 +17859,26 @@
         "waittime": 0,
         "cooktime": 1200,
         "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "",
+        "comments": "Cut amount of chickpeas in half",
+        "calories": 1470,
+        "fat": 46,
+        "satfat": 22,
+        "carbs": 130,
+        "fiber": 20,
+        "sugar": 11,
+        "protein": 38,
+        "instructions": "Heat a 1\/4-inch layer of oil in a medium pan over medium-high heat. Sprinkle **chickpeas** with **flour**; toss to evenly coat.\r\n\r\nOnce oil is hot enough that a pinch of flour sizzles when added to the pan, add chickpeas and cover, cook uncovering to stir once or twice, until crispy, 4-7 minutes. Transfer chickpeas to a paper-towel-lined plate; season with za'atar, salt, and pepper.\r\n\r\nWhile chickpeas cook, in a large bowl, toss together **tomatoes**, **cucumber**, **dill**, **feta**, and a drizzle of olive oil. Season with salt and pepper to taste.\r\n\r\nToast **pitas** until warm and pliable. Halve each pita crosswise to create pockets. Spread **hummus** and **sour cream** inside of each pita pocket. Fill with chickpeas and salad. Serve pita pockets with any leftover chickpeas and\/or salad on the side.",
         "ingredients": [
-            "4 oz grape tomatoes\r",
-            "1\/4 English cucumber\r",
-            "1 tbsp fresh dill\r",
-            "1 14-oz can chickpeas\r",
-            "1 tbsp flour\r",
-            "1 tbsp Shawarma spice blend\r",
-            "1\/2 cup feta\r",
-            "2 pitas\r",
-            "4 tbsp hummus\r",
-            "2 tbsp sour cream"
+            "1\/2 14-oz can chickpeas, drained and rinsed\r",
+            "1\/2 tbsp flour\r",
+            "1 tbsp za'atar (or Shawarma spice blend)\r",
+            "4 oz grape tomatoes, halved\r",
+            "1\/4 English cucumber, sliced into half moons\r",
+            "1 tbsp fresh dill, roughly chopped\r",
+            "1\/2 cup feta, crumbled\r",
+            "2 tbsp hummus\r",
+            "2 tbsp sour cream\r",
+            "2 pitas"
         ],
         "tags": [
             "vegetarian",
@@ -18140,6 +18140,42 @@
         "tags": [
             "soup",
             "untried"
+        ]
+    },
+    "id606": {
+        "id": "id606",
+        "name": "Seared tilapia and lemon-caper sauce",
+        "source": "Blue Apron",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1500,
+        "servings": 2,
+        "comments": "",
+        "calories": 1044,
+        "fat": 48,
+        "satfat": 20,
+        "carbs": 98,
+        "fiber": 8,
+        "sugar": 14,
+        "protein": 62,
+        "instructions": "Fill a medium pot with salted water; cover and heat to boiling on high. Add the **pasta** to the pot of boiling water and cook, uncovered, 7 to 9 minutes, or until tender. Turn off the heat. Drain thoroughly and return to the pot.\r\n\r\nWhile the pasta cooks in a medium pan (nonstick, if you have one), heat **2 tsp olive oil** over medium-high until hot. Add the **zucchini** in an even layer. Cook, without stirring, 2 to 3 minutes or until lightly browned.\r\n\r\nAdd the **peppers** and **garlic**; season with salt and pepper. Cook, stirring occasionally, 2 to 3 minutes, or until the vegetables are slightly softened. Transfer to the pot of cooked pasta and stir to combine. Cover to keep warm. Wipe out the pan.\r\n\r\nPat the **fish** dry with paper towels; season both sides well with salt, pepper and enough of the spice blend to coat (you may not need the full amount). In the same pan, heat **2 tsp olive oil** on medium-high until hot. Add the seasoned fish and cook 3 to 4 minutes, or until browned. Flip and cook 2 minutes.\r\n\r\nTo the pan, add the **butter**, **capers**, and **the juice of half the lemon** (carefully, as the liquid may splatter). Cook, constantly spooning the sauce over the fish, 1 to 2 minutes, or until the fish is coated and cooked through. Turn off the heat.\r\n\r\nTo the pot of **cooked pasta and vegetables**, add the **fromage blanc** and **the juice of the remaining lemon half**; stir to combine. Taste, then season with salt and pepper if desired.\r\n\r\nServe the finished pasta topped with the cooked fish and pan sauce. Garnish with **parsley**. Enjoy!",
+        "ingredients": [
+            "4 oz orzo pasta, dried\r",
+            "2 tsp olive oil\r",
+            "1 zucchini, quartered and cut crosswise into 1\/2-inch pieces\r",
+            "4 oz sweet peppers, cut off and discard stems, remove cores, then thinly slice lengthwise\r",
+            "2 clove garlic, peeled and roughly chopped\r",
+            "2 fillets tilapia\r",
+            "1 tbsp weeknight hero spice blend\r",
+            "2 tsp olive oil\r",
+            "2 tbsp butter\r",
+            "1 tbsp capers\r",
+            "1 lemon, halved\r",
+            "2 tbsp fromage blanc, or Greek yogurt\r",
+            "1 tbsp fresh parsley, roughly chopped"
+        ],
+        "tags": [
+            "seafood"
         ]
     }
 }
