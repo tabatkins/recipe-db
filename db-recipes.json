@@ -18177,5 +18177,36 @@
         "tags": [
             "seafood"
         ]
+    },
+    "id607": {
+        "id": "id607",
+        "name": "Irish Buttermilk Brown Bread",
+        "source": "King Arthur Flour Feb 2023",
+        "preptime": 1200,
+        "waittime": 600,
+        "cooktime": 2400,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 400F. Grease an 8\" round pan and place a liner on the bottom.\r\n\r\nIn a large bowl, stir together the flour, sugar, salt, baking soda, and baking powder.\r\n\r\nMake a large hole in the center of the dry ingredients and pour in the buttermilk and butter. Stir together until blended; some lumps will remain.\r\n\r\nTurn the dough out onto a floured surface and knead about 10 times, or until it all holds together. Form the dough into a ball and place it in the prepared pan. Cut a deep cross in the top.\r\n\r\nBake the bread for ~40min, or until a paring knife inserted in the center comes out clean. \r\n\r\nRemove the bread from the oven, tip it out of the pan, and cool on a rack.",
+        "ingredients": [
+            "4 cup whole-wheat flour\r",
+            "3 tbsp granulated sugar\r",
+            "1 tsp salt\r",
+            "1 tsp baking soda\r",
+            "2 tsp baking powder\r",
+            "1 1\/2 cup buttermilk\r",
+            "2 tbsp melted butter"
+        ],
+        "tags": [
+            "bread",
+            "untried"
+        ]
     }
 }
