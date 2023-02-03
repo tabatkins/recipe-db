@@ -1927,7 +1927,7 @@
         "waittime": 0,
         "cooktime": 0,
         "servings": 4,
-        "comments": "Also try with other veggies and proteins",
+        "comments": "",
         "calories": 1928,
         "fat": 24,
         "satfat": 4,
@@ -1935,7 +1935,7 @@
         "fiber": 12,
         "sugar": 23,
         "protein": 156,
-        "instructions": "1. In a large pot of boiling salted water, cook asparagus until crisp-tender, about 3 minutes. With a slotted spoon or mesh strainer, transfer asparagus to a colander and rinse under cool water to stop the cooking. Transfer asparagus to a medium bowl. Return water to a boil; add shrimp and cook until pink and opaque throughout, about 2 minutes. Transfer shrimp to bowl with asparagus. Return water to a boil; add noodles and cook according to package instructions. Drain noodles and rinse under cool water.\r\n\r\n2. Meanwhile, in a small bowl, whisk together soy sauce oil, vinegar, and sugar. Divide noodles among four bowls and drizzle with dressing. Top with asparagus and shrimp and sprinkle with scallions and basil.",
+        "instructions": "1. In a large pot of boiling salted water, cook asparagus until crisp-tender, about 3 minutes. With a slotted spoon or mesh strainer, transfer asparagus to a colander and rinse under cool water to stop the cooking. Transfer asparagus to a medium bowl. Return water to a boil; add shrimp and cook until pink and opaque throughout, about 2 minutes. Transfer shrimp to bowl with asparagus. Return water to a boil; add noodles and cook according to package instructions. Drain noodles and rinse under cool water.\r\n\r\n2. Meanwhile, in a small bowl, whisk together soy sauce oil, vinegar, and sugar. Divide noodles among bowls and drizzle with dressing. Top with asparagus and shrimp and sprinkle with scallions and herbs.",
         "ingredients": [
             "Sea salt\r",
             "1 pound asparagus, trimmed\r",
@@ -1946,7 +1946,8 @@
             "1 tablespoon rice vinegar\r",
             "1 tablespoon sugar\r",
             "3 green onions, thinly sliced\r",
-            "1 cup fresh basil leaves, chiffonade"
+            "1 tbsp mint, roughly chopped\r",
+            "1\/4 cup cilantro, roughly chopped"
         ],
         "tags": [
             "noodles",
