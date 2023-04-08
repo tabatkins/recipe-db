@@ -18210,5 +18210,33 @@
             "bread",
             "untried"
         ]
+    },
+    "id608": {
+        "id": "id608",
+        "name": "Homemade tonkatsu sauce",
+        "source": "",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "",
+        "ingredients": [
+            "1\/2 cup ketchup\r",
+            "2 tablespoon soy sauce\r",
+            "1 tablespoon brown sugar\r",
+            "1 tablespoon mirin\r",
+            "1 1\/2 teaspoon Worcestershire sauce\r",
+            "1 teaspoon grated fresh ginger\r",
+            "1 clove garlic, minced"
+        ],
+        "tags": []
     }
 }
