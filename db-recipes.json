@@ -2966,40 +2966,6 @@
             "untried"
         ]
     },
-    "id89": {
-        "id": "id89",
-        "name": "Baby Brussels sprouts with wild rice and pecans",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 8,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Bring a large saucepan of water to a boil. Stir in wild rice, reduce to a simmer, and cook (uncovered) until tender, about 40 minutes. Drain rice.\r\n\r\n2. Meanwhile, melt 2 tbsp (or 2\/3) of the butter in a large saute pan over medium heat. Toast pecans, stirring frequently, until fragrant, about 5 minutes. With a slotted spoon, transfer pecans to a plate, and season with salt.\r\n\r\n3. Add remaining butter, the pearl onions, and the water to pan; simmer until water is evaporated and onions are tender and pale golden, about 10 minutes.\r\n\r\n4. Trim Brussels sprouts, then score an X into the bottom of each one. Place in a  steaming basket or colander set in a saucepan filled with 1 inch of water. Bring water to a boil, then reduce to a simmer; cover and steam until just tender enough to pierce with the tip of a sharp knife, 6 to 8 minutes.\r\n\r\n5. In a bowl, whisk together sherry vinegar, maple syrup, and mustard. Add rice, Brussels sprouts, and onions; toss to coat, and season with salt and pepper. Coarsely chop pecans and add just before serving, warm or at room temperature.",
-        "ingredients": [
-            "2 cup wild rice\r",
-            "3 tbsp unsalted butter, divided use\r",
-            "3\/4 cup pecans\r",
-            "Salt\r",
-            "5 oz red pearl onions, peeled and halved through root end (about 1 cup=5 oz)\r",
-            "1\/2 cup water\r",
-            "1 lb baby Brussels sprouts\r",
-            "2 tbsp sherry vinegar\r",
-            "3 tbsp pure maple syrup\r",
-            "2 tsp Dijon mustard"
-        ],
-        "tags": [
-            "vegetarian",
-            "main"
-        ]
-    },
     "id90": {
         "id": "id90",
         "name": "Pumpkin mousse",
@@ -18258,6 +18224,119 @@
         "tags": [
             "bento",
             "untried"
+        ]
+    },
+    "id610": {
+        "id": "id610",
+        "name": "Black bean plantain bowls",
+        "source": "https:\/\/plantbasedrdblog.com\/2023\/03\/black-bean-plantain-bowls-with-crispy-garlic-rice",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 1800,
+        "servings": 2,
+        "comments": "adjusted ingredients to make 2 serving sizes",
+        "calories": 1220,
+        "fat": 26,
+        "satfat": 4,
+        "carbs": 220,
+        "fiber": 26,
+        "sugar": 14,
+        "protein": 26,
+        "instructions": "Add the beans, cilantro, orange zest, garlic, coriander and oregano to a mixing bowl. Squeeze over with the juice from the orange then add the red wine, maple syrup, extra virgin olive oil and a generous pinch of salt. Toss to coat and allow to marinate in the fridge.\r\n\r\nPreheat the oven to 400F, then peel and slice your plantains into 1\/2 inch pieces. Place the slices on a parchment lined baking sheet and spray or brush both sides with avocado oil. Place the plantains in the oven to cook for 15 minutes, then flip and roast for another 5-8 minutes until golden. Salt them as they come out of the oven. Optional, but a squeeze of lime juice before serving.\r\n\r\nMeanwhile, in a small pot add rice, a big pinch of salt, and 1 cup water to a boil. Stir, reduce heat to lower and cover. Cook, without stirring, for 12-14 minutes or until all water is absorbed and rice is tender. \r\n\r\nOptional, but as the plantains cook you can crisp up your rice for added texture. Start by warming a large skillet over medium heat. Drizzle oil in the pan and allow to warm through. Add the sliced garlic and allow to lightly brown for about 2 minutes. Remove the garlic then add the rice to the pan. With a spatula, flatten the rice into an even layer and allow it to cook undisturbed for about 5 minutes or until you see the rice become lightly golden. Add the garlic back on top of the rice with a pinch of salt and then break it up into chunks with your spatula.\r\n\r\nTo serve, layer the rice and plantains together then top with the black bean salad. You can also add sliced avocado and some pickled red onion then drizzle a little bit of the orange marinade on top.\r\n",
+        "ingredients": [
+            "1\/2 15oz-can black beans, drained and rinsed\r",
+            "2 tbsp cilantro, finely minced\r",
+            "1\/2 medium navel orange, zested and juiced\r",
+            "1 clove garlic, grated\r",
+            "1\/2 tbsp red wine vinegar\r",
+            "1\/4 tsp ground coriander\r",
+            "1\/4 tsp dried oregano\r",
+            "1 tsp maple syrup\r",
+            "1 tsp extra virgin olive oil\r",
+            "Salt, to taste\r",
+            "<hr>\r",
+            "1 ripe plantain, peeled and sliced into coins\r",
+            "1\/2 cup Jasmine rice, uncooked\r",
+            "1 tbsp Oil, for cooking\r",
+            "2 clove garlic, thinly sliced\r",
+            "Pickled red onion\r",
+            "Avocado\r",
+            "Lime wedges, optional"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "rice",
+            "beans",
+            "untried"
+        ]
+    },
+    "id611": {
+        "id": "id611",
+        "name": "Quick pickled red onion",
+        "source": "https:\/\/plantbasedrdblog.com\/2022\/02\/easy-mexican-pickled-onions\/",
+        "preptime": 300,
+        "waittime": 1800,
+        "cooktime": 0,
+        "servings": 12,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Do not use metal or plastic\r\n\r\nTo a glass jar or bowl, add your onion slices.\r\n\r\nWith a lemon\/lime juice squeezer, squeeze as much juice out of your citrus fruits overtop of the onions.\r\nAdd your apple cider vinegar, salt and any extra add-ins you like to the onions.\r\n\r\nIf using a bowl, carefully toss everything together to coat. If using a jar, seal the jar and give it a few good shakes to distribute the juice and salt evenly.\r\n\r\nPlace the jar in the fridge to sit for at least 30 minutes before using. You can still taste and adjust the salt to preference once they are ready to eat.",
+        "ingredients": [
+            "1 large red onion, thinly sliced\r",
+            "4 limes, juiced\r",
+            "1 small orange, juiced\r",
+            "1 tbsp apple cider vinegar\r",
+            "3\/4 tsp salt"
+        ],
+        "tags": [
+            "component",
+            "untried"
+        ]
+    },
+    "id612": {
+        "id": "id612",
+        "name": "Elote-style vegetable tostadas",
+        "source": "Blue Apron",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 2100,
+        "servings": 2,
+        "comments": "Reduced the amount of rice and tortillas",
+        "calories": 1224,
+        "fat": 80,
+        "satfat": 10,
+        "carbs": 114,
+        "fiber": 8,
+        "sugar": 12,
+        "protein": 16,
+        "instructions": "Preheat conventional or toaster oven to 450F.\r\n\r\nIn a small pot, combine the **rice**, a big pinch of **salt**, and **water**. Heat to boiling on high. Once boiling, reduce heat to low. Cover and cook, without stirring, 12-14 minutes or until the water has been absorbed and the rice is tender. Turn off the heat and fluff with a fork. Stir in the **lime zest** and the juice of **1 quarter of the lime**. Cover to keep warm.\r\n\r\nMeanwhile, in a large pan, heat **1 tablespoon olive oil** over medium heat until hot. Add the **diced zucchini** in an even layer. Cook, without stirring, for 2-3 minutes (Rachel's note - may take longer since you're not overheating your pan). Season with salt and pepper. Continue to cook, stirring occasionally, 3-4 minutes, or until slightly softened. Transfer to a large bowl, cover to keep warm. Wipe out the pan.\r\n\r\nMeanwhile, place the **tortillas** on a sheet pan. Drizzle with **olive oil** and season with salt and pepper. Turn to coat; arrange in an even layer. Toast in the oven for 6-8 minutes or until lightly browned and crispy. Remove from oven.\r\n\r\nIn the same pan, heat **2 teaspoons olive oil** on medium until hot. Add the diced **onion** and **pepper**; season with salt and pepper. Cook, stirring occasionally, 4-5 minutes, or until lightly browned and softened. Add the **spice blend** and the **chopped garlic**. Cook, stirring constantly, 1-2 minutes, or until combined. Transfer to the bowl of **cooked zucchini**.\r\n\r\nTo the bowl of **cooked vegetables**, add the **mayonnaise** and the **juice of half the lime**. Stir to combine. Taste, then season with salt and pepper if desired.\r\n\r\nAssemble the tostadas with the **toasted tortillas**, **lime rice**, and **finished vegetables**. Serve garnished with the **cheese**. Enjoy!",
+        "ingredients": [
+            "1\/4 cup jasmine rice, uncooked\r",
+            "1\/2 cup water\r",
+            "1 lime, zested then cut in quarters\r",
+            "<hr>\r",
+            "olive oil\r",
+            "1 zucchini, medium diced\r",
+            "2 small flour tortillas\r",
+            "1 tbsp olive oil\r",
+            "1 medium red onion, medium diced\r",
+            "1 poblano pepper, medium diced\r",
+            "1\/2 tbsp Mexican spice blend\r",
+            "2 clove garlic, roughly chopped\r",
+            "1\/4 cup mayonnaise\r",
+            "2 tbsp Cotija cheese, grated\r",
+            "Salt and pepper, to taste"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
         ]
     }
 }
