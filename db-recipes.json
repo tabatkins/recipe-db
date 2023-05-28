@@ -11042,40 +11042,6 @@
             "breakfast"
         ]
     },
-    "id387": {
-        "id": "id387",
-        "name": "Arugula Salad with Figs, Prosciutto, Walnuts, and Parmesan",
-        "source": "America's Test Kitchen Cooking School",
-        "preptime": 1200,
-        "waittime": 0,
-        "cooktime": 600,
-        "servings": 4,
-        "comments": "",
-        "calories": 1604,
-        "fat": 124,
-        "satfat": 28,
-        "carbs": 92,
-        "fiber": 16,
-        "sugar": 68,
-        "protein": 52,
-        "instructions": "Whisk 1 tablespoon honey and 3 tablespoons balsamic vinegar in medium microwave-safe bowl. Stir in figs. Cover with plastic wrap, cut several steam vents in plastic, and microwave on high until figs are plump, 30 seconds to 1 minute. Whisk in remaining 3 tablespoons olive oil, shallot, 1\/4 teaspoon salt, and 1\/8 teaspoon pepper. Let cool to room temperature.\r\n\r\nToss arugula and fig dressing in large bowl. Season if needed. Divide salad among individual plates. Top each with portion of prosciutto, walnuts, and Parmesan. Serve immediately.",
-        "ingredients": [
-            "4 tablespoon extra-virgin olive oil\r",
-            "2 oz pancetta, pan-seared to *barely* crispy\r",
-            "1\/2 cup walnuts, toasted and chopped\r",
-            "1 tablespoon honey\r",
-            "3 tablespoon balsamic vinegar\r",
-            "1\/2 cup dried figs\r",
-            "1 small shallot, finely minced\r",
-            "salt\r",
-            "ground black pepper\r",
-            "8 oz arugula , stemmed (if needed) and lightly packed (about 8 cups)\r",
-            "2 oz Parmesan cheese"
-        ],
-        "tags": [
-            "salad"
-        ]
-    },
     "id388": {
         "id": "id388",
         "name": "Red Lentil Soup with North African Spices",
@@ -14214,41 +14180,6 @@
             "main",
             "vegetarian",
             "sandwich"
-        ]
-    },
-    "id489": {
-        "id": "id489",
-        "name": "Mediterranean Salad with Artichokes, Penne, and Sun-Dried Tomatoes",
-        "source": "modified from: http:\/\/www.marthastewart.com\/312643\/mediterranean-salad-with-artichokes-penn",
-        "preptime": 2100,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 1,
-        "comments": "",
-        "calories": 528,
-        "fat": 20,
-        "satfat": 5,
-        "carbs": 71,
-        "fiber": 29,
-        "sugar": 5,
-        "protein": 20,
-        "instructions": "In a large saucepan of boiling salted water, cook pasta until 1 minute short of al dente. Add sun-dried tomatoes, and cook until tender and pasta is al dente, 1 minute more. Drain pasta and tomatoes, rinse under cold water, and drain again; transfer to a large bowl.\r\n\r\nMake dressing: In a large bowl, whisk together vinegar, oil, mustard, and water; season with salt and pepper.\r\n\r\nAdd pasta and tomatoes, romaine, beans, artichoke hearts, and feta; toss until combined, and serve immediately.",
-        "ingredients": [
-            "Coarse salt and ground pepper\r",
-            "2 oz dry fusili pasta\r",
-            "2 sun-dried tomatoes (not oil-packed), thinly sliced lengthwise\r",
-            "1\/2 tablespoon red-wine vinegar\r",
-            "1\/2 tablespoon olive oil\r",
-            "1 teaspoon Dijon mustard\r",
-            "1 teaspoon water\r",
-            "2 oz romaine lettuce, torn into bite-size pieces\r",
-            "1\/2 cup cannellini beans, rinsed and drained\r",
-            "1 6.5oz jar marinated artichoke quarters, drained and roughly chopped\r",
-            "1 ounce feta, crumbled"
-        ],
-        "tags": [
-            "salad",
-            "vegetarian"
         ]
     },
     "id490": {
