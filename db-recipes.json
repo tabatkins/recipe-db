@@ -18268,5 +18268,39 @@
             "vegetarian",
             "main"
         ]
+    },
+    "id613": {
+        "id": "id613",
+        "name": "Grilled halloumi and vegetables",
+        "source": "NYT Cooking",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 900,
+        "servings": 4,
+        "comments": "",
+        "calories": 1696,
+        "fat": 128,
+        "satfat": 60,
+        "carbs": 84,
+        "fiber": 28,
+        "sugar": 56,
+        "protein": 64,
+        "instructions": "Prepare a hot grill. Cut halloumi into 8-12 slabs (for 4 servings), about 1\/3- to 1\/2-inch thick. Cut peppers into wide pieces, slicing from top to bottom along the natural indentations. Discard seeds. Cut pieces in half crosswise.\r\n\r\nSeason all vegetables with salt and pepper. Brush vegetables and halloumi with olive oil.\r\n\r\nGrill vegetables until tender and nicely charred, turning occasionally. If you'd like, use an outdoor grill pan to keep them from slipping through the grate. Scallions will be ready after 3 to 4 minutes. Peppers, zucchini, and eggplant take about 10 minutes. Arrange on a platter.\r\n\r\nGrill halloumi, turning occasionally, for 2-6 minutes, until grill marks appear. When you press on the cheese, it should give but it should not be runny.\r\n\r\nRemove cheese to the platter with vegetables. Sprinkles with za'atar and serve.",
+        "ingredients": [
+            "12 oz halloumi\r",
+            "2 red bell peppers, see instructions\r",
+            "1 large zucchini, sliced diagonally into 1\/4- to 1\/3-inch-thick rounds\r",
+            "1 Japanese eggplant, sliced diagonally into 1\/4- to 1\/3-inch-thick rounds\r",
+            "1 bunch green onions, trimmed\r",
+            "Salt and pepper\r",
+            "Olive oil\r",
+            "3 tsp za'atar"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "grill",
+            "untried"
+        ]
     }
 }
