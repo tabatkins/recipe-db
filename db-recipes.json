@@ -18302,5 +18302,45 @@
             "grill",
             "untried"
         ]
+    },
+    "id614": {
+        "id": "id614",
+        "name": "Grilled Tomato Gnocchi Kebabs",
+        "source": "https:\/\/www.delish.com\/cooking\/recipe-ideas\/a39540438\/tomato-gnocchi-kebabs-recipe\/",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1200,
+        "servings": 4,
+        "comments": "",
+        "calories": 1920,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "**Make the salsa verde:** In a food processor, combine parsley, basil, oil, capers, lemon juice, anchovies, and garlic. Blend until smooth, season to taste with salt, and chill until ready to serve.\r\n\r\n**Make the kebabs:** Preheat grill to medium-high for 3 minutes, and soak skewers in a shallow pan filled with water for 10 minutes to prevent scorching. In a large bowl, toss gnocchi, tomatoes, onions, and oil until coated. Season with salt and pepper then thread gnocchi, tomatoes, and onions onto the soaked skewers.\r\n\r\nGrill the kebabs, flipping halfway through, until the tomatoes are blistered and the gnocchi is browned, 7 to 8 minutes.\r\n\r\nTransfer the kebabs to a platter, drizzle with salsa verde and serve. ",
+        "ingredients": [
+            "1\/4 cup fresh parsley\r",
+            "1\/4 cup fresh basil\r",
+            "1\/4 cup extra-virgin olive oil\r",
+            "2 tsp capers\r",
+            "1 tbsp lemon juice\r",
+            "2 anchovy fillets\r",
+            "1 clove garlic\r",
+            "salt\r",
+            "<hr>",
+            "12 oz fresh gnocchi\r",
+            "4 cup cherry tomatoes\r",
+            "2 small red onions, cut into 2\" pieces\r",
+            "2 tbsp extra-virgin olive oil\r",
+            "salt\r",
+            "freshly ground black pepper"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "grill"
+        ]
     }
 }
