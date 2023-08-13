@@ -18340,5 +18340,50 @@
             "main",
             "grill"
         ]
+    },
+    "id615": {
+        "id": "id615",
+        "name": "Bulgogi tofu burgers",
+        "source": "Bon Appetit",
+        "preptime": 600,
+        "waittime": 1800,
+        "cooktime": 600,
+        "servings": 6,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Toss **sliced cucumber** with **salt** and **rice vinegar** in a medium bowl. Let sit at room temperature, tossing occasionally, until ready to serve.\r\n\r\n2. Press **tofu** if you haven't already. Meanwhile, puree **pear**, **ginger**, **garlic**, **soy sauce**, **sesame oil**, **brown sugar**, **gochugaru**, **vegetable oil**, and **rice vinegar** in a blender until very smooth. Pour half of marinade into a large baking dish (use smaller dish if making less servings).\r\n\r\n3. Slice each block of **tofu** crosswise into 6 slabs (2 slabs per servings, adjust for serving size). Arrange tofu in a single layer in baking dish, then pour remaining marinade over. Cover and chill 30 minutes.\r\n\r\n4. Prepare a grill for medium-high heat; clean and oil grate. Remove tofu from marinade, letting excess drip back into dish and transfer to a clean rimmed baking sheet; reserve **marinade** for glazing and making sauce. Whisk **gochujang** into reserved marinade.\r\n\r\n5. Place tofu on grate, brush with **marinade**, and grill under deep brown marks appear, about 5 minutes. Carefully turn tofu over and brush second side with marinade. Grill under deep brown marks appear, about 5 minutes. Return tofu to baking sheet.\r\n\r\n6. Toast **hamburger buns**, cut side down on grill until golden, about 1 minute. Transfer to plates.\r\n\r\n7. Whisk **mayo** and **reserved marinade** in a small bowl. Spread cut side of buns with sauce. Build burgers with **2 slabs of tofu each**, followed by some **pickled cucumber** slices.\r\n\r\nDo ahead: Cucumber can be pickled 1 day ahead. Cover and chill.",
+        "ingredients": [
+            "1 English cucumber, thinly sliced on a diagonal\r",
+            "1\/2 tsp kosher salt\r",
+            "3 Tbsp unseasoned rice vinegar\r",
+            "<hr>",
+            "2 14-oz blocks extra-firm tofu, drained and pressed for 15 minutes\r",
+            "1 Asian pear, cored, coarsely chopped\r",
+            "1 2-in piece ginger, peeled, thinly sliced\r",
+            "2 garlic cloves\r",
+            "1\/4 cup soy sauce\r",
+            "2 Tbsp toasted sesame oil\r",
+            "1 Tbsp brown sugar\r",
+            "1 Tbsp gochugaru\r",
+            "3 Tbsp vegetable oil\r",
+            "3 Tbsp unseasoned rice vinegar\r",
+            "<hr>",
+            "2 Tbsp gochujang\r",
+            "6 hamburger buns, split\r",
+            "1\/3 cup mayonnaise\r",
+            "3 Tbsp reserved marinade from recipe"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "grill",
+            "untried"
+        ]
     }
 }
