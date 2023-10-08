@@ -18390,5 +18390,83 @@
             "soup",
             "untried"
         ]
+    },
+    "id617": {
+        "id": "id617",
+        "name": "Katsu-style eggplant with stir-fried green beans and sweet peppers",
+        "source": "Blue Apron",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 1440,
+        "servings": 2,
+        "comments": "",
+        "calories": 1341,
+        "fat": 51,
+        "satfat": 8,
+        "carbs": 186,
+        "fiber": 24,
+        "sugar": 31,
+        "protein": 38,
+        "instructions": "Preheat the oven to 475F. Drizzle a sheet pan with **olive oil**.\r\n\r\nBread the eggplant\r\nCrack the **eggs** into a medium bowl; add **water** and beat until smooth. Season with salt and pepper. Place **flour** and **breadcrumbs** on 2 separate large plates; season each with salt and pepper. Working 1 piece at a time, thoroughly coat the **eggplant** in the **flour** (tapping off any excess), then in the **beaten eggs** (letting any excess drip off), then in the **breadcrumbs** (pressing to adhere). Transfer the breaded eggplant to the prepared sheet pan in a single layer. Drizzle with **olive oil**. Bake the **breaded eggplant**, flipping halfway through, 22 to 24 minutes, or until browned and crispy. Remove from the oven.\r\n\r\nCook the rice\r\nWhile the eggplant bakes, in a small saucepan, combine the **rice**, **a big pinch of salt**, and **water**; heat to boiling on high. Once boiling, cover and reduce the heat to low. Cook 12 to 14 minutes, or until the water has been absorbed and the rice is tender. Turn off the heat and fluff the cooking rice with a fork. Set aside in a warm place.\r\n\r\nPrepare the sauce\r\nIn a bowl, combine the **vinegar**, **sesame oil**, and **tonkatsu sauce**.\r\n\r\nCook the vegetables\r\nWhile the eggplant continues to bake, in a large pan, heat 2 teaspoons of olive oil on medium heat until hot. Add the **peppers** and **green beans**; season with salt and pepper. Cook, stirring frequently, 2 to 3 minutes, or until lightly browned and slightly softened. Add the **ginger** and **water**. Cook, stirring frequently, 3 to 4 minutes or until fragrant and the vegetables have softened. Turn off the heat. Stir in the **peanuts**. Season with salt and pepper to taste.\r\n\r\nPlate your dish\r\nDivide the **cooked rice** between 2 dishes. Top with the **cooked vegetables** and **baked eggplant**. Drizzle with some of the **sauce**. Garnish with **cilantro**. Serve with any remaining sauce on the side.",
+        "ingredients": [
+            "2 tsp olive oil\r",
+            "1 eggplant, cut lengthwise into 1\/2-inch planks\r",
+            "2 eggs\r",
+            "1 tbsp water\r",
+            "1\/2 cup all-purpose flour\r",
+            "1 cup panko breadcrumbs\r",
+            "1 tbsp olive oil\r",
+            "<hr>\r",
+            "1\/2 cup jasmine rice\r",
+            "1 cup water\r",
+            "<hr>\r",
+            "2 tbsp rice vinegar\r",
+            "1 tbsp sesame oil\r",
+            "2 tbsp tonkatsu sauce (or ketchup and Worcestershire sauce) \r",
+            "<hr>\r",
+            "4 oz sweet peppers, cut into quarters lengthwise, stems, ribs, and seeds removed\r",
+            "6 oz green beans, trimmed\r",
+            "1 1-inch piece ginger, finely chopped\r",
+            "1\/4 cup water\r",
+            "2 tbsp peanuts, roughly chopped\r",
+            "2 tbsp cilantro, roughly chopped"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
+    },
+    "id618": {
+        "id": "id618",
+        "name": "Yakiniku sauce",
+        "source": "https:\/\/www.justonecookbook.com\/yakiniku-sauce\/",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Transfer the **grated onion and all of its juice** to a mason jar or microwave-safe container. Add the **pressed garlic**, **grated ginger**, **gochujang**, **soy sauce**, **sugar**, and **sesame seeds**. Microwave the sauce for 30\u201335 seconds until it's hot enough to dissolve the sugar. Add **toasted sesame oil** and mix well. The Yakiniku Sauce is now ready to use. Full recipe yield about 1\/3 cup.",
+        "ingredients": [
+            "1\/4 medium yellow onion, 75 g; grated, with juice\r",
+            "3 clove garlic, pressed\r",
+            "1\/8 tsp ginger, grated\r",
+            "1\/4 tsp gochujang\r",
+            "1\/4 cup soy sauce\r",
+            "2 Tbsp sugar\r",
+            "1\/2 Tbsp toasted white sesame seeds\r",
+            "<hr>\r",
+            "1 tsp toasted sesame oil"
+        ],
+        "tags": [
+            "component",
+            "untried"
+        ]
     }
 }
