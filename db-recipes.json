@@ -18395,5 +18395,51 @@
             "component",
             "untried"
         ]
+    },
+    "id619": {
+        "id": "id619",
+        "name": "Yaki Udon",
+        "source": "NYT Cooking",
+        "preptime": 2400,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "In a medium heatproof bowl, combine **TVP granules** and **boiling water**. Let sit for 5-10 minutes until water is absorbed to reconstitute. (Rachel's note: may need to adjust ratio if it is too dry or watery)\r\n\r\nIn a small bowl, combine **soy sauce**, **oyster sauce**, **mirin**, **rice vinegar**, and **sugar**. Taste and balance salty, acidic, and sweet flavors if needed.\r\n\r\nBring a medium pot of water to boil over medium-high heat. Add the frozen noodles and cook, gently nudging them apart, until they separate and are pleasantly chewy, about 2 minutes. Drain, quickly rinse with cold water to stop the cooking, transfer to a medium bowl and drizzle with **sesame oil** so they don't stick to each other.\r\n\r\nIn a wok or large pan, heat **vegetable oil**. Add the **onion** and **mushrooms** and stir-fry, tossing frequently, until fragrant and the vegetables take on a little color, 2-3 minutes. Add the **carrot**, **bok choy** and **garlic**; constantly stire until the vegetables cook but still have a crunch, about 3 minutes. Stir in the **scallions** and **TVP**; stir-fry for 1 minute. Add the **noodles** and **sauce**, tossing until the noodles are coated and glossy. Taste and adjust any seasonings, if needed.\r\n\r\nTransfer **yaki udon** to bowls and top each serving with **chopped green parts of scallions**, **sesame seeds or furikake**, and **chili oil**, if you like.\r\n\r\nRachel's Note: original recipe (4 servings) called for 2 tbsp dark soy sauce AND 2 tbsp low-sodium soy sauce. I left out the dark soy sauce entirely so that it won't be so salty but we may need to add water or something to the sauce if it isn't enough to coat all of the yaki udon.",
+        "ingredients": [
+            "6 oz TVP\r",
+            "3\/4 cup boiling water\r",
+            "<hr>\r",
+            "2 tbsp soy sauce\r",
+            "2 tbsp oyster sauce\r",
+            "1 tbsp mirin\r",
+            "1 tbsp rice vinegar\r",
+            "1 tbsp granulated sugar\r",
+            "<hr>\r",
+            "1 lb frozen udon noodles\r",
+            "1 tsp toasted sesame oil, for drizzling\r",
+            "<hr>\r",
+            "1 tbsp vegetable oil\r",
+            "1 small yellow onion, thinly sliced\r",
+            "4 oz cremini mushrooms, thinly sliced\r",
+            "1 large carrot, cut into thin 3-inch-long sticks\r",
+            "2 small bok choy, sliced into 1\/2-inch pieces\r",
+            "4 garlic cloves, chopped\r",
+            "4 scallions, reserve some chopped green tops for garnish, remainder sliced into 2-inch pieces\r",
+            "Sesame seeds or furikake, for serving\r",
+            "Chili oil, for serving"
+        ],
+        "tags": [
+            "pasta",
+            "main",
+            "untried"
+        ]
     }
 }
