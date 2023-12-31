@@ -602,7 +602,7 @@
             "2 clove garlic, minced\r",
             "1 lime, juiced\r",
             "Pinch of sea salt\r",
-            "1 jalapeno, seeded and minced fine (optional)"
+            "1 jalapeno, seeded and minced fine"
         ],
         "tags": [
             "dip",
@@ -1296,7 +1296,7 @@
         "protein": 44,
         "instructions": "Preheat oven to 425 degrees. (If not already done, cook rice according to package directions. Ideally, use a rice cooker earlier in the day.)\r\n\r\nMix rice, oats, onion, bread crumbs, milk, basil, oregano, cayenne, and egg.  Season to taste.  Press mixture into small baking dish.  Bake for 20 minutes.\r\n\r\nAs the rice goes into the oven, heat some olive oil in a small pan over medium heat and add panko. Stir occasionally until evenly brown.\r\n\r\nAlso as the rice goes into the oven, heat olive oil in a small pot and make marinara sauce.\r\n\r\nServe rice, topped with marinara and then panko.",
         "ingredients": [
-            "2 cup cooked rice\r",
+            "1 cup brown rice (uncooked)\r",
             "1\/2 cup quick-cooking oats\r",
             "1\/2 cup onion, chopped\r",
             "1\/4 cup panko\r",
@@ -10545,46 +10545,6 @@
             "vegetarian"
         ]
     },
-    "id374": {
-        "id": "id374",
-        "name": "Artichoke Risotto with Mascarpone, Lemon, and Thyme",
-        "source": "http:\/\/www.marthastewart.com\/336099\/artichoke-risotto-with-mascarpone-lemon",
-        "preptime": 1800,
-        "waittime": 0,
-        "cooktime": 2700,
-        "servings": 6,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Bring stock and bay leaf to a simmer in a medium saucepan over medium-high heat; reduce heat to low.\r\n\r\nMelt butter with oil in a large saute pan over medium heat. Add onion, garlic, and a pinch of salt; cook, stirring occasionally, until onion is slightly softened, about 6 minutes. Add artichokes to pan. Add rice, and stir until coated, about 1 minute. Pour in wine, and cook, stirring, until wine has almost evaporated, about 3 minutes.\r\n\r\nAdd enough hot stock (about 1 cup) to just cover rice. Cook, stirring, until stock is almost absorbed. Continue adding stock, 3\/4 cup at a time, waiting for each addition to be absorbed before adding the next; cook, stirring, until rice is tender but still slightly firm in the center, 20 to 25 minutes. Remove from heat, and discard bay leaf.\r\n\r\nStir in chopped thyme; season with salt and pepper. Add mascarpone, lemon juice, and 2\/3 of the lemon zest; stir until mascarpone is melted and rice is moist and creamy. Serve immediately, garnished with thyme sprigs and remaining teaspoon lemon zest.",
-        "ingredients": [
-            "3 tsp lemon zest, divided\r",
-            "1 tbsp lemon juice\r",
-            "1 13oz jar artichokes, diced and with any tough leaves removed\r",
-            "6 cup chicken stock\r",
-            "1 bay leaf\r",
-            "2 tablespoon unsalted butter\r",
-            "2 tablespoon extra-virgin olive oil\r",
-            "1 medium onion, finely chopped (about 1 1\/2 cups)\r",
-            "1 garlic clove, minced\r",
-            "Coarse salt\r",
-            "2 cup short-grain Italian rice, such as Arborio, Carnaroli, or Vialone Nano\r",
-            "1 cup dry white wine\r",
-            "2 teaspoon finely chopped fresh thyme, plus sprigs for garnish\r",
-            "Freshly ground pepper\r",
-            "1\/4 cup mascarpone"
-        ],
-        "tags": [
-            "vegetarian",
-            "italian",
-            "main"
-        ]
-    },
     "id375": {
         "id": "id375",
         "name": "Herbed biscuits with smoked salmon",
@@ -18439,6 +18399,124 @@
             "pasta",
             "main",
             "untried"
+        ]
+    },
+    "id620": {
+        "id": "id620",
+        "name": "Black bean and delicata squash bowls",
+        "source": "Blue Apron",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1800,
+        "servings": 2,
+        "comments": "",
+        "calories": 1052,
+        "fat": 18,
+        "satfat": 6,
+        "carbs": 170,
+        "fiber": 36,
+        "sugar": 18,
+        "protein": 28,
+        "instructions": "1. Preheat oven to 450F. Line a sheet pan with parchment paper.\r\n\r\n2. Bring **rice**, **water**, and a big pinch of **salt** to a boil in a medium pot over high heat. Once boiling, give it a stir, reduce heat to low, cover and cook for 30-35 minutes.\r\n\r\n3. Toss **squash** with 1 teaspoon olive oil, **spice blend**, and salt and pepper to taste. Arrange in an even layer on prepared sheet pan. Roast 21-23 minutes or until browned and tender when pierced with a fork. Remove from oven.\r\n\r\n4. In a small bowl combine **guacamole** and the juice of **up to 1 lime half** to get a thinner consistency than normal. In another bowl, combine **tomatoes**, **lime zest**, and the juice of **1 lime half**. Season with salt and pepper. Set aside to marinate, stirring occasionally, at least 10 minutes.\r\n\r\n5. In a medium pan, heat 1\/2 tsp olive oil on medium until hot. Add the **chopped garlic**. Cook, stirring constantly, 30 seconds to 1 minute or until softened. Add the **drained beans**, **water**. Season with salt and pepper. Cook, stirring occasionally, 3 to 4 minutes or until combined. Turn off heat and stir in **creme fraiche**. Taste, then season with salt and pepper if desired.\r\n\r\n6. To the pot of **cooked rice**, add **as much of the chopped pepper as you like**, depending on how spicy you'd like the dish to be. Add salt and pepper to taste.\r\n\r\n7. Serve the **finished rice** toped with the **roasted squash**, **cooked beans**, **marinated tomatoes** (including any liquid), and **seasoned guacamole**. Garnish with the **toasted pumpkin seeds**. Enjoy!",
+        "ingredients": [
+            "1\/2 cup brown rice, uncooked\r",
+            "1 cup water\r",
+            "1 oz pickled jalapenos, roughly chopped\r",
+            "<hr>\r",
+            "1 delicata squash, halved lengthwise, seeds and ends discarded, and sliced into 1\/2-inch half moons\r",
+            "1 tsp olive oil\r",
+            "1 tsp Mexican spice blend\r",
+            "<hr>\r",
+            "1 serving [guacamole](https:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=28)",
+            "4 oz grape tomatoes, halved\r",
+            "1 lime, zested and juiced\r",
+            "<hr>\r",
+            "1\/2 tsp olive oil\r",
+            "2 clove garlic, roughly chopped\r",
+            "1\/2 can black beans, drained\r",
+            "1 tsp Mexican spice blend\r",
+            "3 tbsp water\r",
+            "1 tbsp creme fraiche\r",
+            "<hr>\r",
+            "2 tbsp pumpkin seeds, toasted, for garnish"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "rice",
+            "beans"
+        ]
+    },
+    "id621": {
+        "id": "id621",
+        "name": "Creamy Lemon Spinach-Ricotta Ravioli",
+        "source": "Hello Fresh",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 2400,
+        "servings": 2,
+        "comments": "",
+        "calories": 1280,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "1. Preheat oven to 400F. Toss **bell pepper** and **tomatoes** with oil, salt, and pepper, and roast 20-25 minutes, until softened and lightly charred. Transfer to a cutting board and thinly slice.\r\n\r\n2. When veggies are half done, bring a pot of water to boil. Add **ravioli**, and simmer until al dente and floating, 4-5 minutes. Reserve 1\/2 cup pasta water, drain the rest, and set ravioli aside.\r\n\r\n3. Melt half the **butter** in pan and saute **garlic** until softened, 2-3 minutes. Add 1\/4 cup reserved pasta water, **stock**, **cream cheese**, **sour cream**, and remaining **butter**. Whisk until combined and creamy, then add veggies. Add **lemon** juice and season to taste.\r\n\r\n4. Add ravioli to sauce, gently toss until thoroughly coated. Serve, topping with parmesan, lemon zest, and another squeeze of lemon juice.",
+        "ingredients": [
+            "1 bell pepper, halved\r",
+            "1 roma tomato, cut into wedges (4-6 per tomato)\r",
+            "2 tbsp butter, divided\r",
+            "2 clove garlic, thinly sliced\r",
+            "9 oz ravioli (spinach and ricotta)\r",
+            "1\/4 tsp vegetable stock concentrate\r",
+            "1 lemon, zested and juiced\r",
+            "2 tbsp cream cheese\r",
+            "2 tbsp sour cream\r",
+            "1\/4 cup parmesan cheese"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
+    },
+    "id622": {
+        "id": "id622",
+        "name": "Sweet potato fajitas",
+        "source": "Hello fresh",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1500,
+        "servings": 2,
+        "comments": "",
+        "calories": 1218,
+        "fat": 58,
+        "satfat": 22,
+        "carbs": 146,
+        "fiber": 20,
+        "sugar": 36,
+        "protein": 34,
+        "instructions": "1. Adjust rack to top position and preheat oven to 425F. Toss **sweet potato wedges** with a large drizzle of olive oil and **fajita seasoning**. Season with salt if the fajita seasoning doesn't include salt.\r\n\r\n2. Take some **onion slices** and dice until you have 1\/4 cup.\r\n\r\n3. Heat a drizzle of oil in a large pan over medium heat. Add **sliced onion** and **green pepper**. Cook stirring occasionally, until softened and lightly charred, 8-10 minutes. Season with salt and pepper. Remove pan from heat.\r\n\r\n3. While veggies cook, in a small bowl, combine **tomato**, **cilantro**, **diced onion**, and a squeeze of **lime juice**. Season with salt and pepper. In a separate bowl, combine **sour cream**, **lime zest**, and a squeeze of **lime juice** to make it slightly thinner if needed. Season with salt and pepper.\r\n\r\n4. Heat tortillas using desired method. Divide tortillas between plats and fill with **sweet potatoes**, **veggies**, **pepper jack**, **salsa**, **lime sour cream**, and as much **pickled jalapeno** as you like. Enjoy!\r\n\r\nNote: Southwest seasoning can be made with 2 parts garlic powder, 1 part cumin, and 1 part chili powder.",
+        "ingredients": [
+            "2 sweet potatoes, cut into 1\/2-inch thick wedges\r",
+            "1 tsp fajita or southwest seasoning\r",
+            "<hr>\r",
+            "1 yellow onion, halved, peeled, and thinly sliced, see instructions\r",
+            "1 green bell pepper\r",
+            "<hr>\r",
+            "1 roma tomato, small diced\r",
+            "1 tbsp fresh cilantro, roughly chopped\r",
+            "1 lime, zested and juiced (probably won't need all the juice)\r",
+            "2 tbsp sour cream\r",
+            "<hr>\r",
+            "4 small flour tortillas\r",
+            "1\/2 cup pepper jack cheese, shredded\r",
+            "1 oz pickled jalapeno"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
         ]
     }
 }
