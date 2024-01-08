@@ -18519,5 +18519,36 @@
             "vegetarian",
             "main"
         ]
+    },
+    "id623": {
+        "id": "id623",
+        "name": "French Cream",
+        "source": "Grandma KT",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 12,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Whisk together **sour cream** and 2\/3 of the **whipping cream** in medium saucepan. Gradually add **sugar**, whisking with each addition. Cook over low heat until warm, whisking often.\r\n\r\nSprinkle **gelatin** over 1\/2 cup cold water in small saucepan, and let stand 1 min. Stir over med heat until gelatin dissolves, add to sour cream mixture.\r\n\r\nBeat **cream cheese** at medium speed, fitted with whisk, until light and fluffy. Gradually add sour cream mixture, **vanilla**, **almond** and beat until smooth.\r\n\r\nPour into lightly greased 6-cup mold, cover and chill. Can chill up to several days.",
+        "ingredients": [
+            "16 oz sour cream\r",
+            "3 cup whipping cream, divided 2:1\r",
+            "1 1\/2 cup sugar\r",
+            "2 envelopes unflavored gelatin\r",
+            "1\/2 cup cold water\r",
+            "16 oz cream cheese, softened\r",
+            "2 tsp vanilla extract\r",
+            "1\/4 tsp almond extract"
+        ],
+        "tags": [
+            "desserts"
+        ]
     }
 }
