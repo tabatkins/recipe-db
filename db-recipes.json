@@ -18526,5 +18526,47 @@
         "tags": [
             "desserts"
         ]
+    },
+    "id624": {
+        "id": "id624",
+        "name": "Roasted Eggplant Pitas",
+        "source": "Blue Apron",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 1800,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 450F. Dress the eggplant with oil, salt, and pepper, then roast for 20-22 minutes, flipping halfway thru. (Or grill them.)\r\n\r\nMeanwhile, heat a small pot of salted water to boiling, and cook farro for 16-18 minutes, until tender. Drain.\r\n\r\nMeanwhile, hard-boil the egg.\r\n\r\nMeanwhile, heat vinegar, water, salt, and sugar to a simmer, then add shallot and cook for 5 min. Remove from heat and let mature for rest of cooking time. Do not discard pickling liquid.\r\n\r\nWhen farro is done cooking, add tomatoes, pepper, pickled shallot, 1 tbsp of pickling liquid (for 2 servings), half the lemon juice, half the parsley, and half the garlic. Add oil, salt, and pepper to taste, mix well.\r\n\r\nIn a small bowl, mix yogurt, spices, lemon zest, half the lemon juice, and half the garlic. Season with salt and pepper.\r\n\r\nToss the microgreens with some oil, salt, and pepper.\r\n\r\nLightly toast or grill the pitas, enough to make them warm and pliable. Spread the yogurt on the pita, top with roasted eggplant, sliced egg, microgreens, and drizzle with a little oil. Serve with the farro. Garnish with remaining parsley.",
+        "ingredients": [
+            "2\/3 cup farro\r",
+            "1 eggplant, halved and sliced 1\/2\" thick\r",
+            "1 egg, hard-boiled and sliced\r",
+            "1 shallot, thinly sliced\r",
+            "1\/8 cup red wine vinegar\r",
+            "1\/8 cup water\r",
+            "1 tsp sugar\r",
+            "1 tsp salt\r",
+            "6 oz cherry tomatoes, halved\r",
+            "2 clove garlic, pressed and divided\r",
+            "1 bell pepper, medium diced\r",
+            "1 lemon, zested and juiced\r",
+            "1\/2 oz micro-greens\r",
+            "2 tbsp parsley, roughly chopped and divided\r",
+            "1\/4 cup greek yogurt\r",
+            "2 tsp za'atar\r",
+            "1 tsp paprika\r",
+            "2 pitas"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
     }
 }
