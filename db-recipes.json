@@ -596,7 +596,7 @@
         "instructions": "1. Place all ingredients in a bowl with a flat bottom and mash it with a potato masher.  Alternatively, you can mix everything briefly in a food processor.\r\n2. Stir well and keep refrigerated. This dish will brown on the areas exposed to air within a few hours, so serve it shortly after making it or just stir again before serving.",
         "ingredients": [
             "4 ripe avocados\r",
-            "2 roma tomates, diced fine\r",
+            "2 roma tomatoes, diced fine\r",
             "1\/2 red onion, minced\r",
             "1\/2 handful cilantro, minced\r",
             "2 clove garlic, minced\r",
@@ -6468,45 +6468,6 @@
             "indian",
             "vegetarian",
             "main"
-        ]
-    },
-    "id230": {
-        "id": "id230",
-        "name": "Veggie burger pockets",
-        "source": "Food Network Magazine March 2012",
-        "preptime": 1800,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Place the eggs in a small saucepan and cover with water by about 1 inch. Bring to a high simmer over medium-high heat and cook for 1 minute. Cover, remove from the heat and let sit 12 minutes. Drain the eggs and rinse under cold water, then peel and thinly slice.\r\n\r\nMeanwhile, cook the veggie burgers as the label directs. Whisk the yogurt, garlic, paprika, 2 tablespoons water, and salt to taste in a small bowl. In a large bowl, toss the arugula, roasted red peppers, cucumber, olive oil, mint, feta, and salt to taste.\r\n\r\nCut 1 inch off the top of each pita to make an opening; stuff the pita strip inside the pita to reinforce the bottom. Stuff each pita with a veggie burger, some arugula salad and a few slices of hard-boiled egg. Drizzle with the yogurt dressing. Serve with pickles.",
-        "ingredients": [
-            "2 eggs\r",
-            "4 frozen veggie burgers\r",
-            "1\/2 cup nonfat plain Greek yogurt\r",
-            "1 small clove garlic, finely grated\r",
-            "1\/4 teaspoon hot paprika\r",
-            "Kosher salt\r",
-            "4 cup baby arugula\r",
-            "1\/2 cup jarred roasted red peppers, sliced\r",
-            "1 small cucumber, thinly sliced\r",
-            "1 tablespoon extra-virgin olive oil\r",
-            "1 teaspoon dried mint, crumbled\r",
-            "1\/4 cup crumbled feta cheese\r",
-            "4 large whole-wheat pitas, warmed\r",
-            "Pickles, for serving (optional)"
-        ],
-        "tags": [
-            "vegetarian",
-            "main",
-            "untried"
         ]
     },
     "id232": {
