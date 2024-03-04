@@ -18529,5 +18529,76 @@
             "vegetarian",
             "main"
         ]
+    },
+    "id625": {
+        "id": "id625",
+        "name": "Napa Cabbage Kimchi",
+        "source": "https:\/\/www.maangchi.com\/recipe\/tongbaechu-kimchi",
+        "preptime": 0,
+        "waittime": 1800,
+        "cooktime": 1800,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Remove any wilted outer leaves from the cabbages. Cut cabbages in half. On each half, slit the core thru most of the way up, so the leaves are loose but still attached.\r\n\r\nOpening the leaves one by one, rub salt in, focusing on the thicker stem area. Close cabbage halves back up and let sit at room temperature for 2 hours, until the stems become tender\/floppy. (Don't let them sit too long and absorb too much salt.)\r\n\r\nSplit the cores along the slit so you have quarters. Rinse the salt off the leaves, then trim *most* of the core out, leaving just enough to keep the leaves together. (Or remove the core entirely, depending on how you want to present it.) Rinse again, and let drain.\r\n\r\n----------\r\n\r\nMix the water, sugar, and flour in a small pot, and cook over medium heat for about 10 minutes, until it's fully integrated and bubbling. Remove from heat, put in a large bowl, and let cool completely.\r\n\r\nOnce cooled, add all the spices and mix into a thin paste. Add the vegetables and mix well.\r\n\r\nRub the paste fully over each cabbage leaf. When a quarter is fully coated, wrap it around itself into a little packet, and put it into your storage container.\r\n\r\nLet the kimchi ferment at room temperature for a day or two. When ready, it will start to smell and taste sour, and release bubbles when pressed on. If using a sealed jar, remember to open it occasionally to release pressure. Move the container to the refrigerator to slow the fermentation, where it can be stored about two weeks. It will get more sour as time goes on.",
+        "ingredients": [
+            "6 lb napa cabbage\r",
+            "1\/2 cup salt\r",
+            "<hr>\r",
+            "2 cup water\r",
+            "2 tbsp glutinous rice flour\r",
+            "2 tbsp sugar\r",
+            "<hr>\r",
+            "2 cup daikon (or Korean radish), matchsticks\r",
+            "1 cup carrot, matchsticks\r",
+            "8 green onions, chopped\r",
+            "1 cup buchu, chopped large\r",
+            "1 cup minari (or parsley), chopped\r",
+            "<hr>\r",
+            "1\/2 cup garlic (24 garlic cloves), minced\r",
+            "2 tsp ginger, minced\r",
+            "1 medium onion, minced\r",
+            "1\/2 cup Korean fish sauce\r",
+            "1\/4 cup saeujeot (salted shrimp, in brine), chopped\r",
+            "2 cup gochugaru"
+        ],
+        "tags": [
+            "sides"
+        ]
+    },
+    "id626": {
+        "id": "id626",
+        "name": "Pickled radish",
+        "source": "https:\/\/www.maangchi.com\/recipe\/chicken-mu",
+        "preptime": 900,
+        "waittime": 7200,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "aka \"chicken-mu\" \uce58\ud0a8\ubb34",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Combine sugar, vinegar, kosher salt, and water in a large bowl and mix well until salt and sugar are well dissolved.\r\n\r\nAdd the radish and stir a few times and transfer to an airtight container or a glass jar. Keep in the refrigerator at least 2 hours before serving.\r\n\r\nRefrigerate up to 2 weeks.",
+        "ingredients": [
+            "1 lb Korean radish, peeled and cut into \u2153 inch cubes\r",
+            "1\/3 cup sugar\r",
+            "1\/3 cup white vinegar\r",
+            "1 tbsp white vinegar\r",
+            "1 tbsp kosher salt\r",
+            "3\/4 cup water"
+        ],
+        "tags": [
+            "sides"
+        ]
     }
 }
