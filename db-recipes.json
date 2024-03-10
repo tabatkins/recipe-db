@@ -6161,37 +6161,6 @@
             "untried"
         ]
     },
-    "id216": {
-        "id": "id216",
-        "name": "Shredded Brussels sprouts with pancetta",
-        "source": "Everyday Food Nov 2011",
-        "preptime": 1500,
-        "waittime": 0,
-        "cooktime": 1200,
-        "servings": 8,
-        "comments": "",
-        "calories": 1160,
-        "fat": 64,
-        "satfat": 24,
-        "carbs": 72,
-        "fiber": 32,
-        "sugar": 0,
-        "protein": 96,
-        "instructions": "In a large nonstick skillet, cook pancetta over medium, stirring occasionally, until crisp, 8 to 10 minutes. With a slotted spoon, transfer pancetta to paper towels to drain. Pour off all but 1\/4 cup drippings (if necessary, add enough oil to measure 1\/4 cup). Add brussels sprouts and cook, stirring occasionally, until crisp-tender, 10 minutes. Stir in rosemary and cook until fragrant, about 2 minutes. Stir in pancetta. Remove from heat, stir in lemon juice, and season with salt and pepper. Serve warm or at room temperature.",
-        "ingredients": [
-            "1\/2 pound pancetta, thinly sliced and diced small\r",
-            "Extra-virgin olive oil, if needed\r",
-            "1 3\/4 pound brussels sprouts, trimmed and shredded (10 cups)\r",
-            "1 tablespoon fresh rosemary leaves, chopped\r",
-            "3 tablespoon lemon juice, (from 1 lemon)\r",
-            "Coarse salt and ground pepper"
-        ],
-        "tags": [
-            "sides",
-            "vegetables",
-            "untried"
-        ]
-    },
     "id218": {
         "id": "id218",
         "name": "Maple brown butter semifreddo",
@@ -7163,19 +7132,19 @@
         "id": "id256",
         "name": "Antipasto Chef's Salad",
         "source": "Food Network Magazine Oct 2012",
-        "preptime": 0,
+        "preptime": 900,
         "waittime": 0,
-        "cooktime": 0,
+        "cooktime": 600,
         "servings": 4,
         "comments": "http:\/\/www.foodnetwork.com\/recipes\/food-network-kitchens\/antipasto-chefs-salad-recipe\/index.html",
-        "calories": 1600,
-        "fat": 96,
-        "satfat": 20,
-        "carbs": 140,
-        "fiber": 16,
-        "sugar": 0,
-        "protein": 56,
-        "instructions": "Put the eggs in a medium saucepan and cover with water by 2 inches; bring to a simmer and cook 10 minutes. Remove the eggs with a slotted spoon and transfer to a bowl of ice water to cool.\r\n\r\nMeanwhile, put the potatoes in a pot of salted water, bring to a simmer and cook until tender, about 10 minutes. Drain and keep warm.\r\n\r\nWhisk the vinegar, mustard, 1\/4 teaspoon salt, and pepper to taste in a large bowl. Drizzle in the olive oil, whisking, until the dressing is creamy. Add the potatoes, giardiniera, salami, olives, chives and kale, and toss.\r\n\r\nPeel and quarter the eggs. Add to the salad and gently toss.",
+        "calories": 1780,
+        "fat": 118,
+        "satfat": 39,
+        "carbs": 96,
+        "fiber": 17,
+        "sugar": 14,
+        "protein": 72,
+        "instructions": "Put the eggs in a medium saucepan and cover with water by 2 inches; bring to a simmer and cook 10 minutes. Remove the eggs with a slotted spoon and transfer to a bowl of ice water to cool.\r\n\r\nMeanwhile, put the potatoes in a pot of salted water, bring to a simmer and cook until tender, about 10 minutes. Drain and keep warm.\r\n\r\nWhisk the vinegar, mustard, and salt and pepper to taste in a large bowl. Drizzle in the olive oil, whisking, until the dressing is creamy. Add the potatoes, giardiniera, cheese, olives, chives and kale, and toss.\r\n\r\nPeel and quarter the eggs. Add to the salad and gently toss.",
         "ingredients": [
             "4 eggs\r",
             "2 medium russet potatoes, peeled and cut into 1-inch chunks\r",
@@ -7187,13 +7156,14 @@
             "1\/4 cup extra-virgin olive oil\r",
             "<hr>\r",
             "2 cup giardiniera (Italian pickled vegetables), drained, rinsed and coarsely chopped\r",
-            "2 ounce salami, deli-sliced, cut into strips\r",
+            "6 oz mozzarella (or other mild cheese), shredded or thinly sliced into strips\r",
             "1\/4 cup green olives, pitted and chopped\r",
             "1\/4 cup fresh chives, chopped\r",
             "4 ounce baby kale, torn (about 5 cups=4 oz)"
         ],
         "tags": [
-            "salad"
+            "salad",
+            "vegetarian"
         ]
     },
     "id258": {
@@ -18599,6 +18569,94 @@
         ],
         "tags": [
             "sides"
+        ]
+    },
+    "id627": {
+        "id": "id627",
+        "name": "Halloumi with pistachio rice",
+        "source": "Hello fresh",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 2100,
+        "servings": 2,
+        "comments": "",
+        "calories": 1290,
+        "fat": 78,
+        "satfat": 37,
+        "carbs": 109,
+        "fiber": 9,
+        "sugar": 13,
+        "protein": 39,
+        "instructions": "Melt **butter** in small pot over medium high heat. Add **minced shallot**, **garlic**, **pistachios**, **spice blend**, and a pinch of salt. Cook, stirring, 1 minute.\r\n\r\nStir in **rice**, **water**, **bouillon**, and a big pinch of salt. Bring to a boil, then cover and reduce heat to low. Cook until rice is tender 15-18 minutes. Keep covered off heat until ready to serve.\r\n\r\nIn a medium bowl, combine **cucumber**, **tomatoes**, and **sliced shallot** to taste. Toss with a **drizzle of olive oil**, a **big squeeze of lemon juice**, a **pinch of lemon zest**, **salt** and **pepper**.\r\n\r\nIn a small bowl, combine **sour cream** with **garlic** to taste. Season with **salt**. Stir in **water** 1 tsp at a time until mixture reaches a drizzling consistency.\r\n\r\nPlace **cheese** on a plate; season all over with **spice blend**. Shake off any excess spice blend. Heat a **drizzle of oil** in a large, preferably nonstick, pan over medium-high heat. Add seasoned **cheese** and cook until browned, 1-2 minutes per side.\r\n\r\nFluff **rice** with a fork; stir in **butter**. Taste and adjust seasonings if needed. Divide **rice** between shallow bowls. Top with **salad** and **cheese**. Drizzle cheese with **garlicky white sauce** and **hot sauce** to taste. Sprinkle with **remaining pistachios**. Serve with **lemon wedges** on the side if desired.",
+        "ingredients": [
+            "1 tbsp butter\r",
+            "1\/2 shallot, minced\r",
+            "1 clove garlic, minced\r",
+            "1\/4 oz pistachios\r",
+            "1\/2 tbsp shawarma spice blend or za'atar\r",
+            "1\/2 cup jasmine rice\r",
+            "3\/4 cup water\r",
+            "1 tsp vegetable bouillon\r",
+            "<hr>\r",
+            "1 Persian cucumber, sliced into half moons\r",
+            "4 oz grape tomatoes, halved lengthwise\r",
+            "1\/2 shallot, thinly sliced\r",
+            "1\/2 lemon, zested and juiced\r",
+            "<hr>\r",
+            "2 tbsp sour cream\r",
+            "1 clove garlic, minced\r",
+            "<hr>\r",
+            "4 oz halloumi, sliced into thick planks\r",
+            "1\/2 tbsp Shawarma spice blend or za'atar\r",
+            "<hr>\r",
+            "1 tbsp butter\r",
+            "1 tsp hot sauce\r",
+            "1\/4 oz pistachios\r",
+            "Salt and pepper, to taste"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
+    },
+    "id628": {
+        "id": "id628",
+        "name": "Kimchi jeon",
+        "source": "https:\/\/www.koreanbapsang.com\/kimchi-jeon-kimchi-pancake\/",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 720,
+        "servings": 4,
+        "comments": "",
+        "calories": 1405,
+        "fat": 49,
+        "satfat": 17,
+        "carbs": 197,
+        "fiber": 13,
+        "sugar": 21,
+        "protein": 36,
+        "instructions": "In a large bowl, combine the **flour (or pancake mix)** with the **liquid from kimchi** and **egg**, and **water**, a little bite at a time. Do not over mix. Add a little more water if the batter is too thick. The batter should flow easily from a spoon. Stir in the **kimchi**, **scallions**, and **onion**.\r\n\r\nIn a small bowl, combine all **dipping sauce ingredients**.\r\n\r\nHeat one tablespoon of **oil** in a non-stick pan over medium heat. Ladle the mixture into the pan, and spread it evenly into a thin round shape. Cook until the edges turn light golden brown, about 3 minutes. Turn it over, and add more **oil** to the sides of the pan. Gently swirl the pan to distribute the oil under the pancakes. Press the pancake down with a spatula. Cook until the other side is nicely browned and crispy, 2 to 3 minutes.\r\n\r\nRepeat the process until there is no remaining batter. Serve hot with a dipping sauce, if desired.\r\n\r\nNotes\r\nTips for making kimchi pancakes:\r\n1. Use juice\/liquid from kimchi if at all possible.\r\n2. Use icy cold water.\r\n3. The batter should be thin enough to flow easily from a spoon.\r\n4. Spread the batter thin when pan frying.\r\n5. Use a generous amount of oil.\r\n6. Increase the heat a little to crisp up the pancakes at the end of pan-frying.",
+        "ingredients": [
+            "1 cup fully-fermented kimchi, thinly sliced\r",
+            "1 scallion, cut into about 2-inch pieces, if white part is thick, cut in half lengthwise\r",
+            "1\/4 medium onion, thinly sliced\r",
+            "cooking oil with high smoke point for pan frying\r",
+            "<hr>\r",
+            "1 1\/4 cup all-purpose flour, or buchimgaru (Korean pancake premix)\r",
+            "1\/4 cup sweet rice flour or potato starch, substitute with additional AP flour if unavailable\r",
+            "2 tablespoon juice\/liquid from kimchi, may need a little more, See note on water below\r",
+            "1 egg, lightly beaten\r",
+            "1 cup icy cold water, Use more water if juice\/liquid from kimchi is unavailable and not using an egg. Flour to liquid should be about 1:1 ratio in total.\r",
+            "<hr>\r",
+            "1 tablespoon soy sauce\r",
+            "1 teaspoon vinegar\r",
+            "1 tablespoon water\r",
+            "1\/2 teaspoon sugar\r",
+            "pinch of black pepper"
+        ],
+        "tags": [
+            "sides",
+            "untried"
         ]
     }
 }
