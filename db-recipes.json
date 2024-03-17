@@ -3748,40 +3748,6 @@
             "asian"
         ]
     },
-    "id121": {
-        "id": "id121",
-        "name": "Pasta with roasted vegetables and bacon",
-        "source": "Martha Stewart Living Oct 2011",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 1800,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Preheat oven to 400F. Heat oil in a small skillet over medium heat. Cook bacon until crisp, about 8 minutes. Transfer to paper towels using a slotted spoon. Reserve drippings.\r\n2. Toss sweet potato, onion, and cauliflower with reserved drippings. Season with salt and pepper. Roast on a rimmed baking sheet, tossing halfway through, until tender and caramelized, about 35 minutes.\r\n3. Meanwhile, cook pasta in a large pot of salted water until al dente. Drain, reserving 1 cup cooking water. Return pasta to pot with cooking water, and toss with grated cheese and vegetables. Stir in parsley. Sprinkle bacon over top. Garnish with shaved cheese.",
-        "ingredients": [
-            "2 tbsp extra-virgin olive oil\r",
-            "2 oz bacon, preferably slab, chopped\r",
-            "1 medium sweet potato, peel and cut into 1\/2-inch cubes\r",
-            "1 small onion, thinly sliced\r",
-            "1\/2 head cauliflower, trimmed into 1 1\/2-inch florets (about 2 1\/2 cups)\r",
-            "3\/4 tsp salt\r",
-            "1\/4 tsp pepper\r",
-            "8 oz orecchiette pasta\r",
-            "1 1\/2 oz Parmesan cheese, finely grated (about 3\/4 cup), plus more, shaved, for garnish\r",
-            "1\/2 cup fresh parsley, coarsely chopped"
-        ],
-        "tags": [
-            "pasta",
-            "main"
-        ]
-    },
     "id123": {
         "id": "id123",
         "name": "Pretzel shortbread bar",
@@ -11089,7 +11055,7 @@
             "8 ounce dried wide flat rice noodles\r",
             "1\/4 cup fresh lime juice\r",
             "3 tablespoon soy sauce\r",
-            "1 tablespoon chili sauce, such as Sriracha\r",
+            "1 tablespoon Sriracha\r",
             "1 tablespoon packed dark-brown sugar\r",
             "<hr>\r",
             "2 tablespoon vegetable oil\r",
@@ -13073,7 +13039,7 @@
         "instructions": "Combine all the marinated chickpea ingredients and toss well. Let marinate, covered, in the refrigerator overnight or up to 4-5 days.\r\n\r\nCook the pasta in salted water. Add the snow peas at the last minute or two to cook them too. Drain the pasta well.\r\n\r\nToss the still hot pasta with the marinated chickpeas, including the marinade, and all remaining ingredients. Taste and season if needed. Let cool completely.",
         "ingredients": [
             "1 cup canned chickpeas, rinsed and drained\r",
-            "1 Tbsp extra virgin olive oil\r",
+            "1 Tbsp extra-virgin olive oil\r",
             "1 1\/2 Tbsp lemon juice\r",
             "1 clove garlic, minced\r",
             "1 tsp fresh rosemary, finely chopped\r",
@@ -13678,17 +13644,17 @@
         "instructions": "In a large pan (nonstick, if you have one), heat 2 teaspoons of olive oil on medium until hot. Add the garlic and kale; season with salt and pepper. Cook, stirring frequently, 1 to 2 minutes, or until the kale is slightly wilted. Add water and taco seasoning, depending on how spicy you\u2019d like the dish to be; season with salt and pepper. Cook, stirring frequently, 3 to 5 minutes, or until the kale has wilted and the water has cooked off. Turn off the heat. Stir in the juice of 2 lime wedges; season with salt and pepper to taste.\r\n\r\nWhile the kale cooks, in a bowl, combine the cr\u00e8me fra\u00eeche and the juice of the remaining lime; season with salt and pepper to taste.\r\n\r\nPlace the tortillas on a clean, dry work surface. Divide half the cheese between the two tortillas, only covering half of each tortilla; top with the cooked kale and remaining cheese. Season with salt and pepper. Fold over the tortilla to complete. Wipe out the pan used to cook the kale. Add 2 teaspoons of olive oil and heat on medium-high until hot. Add the quesadillas and cook 2 to 3 minutes per side, or until the tortillas are browned and the cheese has melted. Divide between 2 dishes; immediately season with salt. Set aside in a warm place. Wipe out the pan.\r\n\r\nIn the same pan, heat 2 teaspoons of olive oil on medium until hot. Crack the eggs into the pan, keeping them separate. Season with salt and as much of the remaining spice blend as you'd like, depending on how spicy you'd like the dish to be. Cook 4 to 5 minutes, or until the whites are set and the yolks are cooked to your desired degree of doneness. Turn off the heat.\r\n\r\nPlace the radishes in a bowl; drizzle with olive oil and season with salt and pepper. Toss to thoroughly coat. Top the cooked quesadillas with the fried eggs and seasoned radishes. Serve with the lime cr\u00e8me fra\u00eeche on the side. Enjoy!",
         "ingredients": [
             "4 tsp olive oil\r",
-            "1\/2 Bunch Kale, stems discarded and leaves roughly chopped\r",
-            "1 Clove Garlic, minced or pressed\r",
+            "1\/2 bunch kale, stems discarded and leaves roughly chopped\r",
+            "1 clove garlic, minced or pressed\r",
             "1\/4 cup water\r",
             "3\/4 tsp taco seasoning\r",
             "1\/2 lime, juiced\r",
-            "3 Ounces White Cheddar Cheese\r",
+            "3 oz white cheddar Cheese\r",
             "2 large flour tortillas\r",
-            "<hr>",
+            "<hr>\r",
             "1\/2 lime, juiced\r",
-            "2 Tablespoons Creme Fraiche\r",
-            "<hr>",
+            "2 tbsp Creme Fraiche\r",
+            "<hr>\r",
             "2 tsp olive oil, plus more for drizzling on radishes\r",
             "1\/4 tsp taco seasoning\r",
             "3 Radishes, halved lengthwise then thinly sliced crosswise\r",
@@ -17502,7 +17468,7 @@
             "4 oz grape tomatoes, halved\r",
             "1\/4 English cucumber, sliced into half moons\r",
             "1 tbsp fresh dill, roughly chopped\r",
-            "1\/2 cup feta, crumbled\r",
+            "1\/2 cup feta cheese, crumbled\r",
             "2 tbsp hummus\r",
             "2 tbsp sour cream\r",
             "2 pitas"
@@ -18657,6 +18623,45 @@
         "tags": [
             "sides",
             "untried"
+        ]
+    },
+    "id629": {
+        "id": "id629",
+        "name": "Reese's Icebox Pie",
+        "source": "Mostly https:\/\/www.kevinandamanda.com\/peanut-butter-pie\/",
+        "preptime": 1800,
+        "waittime": 1800,
+        "cooktime": 0,
+        "servings": 8,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix all crust ingredients in a bowl. Pour into a 9\" pie plate and press evenly on the bottom and sides. Refrigerate at least 30 minutes (or freeze for 10) before filling.\r\n\r\nAdd softened butter, peanut butter, powdered sugar, and salt to a large mixing bowl or the bowl of a stand mixer. Beat on low speed until smooth and creamy. Fold in the whipped cream. Spoon the peanut butter mixture over the crust into a smooth layer. Place back in freezer.\r\n\r\nPlace chocolate chips, remaining peanut butter, and salt in a large glass or heat-proof bowl. In a saucepan, bring heavy whipping cream to a rolling simmer over medium-high heat. Pour the cream over the chocolate chips and peanut butter and let sit for 5 minutes, then whisk until completely smooth. Pour the chocolate layer over the peanut butter layer. Sprinkle with flaky sea salt. Refrigerate, covered, at least 1 hour until ready to serve.\r\n\r\nExpert suggestion: divide the chocolate in half, putting half into the crust first, chilling, then doing the peanut butter filling, chilling, then finally using the other half on top. This produces  thinner, more tender chocolate layers, but the chocolate amounts are low enough that it takes some skill to get it spread evenly without mixing with the crust or the filling.",
+        "ingredients": [
+            "6 tbsp unsalted butter, melted\r",
+            "1 1\/2 cup graham crackers, crushed into crumbs\r",
+            "1\/4 cup sugar\r",
+            "1\/4 tsp salt\r",
+            "<hr>",
+            "8 tbsp unsalted butter, softened\r",
+            "1 1\/2 cup creamy peanut butter\r",
+            "1 cup powdered sugar\r",
+            "1\/4 tsp salt\r",
+            "1\/4 cup heavy whipping cream, whipped into soft peaks\r",
+            "<hr>",
+            "2 tbsp creamy peanut butter\r",
+            "1 cup chocolate chips\r",
+            "1\/2 cup heavy whipping cream\r",
+            "1\/4 tsp salt\r",
+            "flaky sea salt"
+        ],
+        "tags": [
+            "desserts"
         ]
     }
 }
