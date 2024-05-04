@@ -18663,5 +18663,27 @@
         "tags": [
             "desserts"
         ]
+    },
+    "id630": {
+        "id": "id630",
+        "name": "Grilled Pizza",
+        "source": "",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 0,
+        "comments": "General instructions, not actually a recipe.",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat grill to 400F.\r\n\r\nPrep the pizza dough plain, and put on a sheet of baking paper. Lightly oil the top surface (and optionally the bottom, to make it easier to pull away the baking sheet, but not necessary). Prep all other toppings on the side.\r\n\r\nSlap pizza directly on grill grate when ready. If bottom of pizza was oiled, you can remove the paper immediately; otherwise, it's probably stuck, just leave it on. Close grill, cook for 5 minutes.\r\n\r\nRemove from heat, flipping onto a cutting board. You can remove the paper now, if it was previously stuck; it should easily come off. Dress the now-grilled surface with any meltable cheeses and cookable toppings; do *not* sauce yet. Put back into grill, close, and cook for 4 minutes.\r\n\r\nRemove from heat again, and now irregularly dollop the sauce, and any more delicate toppings. Serve immediately.",
+        "ingredients": [
+            ""
+        ],
+        "tags": []
     }
 }
