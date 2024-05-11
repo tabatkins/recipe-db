@@ -14848,27 +14848,28 @@
         "cooktime": 1800,
         "servings": 2,
         "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 450\u00b0F. Prepare a baking sheet with foil. Place **sweet potato** slices in a single layer, then drizzle with olive oil, salt, pepper, and **mexican spice**. Roast 18-20 minutes, until brown and tender.\r\n\r\nIn a small pot, combine **shallot**, **sugar**, \u00be of the **lime juice**, \u00bc cup of water, and salt and pepper. Heat to boiling on high; once boiling, cook 1-2 minutes, stirring occasionally, until the sugar has dissolved. Set aside to cool for at least 10 minutes.\r\n\r\nPrepare the avocado: slice it, then place in a bowl. Squeeze remaining \u00bc of lime juice over it, season with salt and pepper, and lightly toss. Set aside to season.\r\n\r\nWhen the sweet potato is done roasting, prepare the quesadillas. Top one half of each **tortilla** with half the **cheddar**, the **sweet potatoes**, the **piquante peppers**, and the **jalape\u00f1o**, finishing with the remaining cheddar. Fold in half.\r\n\r\nIn a large pan, heat 2 tsp of oil on medium. Cook the quesadillas 2-3 minutes per side, until lightly browned and the cheese is melted.\r\n\r\nTo prepare the salad, put the salad greens in a salad bowl, and top with the pickled shallots and half the pickling liquid. (The rest is unused.) Drizzle with olive oil, salt, and pepper, and toss to combine. Top with avocado when serving.\r\n\r\nGarnish quesadillas and salad with **cotija**.",
+        "calories": 1333,
+        "fat": 54,
+        "satfat": 21,
+        "carbs": 158,
+        "fiber": 14,
+        "sugar": 26,
+        "protein": 46,
+        "instructions": "Preheat oven to 450\u00b0F. Prepare a baking sheet with foil. Place **sweet potato** slices in a single layer, then drizzle with olive oil, salt, pepper, and **mexican spice**. Roast 18-20 minutes, until brown and tender.\r\n\r\nIn a small pot, combine **shallot**, **sugar**, 3\/4 of the **lime juice**, **1\/4 cup of water**, and salt and pepper. Heat to boiling on high; once boiling, cook 1-2 minutes, stirring occasionally, until the sugar has dissolved. Set aside to cool for at least 10 minutes.\r\n\r\nPrepare the avocado: slice it, then place in a bowl. Squeeze remaining \u00bc of lime juice over it, season with salt and pepper, and lightly toss. Set aside to season.\r\n\r\nWhen the sweet potato is done roasting, prepare the quesadillas. Top one half of each **tortilla** with half the **cheddar**, the **sweet potatoes**, the **piquante peppers**, and the **jalape\u00f1o**, finishing with the remaining cheddar. Fold in half.\r\n\r\nIn a large pan, heat 2 tsp of oil on medium. Cook the quesadillas 2-3 minutes per side, until lightly browned and the cheese is melted.\r\n\r\nTo prepare the salad, put the salad greens in a salad bowl, and top with the pickled shallots and half the pickling liquid. (The rest is unused.) Drizzle with olive oil, salt, and pepper, and toss to combine. Top with avocado and **cotija** when serving.",
         "ingredients": [
             "1 sweet potato, sliced into \u00bc\" rounds\r",
             "1\/2 tbsp mexican spice\r",
             "<hr>\r",
-            "3 cup salad greens\r",
-            "1 avocado, sliced\r",
+            "2 cup salad greens\r",
+            "1\/2 avocado, sliced\r",
             "1 shallot, thinly sliced\r",
             "1 tbsp sugar\r",
             "1 lime, divided and juiced\r",
+            "1\/4 cup water\r",
             "<hr>\r",
-            "4 oz white cheddar cheese, grated\r",
+            "3 oz white cheddar cheese, grated\r",
             "1 jalape\u00f1o (preferably pickled), roughly chopped\r",
-            "1\/4 cotija cheese, grated\r",
+            "2 tbsp cotija cheese, grated\r",
             "2 oz sweet piquante peppers, rough chopped\r",
             "4 flour tortillas"
         ],
@@ -18666,7 +18667,7 @@
     },
     "id630": {
         "id": "id630",
-        "name": "Grilled Pizza",
+        "name": "Grilled Pizza (generic)",
         "source": "",
         "preptime": 0,
         "waittime": 0,
@@ -18684,6 +18685,9 @@
         "ingredients": [
             ""
         ],
-        "tags": []
+        "tags": [
+            "grill",
+            "pizza"
+        ]
     }
 }
