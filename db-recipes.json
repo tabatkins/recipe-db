@@ -1283,8 +1283,8 @@
         "name": "Spicy Rice Casserole",
         "source": "Betty Crocker",
         "preptime": 600,
-        "waittime": 0,
-        "cooktime": 1200,
+        "waittime": 300,
+        "cooktime": 1500,
         "servings": 2,
         "comments": "",
         "calories": 1294,
@@ -1294,7 +1294,7 @@
         "fiber": 14,
         "sugar": 26,
         "protein": 44,
-        "instructions": "Preheat oven to 425 degrees. (If not already done, cook rice according to package directions. Ideally, use a rice cooker earlier in the day.)\r\n\r\nMix rice, oats, onion, bread crumbs, milk, basil, oregano, cayenne, and egg.  Season to taste.  Press mixture into small baking dish.  Bake for 20 minutes.\r\n\r\nAs the rice goes into the oven, heat some olive oil in a small pan over medium heat and add panko. Stir occasionally until evenly brown.\r\n\r\nAlso as the rice goes into the oven, heat olive oil in a small pot and make marinara sauce.\r\n\r\nServe rice, topped with marinara and then panko.",
+        "instructions": "Preheat oven to 425 degrees. (If not already done, cook rice according to package directions. Ideally, use a rice cooker earlier in the day.)\r\n\r\nMix rice, oats, onion, bread crumbs, milk, basil, oregano, cayenne, and egg.  Season to taste.  Press mixture into small baking dish.  Bake for 25 minutes, then let rest for 5 minutes out of the oven.\r\n\r\nAs the rice goes into the oven, make the marinara sauce. Once the marinara is simmering, make the breadcrumbs.\r\n\r\nServe rice, topped with marinara and then panko.",
         "ingredients": [
             "1 cup brown rice (uncooked)\r",
             "1\/2 cup quick-cooking oats\r",
@@ -1308,9 +1308,7 @@
             "<hr>\r",
             "4 serving [marinara sauce](http:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id34)",
             "<hr>\r",
-            "olive oil\r",
-            "1\/2 cup panko\r",
-            "salt and pepper"
+            "2 servings [toasted panko breadcrumbs](https:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id631)"
         ],
         "tags": [
             "vegetarian",
@@ -16720,8 +16718,8 @@
             "2 tsp furikake\r",
             "1 tsp salt\r",
             "<hr>\r",
-            "vegetables (grape tomatoes\/carrots\/edamame\/sugar-snap peas\/etc)\r",
-            "Kewpie mayonnaise\r",
+            "1\/2 cup vegetables (grape tomatoes\/carrots\/edamame\/sugar-snap peas\/etc)\r",
+            "1 tbsp Kewpie mayonnaise\r",
             "1 Instant miso packet"
         ],
         "tags": [
@@ -18689,5 +18687,30 @@
             "grill",
             "pizza"
         ]
+    },
+    "id631": {
+        "id": "id631",
+        "name": "Toasted Panko Breadcrumbs",
+        "source": "",
+        "preptime": 0,
+        "waittime": 300,
+        "cooktime": 300,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Melt butter in a small frying pan (ideally a cast-iron, for good heat distribution) over medium-low heat. \r\n\r\nAdd breadcrumbs, and salt and pepper to taste. Stir gently until melted butter is absorbed. Let cook for 3-4 minutes, stirring occasionally (make sure to mix the bottom layer of toasted breadcrumbs well).\r\n\r\nRemove from heat a little before they reach the desired done-ness, unless using immediately, as they'll continue to brown in the pan even off heat.",
+        "ingredients": [
+            "1\/2 cup panko\r",
+            "1 tbsp butter\r",
+            "salt\r",
+            "pepper"
+        ],
+        "tags": []
     }
 }
