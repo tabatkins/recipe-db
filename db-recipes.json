@@ -18712,5 +18712,66 @@
             "pepper"
         ],
         "tags": []
+    },
+    "id632": {
+        "id": "id632",
+        "name": "Green Goddess Gnocchi",
+        "source": "https:\/\/www.delish.com\/cooking\/recipe-ideas\/a60335438\/green-goddess-gnocchi-recipe\/",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 900,
+        "servings": 4,
+        "comments": "",
+        "calories": 1960,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Step 1\r\nBring a large pot of salted water to a boil. Prepare an ice bath by filling a large bowl with ice water.\r\nStep 2\r\nMeanwhile, in a blender, blend cr\u00e8me fra\u00eeche, dill, basil, tarragon, chives, lemon juice, and 1\/2 teaspoon salt until finely chopped.\r\nStep 3\r\nCook asparagus and peas in boiling water until bright green and crisp-tender, 1 to 2 minutes. Using a slotted spoon or spider, transfer vegetables to ice bath; reserve water in pot.\r\nStep 4\r\nReturn water to a boil. Cook gnocchi, stirring occasionally, until they float to the surface according to package directions. Reserve 1\/2 cup pasta water. Drain pasta and return to pot.\r\nStep 5\r\nAdd pasta water to sauce in blender 1 tablespoon at a time and blend until a silky texture forms. Drain vegetables and add to pot with gnocchi. Add sauce and toss to combine.\r\nStep 6\r\nDivide gnocchi among bowls. Top with Parmesan, dill, and basil.",
+        "ingredients": [
+            "Kosher salt\r",
+            "1 (8-oz.) container cr\u00e8me fra\u00eeche\r",
+            "1\/2 c fresh dill, plus more for serving\r",
+            "1\/2 c packed fresh basil leaves, plus more for serving\r",
+            "1\/4 c fresh tarragon leaves\r",
+            "1\/4 c sliced fresh chives\r",
+            "1\/2 lemon, juiced\r",
+            "2 c chopped asparagus\r",
+            "2 c sugar snap peas, trimmed\r",
+            "1 (16-oz.) pkg. fresh gnocchi\r",
+            "Finely grated Parmesan, for serving"
+        ],
+        "tags": []
+    },
+    "id633": {
+        "id": "id633",
+        "name": "Baked stuffed oat cups",
+        "source": "https:\/\/veganyackattack.com\/2024\/03\/03\/baked-stuffed-oat-cups\/",
+        "preptime": 300,
+        "waittime": 300,
+        "cooktime": 1800,
+        "servings": 12,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat oven to 350F and line a 12-count cupcake pan with liners.\r\nIn a blender place milk, water, agave nectar, vanilla, oats, chia seeds, and salt, in that order, cover with lid and pulse 7 to 10 times for about 2 seconds each time. The mixture should be well-combined and the oats broken down to roughly half their original size.\r\nScoop 2 tablespoons of oat mixture into each cupcake liner. Then, scoop 2 teaspoons of preserves into the center of each liner, followed by roughly 2 more tablespoons of the oat mixture, or until all of it is used up. I used a cookie dough scoop and an even smaller scoop to make this easier, but spoons work just fine!\r\nBake oat cups for 30 minutes, or until the edges start to brown, and steam has dissipated. Once baked, place on cooling rack and gently press the tops of the cups down with a fork, if they split from the steam during baking.\r\nAfter cooling for 5 minutes, carefully pull the cups out of the baking sheet and place directly on cooling rack so that they do not steam themselves and get soggy. Once room temperature, store in an air-tight bag or container in the fridge for up to 7 days. Enjoy!",
+        "ingredients": [
+            "1 cup (235 ml) unsweetened non-dairy milk\r",
+            "2\/3 cup (160 ml) water\r",
+            "1\/3 cup (80 ml) agave nectar\r",
+            "1 teaspoon vanilla extract\r",
+            "2 3\/4 cup (275 g) rolled oats\r",
+            "2 tablespoon (17 g) chia seeds\r",
+            "1\/2 teaspoon sea salt\r",
+            "1\/2 cup (160 g) strawberry preserves*"
+        ],
+        "tags": []
     }
 }
