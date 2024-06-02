@@ -18713,38 +18713,6 @@
         ],
         "tags": []
     },
-    "id632": {
-        "id": "id632",
-        "name": "Green Goddess Gnocchi",
-        "source": "https:\/\/www.delish.com\/cooking\/recipe-ideas\/a60335438\/green-goddess-gnocchi-recipe\/",
-        "preptime": 300,
-        "waittime": 0,
-        "cooktime": 900,
-        "servings": 4,
-        "comments": "",
-        "calories": 1960,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Step 1\r\nBring a large pot of salted water to a boil. Prepare an ice bath by filling a large bowl with ice water.\r\nStep 2\r\nMeanwhile, in a blender, blend cr\u00e8me fra\u00eeche, dill, basil, tarragon, chives, lemon juice, and 1\/2 teaspoon salt until finely chopped.\r\nStep 3\r\nCook asparagus and peas in boiling water until bright green and crisp-tender, 1 to 2 minutes. Using a slotted spoon or spider, transfer vegetables to ice bath; reserve water in pot.\r\nStep 4\r\nReturn water to a boil. Cook gnocchi, stirring occasionally, until they float to the surface according to package directions. Reserve 1\/2 cup pasta water. Drain pasta and return to pot.\r\nStep 5\r\nAdd pasta water to sauce in blender 1 tablespoon at a time and blend until a silky texture forms. Drain vegetables and add to pot with gnocchi. Add sauce and toss to combine.\r\nStep 6\r\nDivide gnocchi among bowls. Top with Parmesan, dill, and basil.",
-        "ingredients": [
-            "Kosher salt\r",
-            "1 (8-oz.) container cr\u00e8me fra\u00eeche\r",
-            "1\/2 c fresh dill, plus more for serving\r",
-            "1\/2 c packed fresh basil leaves, plus more for serving\r",
-            "1\/4 c fresh tarragon leaves\r",
-            "1\/4 c sliced fresh chives\r",
-            "1\/2 lemon, juiced\r",
-            "2 c chopped asparagus\r",
-            "2 c sugar snap peas, trimmed\r",
-            "1 (16-oz.) pkg. fresh gnocchi\r",
-            "Finely grated Parmesan, for serving"
-        ],
-        "tags": []
-    },
     "id633": {
         "id": "id633",
         "name": "Baked stuffed oat cups",
@@ -18761,17 +18729,60 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "Preheat oven to 350F and line a 12-count cupcake pan with liners.\r\nIn a blender place milk, water, agave nectar, vanilla, oats, chia seeds, and salt, in that order, cover with lid and pulse 7 to 10 times for about 2 seconds each time. The mixture should be well-combined and the oats broken down to roughly half their original size.\r\nScoop 2 tablespoons of oat mixture into each cupcake liner. Then, scoop 2 teaspoons of preserves into the center of each liner, followed by roughly 2 more tablespoons of the oat mixture, or until all of it is used up. I used a cookie dough scoop and an even smaller scoop to make this easier, but spoons work just fine!\r\nBake oat cups for 30 minutes, or until the edges start to brown, and steam has dissipated. Once baked, place on cooling rack and gently press the tops of the cups down with a fork, if they split from the steam during baking.\r\nAfter cooling for 5 minutes, carefully pull the cups out of the baking sheet and place directly on cooling rack so that they do not steam themselves and get soggy. Once room temperature, store in an air-tight bag or container in the fridge for up to 7 days. Enjoy!",
+        "instructions": "Preheat oven to 350F and line a 12-count cupcake pan with liners.\r\n\r\nIn a blender place milk, water, agave nectar, vanilla, oats, chia seeds, and salt, in that order, cover with lid and pulse 7 to 10 times for about 2 seconds each time. The mixture should be well-combined and the oats broken down to roughly half their original size.\r\n\r\nScoop 2 tablespoons of oat mixture into each cupcake liner. Then, scoop 2 teaspoons of preserves into the center of each liner, followed by roughly 2 more tablespoons of the oat mixture, or until all of it is used up. I used a cookie dough scoop and an even smaller scoop to make this easier, but spoons work just fine!\r\n\r\nBake oat cups for 30 minutes, or until the edges start to brown, and steam has dissipated. Once baked, place on cooling rack and gently press the tops of the cups down with a fork, if they split from the steam during baking.\r\n\r\nAfter cooling for 5 minutes, carefully pull the cups out of the baking sheet and place directly on cooling rack so that they do not steam themselves and get soggy. Once room temperature, store in an air-tight bag or container in the fridge for up to 7 days. Enjoy!",
         "ingredients": [
-            "1 cup (235 ml) unsweetened non-dairy milk\r",
-            "2\/3 cup (160 ml) water\r",
-            "1\/3 cup (80 ml) agave nectar\r",
+            "1 cup milk\r",
+            "2\/3 cup water\r",
+            "1\/3 cup agave nectar\r",
             "1 teaspoon vanilla extract\r",
-            "2 3\/4 cup (275 g) rolled oats\r",
-            "2 tablespoon (17 g) chia seeds\r",
+            "2 3\/4 cup rolled oats\r",
+            "2 tablespoon chia seeds\r",
             "1\/2 teaspoon sea salt\r",
-            "1\/2 cup (160 g) strawberry preserves*"
+            "1\/2 cup jam or preserves"
         ],
-        "tags": []
+        "tags": [
+            "breakfast",
+            "vegetarian",
+            "untried"
+        ]
+    },
+    "id634": {
+        "id": "id634",
+        "name": "Freezer breakfast burritos",
+        "source": "https:\/\/www.gimmesomeoven.com\/freezer-breakfast-burritos\/",
+        "preptime": 1500,
+        "waittime": 0,
+        "cooktime": 1200,
+        "servings": 16,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Begin by making your scrambled eggs. In a large bowl, whisk together eggs, milk, and a generous pinch of salt and pepper until smooth. Heat a large saute pan that has been misted with cooking spray (or spread with a teaspoon of oil) on the skillet over medium heat, then add the eggs and cook for 4-\u00ad6 minutes, stirring occasionally, until they are scrambled and cooked through. Transfer to a separate plate and set aside.\r\n\r\nMeanwhile, while your eggs are cooking, heat the 2 tablespoons of olive oil in a large saute pan over medium-\u00adhigh heat. Add onion and saute for 3 minutes, stirring occasionally, until the onion is mostly cooked and slightly translucent. Add the potatoes and bell peppers, and stir to combine. Continue cooking, stirring frequently, for 7\u00ad-10 more minutes, or until the potatoes are tender and cooked through. Stir in the black beans, green chiles, salt and cumin, and continue cooking for 2 more minutes. Then remove the mixture from the heat, and set aside.\r\n\r\nTo assemble your burritos, spread out a large sheet of plastic wrap on a flat surface and lay the tortilla squarely in the center of it. Add a large spoonful of scrambled eggs in the center of the tortilla (roughly 1\/4 cup), followed by another large spoonful of the potato mixture on top of the eggs, followed by a few tablespoons of shredded cheese on top of the potato mixture. Fold the two opposite sides of the tortilla in so that they meet and overlap, then fold in the two remaining open ends so that the entire burrito is sealed. Wrap it tightly in plastic wrap so that the entire burrito is very tightly sealed. (I find it easiest to fold the plastic wrap over the two short ends, then the longer sides of the burrito.) Then transfer burritos to the freezer, where they will last for up to 3 months.\r\n\r\nTo thaw the frozen burritos, remove the plastic wrap and place a burrito on a microwave\u00adsafe plate. Microwave for 60-\u00ad90 seconds, or until warmed through. Serve plain or with salsa, for dipping.",
+        "ingredients": [
+            "12 eggs\r",
+            "1\/4 cup milk\r",
+            "salt and pepper\r",
+            "2 Tablespoons olive oil\r",
+            "1 medium white onion, peeled and diced (about 2 cups)\r",
+            "1 lb Yukon gold or red potatoes, diced into 1\/4-\u00adinch cubes\r",
+            "1 large red bell pepper, cored and diced (about 2 cups)\r",
+            "1 4-\u00adounce can chopped green chiles\r",
+            "2 teaspoon salt\r",
+            "1 teaspoon ground cumin\r",
+            "1 15-ounce can black beans, rinsed and drained\r",
+            "16 burrito-\u00adsized flour tortillas\r",
+            "8 ounce Pepper Jack cheese, shredded\r",
+            "Salsa, optional for serving"
+        ],
+        "tags": [
+            "breakfast",
+            "vegetarian",
+            "untried"
+        ]
     }
 }
