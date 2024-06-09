@@ -18751,5 +18751,67 @@
             "vegetarian",
             "untried"
         ]
+    },
+    "id635": {
+        "id": "id635",
+        "name": "Shawarma spice blend",
+        "source": "Hello Fresh (via Reddit)",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix all. Should fit into one spice jar.",
+        "ingredients": [
+            "4 tsp tumeric\r",
+            "4 tsp cumin\r",
+            "2 tsp dried coriander\r",
+            "2 tsp garlic powder\r",
+            "2 tsp paprika\r",
+            "1 tsp ground allspice\r",
+            "1 tsp black pepper"
+        ],
+        "tags": []
+    },
+    "id636": {
+        "id": "id636",
+        "name": "Strawberry Almond Oat Bars",
+        "source": "https:\/\/www.runningwithspoons.com\/strawberry-crumble-bars-gf-vegan\/",
+        "preptime": 0,
+        "waittime": 300,
+        "cooktime": 2400,
+        "servings": 12,
+        "comments": "I subbed in butter so recipe is not vegan. I'm sure any kind of berry jam would be good.",
+        "calories": 2033,
+        "fat": 80,
+        "satfat": 13,
+        "carbs": 250,
+        "fiber": 29,
+        "sugar": 176,
+        "protein": 38,
+        "instructions": "Stir chia seeds into jam and let sit at least 5 minutes.\r\n\r\nPreheat your oven to 325F (162C) and prepare an 8\u00d78 (20x20cm) baking dish by lining it with a sheet of aluminum foil or parchment paper, leaving a few inches of overhang on the sides to allow for easy removal.\r\n\r\nAdd the oats and almond flour to a high-speed blender or food processor and process on high for about 10 seconds, or until the oats have broken down into the consistency of a fine flour. Add the remaining crust ingredients and continue processing for about 20 \u2013 30 seconds until a sticky dough begins to form. Make sure to stop and scrape down the sides of your blender\/processor as necessary.\r\nTransfer 2\/3 of the dough into your prepared baking pan, using your fingers or a spatula to ensure that it is pressed down tightly and evenly. It might be a little stubborn, so just take your time and spread it as best you can \u2013 it doesn\u2019t have to be perfect. Spoon the chia jam over the surface, and use a spatula or knife to spread it evenly, making sure to only go within 1\/4 of the edge to prevent the jam from burning. Top with remaining dough by dropping it on top in in a few separate globs, and then using your spatula to spread them out.\r\n\r\nBake for 35 \u2013 40 minutes, until the center has set and the bars begin to turn golden brown. Remove from the oven and let them cool in the pan for about 15 minutes before transferring them to a wire rack to cool completely. Use a sharp knife to cut them into individual bars and store them in an airtight container at room temperature for up to 5 days.",
+        "ingredients": [
+            "3\/4 cup strawberry jam\r",
+            "2 Tbsp chia seeds\r",
+            "<hr>\r",
+            "1 cup rolled oats\r",
+            "1 cup almond flour\r",
+            "1\/2 cup unsweetened applesauce\r",
+            "1\/4 cup brown sugar\r",
+            "1 Tbsp butter, melted\r",
+            "1\/4 tsp salt"
+        ],
+        "tags": [
+            "breakfast",
+            "vegetarian",
+            "untried"
+        ]
     }
 }
