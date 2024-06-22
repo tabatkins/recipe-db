@@ -18813,5 +18813,53 @@
             "vegetarian",
             "untried"
         ]
+    },
+    "id637": {
+        "id": "id637",
+        "name": "Middle Eastern chickpea bowls",
+        "source": "Hello fresh",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 2400,
+        "servings": 2,
+        "comments": "",
+        "calories": 1500,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Adjust rack to top position and preheat oven to 425F. Melt 1 tbsp **butter** in a small pot over medium-high heat. Add **minced onion**, **garlic**, **half the pistachios**, **Shawarma spice**, and a pinch of **salt**.  Cook, stirring, 1 minute. Stir in **rice**, **water**, **stock concentrate**, and a big pinch of **salt**. Bring to a boil, then cover and reduce heat to low. Cook until rice is tender 12-14 minutes. Keep covered off heat.\r\n\r\nMeanwhile, toss **onion wedges**, **tomatoes**, and **chickpeas** on a baking sheet with a large drizzle of **olive oil**, **Shawarma spice**, **pepper**, and a few pinches of **salt**. Roast on top rack, tossing halfway through, until veggies are tender and lightly charred and chickpeas are crispy, 18-20 minutes.\r\n\r\nWhile veggies and chickpeas roast, in a small bowl, combine **sour cream** and remaining **garlic** to taste. Season with salt. Stir in **water** 1 tsp at a time until mixture reaches a drizzling consistency.\r\n\r\nFluff **rice** with fork; stir in 1 tbsp **butter** and half the **cilantro**. Season with **salt** and **pepper**. Once veggies and chickpeas are done, remove from oven and toss with **lemon zest**.\r\n\r\nDivide **rice** between shallow bowls. Top with **veggies** and **chickpeas**. Drizzle with **garlicky white sauce** and **hot sauce** to taste. Sprinkle with remaining **pistachios** and **cilantro**. Top with **lemon juice** to taste. Serve and enjoy!",
+        "ingredients": [
+            "1 tbsp butter\r",
+            "2 tbsp red onion, minced, see below for remaining onion prep\r",
+            "1 clove garlic, minced\r",
+            "1\/2 oz pistachios, divided, roughly chopped\r",
+            "1\/2 tbsp Shawarma spice\r",
+            "1\/2 cup long grain white rice\r",
+            "3\/4 cup water\r",
+            "1 tsp vegetable stock concentrate\r",
+            "<hr>",
+            "1 medium red onion, halved and cut into 1\/2-inch thick wedges\r",
+            "4 oz grape tomatoes\r",
+            "1 14-oz can chickpeas, drained, rinsed, and patted very dry\r",
+            "olive oil\r",
+            "1\/2 tbsp Shawarma spice\r",
+            "<hr>",
+            "4 tbsp sour cream\r",
+            "1 clove garlic, minced\r",
+            "<hr>",
+            "1 tbsp butter\r",
+            "2 tbsp cilantro, finely chopped\r",
+            "1 lemon, zested and juiced\r",
+            "1 tsp hot sauce\r",
+            "salt\r",
+            "pepper"
+        ],
+        "tags": [
+            "vegetarian",
+            "main"
+        ]
     }
 }
