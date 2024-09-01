@@ -14587,8 +14587,7 @@
         ],
         "tags": [
             "bento",
-            "main",
-            "untried"
+            "main"
         ]
     },
     "id513": {
@@ -18973,6 +18972,84 @@
         ],
         "tags": [
             "breakfast",
+            "vegetarian",
+            "untried"
+        ]
+    },
+    "id641": {
+        "id": "id641",
+        "name": "BBQ Vegetable Salad",
+        "source": "NYT Cooking",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 4,
+        "comments": "",
+        "calories": 1764,
+        "fat": 42,
+        "satfat": 6,
+        "carbs": 294,
+        "fiber": 72,
+        "sugar": 90,
+        "protein": 66,
+        "instructions": "Heat the grill to medium-high. In a large shallow bowl or platter, sprinkle the **kale** with a pinch each of **salt and pepper**. Squeeze with your hands until shiny and softened. Add the **romaine** and **cilantro** and toss to coat. Set aside. In a small bowl, stir together the **barbeque sauce** and **lime juice**. Season to taste with salt and pepper. In a separate small bowl, stir together the **beans** and 1\/2 tbsp per serving of the **barbeque-lime mixture**. On a sheet pan or large bowl, toss the **peaches**, **onion**, and **vegetables** with enough oil to coat. Season with salt and pepper.\r\n\r\nClean and grease the grates. Grill the peaches and vegetables until charred and tender, 2-10 minutes, depending on the density and size of the vegetables. Return to the bowl or sheet pan and head back inside.\r\n\r\nDrizzle some of the **dressing** over the **greens**, then arrange the **grilled vegetables**, **peaches**, **beans**, and **chips** on top. Drizzle with more **dressing**. Eat right away, with any remaining dressing and additional chips alongside.",
+        "ingredients": [
+            "1 bunch lacinato kale, stems removed and leaves thinly sliced\r",
+            "Salt and black pepper\r",
+            "1 head romaine, thinly sliced\r",
+            "1\/2 bunch cilantro, leaves and tender stems thinly sliced\r",
+            "1\/2 cup barbeque sauce\r",
+            "1\/4 cup lime juice\r",
+            "1 15-oz can white beans, drained and rinsed\r",
+            "2 peaches (ripe and firm), cut into 1-inch-thick wedges\r",
+            "1 red onion, cut into 1\/2-inch-thick wedges through the root\r",
+            "1 lb grilling vegetables\r",
+            "Safflower oil\r",
+            "1 handful tortilla chips, crushed"
+        ],
+        "tags": [
+            "grill",
+            "vegetarian",
+            "untried"
+        ]
+    },
+    "id642": {
+        "id": "id642",
+        "name": "Grilled tofu tacos",
+        "source": "NYT Cooking",
+        "preptime": 600,
+        "waittime": 900,
+        "cooktime": 300,
+        "servings": 4,
+        "comments": "",
+        "calories": 2245,
+        "fat": 120,
+        "satfat": 30,
+        "carbs": 239,
+        "fiber": 27,
+        "sugar": 25,
+        "protein": 76,
+        "instructions": "",
+        "ingredients": [
+            "2 tbsp safflower oil, plus more for oiling grates\r",
+            "1 tbsp garlic, minced\r",
+            "1 tsp Old Bay seasoning\r",
+            "1 canned chipotle pepper in adobo, minced\r",
+            "1 tbsp adobo sauce\r",
+            "1 lb firm tofu, drained, halved lengthwise and each half cut into 4 equal rectangles (for full pound)\r",
+            "Salt and pepper\r",
+            "1\/3 cup sour cream\r",
+            "1\/4 cup whole milk\r",
+            "1\/4 cup fresh cilantro, chopped\r",
+            "<hr>\r",
+            "8 flour tortillas\r",
+            "1 cup Cabbage, shredded\r",
+            "1\/2 cup Pico de gallo\r",
+            "1 avocado, sliced\r",
+            "Lime wedges"
+        ],
+        "tags": [
+            "grill",
             "vegetarian",
             "untried"
         ]
