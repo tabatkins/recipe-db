@@ -5532,7 +5532,7 @@
         "fiber": 16,
         "sugar": 0,
         "protein": 72,
-        "instructions": "1. For vinaigrette, whisk together all ingredients. Combine half of the vinaigrette and feta in a small mixing bowl; let feta stand 20 minutes. Set aside remaining vinaigrette.\r\n2. Combine spinach, tomatoes, orange segments, onion and remaining vinaigrette in a large bowl; toss to coat.\r\n3. Bring 4 cups water and 1 tbsp red wine vinegar to a boil in 10-inch skillet; reduce heat to a gentle simmer. Crack one egg into a small prep bowl and gently add to water; repeat with remaining eggs. Carefully move a skimmer under eggs to prevent sticking. Cook 3-5 minutes or according to desired doneness. Remove eggs with skimmer to paper towel-lined plate.\r\n4. Remove feta from vinaigrette; discard vinaigrette. To serve, divide spinach mixture among serving plates. Top with feta and poached eggs; sprinkle with salt and black pepper. Serve with toasted breads slices.",
+        "instructions": "1. For vinaigrette, whisk together all ingredients. Combine half of the vinaigrette and feta in a small mixing bowl; let feta stand 20 minutes. Set aside remaining vinaigrette.\r\n2. Poach the eggs.\r\n3. Combine spinach, tomatoes, orange segments, onion and remaining vinaigrette in a large bowl; toss to coat.\r\n4. Remove feta from vinaigrette; discard vinaigrette. To serve, divide spinach mixture among serving plates. Top with feta and poached eggs; sprinkle with salt and black pepper. Serve with toasted breads slices.",
         "ingredients": [
             "1\/2 cup red wine vinegar\r",
             "6 tbsp fresh orange juice, see tip below\r",
@@ -5542,16 +5542,14 @@
             "2 tsp sugar\r",
             "4 garlic cloves, pressed\r",
             "1 tsp crushed red pepper flakes\r",
-            "<hr>",
+            "<hr>\r",
+            "4 eggs\r",
             "4 oz feta cheese, cut into 1\/2 inch cubes\r",
             "8 slices french bread, cut 1\/4 in thick, brushed with oil and toasted\r",
             "6 cup baby spinach\r",
             "1 cup grape tomatoes, halved\r",
             "2 medium oranges, cut into segments\r",
-            "1\/4 small red onion, thinly sliced\r",
-            "4 eggs\r",
-            "1\/4 tsp salt\r",
-            "1\/4 tsp ground black pepper"
+            "1\/4 small red onion, thinly sliced"
         ],
         "tags": [
             "salad",
