@@ -7542,47 +7542,6 @@
             "components"
         ]
     },
-    "id275": {
-        "id": "id275",
-        "name": "Tempeh sauerbraten",
-        "source": "Whole Foods",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 1500,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "IN a saute pan, steam saute the onion and spices until the onion has softened and is lightly caramelized, about 5 minutes. Add in the rest of the ingredients except for tempeh. Bring the mixture to a boil and then add the tempeh. Decrease the heat to low, cover, and simmer stirring occasionally until th etempeh is tender and cabbage is soft, about 15 minutes.\r\n\r\nCooking technique: Steam saute is an oil free cooking technique that uses liquid (water, broth, coconut water, wine etc.) instead of oil to saute. This is done by adding items to a hot dry pan using a small amount of liquid as needed to prevent sticking to the pan.",
-        "ingredients": [
-            "1 yellow onion, diced\r",
-            "1\/2 tsp smoked paprika\r",
-            "1\/2 tsp cinnamon\r",
-            "1\/8 tsp caraway seeds\r",
-            "1\/8 tsp ground ginger\r",
-            "1\/8 tsp ground clove\r",
-            "1\/2 tsp black pepper\r",
-            "1\/4 tsp salt\r",
-            "2 tsp garlic\r",
-            "1 head red cabbage, about 1 pound per head, shredded\r",
-            "2 Granny Smith apples, shredded\r",
-            "3\/4 cup red wine\r",
-            "2 tbsp red wine vinegar\r",
-            "1 1\/2 cup low-sodium vegetable broth\r",
-            "1 tbsp honey\r",
-            "8 oz tempeh, cut into 1 inch cubes"
-        ],
-        "tags": [
-            "untried",
-            "vegetarian",
-            "main"
-        ]
-    },
     "id277": {
         "id": "id277",
         "name": "Bavarian kartofflepuffer (potato pancakes)",
@@ -10942,35 +10901,6 @@
             "party"
         ]
     },
-    "id391": {
-        "id": "id391",
-        "name": "Maple-bacon potato skins",
-        "source": "Food Network Magazine Jan\/Feb 2010",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 4500,
-        "servings": 16,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Pierce potatoes with a fork. Bake directly on the oven rack at 350F until tender, about 1 hour\/ Let cool, then quarter lengthwise and scoop out the flesh, leaving a 1\/4-inch shell. Brush both sides with melted butter and season with salt and pepper. Bake, skin-side up, at 450F until crisp, about 15 minutes. Flip baked shells over and sprinkle with cheddar. Bake 5 more minutes. Add your toppings.",
-        "ingredients": [
-            "4 russet potatoes\r",
-            "1 cup cheddar, grated\r",
-            "1\/4 cup apple butter\r",
-            "1\/2 lb bacon, cooked crispy and crumbled\r",
-            "maple syrup"
-        ],
-        "tags": [
-            "appetizer",
-            "party"
-        ]
-    },
     "id392": {
         "id": "id392",
         "name": "Frisco gourmet potato skins",
@@ -12661,40 +12591,6 @@
             "main",
             "salad",
             "untried"
-        ]
-    },
-    "id447": {
-        "id": "id447",
-        "name": "Baked Gnocchi with Prosciutto & Spinach",
-        "source": "http:\/\/www.delallo.com\/recipes\/baked-gnocchi\/#",
-        "preptime": 900,
-        "waittime": 0,
-        "cooktime": 2460,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat the oven to 400\u02daF.\r\n\r\nPlace the gnocchi in a lightly greased (9\" x 12\") baking pan. Set aside.\r\n\r\nIn a medium sauce pan over medium heat, whisk together the broth, cream and flour. Continue whisking until the mixture starts to thicken, about 6 minutes. If you don't see the sauce starting to thicken, check that the flour is not on the sides of the pan, it likes to hide down there. Add the pepper and stir. Add the spinach and prosciutto to the thickened cream and toss to coat all the leaves and slices. Pour the cream, spinach and prosciutto over the gnocchi and spread out to cover the pasta evenly.\r\n\r\nTop with spoonfuls of ricotta and sprinkle with Parmigiano-Reggiano. Bake until the top is golden brown, about 35 minutes.",
-        "ingredients": [
-            "2 lb Potato Gnocchi, cooked\r",
-            "3 cup heavy cream (replace with normal milk?)\r",
-            "1 cup reduced sodium chicken broth\r",
-            "1\/4 cup flour\r",
-            "1\/2 teaspoon fresh ground pepper\r",
-            "12 ounce baby spinach leaves\r",
-            "7 ounce sliced Prosciutto, cut into strips\r",
-            "3 ounce part-skim ricotta\r",
-            "1\/2 cup Parmigiano-Reggiano, grated"
-        ],
-        "tags": [
-            "main",
-            "untried",
-            "meat"
         ]
     },
     "id448": {
@@ -15894,41 +15790,6 @@
             "components"
         ]
     },
-    "id551": {
-        "id": "id551",
-        "name": "Gluten-Free Chocolate-Tahini Brownies",
-        "source": "https:\/\/www.bonappetit.com\/recipe\/gluten-free-chocolate-tahini-brownies",
-        "preptime": 900,
-        "waittime": 600,
-        "cooktime": 1500,
-        "servings": 16,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 350\u00b0. Line an 8x8\" baking dish with 2 overlapping pieces of parchment paper, leaving at least a 3\" overhang on 2 sides.\r\n\r\nWhisk cornstarch and cocoa powder in a medium bowl until no lumps remain. Heat chocolate, oil, and 1 Tbsp. tahini in a small saucepan over low, stirring, until melted and smooth.\r\n\r\nUsing an electric mixer on medium-high speed, beat eggs, granulated sugar, and brown sugar in a large bowl until light, smooth, and doubled in volume, 3\u20134 minutes. Beat in salt and vanilla to combine, then beat in chocolate mixture, scraping down sides as needed, until incorporated. Beat in cornstarch mixture, then increase speed to medium-high and beat until mixture is thick and holds its shape, about 30 seconds.\r\n\r\nStir agave syrup and remaining 3 Tbsp. tahini in a small bowl. Scrape batter into prepared baking dish and smooth top. Dollop agave mixture over and swirl into top of batter with a skewer or toothpick.\r\n\r\nBake brownies until sides are puffed, top is browned, and a tester inserted into the center comes out with a few moist crumbs attached, 22\u201326 minutes. Let cool before removing from pan and cutting into 16 squares.\r\n\r\nDo Ahead: Brownies can be made 3 days ahead. Wrap in plastic and store at room temperature.",
-        "ingredients": [
-            "3 tablespoon cornstarch\r",
-            "2 tablespoon unsweetened cocoa powder\r",
-            "6 ounce bittersweet chocolate, coarsely chopped\r",
-            "3 tablespoon virgin coconut oil\r",
-            "4 tablespoon tahini, divided\r",
-            "2 large eggs\r",
-            "1\/3 cup granulated sugar\r",
-            "1\/4 cup light brown sugar, packed\r",
-            "1 teaspoon kosher salt\r",
-            "1 teaspoon vanilla extract\r",
-            "1 tablespoon light agave syrup"
-        ],
-        "tags": [
-            "dessert",
-            "untried"
-        ]
-    },
     "id552": {
         "id": "id552",
         "name": "Eggs on Toast",
@@ -16850,39 +16711,6 @@
             "vegetarian",
             "soup",
             "low_tyramine"
-        ]
-    },
-    "id579": {
-        "id": "id579",
-        "name": "Sunbutter energy bites",
-        "source": "https:\/\/thedizzycook.com\/nut-free-gluten-free-energy-balls\/",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 20,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Combine all ingredients in a mixing bowl and stir to combine. If using unsalted sunbutter, add a pinch of salt. \r\n\r\nCover and chill in the fridge for 30 min. If mixture is too sticky, add more oats. If mixture is too dry, add more sunbutter.\r\n\r\nForm into 1 to 1-\u00bd inch balls and store in the freezer. ",
-        "ingredients": [
-            "1\/3 cup honey\r",
-            "1 cup rolled oats\r",
-            "1\/2 cup sunbutter\r",
-            "1\/4 cup flaxseed meal\r",
-            "1 tbsp chia seeds\r",
-            "1\/4 cup sunflower seeds\r",
-            "1 tsp vanilla extract\r",
-            "1\/4-1\/2 cup white chocolate pieces"
-        ],
-        "tags": [
-            "vegetarian",
-            "low_tyramine",
-            "snack"
         ]
     },
     "id580": {
