@@ -19039,5 +19039,32 @@
             "bento",
             "untried"
         ]
+    },
+    "id648": {
+        "id": "id648",
+        "name": "Weeknight Hero spice blend",
+        "source": "Blue Apron",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "In a small bowl, mix all ingredients. Use a funnel to transfer to a spice jar for storage.",
+        "ingredients": [
+            "2 tbsp garlic powder\r",
+            "2 tbsp onion powder\r",
+            "2 tbsp smoked paprika\r",
+            "2 tbsp dried parsley"
+        ],
+        "tags": [
+            "spices"
+        ]
     }
 }
