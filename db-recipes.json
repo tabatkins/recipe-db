@@ -1396,10 +1396,10 @@
         "fiber": 14,
         "sugar": 12,
         "protein": 40,
-        "instructions": "Cook the rice, if it is not already.\r\n\r\nWhen you have all your ingredients prepped, arrange them within arm's reach of the stove. Heat a small splash of sesame oil in a wok or large nonstick pan over medium-high heat. When the oil is hot, add the tofu and cook for a couple of minutes, until the tofu is golden. Remove from the pan. (You can also cook the tofu in a dry nonstick or well seasoned pan.)\r\n\r\nAdd another splash of oil to the wok and, as soon as it's hot, add the asparagus and stir for 2 minutes.  Add the white part of the green onions and chiles, and stir for another 2 minutes.  Add the green part of the green onions, and stir for another 2 minutes.  Add the garlic and ginger, and stir for 30 seconds, then add the cashews and spinach and stir for another minute, or until the spinach wilts and collapses. \r\n\r\nReturn the tofu to the pan. Stir in the stir-fry sauce. Cook for another minute, stirring constantly.\r\n\r\nRemove from heat and stir in the mint and basil. Season with enough soy sauce to make the flavors pop, starting with a splash.\r\n\r\nServe over cooked rice.\r\n\r\nNutrition information does not include stir-fry sauce.",
+        "instructions": "Cook the rice, if it is not already.\r\n\r\nWhen you have all your ingredients prepped, arrange them within arm's reach of the stove. Heat a small splash of safflower oil in a wok or large nonstick pan over medium-high heat. When the oil is hot, add the tofu and cook for a couple of minutes, until the tofu is golden. Remove from the pan. (You can also cook the tofu in a dry nonstick or well seasoned pan.)\r\n\r\nAdd another splash of oil to the wok and, as soon as it's hot, add the asparagus and stir for 2 minutes.  Add the white part of the green onions and chiles, and stir for another 2 minutes.  Add the green part of the green onions, and stir for another 2 minutes.  Add the garlic and ginger, and stir for 30 seconds, then add the cashews and spinach and stir for another minute, or until the spinach wilts and collapses. \r\n\r\nReturn the tofu to the pan. Stir in the stir-fry sauce. Cook for another minute, stirring constantly.\r\n\r\nRemove from heat and stir in the mint and basil. Season with enough soy sauce to make the flavors pop, starting with a splash.\r\n\r\nServe over cooked rice.\r\n\r\nNutrition information does not include stir-fry sauce.",
         "ingredients": [
             "1 cup cooked rice\r",
-            "1 tbsp sesame oil\r",
+            "1 tbsp safflower oil\r",
             "8 oz extra-firm tofu, cut into slices 1-inch long and as thick as a pencil\r",
             "4 clove garlic, minced\r",
             "5 green onions, chopped with white and green parts separated\r",
@@ -19065,6 +19065,52 @@
         ],
         "tags": [
             "spices"
+        ]
+    },
+    "id649": {
+        "id": "id649",
+        "name": "Roasted Cabbage Slaw with Sweet Sesame Onions",
+        "source": "https:\/\/plantbasedrdblog.com\/2024\/10\/roasted-cabbage-slaw-with-sweet-sesame-onions\/",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 3000,
+        "servings": 3,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat the oven to 425F and line 3 baking sheets with parchment paper. Place the rinsed chickpeas on a clean kitchen towel and pat dry. Transfer the chickpeas to one baking sheet and drizzle with 1 tbsp of oil. Toss to coat and bake for 20 minutes.\r\nRemove the chickpeas from the oven and top with the chili oil and a pinch of white pepper and salt. Use a spoon to stir everything together then place back in the oven for 10 minutes until crispy then allow to completely cool.\r\nWhile this is roasting, transfer half the sliced onions to a bowl along with the herbs, ginger, lime, maple syrup, tamari, sesame oil, sesame seeds and a pinch of white pepper and salt. Using clean hands, massage the ingredients into the onions until they begin to soften slightly. Place in the fridge until ready to serve and adjust sweetness of the marinade based on preference.\r\nAdd the cabbage and half the onions to another tray. Top with 1 tbsp of oil (or more as needed to properly coat), 1\/2 tsp each garlic powder, fennel seeds and coriander and a generous pinch of salt. Toss the cabbage to coat then spread it into a single layer on the tray then roast in the oven until charred around the edges for 22- 25 minutes, tossing half way.\r\nCut the ends off of the squash, then cut it in half lengthwise. Scoop out the seeds, then thinly slice into half moons. Transfer to a separate baking sheet then coat with 1\/2 tsp each of garlic powder and coriander. Drizzle with 1 tbsp or more oil as needed, then toss together to evenly coat. Spread the squash out on the tray in a single layer then place in the oven on the bottom rack for 15-22 minutes or until the bottoms begin to get golden brown. Sprinkle with a pinch of salt and white pepper when out of the oven.\r\nUse tongs to transfer the roasted squash and marinated onions (reserving the marinade) to the tray of cabbage along with half the roasted chickpeas then gently toss everything together.\r\nTo serve, add a cooked grain of choice to a serving bowl then top with a portion of the cabbage and squash mix. Top with extra crispy chickpeas and use a spoonful of the onion marinade to drizzle over each bowl as desired and enjoy.",
+        "ingredients": [
+            "1 15oz can chickpeas, drained and rinsed\r",
+            "1 tbsp avocado oil\r",
+            "Fresh cracked white pepper\r",
+            "1 tsp chili crisp oil\r",
+            "<hr>\r",
+            "1\/2 medium red onion, thinly sliced\r",
+            "1\/3 cup cilantro or parsley, stems removed and minced\r",
+            "1 tsp fresh ginger, grated\r",
+            "Juice and zest of 1 lime\r",
+            "1\u20132 tbsp maple syrup\r",
+            "2 tsp tamari\r",
+            "2 tsp toasted sesame oil\r",
+            "1 tbsp toasted sesame seeds\r",
+            "<hr>\r",
+            "1 lb delicata squash\r",
+            "1 lb cabbage, thinly sliced (I used about 1\/2 small head each of green and red cabbage)\r",
+            "2 tbsp avocado oil or more as needed\r",
+            "1 1\/2 tsp ground coriander\r",
+            "1 tsp garlic powder\r",
+            "1\/2 tsp fennel seeds (optional)\r",
+            "Cooked Jasmine rice for serving"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "untried"
         ]
     }
 }
