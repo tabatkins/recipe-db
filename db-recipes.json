@@ -19208,5 +19208,44 @@
             "main",
             "untried"
         ]
+    },
+    "id652": {
+        "id": "id652",
+        "name": "Crunchy Asian slaw",
+        "source": "https:\/\/www.feastingathome.com\/asian-slaw\/#tasty-recipes-25058-jump-target",
+        "preptime": 1200,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 6,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "",
+        "ingredients": [
+            "6 cup cabbage, shredded\r",
+            "3 scallions, sliced\r",
+            "1 cup cilantro, chopped\r",
+            "<hr>\r",
+            "3 tablespoon olive oil\r",
+            "2 teaspoon toasted sesame oil (start conservatively add more to taste at the end)\r",
+            "1\/4 cup rice wine vinegar\r",
+            "3 tablespoon honey\r",
+            "1 tablespoon soy sauce \r",
+            "1 tablespoon fresh ginger, grated, or use ginger paste\r",
+            "1 garlic clove, grated or use garlic paste\r",
+            "\r",
+            "1\/2 teaspoon salt\r",
+            "1\/2 teaspoon chili flakes or chili paste ( optional)"
+        ],
+        "tags": [
+            "Side",
+            "vegetarian",
+            "bento"
+        ]
     }
 }
