@@ -10766,7 +10766,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "Combine all ingredients in a jar. Makes 2 cups. Each serving is generally about 1\/8 cup.\r\n\r\n\r\nRead more at:\r\nhttp:\/\/www.foodnetwork.com\/recipes\/articles\/50-gift-jars.page-5.html?oc=linkback",
+        "instructions": "Combine all ingredients in a jar. Makes 2 cups. Each serving is generally about 1\/8 cup.",
         "ingredients": [
             "1\/2 cup turbinado sugar\r",
             "1\/4 cup granulated sugar\r",
@@ -18507,7 +18507,9 @@
             "salt\r",
             "pepper"
         ],
-        "tags": []
+        "tags": [
+            "components"
+        ]
     },
     "id634": {
         "id": "id634",
