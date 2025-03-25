@@ -19248,5 +19248,36 @@
             "vegetarian",
             "bento"
         ]
+    },
+    "id653": {
+        "id": "id653",
+        "name": "Congee",
+        "source": "",
+        "preptime": 10800,
+        "waittime": 0,
+        "cooktime": 300,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "If using a rice maker, fill with water as seems appropriate. (The \"1\" marker is for 3\/4 cup rice.) Add miso and ginger, and stir after a few minutes to distribute it. Cook overnight.\r\n\r\nWhen ready to serve, dish the congee, and add seasonings to taste.",
+        "ingredients": [
+            "1\/2 cup long-grain white rice\r",
+            "1 tsp miso paste\r",
+            "1 tsp minced ginger\r",
+            "<hr>\r",
+            "1 tsp sesame oil\r",
+            "1 tsp soy sauce\r",
+            "1 tsp chili crisp"
+        ],
+        "tags": [
+            "breakfast",
+            "vegetarian"
+        ]
     }
 }
