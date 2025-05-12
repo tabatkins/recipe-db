@@ -612,37 +612,6 @@
             "sides"
         ]
     },
-    "30": {
-        "id": "30",
-        "name": "Sweet Almond Date Smoothie",
-        "source": "Yuri Elkaim",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 716,
-        "fat": 25,
-        "satfat": 2,
-        "carbs": 123,
-        "fiber": 12,
-        "sugar": 90,
-        "protein": 9,
-        "instructions": "Combine all ingredients in blender. Blend until smooth.",
-        "ingredients": [
-            "1 banana\r",
-            "2 tbsp almond butter\r",
-            "6 dates\r",
-            "1 tsp maple syrup\r",
-            "2 tsp cinnamon\r",
-            "2 cup almond milk, or skim milk"
-        ],
-        "tags": [
-            "smoothie",
-            "FUF",
-            "breakfast"
-        ]
-    },
     "32": {
         "id": "32",
         "name": "Super Protein Salad",
@@ -2508,39 +2477,6 @@
             "main"
         ]
     },
-    "id66": {
-        "id": "id66",
-        "name": "Green goddess dressing",
-        "source": "Everyday Food June 2011",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 16,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In a medium bowl, whisk together buttermilk, sour cream, and mayonnaise. Whisk in remaining ingredients. Season to taste with salt and pepper.",
-        "ingredients": [
-            "1 cup buttermilk\r",
-            "1\/2 cup sour cream\r",
-            "1\/4 cup mayonnaise\r",
-            "1\/2 avocado, mashed until smooth\r",
-            "1\/4 cup fresh chives, finely chopped\r",
-            "2 tbsp fresh lemon juice\r",
-            "2 tbsp fresh parsley, chopped\r",
-            "Salt and freshly ground pepper"
-        ],
-        "tags": [
-            "dressing",
-            "components",
-            "untried"
-        ]
-    },
     "id67": {
         "id": "id67",
         "name": "Creamy roasted garlic dressing",
@@ -3050,82 +2986,6 @@
         "tags": [
             "dessert",
             "cake",
-            "untried"
-        ]
-    },
-    "id95": {
-        "id": "id95",
-        "name": "Cranberry almond muffins",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 1200,
-        "waittime": 600,
-        "cooktime": 1200,
-        "servings": 16,
-        "comments": "",
-        "calories": 2096,
-        "fat": 48,
-        "satfat": 16,
-        "carbs": 384,
-        "fiber": 32,
-        "sugar": 208,
-        "protein": 64,
-        "instructions": "1. Preheat oven to 350F. Line 16 cups of two 12-cup muffin tins with baking cups and lightly coat each with cooking spray.\r\n2. Whisk together sugar, flours, baking soda, and salt in a large bowl. Whisk together milk, yogurt, eggs, and orange zest and juice in a medium bowl. Fold milk mixture into flour mixture, then gently fold in cranberries until combined.\r\n3. Spoon batter into baking cups until each is three-quarters full. Sprinkle with almonds. Bake until a toothpick inserted into the center of each comes out clean, about 20 minutes. Transfer pans to wire racks, and let cool for 10 minutes. Turn out muffins onto racks and let cool completely.",
-        "ingredients": [
-            "Vegetable oil cooking spray\r",
-            "1 1\/4 cup sugar\r",
-            "1 cup whole-wheat flour\r",
-            "3\/4 cup all-purpose flour\r",
-            "3\/4 cup almond flour\r",
-            "1 tsp baking soda\r",
-            "1\/4 tsp salt\r",
-            "2\/3 cup nonfat milk\r",
-            "2\/3 cup plain low-fat yogurt\r",
-            "2 large eggs\r",
-            "1 orange, zested and juiced\r",
-            "1 cup cranberries, fresh or frozen\r",
-            "1\/2 cup sliced almonds"
-        ],
-        "tags": [
-            "muffins",
-            "breakfast",
-            "untried"
-        ]
-    },
-    "id96": {
-        "id": "id96",
-        "name": "Hazelnut pear muffins",
-        "source": "Martha Stewart Living Nov 2011",
-        "preptime": 1200,
-        "waittime": 600,
-        "cooktime": 1200,
-        "servings": 16,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Preheat oven to 350F. Line 16 cups of two 12-cup muffin tins with baking cups and lightly coat each with cooking spray.\r\n2. Whisk together sugar, flours, baking soda, and salt in a large bowl. Whisk together milk, yogurt, eggs, and orange zest and juice in a medium bowl. Fold milk mixture into flour mixture, then gently fold in pears until combined.\r\n3. Spoon batter into baking cups until each is three-quarters full. Sprinkle with hazelnuts. Bake until a toothpick inserted into the center of each comes out clean, about 20 minutes. Transfer pans to wire racks, and let cool for 10 minutes. Turn out muffins onto racks and let cool completely.",
-        "ingredients": [
-            "Vegetable oil cooking spray\r",
-            "1 1\/4 cup sugar\r",
-            "1 cup whole-wheat flour\r",
-            "3\/4 cup all-purpose flour\r",
-            "3\/4 cup hazelnut flour\r",
-            "1 tsp baking soda\r",
-            "1\/4 tsp salt\r",
-            "2\/3 cup nonfat milk\r",
-            "2\/3 cup plain low-fat yogurt\r",
-            "2 large eggs\r",
-            "1 orange, zested and juiced\r",
-            "1 1\/2 Bosc pears, peeled, cored and chopped to make 2 cups\r",
-            "1\/2 cup hazelnuts, coarsely chopped"
-        ],
-        "tags": [
-            "muffins",
-            "breakfast",
             "untried"
         ]
     },
@@ -3741,7 +3601,7 @@
             "1 green onion, thinly sliced"
         ],
         "tags": [
-            "salad",
+            "bento",
             "untried",
             "asian"
         ]
@@ -4264,46 +4124,6 @@
         "tags": [
             "pumpkin",
             "soup",
-            "main",
-            "untried"
-        ]
-    },
-    "id144": {
-        "id": "id144",
-        "name": "Lighter macaroni and cheese",
-        "source": "http:\/\/www.marthastewart.com\/350258\/lighter-macaroni-and-cheese?czone=food\/comfort-foods-center\/comfort-foods-dishes&lnc=c479cf380e1dd010VgnVCM1000005b09a00aRCRD&rsc=foodpromo_Homepage_Homepage_p1&center=854190&gallery=274953&slide=174814",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 8,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 400 degrees. Spread tomatoes in a single layer on 2 rimmed baking sheets. Drizzle each sheet with 1 tablespoon oil; sprinkle each with 1\/2 teaspoon thyme, and season with salt and pepper. Bake until tomatoes have softened, about 20 minutes. (Leave oven on.)\r\n\r\nProcess bread in a food processor until coarse crumbs form. Melt 1 tablespoon butter with remaining tablespoon oil in amedium skillet over medium heat. Add breadcrumbs, and toss to coat. Season with salt and pepper; set aside.\r\n\r\nBring a large pot of water to a boil over high heat. Add 1 tablespoon salt and the pasta. Cook pasta until almost al dente, about 5 minutes. Drain, and run under cold water to stop cooking. Transfer to a large bowl; set aside.\r\n\r\nWhisk 1\/2 cup stock into the flour in a medium bowl; set aside. Melt remaining tablespoon butter in a medium saucepan over medium heat. Stir in nutmeg, cayenne, remaining 1\/2 teaspoon thyme, and 1 teaspoon salt. Add milk and remaining 1 1\/2 cups stock. Whisk in flour mixture. Bring to a boil, whisking frequently. Reduce to a simmer. Cook 8 minutes, whisking frequently. Add cheeses; cook, stirring, until melted. Pour over macaroni, stirring to combine.\r\n\r\nPut eight 4 1\/2-by-1 1\/4-inch ramekins on a baking sheet. Put 2 tomato slices in bottom of each ramekin. Divide macaroni mixture evenly among ramekins. Top each with a tomato slice. Sprinkle with breadcrumbs and thyme sprigs. Bake until bubbling and golden brown, about 30 minutes. Serve immediately.",
-        "ingredients": [
-            "6 small vine-ripened tomatoes, cut into 24 1\/4-inch-thick slices\r",
-            "3 tablespoon extra-virgin olive oil\r",
-            "1 1\/2 teaspoon fresh thyme leaves, plus sprigs for sprinkling\r",
-            "Coarse salt and freshly ground pepper\r",
-            "5 slices white sandwich bread, with crust\r",
-            "2 tablespoon unsalted butter\r",
-            "1 pound elbow macaroni\r",
-            "2 cup low-sodium chicken stock\r",
-            "5 tablespoon all-purpose flour\r",
-            "1 pinch freshly grated nutmeg\r",
-            "1 pinch cayenne pepper\r",
-            "2 cup low-fat (1 percent) milk\r",
-            "2 1\/4 cup extra-sharp cheddar cheese, grated\r",
-            "1\/2 cup Parmesan cheese, freshly grated"
-        ],
-        "tags": [
-            "cheese",
-            "pasta",
             "main",
             "untried"
         ]
@@ -5093,70 +4913,6 @@
             "untried"
         ]
     },
-    "id176": {
-        "id": "id176",
-        "name": "Coffee, hazelnut, and banana granola",
-        "source": "Everyday Food April 2011",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 10,
-        "comments": "",
-        "calories": 2460,
-        "fat": 140,
-        "satfat": 40,
-        "carbs": 260,
-        "fiber": 40,
-        "sugar": 0,
-        "protein": 60,
-        "instructions": "Preheat oven to 300F. \r\n\r\nIn a large bowl, combine oats and nuts. In a small saucepan, combine butter, brown sugar, espresso, water, and salt over medium. Cook, stirring occasionally, until butter melts, about 2 minutes. (Or, place ingredients in a medium microwave-safe bowl and microwave until butter melts, 1 to 2 minutes; stir until combined). \r\n\r\nPour butter mixture over oat mixture and toss until oats and nuts are completely coated. Transfer to a parchment-lined rimmed baking sheet and spread in an even layer. Bake until oats are lightly golden, 30 to 35 minutes, stirring every 10 minutes. Let cool completely on a sheet on a wire rack, 20 minutes, then stir in banana chips.\r\n\r\nStore in airtight containers at room temperature, up to 3 weeks.\r\n\r\nMakes about 5 cups, each serving is 1\/2 cup.",
-        "ingredients": [
-            "3 cup rolled oats, not quick-cooking\r",
-            "1 cup raw hazelnuts\r",
-            "1\/4 cup unsalted butter, cut into pieces\r",
-            "1\/3 cup brown sugar, packed\r",
-            "4 tsp instant espresso powder\r",
-            "3 tbsp water\r",
-            "1\/2 tsp salt\r",
-            "1 cup dried banana chips"
-        ],
-        "tags": [
-            "breakfast",
-            "granola"
-        ]
-    },
-    "id177": {
-        "id": "id177",
-        "name": "Cherry lime granola",
-        "source": "Everyday Food April 2011",
-        "preptime": 300,
-        "waittime": 1200,
-        "cooktime": 1800,
-        "servings": 10,
-        "comments": "",
-        "calories": 2500,
-        "fat": 120,
-        "satfat": 20,
-        "carbs": 320,
-        "fiber": 40,
-        "sugar": 0,
-        "protein": 60,
-        "instructions": "Preheat oven to 300F. In a large bowl, combine oats and nuts. In a small saucepan, combine butter, agave nectar, lime zest, juice, and salt over medium. Cook, stirring occasionally, until butter melts, about 2 minutes. (Or, place ingredients in a medium microwave-safe bowl and microwave until butter melts, 1 to 2 minutes; stir until combined). Pour butter mixture over oat mixture and toss until oats and nuts are completely coated. Transfer to a parchment-lined rimmed baking sheet and spread in an even layer. Bake until oats are lightly golden, 30 to 35 minutes, stirring every 10 minutes. Let cool completely on a sheet on a wire rack, 20 minutes, then stir in dried cherries.\r\n\r\nStore in airtight containers at room temperature, up to 3 weeks.\r\n\r\nMakes about 5 cups, each serving is 1\/2 cup.",
-        "ingredients": [
-            "3 cup rolled oats, not quick-cooking\r",
-            "1 cup almonds, raw\r",
-            "1\/4 cup unsalted butter, cut into pieces\r",
-            "1\/3 cup agave nectar\r",
-            "1 tbsp lime zest\r",
-            "1\/4 cup lime juice, about 2 limes\r",
-            "1\/2 tsp salt\r",
-            "1 cup dried tart cherries, or cranberries"
-        ],
-        "tags": [
-            "granola",
-            "breakfast"
-        ]
-    },
     "id181": {
         "id": "id181",
         "name": "Creamy artichoke dip",
@@ -5454,34 +5210,6 @@
         "tags": [
             "sides",
             "vegetables",
-            "untried"
-        ]
-    },
-    "id193": {
-        "id": "id193",
-        "name": "Roasted sweet potatoes and bacon",
-        "source": "Everyday Food Oct 2011",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 1800,
-        "servings": 4,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Preheat oven to 400F. On a rimmed baking sheet, combine sweet potatoes, bacon, and thyme; season with salt and pepper. Roast until sweet potatoes are browned in spots and tender when pierced with a knife and bacon is crisp, about 30 minutes, stirring halfway through.",
-        "ingredients": [
-            "2 lb sweet potatoes, peele dna cut into 1 1\/2-inch pieces\r",
-            "4 slices bacon, cut into 1\/2-inch pieces\r",
-            "5 sprig thyme\r",
-            "coarse salt and ground pepper"
-        ],
-        "tags": [
-            "sides",
             "untried"
         ]
     },
@@ -7840,44 +7568,6 @@
             "slow_cooker"
         ]
     },
-    "id287": {
-        "id": "id287",
-        "name": "Mixed Tomato Cobbler with Gruyere Crust",
-        "source": "http:\/\/www.marthastewart.com\/316237\/mixed-tomato-cobbler-with-gruyere-crust?czone=food%2Fcomfort-foods-center%2Fcomfort-foods-dishes&gallery=275688&slide=316237&amp;center=854190",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 8,
-        "comments": "Serve with a salad for a meal",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "In the bowl of a food processor, combine 2 1\/2 cups flour, 1 teaspoon salt, 1 teaspoon granulated sugar, and 1 cup Gruyere cheese. Add 1 cup butter; process until mixture resembles coarse meal, 8 to 10 seconds.\r\n\r\nWith machine running, pour ice water (about 1\/4 cup) little by little through feed tube. Pulse until dough holds together without becoming wet or sticky; be careful not to process more than 30 seconds. To test, squeeze a small amount together: If it is crumbly, add more ice water, 1 tablespoon at a time.\r\n\r\nDivide dough into two equal balls. Flatten each into a disk; wrap in plastic. Transfer to refrigerator; chill 1 hour.\r\n\r\nMelt remaining tablespoon butter in large skillet over medium heat. Add onion and garlic. Cook, stirring occasionally, until translucent and softened, 5 to 7 minutes. Transfer to a bowl to cool slightly.\r\n\r\nPlace tomatoes in a large bowl. Toss with remaining 1\/4 cup plus 2 tablespoons flour, 1 1\/2 teaspoons salt, and 1 1\/2 teaspoons granulated sugar, and basil and pepper. When onion mixture is cooled, add to tomato mixture, and toss to combine. Transfer mixture to a deep 9 1\/2- or 10-inch pie dish. Set aside.\r\n\r\nHeat oven to 375 degrees. Roll out half the dough into a circle 1 inch larger than pie dish. Remaining dough may be frozen up to 1 month. Transfer rolled dough to top of dish; tuck in edges to seal. Make three to four small slits in crust; form a decorative edge if desired. In small bowl, mix egg with 1 teaspoon water. Brush egg glaze over crust; sprinkle crust with remaining 1\/4 cup cheese. Place pie dish on a baking sheet to catch drips; bake until crust is golden and insides are bubbling, about 50 minutes. Let cobbler cool before serving.",
-        "ingredients": [
-            "2 3\/4 cup all-purpose flour\r",
-            "2 tablespoon all-purpose flour\r",
-            "2 1\/2 teaspoon salt\r",
-            "2 1\/2 teaspoon granulated sugar\r",
-            "1 1\/4 cup grated Gruyere cheese\r",
-            "1 cup unsalted butter, cold, cut into pieces\r",
-            "1 tablespoon unsalted butter\r",
-            "1 large onion, diced\r",
-            "3 clove garlic, minced\r",
-            "2 pound grape tomatoes\r",
-            "1\/2 cup basil, chopped\r",
-            "Freshly ground black pepper\r",
-            "1 large egg"
-        ],
-        "tags": [
-            "vegetarian",
-            "main",
-            "untried"
-        ]
-    },
     "id288": {
         "id": "id288",
         "name": "Gnocchi",
@@ -8317,41 +8007,6 @@
             "3\/4 cup fresh berries\r",
             "7 oz Greek yogurt (2% Fage)\r",
             "2 tablespoon granola"
-        ],
-        "tags": [
-            "breakfast"
-        ]
-    },
-    "id301": {
-        "id": "id301",
-        "name": "Golden Granola",
-        "source": "http:\/\/www.marthastewart.com\/344416\/golden-granola",
-        "preptime": 0,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 2,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "1. Preheat the oven to 250 degrees.\r\n\r\n2. In a large bowl, toss together the oats, coconut, almonds, sesame seeds, wheat germ, and salt. Separately whisk together the oil, honey, water, and vanilla; stir it into the oat mixture.\r\n\r\n3. Spread the granola on 2 rimmed baking sheets. Bake for 1 to 1 1\/2 hours, or until golden brown. Stir after 10 minutes and again after 30 more minutes. Remove from the oven and toss with the raisins and cranberries. Cool completely and store in an airtight container. Serve with sliced bananas or berries and milk or plain yogurt.",
-        "ingredients": [
-            "1 pound rolled oats\r",
-            "1 cup shredded unsweetened coconut, (or sweetened, if you prefer)\r",
-            "1\/2 cup slivered almonds\r",
-            "1\/4 cup sesame seeds\r",
-            "1\/2 cup wheat germ\r",
-            "1\/2 teaspoon coarse salt\r",
-            "1\/2 cup safflower oil\r",
-            "1\/2 cup honey\r",
-            "1\/3 cup water\r",
-            "1 1\/2 teaspoon pure vanilla extract\r",
-            "1\/2 cup golden raisins\r",
-            "1\/2 cup dried cranberries, blueberries, or other dried chopped fruit"
         ],
         "tags": [
             "breakfast"
@@ -10750,39 +10405,6 @@
             "untried"
         ]
     },
-    "id386": {
-        "id": "id386",
-        "name": "Fruity oatmeal topping",
-        "source": "http:\/\/www.foodnetwork.com\/recipes\/articles\/50-gift-jars.page-5.html",
-        "preptime": 300,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 16,
-        "comments": "",
-        "calories": 0,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Combine all ingredients in a jar. Makes 2 cups. Each serving is generally about 1\/8 cup.",
-        "ingredients": [
-            "1\/2 cup turbinado sugar\r",
-            "1\/4 cup granulated sugar\r",
-            "1\/4 cup raisins\r",
-            "1\/4 cup dried blueberries\r",
-            "1\/4 cup dried cranberries\r",
-            "1 cinnamon stick\r",
-            "1 tbsp cinnamon\r",
-            "1\/4 tsp nutmeg\r",
-            "1\/2 vanilla bean, seeds scraped\r",
-            "1 pinch salt"
-        ],
-        "tags": [
-            "breakfast"
-        ]
-    },
     "id388": {
         "id": "id388",
         "name": "Red Lentil Soup with North African Spices",
@@ -11032,44 +10654,6 @@
             "salmon",
             "seafood",
             "main"
-        ]
-    },
-    "id397": {
-        "id": "id397",
-        "name": "Cabbage-Asparagus Salad with Tahini Dressing",
-        "source": "http:\/\/allrecipes.com\/recipe\/138138\/red-cabbage-asparagus-salad-with-tahini-dressing\/",
-        "preptime": 1800,
-        "waittime": 0,
-        "cooktime": 600,
-        "servings": 4,
-        "comments": "",
-        "calories": 644,
-        "fat": 0,
-        "satfat": 0,
-        "carbs": 0,
-        "fiber": 0,
-        "sugar": 0,
-        "protein": 0,
-        "instructions": "Blanch or roast asparagus. Cut into 1-inch pieces on the diagonal.\r\n\r\nIn a small bowl, stir together tahini, water, lemon juice, and garlic. Stir in sugar to taste.\r\n\r\nCombine all ingredients.",
-        "ingredients": [
-            "1 bunch asparagus, ends trimmed\r",
-            "3\/4 pound thinly sliced red cabbage \r",
-            "2 radishes, thinly sliced \r",
-            "2 green onions, sliced \r",
-            "2 tbsp feta, crumbled \r",
-            "1\/4 cup pine nuts, toasted \r",
-            "2 sprig dill, chopped\r",
-            "<hr>\r",
-            "2 tablespoon tahini \r",
-            "1 tablespoon water \r",
-            "2 tablespoon lemon juice \r",
-            "1 clove minced garlic \r",
-            "white sugar, to taste"
-        ],
-        "tags": [
-            "salad",
-            "vegetarian",
-            "untried"
         ]
     },
     "id398": {
@@ -12982,8 +12566,7 @@
         "tags": [
             "bento",
             "lunch",
-            "sides",
-            "untried"
+            "sides"
         ]
     },
     "id460": {
@@ -13013,8 +12596,7 @@
             "2 tbsp fresh dill, chopped"
         ],
         "tags": [
-            "sides",
-            "untried"
+            "sides"
         ]
     },
     "id461": {
@@ -13281,7 +12863,7 @@
             "4 endive, halved lengthwise\r",
             "2 medium red onion, each cut into 6 wedges\r",
             "1\/2 lb shrimp, deveined and peeled\r",
-            "<hr>",
+            "<hr>\r",
             "2 tbsp extra-virgin olive oil\r",
             "2 tbsp fresh sage, chopped\r",
             "1 tbsp lemon juice\r",
@@ -13292,7 +12874,7 @@
         ],
         "tags": [
             "main",
-            "vegetarian",
+            "seafood",
             "untried"
         ]
     },
@@ -13555,36 +13137,6 @@
         "tags": [
             "vegetarian",
             "main"
-        ]
-    },
-    "id479": {
-        "id": "id479",
-        "name": "Almond latte overnight oats",
-        "source": "https:\/\/www.pamperedchef.com\/recipe\/Breakfast%7CBrunch\/American\/Almond+Latte+Overnight+Oats\/1136236",
-        "preptime": 600,
-        "waittime": 0,
-        "cooktime": 0,
-        "servings": 1,
-        "comments": "",
-        "calories": 362,
-        "fat": 11,
-        "satfat": 2,
-        "carbs": 56,
-        "fiber": 10,
-        "sugar": 23,
-        "protein": 10,
-        "instructions": "Place oats, almonds, seeds, brown sugar, and espresso powder in Make & Take Snack Jar; stir to mix. \r\n\r\nCarefully add almond milk and water; stir to blend.  \r\n\r\nTop with lid. \r\n\r\nPlace in refrigerator and let stand overnight. ",
-        "ingredients": [
-            "1\/2 cup old-fashioned or quick oats\r",
-            "2 tbsp slivered almonds\r",
-            "1 tbsp chia seeds\r",
-            "1 tbsp brown sugar\r",
-            "1\/2 tsp espresso powder\r",
-            "1\/2 cup chocolate almond milk\r",
-            "1\/3 cup water"
-        ],
-        "tags": [
-            "breakfast"
         ]
     },
     "id482": {
@@ -14164,7 +13716,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "Preheat oven to 450\u00b0F, and line a sheet pan with aluminum foil. \r\n\r\nHeat a small pot of salted water on high. When boiling, add freekeh and garlic, cover, cook for ~15 minutes until water is cooked off.\r\n\r\nPut the brussels sprouts and carrots in a large mixing bowl, and toss with olive oil, salt, and pepper. Arrange in an even layer on the sheet pan. Roast 14 to 16 minutes, or until browned and tender when pierced with a fork.  (Keep the bowl to mix the rest of the meal.)\r\n\r\nIn a small bowl, mix the yogurt, garlic, lemon zest, and 1\/4 of the lemon juice. Drizzle with olive oil, season with salt and pepper, then mix.\r\n\r\nWhen the freekeh and vegetables are both done, add to the bowl. Add pepper, chopped almonds, dates, mint, feta, red pepper, and remaining 3\/4 of the lemon juice. Drizzle with olive oil, season with salt and pepper. Mix.\r\n\r\nServe with lemon yogurt on top or on the side.",
+        "instructions": "Preheat oven to 450\u00b0F, and line a sheet pan with aluminum foil. \r\n\r\nHeat a small pot of salted water on high. When boiling, add freekeh and garlic, cover, cook for ~15 minutes until water is cooked off.\r\n\r\nPut the brussels sprouts and carrots in a large mixing bowl, and toss with olive oil, salt, and pepper. Arrange in an even layer on the sheet pan. Roast 14 to 16 minutes, or until browned and tender when pierced with a fork.  (Keep the bowl to mix the rest of the meal.)\r\n\r\nIn a small bowl, mix the yogurt, garlic, lemon zest, and 1\/4 of the lemon juice. Drizzle with olive oil, season with salt and pepper, then mix.\r\n\r\nWhen the freekeh and vegetables are both done, add to the bowl. Add pepper, chopped almonds, honey, mint, feta, red pepper, and remaining 3\/4 of the lemon juice. Drizzle with olive oil, season with salt and pepper. Mix.\r\n\r\nServe with lemon yogurt on top or on the side.",
         "ingredients": [
             "3\/4 lb Brussels sprouts, trimmed and halved lengthwise\r",
             "2 medium carrots, halved lengthwise and cut crosswise in 1-in pieces\r",
@@ -14176,9 +13728,9 @@
             "1 lemon, zested, juice divided\r",
             "1 clove garlic, pressed\r",
             "1\/2 cup plain greek yogurt\r",
-            "<hr>",
+            "<hr>\r",
             "2 tbsp almonds, roasted and roughly chopped\r",
-            "2 dried medjool dates, roughly chopped\r",
+            "1\/2 tbsp honey\r",
             "1 tbsp fresh mint\r",
             "2 tbsp pickled Peruvian peppers (tiny red drop shape)\r",
             "1\/4 tsp crushed red pepper flakes\r",
@@ -17882,7 +17434,7 @@
             "1 English cucumber, thinly sliced on a diagonal\r",
             "1\/2 tsp kosher salt\r",
             "3 Tbsp unseasoned rice vinegar\r",
-            "<hr>",
+            "<hr>\r",
             "2 14-oz blocks extra-firm tofu, drained and pressed for 15 minutes\r",
             "1 Asian pear, cored, coarsely chopped\r",
             "1 2-in piece ginger, peeled, thinly sliced\r",
@@ -17893,7 +17445,7 @@
             "1 Tbsp gochugaru\r",
             "3 Tbsp vegetable oil\r",
             "3 Tbsp unseasoned rice vinegar\r",
-            "<hr>",
+            "<hr>\r",
             "2 Tbsp gochujang\r",
             "6 hamburger buns, split\r",
             "1\/3 cup mayonnaise\r",
@@ -17902,8 +17454,7 @@
         "tags": [
             "vegetarian",
             "main",
-            "grill",
-            "untried"
+            "grill"
         ]
     },
     "id616": {
@@ -18386,7 +17937,7 @@
         "preptime": 600,
         "waittime": 0,
         "cooktime": 720,
-        "servings": 4,
+        "servings": 2,
         "comments": "",
         "calories": 1405,
         "fat": 49,
@@ -18415,8 +17966,7 @@
             "pinch of black pepper"
         ],
         "tags": [
-            "sides",
-            "untried"
+            "main"
         ]
     },
     "id629": {
@@ -18608,8 +18158,7 @@
         ],
         "tags": [
             "breakfast",
-            "vegetarian",
-            "untried"
+            "vegetarian"
         ]
     },
     "id637": {
@@ -18806,8 +18355,7 @@
         ],
         "tags": [
             "grill",
-            "vegetarian",
-            "untried"
+            "vegetarian"
         ]
     },
     "id642": {
@@ -19037,8 +18585,7 @@
         "tags": [
             "vegetarian",
             "korean",
-            "bento",
-            "untried"
+            "bento"
         ]
     },
     "id648": {
@@ -19289,13 +18836,13 @@
         "cooktime": 600,
         "servings": 2,
         "comments": "",
-        "calories": 1076,
-        "fat": 42,
-        "satfat": 10,
-        "carbs": 162,
-        "fiber": 14,
-        "sugar": 20,
-        "protein": 30,
+        "calories": 1153,
+        "fat": 67,
+        "satfat": 24,
+        "carbs": 122,
+        "fiber": 16,
+        "sugar": 15,
+        "protein": 24,
         "instructions": "Mix oil and garlic; brush onto cut sides of rolls and both sides of vegetables. Sprinkle vegetables with salt and pepper.\r\n\r\nGrill eggplant, covered, over medium heat until tender, 4-5 minutes per side. Grill tomato, covered, until lightly browned, 1-2 minutes per side. Grill rolls, cut side down, until toasted, 1-2 minutes.\r\n\r\nSpread roll bottoms with goat cheese. Top with basil, eggplant and tomato; close sandwiches.",
         "ingredients": [
             "2 tablespoon olive oil\r",
@@ -19305,14 +18852,13 @@
             "1 medium heirloom tomato, cut into 1\/2-inch slices\r",
             "1\/4 teaspoon salt\r",
             "1\/8 teaspoon pepper\r",
-            "2 ounce fresh goat cheese, softened\r",
+            "1\/2 package Boursin\r",
             "6 fresh basil leaves"
         ],
         "tags": [
             "grill",
             "vegetarian",
-            "sandwich",
-            "untried"
+            "sandwich"
         ]
     },
     "id655": {
@@ -19437,6 +18983,86 @@
         "tags": [
             "breakfast",
             "vegetarian",
+            "untried"
+        ]
+    },
+    "id658": {
+        "id": "id658",
+        "name": "Aguachile Rojo",
+        "source": "Cholula",
+        "preptime": 600,
+        "waittime": 1800,
+        "cooktime": 0,
+        "servings": 8,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Butterfly shrimp. Pat dry, and place in large bowl with 2\/3 of the lime juice, making sure they're submerged fully. Cover and refrigerate 15 minutes.\r\n\r\nBlend peppers, olive oil, salt, and pepper. Remove shrimp from fridge, and pour sauce over them. Layer cucumber, onion, avocado, and cilantro on top. Cover and refrigerate again 15-20 minutes.\r\n\r\nStir in hot sauce until blended. Serve with tostadas.",
+        "ingredients": [
+            "1 lb large shrimp, peeled & deveined\r",
+            "1 1\/2 cup fresh lime juice\r",
+            "2 red Fresno peppers (or jalapeno), stems removed but seeds\/vanes kept\r",
+            "1 habanero pepper, stems removed\r",
+            "2 tbsp olive oil\r",
+            "3\/4 cup red onion, thinly sliced\r",
+            "1 cup cucumber, thinly sliced\r",
+            "1 avocado, sliced\r",
+            "1\/4 cup cilantro, finely chopped\r",
+            "3 tbsp Cholula (reserva tequila & lime, if possible)\r",
+            "1\/2 tsp salt\r",
+            "1\/4 tsp pepper\r",
+            "tostadas or small tortillas"
+        ],
+        "tags": [
+            "seafood",
+            "main",
+            "untried"
+        ]
+    },
+    "id659": {
+        "id": "id659",
+        "name": "Spicy Fish Tacos with Creamy Slaw",
+        "source": "Cholula",
+        "preptime": 600,
+        "waittime": 900,
+        "cooktime": 600,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "For slaw, whish crema, lime juice, oil, and salt in a medium bowl. Add vegetables and cilantro, tossing to mix well. Cover and refrigerate until ready to serve.\r\n\r\nCut fish into 2oz portions. Mix remaining ingredients in a large bowl. Add fish, turning to cover well. Cover and refrigerate 15min.\r\n\r\nHeat grill on medium high. Grill fish about 2min per side, until firm and cooked thru. Grill tortillas alongside fish, about 30s per side, until lightly charred.\r\n\r\nServe with 2 fish portions per tortilla, topped with slaw, and additional hot sauce if desired.",
+        "ingredients": [
+            "2 tbsp mexican crema or sour cream\r",
+            "1 tbsp lime juice\r",
+            "1 tbsp olive oil\r",
+            "1\/4 tsp salt\r",
+            "2 cup red cabbage, shredded\r",
+            "1\/2 cup white onion, finely chopped\r",
+            "1\/4 cup cilantro, chopped\r",
+            "<hr>\r",
+            "2 lb halibut\r",
+            "1\/3 cup olive oil\r",
+            "1\/4 cholula\r",
+            "2 tbsp lime juice\r",
+            "1 clove garlic\r",
+            "2 tsp chili powder\r",
+            "2 tsp cumin\r",
+            "2 tsp coriander\r",
+            "8 tortillas, warmed"
+        ],
+        "tags": [
+            "seafood",
+            "main",
             "untried"
         ]
     }
