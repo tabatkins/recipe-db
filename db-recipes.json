@@ -15972,7 +15972,7 @@
         "fiber": 14,
         "sugar": 13,
         "protein": 60,
-        "instructions": "Whisk together oil, za'atar, and lemon juice. Toss with eggs, olives, cilantro, onion, and pine nuts; season with salt and pepper to taste. Serve on toast.",
+        "instructions": "While the eggs are cooking, toast the pine nuts and bread.\r\n\r\nWhisk together oil, za'atar, and lemon juice. Toss with eggs, olives, cilantro, onion, and pine nuts; season with salt and pepper to taste. Serve on toast.",
         "ingredients": [
             "2 tbsp olive oil\r",
             "1 tbsp za'atar\r",
@@ -19061,6 +19061,76 @@
         "tags": [
             "seafood",
             "main",
+            "untried"
+        ]
+    },
+    "id660": {
+        "id": "id660",
+        "name": "Pizza sauce from tomato paste",
+        "source": "https:\/\/www.contadina.com\/recipes\/collections\/pizza-night\/quick-pizza-sauce-from-tomato-paste",
+        "preptime": 300,
+        "waittime": 900,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Makes enough for 1 full size pizza (1 lb. dough)\r\n\r\nCombine all ingredients in a small bowl; mix well. Set aside about 15 minutes for flavors to develop.",
+        "ingredients": [
+            "1 6oz can tomato paste (6oz can is about 2\/3 cup)\r",
+            "1\/2 cup water\r",
+            "1 tsp dried oregano, crushed\r",
+            "1 tsp dried basil, crushed\r",
+            "1\/2 tsp garlic powder\r",
+            "1\/2 tsp onion powder\r",
+            "1\/2 tsp sugar\r",
+            "1\/2 tsp salt\r",
+            "1\/4 tsp freshly ground black pepper"
+        ],
+        "tags": [
+            "component",
+            "untried"
+        ]
+    },
+    "id661": {
+        "id": "id661",
+        "name": "Soba salad with grilled mushrooms and tofu",
+        "source": "NYT Cooking",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 900,
+        "servings": 4,
+        "comments": "",
+        "calories": 2032,
+        "fat": 76,
+        "satfat": 8,
+        "carbs": 280,
+        "fiber": 24,
+        "sugar": 56,
+        "protein": 96,
+        "instructions": "Step 1\r\nHeat a grill to medium-high. Bring a large pot of salted water to a boil. Meanwhile, cut the tofu in half lengthwise, then slice crosswise into 6 sections. (You\u2019ll have 12 squares total.) Pat the tofu dry. In a large bowl, use a fork to stir together the lime juice, oil, miso and maple syrup until smooth. Add the tofu and turn to coat. On a sheet pan, toss the mushrooms with enough oil to coat, about 2 tablespoons; season generously with salt.\r\n\r\nStep 2\r\nWhen the water\u2019s boiling, add the soba noodles and cook according to package directions. Drain, rinse under cold water until cool, then shake the colander to remove as much water as possible. Set aside.\r\n\r\nStep 3\r\nClean and grease the grates. Grill the tofu (closed if using a gas grill) until it releases from the grates and grill marks appear, 3 to 5 minutes per side. Return the tofu to the bowl of dressing. While the tofu\u2019s grilling, grill the mushrooms, turning occasionally, until browned and tender, 10 to 15 minutes. Return the mushrooms to the sheet pan and head back inside.\r\n\r\nStep 4\r\nTo the bowl of tofu, add the soba, snap peas, mushrooms, chile, sesame seeds and basil. Use your hands to toss gently. Season to taste with salt if needed.2032",
+        "ingredients": [
+            "Salt\r",
+            "14 oz extra-firm tofu\r",
+            "3 limes, juiced (about 6 tablespoons)\r",
+            "3 tablespoon neutral oil, such as grapeseed, plus more for greasing\r",
+            "3 tablespoon white miso\r",
+            "3 tablespoon maple syrup\r",
+            "8 ounce mushrooms (any type), trimmed into large, bite-size pieces\r",
+            "8 ounce soba noodles\r",
+            "8 ounce sugar snap peas or snow peas, halved lengthwise\r",
+            "1 serrano chile, finely chopped\r",
+            "2 tablespoon toasted sesame seeds\r",
+            "1 cup basil, cilantro or mint leaves, or a combination, torn if large"
+        ],
+        "tags": [
+            "grill",
+            "vegetarian",
             "untried"
         ]
     }
