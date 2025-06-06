@@ -17938,7 +17938,7 @@
         "waittime": 0,
         "cooktime": 720,
         "servings": 2,
-        "comments": "",
+        "comments": "Technically only vegetarian if you use vegetarian\/vegan kimchi",
         "calories": 1405,
         "fat": 49,
         "satfat": 17,
@@ -17966,7 +17966,9 @@
             "pinch of black pepper"
         ],
         "tags": [
-            "main"
+            "vegetarian",
+            "main",
+            "korean"
         ]
     },
     "id629": {
@@ -19131,6 +19133,88 @@
         "tags": [
             "grill",
             "vegetarian",
+            "untried"
+        ]
+    },
+    "id662": {
+        "id": "id662",
+        "name": "Cheesy Cabbage Tteokbokki",
+        "source": "https:\/\/cooking.nytimes.com\/recipes\/1023237-cheesy-cabbage-tteokbokki",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 900,
+        "servings": 4,
+        "comments": "",
+        "calories": 2267,
+        "fat": 69,
+        "satfat": 33,
+        "carbs": 358,
+        "fiber": 28,
+        "sugar": 77,
+        "protein": 62,
+        "instructions": "Step 1\r\nBring a small pot of water to a boil over high heat. Add the eggs carefully and reduce the heat to gently simmer the eggs until soft-boiled, 7 minutes. Drain the eggs, leaving them in their pot, then gently shake the pot to crack their shells. Cover the cracked eggs with cold water to shock them, then let cool enough to touch. Once they are sufficiently cooled, peel the eggs directly in the water (they should peel easily); set aside.\r\n\r\nStep 2\r\nIn a small bowl, stir together the sugar, gochujang, soy sauce and garlic. Set aside.\r\n\r\nStep 3\r\nIn a large pan, melt the butter over medium-high heat. Add the shallots, season generously with salt and cook, stirring constantly, until the edges of the shallots are really brown, 5 to 7 minutes. Stir in the gochujang mixture and cook, stirring for a few seconds, just until the sauce loses its raw edge.\r\n\r\nStep 4\r\nStir in 1 cup cold tap water and add the tteok, making sure to separate them if stuck together. Bring to a simmer over medium-high and cook until the sauce thickens and the tteok are heated through but still chewy, 4 to 6 minutes. (Add a minute or two if using frozen rice cakes.)\r\n\r\nStep 5\r\nTo serve, scatter over the cheese, followed by the cabbage \u2014 a nice, crunchy blanket of it. Cover to let the cheese melt; the cabbage will steam slightly and lose some of its raw edge. Halve the soft-boiled eggs and arrange them over the crunchy, cheesy cabbage.",
+        "ingredients": [
+            "3 eggs\r",
+            "1 tablespoon granulated sugar\r",
+            "3 tablespoon gochujang\r",
+            "1 tablespoon soy sauce\r",
+            "1 garlic clove, finely grated\r",
+            "3 tablespoon unsalted butter\r",
+            "2 large shallots, thinly sliced crosswise into rings\r",
+            "Salt\r",
+            "1 pound fresh or frozen tteok\r",
+            "1\/2 cup shredded cheese, such as sharp Cheddar or low-moisture mozzarella\r",
+            "5 ounce green cabbage, shredded (5 oz=about 2 cups)"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "korean",
+            "untried"
+        ]
+    },
+    "id663": {
+        "id": "id663",
+        "name": "Grilled loaded nachos",
+        "source": "https:\/\/www.seriouseats.com\/grilled-loaded-nachos-recipe-11726634",
+        "preptime": 900,
+        "waittime": 0,
+        "cooktime": 1800,
+        "servings": 6,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Toss tomatoes with oil, salt, and black pepper to taste in large bowl. Let stand for at least 15 minutes or up to 1 hour.\r\n\r\nHeat grill to medium high.\r\n\r\nClean and oil cooking grate. Brush onion slices on both sides with oil. Grill tomato halves, onion slices, poblanos, and jalape\u00f1os on hotter side of grill (covered if using gas) until poblanos and jalape\u00f1os are well blistered all over, 5 to 10 minutes, and onion rounds and tomatoes are deep brown on both sides and just tender, 10 to 15 minutes, checking onions every 5 minutes and flipping and rotating as needed to ensure even cooking. (You may need to cook in batches.) As poblanos and jalape\u00f1os finish cooking, transfer to now-empty bowl, cover tightly with aluminum foil, and let sit until skins soften, about 5 minutes. Transfer onion rounds and tomato halves to cutting board as they finish cooking. \r\n\r\nTurn grill down to medium heat.\r\n\r\nRoughly chop onion rounds into 1\/4-inch pieces. Chop tomato into 1\/2-inch pieces (these will be soft and mushy, which is OK). Transfer both to a large bowl, including all tomato juices.\r\n\r\nUsing paper towels, peel away skin from peppers. Slice poblanos into 1\/4-inch-thick strips, discarding seeds as you slice. Thinly slice jalape\u00f1os crosswise into rounds and add both peppers to bowl with onions and tomatoes. Add black beans, 1 tablespoon oil, 1 tablespoon lime juice,1 tablespoon minced cilantro, and 1\/4 teaspoon salt and stir to combine. Season with additional salt to taste (but be prudent as lots of salty cheese will be added.) In a separate bowl combine Monterey Jack, and cheddar cheeses.\r\n\r\nTo Assemble and Cook the Nachos: Spread 1\/3 of tortilla chips evenly in a 12-inch cast iron skillet or into bottom of a 9- by 13-inch disposable aluminum foil pan. Sprinkle with 1\/3 of vegetable mixture followed by 1\/3 cheese mixture. Repeat layering of chips and vegetable mixture and cheese mixture 2 more times, for a total of 3 layers with the cheese layer on top. Place skillet on cooler side of grill, cover, and cook until cheese is melted, 10 to 30 minutes. Sprinkle with scallions and cilantro and serve with lime wedges. Optionally, serve with dollops of sour cream and guacamole and salsa on the side.",
+        "ingredients": [
+            "1 pound large tomatoes, cored and halved along equator\r",
+            "1 tablespoon extra-virgin olive oil\r",
+            "1\/2 tsp kosher salt\r",
+            "<hr>",
+            "1 tablespoon extra-virgin olive oil, divided\r",
+            "1 medium red onion, cut crosswise into 1\/2-inch thick rounds\r",
+            "2 poblano chiles, stemmed, halved, and seeded\r",
+            "2 jalape\u00f1o chiles, stemmed, halved, and seeded\r",
+            "<hr>",
+            "1 15oz can black beans, drained and rinsed\r",
+            "1 tablespoon extra-virgin olive oil\r",
+            "1 tablespoon lime juice, plus lime wedges for serving\r",
+            "1 tablespoon fresh cilantro, chopped, plus more for garnish\r",
+            "1\/4 teaspoon kosher salt, divided\r",
+            "Freshly ground black pepper\r",
+            "8 ounce Monterey Jack cheese, shredded (8oz=2 cups shredded)\r",
+            "8 ounce sharp cheddar cheese, shredded (8oz=2 cups shredded)\r",
+            "12 ounce tortilla chips\r",
+            "2 whole scallions, thinly sliced\r",
+            "Salsa for serving, optional"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
             "untried"
         ]
     }
