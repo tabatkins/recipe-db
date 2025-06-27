@@ -8388,8 +8388,8 @@
     },
     "id317": {
         "id": "id317",
-        "name": "Tofu parmesan subs",
-        "source": "Food Network Magazine Jan\/Feb 2010",
+        "name": "Tofu Parmesan",
+        "source": "Adapted from Food Network Magazine Jan\/Feb 2010",
         "preptime": 2100,
         "waittime": 0,
         "cooktime": 0,
@@ -8402,26 +8402,27 @@
         "fiber": 28,
         "sugar": 0,
         "protein": 96,
-        "instructions": "Preheat the broiler. Combine the tomatoes, garlic, basil and 1 cup water in a saucepan over medium-high heat. Season with salt and pepper and simmer until slightly thickened, about 15 minutes.\r\n\r\nToss the breadcrumbs, 2 tablespoons parmesan and the Italian seasoning on a plate; season with salt and pepper. Beat the egg in a shallow bowl. Dip the tofu in the egg, then in the crumbs, turning to coat.\r\n\r\nHeat 2 tablespoons olive oil in a nonstick skillet over medium heat. Add the tofu and cook until crisp, 3 to 4 minutes per side. Place the bread cut-side up on a broiler pan; spread the bottom halves with sauce, then top with tofu, more sauce, the mozzarella and remaining parmesan. Broil until the cheese melts and the bread is toasted, about 2 minutes.\r\n\r\nMeanwhile, heat the remaining 1\/2 tablespoon olive oil in the empty skillet over medium-high heat. Add the spinach, season with salt and pepper and let wilt, about 1 minute. Place on top of the cheese and cover with the bread tops.\r\n\r\nRead more at: http:\/\/www.foodnetwork.com\/recipes\/food-network-kitchens\/tofu-parmesan-subs-recipe.html?oc=linkback",
+        "instructions": "Make marinara sauce, reducing it well.\r\n\r\nSeason the tofu with salt. Sprinkle the flour on a plate; beat the egg on another; mix breadcrumbs and Italian seasoning on a third. Coat the tofu in flour, then egg, then breadcrumbs. Fry, spending ~2min on each side.\r\n\r\nMove the tofu to a broiler pan. Top with marinara, then cheese, and broil for 3-4 minutes, until cheese is bubbly and browning.\r\n\r\nMeanwhile, pan-toast the bread in butter, then sprinkle with garlic salt. Wilt the spinach in another pan, lightly seasoning it.\r\n\r\nWhen everything's finished, plate the spinach with the tofu on top, and serve with garlic bread.",
         "ingredients": [
-            "1 14oz can crushed tomatoes\r",
-            "1 clove garlic, smashed\r",
-            "2 tsp italian seasoning\r",
-            "Kosher salt and freshly ground pepper\r",
-            "1\/2 cup breadcrumbs\r",
-            "1\/3 cup grated parmesan cheese\r",
-            "1\/2 teaspoon dried Italian seasoning\r",
+            "8 serving [marinara sauce](http:\/\/www.xanthir.com\/recipes\/showrecipe.php?id=id34)",
+            "<hr>\r",
+            "4 tbsp flour\r",
             "1 large egg\r",
+            "1 cup breadcrumbs\r",
+            "1\/2 teaspoon dried Italian seasoning\r",
             "14 oz firm tofu, drained and sliced into thick planks\r",
             "2 1\/2 tablespoon extra-virgin olive oil, plus more for drizzling\r",
-            "1 loaf Italian bread, cut into 4 pieces and split in half\r",
             "1\/4 cup part-skim mozzarella cheese, shredded\r",
-            "8 cup baby spinach"
+            "1\/3 cup parmesan cheese\r",
+            "<hr>\r",
+            "8 cup baby spinach\r",
+            "<hr>\r",
+            "4 slices Italian bread"
         ],
         "tags": [
-            "untried",
             "main",
-            "vegetarian"
+            "vegetarian",
+            "tofu"
         ]
     },
     "id318": {
