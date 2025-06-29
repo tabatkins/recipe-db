@@ -17175,7 +17175,7 @@
             "1\/8 tsp soy sauce\r",
             "<hr>\r",
             "1 chikuwa, thawed\r",
-            "1\/4 Persian cucumber, see instructions for prep note\r",
+            "1\/4 Persian cucumbers, see instructions for prep note\r",
             "<hr>\r",
             "3 broccoli florets, blanched\r",
             "3 grape tomatoes\r",
@@ -19217,6 +19217,53 @@
             "main",
             "grill",
             "untried"
+        ]
+    },
+    "id664": {
+        "id": "id664",
+        "name": "Hiyashi Chuka Ramen",
+        "source": "https:\/\/www.justonecookbook.com\/hiyashi-chuka-cold-ramen\/",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 1800,
+        "servings": 2,
+        "comments": "",
+        "calories": 720,
+        "fat": 22,
+        "satfat": 6,
+        "carbs": 96,
+        "fiber": 6,
+        "sugar": 24,
+        "protein": 34,
+        "instructions": "Mix all dressing ingredients in a small saucepan. Bring to a simmer then turn off the heat, ensuring the sugar is fully dissolved. Cool the sauce in an ice bath, or make ahead and refrigerate.\r\n\r\nBeat egg with seasoning, then fry into a thin, flat omelette. Let cool, then cut in half, and then into thin strips.\r\n\r\nLightly saute the mushrooms.\r\n\r\nBoil water in a medium pot for the noodles. Separate the noodles by hand, then add to the water and cook per package directions. Drain and cold rinse to stop cooking.\r\n\r\nPlate noodles, then arrange ingredients over them, and top with sauce. Add sesame seeds, and mustard\/ginger on the side if desired.",
+        "ingredients": [
+            "1\/2 tsp ginger, grated\r",
+            "3 tbsp soy sauce\r",
+            "2 tbsp rice vinegar\r",
+            "2 tbsp chicken stock\r",
+            "1 tbsp water\r",
+            "4 tsp sugar\r",
+            "2 tsp toasted sesame oil\r",
+            "1\/4 tsp chili oil\r",
+            "<hr>\r",
+            "2 large eggs\r",
+            "1\/2 tbsp sugar\r",
+            "1 pinch salt\r",
+            "olive oil\r",
+            "<hr>\r",
+            "2 persian cucumbers, matchsticked\r",
+            "1\/4 cup cherry tomatoes, halved\r",
+            "1\/4 lb mushrooms, sliced thin\r",
+            "2 stick real or imitation crabmeat, shredded\r",
+            "2 servings ramen noodles\r",
+            "1 tsp toasted white sesame seeds\r",
+            "Japanese karashi hot mustard (optional)\r",
+            "pickled red ginger (optional, beni shoga or kizami beni shoga)"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "soup"
         ]
     }
 }
