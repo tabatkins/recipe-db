@@ -19264,5 +19264,83 @@
             "main",
             "soup"
         ]
+    },
+    "id665": {
+        "id": "id665",
+        "name": "Lemon squares",
+        "source": "https:\/\/www.kingarthurbaking.com\/recipes\/lemon-squares-recipe",
+        "preptime": 600,
+        "waittime": 0,
+        "cooktime": 3600,
+        "servings": 16,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat the oven to 350\u00b0F.\r\n\r\nTo make the crust: Whisk together the flour, salt, and confectioners' sugar. Work in the butter until it's evenly distributed; the mixture will be crumbly. Press the crust firmly into a parchment lined 8\" square pan. If the mixture begins to stick to your hands, chill in the freezer for 5 to 10 minutes, then continue to press into the pan. It's important that the crust is firmly anchored to the pan so no filling seeps underneath.\r\n\r\nBake the crust for 30 to 35 minutes, or until it's golden brown. Remove it from the oven, and reduce the oven temperature to 325\u00b0F.\r\n\r\nWhile the crust is baking, make the topping: Combine the whole eggs, egg yolk, and sugars and whisk until smooth. Add the flour and salt, then the lemon juice, and whisk until thoroughly combined.\r\n\r\nLet the filling sit for 15 minutes or so, until the bubbles (mostly) disappear.\r\n\r\nWhile the baked crust is still hot, pour the topping over it. Return the bars to the oven and bake until they appear set and relatively dry on top, about 30 minutes.\r\n\r\nRemove the bars from the oven, and cool them on a rack. Let them cool completely before slicing. Just before serving, sprinkle the top of the bars with confectioners' sugar.\r\n\r\nStore any leftovers in the refrigerator for up to several (3 to 4) days.\r\n\r\nTips from our Bakers\r\nFor an extra hit of lemon flavor, stir the finely grated rind of 1 lemon into the crust dough before baking.",
+        "ingredients": [
+            "1 cup All-Purpose Flour, (1c=120g)\r",
+            "1\/4 teaspoon table salt\r",
+            "1\/4 cup confectioners' sugar, (1\/4c=28g)\r",
+            "8 tablespoon unsalted butter, (8 tbsp=113g) at room temperature\r",
+            "<hr>\r",
+            "4 large eggs\r",
+            "1 large egg yolk\r",
+            "1 cup plus 2 tablespoons granulated sugar, (1c + 2 tbsp=223g)\r",
+            "3 tablespoon confectioners' sugar, (3 tbsp=21g)\r",
+            "1\/4 cup All-Purpose Flour, (1\/4c=30g)\r",
+            "1\/8 teaspoon table salt\r",
+            "2\/3 cup lemon juice, (2\/3c=152g)\r",
+            "Confectioners' sugar, for topping"
+        ],
+        "tags": [
+            "dessert",
+            "untried"
+        ]
+    },
+    "id666": {
+        "id": "id666",
+        "name": "Ultra-Vanilla Cupcakes with Easy Vanilla Frosting",
+        "source": "https:\/\/www.kingarthurbaking.com\/recipes\/ultra-vanilla-cupcakes-with-easy-vanilla-frosting-recipe",
+        "preptime": 1800,
+        "waittime": 0,
+        "cooktime": 1080,
+        "servings": 12,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "",
+        "ingredients": [
+            "1 1\/2 cup (180g) King Arthur Unbleached Cake Flour\r",
+            "1 cup (198g) granulated sugar\r",
+            "1 tablespoon King Arthur Bread and Cake Enhancer, optional; for texture and moistness\r",
+            "1 1\/2 teaspoon baking powder\r",
+            "1\/4 teaspoon table salt\r",
+            "6 tablespoon (85g) butter, softened\r",
+            "2 large eggs, at room temperature\r",
+            "1\/2 cup (113g) milk, at room temperature\r",
+            "2 teaspoon King Arthur Pure Vanilla Extract or King Arthur Pure Vanilla Plus, or a mixture of both\r",
+            "Frosting\r",
+            "\r",
+            "6 tablespoon (85g) butter, softened\r",
+            "1\/3 cup (60g) vegetable shortening\r",
+            "1\/8 teaspoon table salt\r",
+            "4 to 5 cups (454g to 567g) confectioners' sugar\r",
+            "2 teaspoon King Arthur Pure Vanilla Extract or King Arthur Pure Vanilla Plus, or a mixture of both\r",
+            "1\/4 to 1\/3 cup (57g to 74g) milk, at room temperature"
+        ],
+        "tags": [
+            "dessert",
+            "untried"
+        ]
     }
 }
