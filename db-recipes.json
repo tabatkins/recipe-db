@@ -19385,5 +19385,34 @@
             ""
         ],
         "tags": []
+    },
+    "id669": {
+        "id": "id669",
+        "name": "Southern Spice Blend",
+        "source": "Blue Apron",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix all ingredients. 1 serving should fill a standard spice jar (might need a little compaction due to air introduced when mixing).",
+        "ingredients": [
+            "1 tbsp ground mustard\r",
+            "1 tbsp onion powder\r",
+            "1 tbsp garlic powder\r",
+            "1 tbsp smoked paprika\r",
+            "1\/2 tsp ground cayenne"
+        ],
+        "tags": [
+            "component",
+            "spices"
+        ]
     }
 }
