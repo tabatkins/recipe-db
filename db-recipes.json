@@ -18812,7 +18812,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "If using a rice maker, fill with water as seems appropriate. (The \"1\" marker is for 3\/4 cup rice.) Add miso and ginger, and stir after a few minutes to distribute it. Cook overnight.\r\n\r\nWhen ready to serve, dish the congee, and add seasonings to taste.",
+        "instructions": "If using a rice maker, fill with water as seems appropriate. (The \"1\" marker is for 3\/4 cup rice.) Add miso and ginger, and stir after a few minutes to distribute it. Cook overnight.\r\n\r\nWhen ready to serve, fry the eggs. While doing that, dish the congee, and add seasonings to taste. Top with egg.\r\n\r\nNOTE: Try 1\/2 cup rice with the \"1\" marker.",
         "ingredients": [
             "1\/2 cup long-grain white rice\r",
             "1 tsp miso paste\r",
@@ -18820,7 +18820,8 @@
             "<hr>\r",
             "1 tsp sesame oil\r",
             "1 tsp soy sauce\r",
-            "1 tsp chili crisp"
+            "1 tsp chili crisp\r",
+            "2 eggs"
         ],
         "tags": [
             "breakfast",
