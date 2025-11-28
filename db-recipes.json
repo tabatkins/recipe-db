@@ -15974,6 +15974,8 @@
         "protein": 60,
         "instructions": "While the eggs are cooking, toast the pine nuts and bread.\r\n\r\nWhisk together oil, za'atar, and lemon juice. Toss with eggs, olives, cilantro, onion, and pine nuts; season with salt and pepper to taste. Serve on toast.",
         "ingredients": [
+            "8 slices bread, toasted\r",
+            "2 tbsp pine nuts, toasted\r",
             "2 tbsp olive oil\r",
             "1 tbsp za'atar\r",
             "2 tsp lemon juice\r",
@@ -15981,10 +15983,8 @@
             "1\/2 cup green olives, chopped\r",
             "2 tbsp fresh cilantro, roughly chopped\r",
             "2 tbsp red onion, minced\r",
-            "2 tbsp pine nuts, toasted\r",
             "Salt\r",
-            "Black pepper\r",
-            "8 slices bread, toasted"
+            "Black pepper"
         ],
         "tags": [
             "breakfast"
