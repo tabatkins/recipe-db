@@ -19445,5 +19445,38 @@
             "Lime and cilantro for serving (optional)"
         ],
         "tags": []
+    },
+    "id671": {
+        "id": "id671",
+        "name": "Matt's Fajita Seasoning ",
+        "source": "Matt",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 1,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix all ingredients. \r\n\r\nUse 2-3 tbsp per pound of meat. Less for beef, more for chicken\/turkey.",
+        "ingredients": [
+            "1\/2 cup chili powder\r",
+            "1\/3 cup paprika\r",
+            "1\/3 cup oregano\r",
+            "2 1\/2 tbsp salt\r",
+            "4 tsp onion powder\r",
+            "4 tsp garlic powder\r",
+            "2 tbsp cumin\r",
+            "1 tbsp dried cilantro\r",
+            "1 tbsp pepper"
+        ],
+        "tags": [
+            "seasoning",
+            "component"
+        ]
     }
 }
