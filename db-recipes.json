@@ -17387,7 +17387,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "Preheat grill to 400F.\r\n\r\nIn a food processor, combine parsley, basil, oil, capers, lemon juice, anchovies, and garlic. Blend until smooth, season to taste with salt, and chill until ready to serve. \r\n\r\nToss the gnocchi and veggies with oil, salt, and pepper, then move to a grill pan. (The larger the better, so they have more exposed surface area.) Grill for 6 minutes, toss, then 6 minutes more. Test, possibly grilling another 6 minutes if needed. (Ideally, gnocchi should start to dry out\/crisp a little.)\r\n\r\nDivide among bowls and top with the salsa verde.",
+        "instructions": "Preheat grill to 400F.\r\n\r\nIn a food processor, combine parsley, basil, oil, capers, lemon juice, anchovies, and garlic. Blend until smooth, season to taste with salt, and chill until ready to serve. \r\n\r\nToss the gnocchi and veggies with oil, salt, and pepper, then move to a grill pan. (The larger the better, so they have more exposed surface area.) Grill for 8 minutes, toss, then 8 minutes more, toss, then a final 5 minutes if needed (it probably will be). Ideally, gnocchi should start to dry out\/crisp a little.\r\n\r\nDivide among bowls and top with the salsa verde.",
         "ingredients": [
             "1\/4 cup fresh parsley\r",
             "1\/4 cup fresh basil\r",
@@ -19204,7 +19204,7 @@
             "1 tbsp lime juice\r",
             "1 tbsp fresh cilantro, chopped\r",
             "salt & pepper\r",
-            "<hr>",
+            "<hr>\r",
             "3 ounce Monterey Jack cheese, shredded\r",
             "3 ounce sharp cheddar cheese, shredded\r",
             "4 ounce tortilla chips\r",
@@ -19214,8 +19214,7 @@
         "tags": [
             "vegetarian",
             "main",
-            "grill",
-            "untried"
+            "grill"
         ]
     },
     "id664": {
