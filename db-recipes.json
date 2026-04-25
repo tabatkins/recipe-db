@@ -19616,5 +19616,35 @@
             "main",
             "untried"
         ]
+    },
+    "id675": {
+        "id": "id675",
+        "name": "Crispy air fryer tofu",
+        "source": "https:\/\/jessicainthekitchen.com\/how-to-make-crispy-air-fryer-tofu\/#recipe",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 4,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "",
+        "ingredients": [
+            "14 oz extra firm tofu, pressed for 30 minutes then cut into 1\u201d cubes or tear into pieces for even more crisp, (16 oz.)\r",
+            "1 1\/2 teaspoon light soy sauce, or liquid aminos\r",
+            "1 teaspoon garlic powder\r",
+            "1\/2 teaspoon onion powder\r",
+            "1 teaspoon paprika\r",
+            "1\/2 teaspoon sea salt\r",
+            "4 teaspoon cornstarch\r",
+            "1 teaspoon sesame oil, or any oil\r",
+            "1\/4 teaspoon ground black pepper"
+        ],
+        "tags": []
     }
 }
