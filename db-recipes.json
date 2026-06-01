@@ -19701,5 +19701,85 @@
             "drink",
             "untried"
         ]
+    },
+    "id678": {
+        "id": "id678",
+        "name": "Shredded Tofu and Shiitake Stir-Fry",
+        "source": "https:\/\/cooking.nytimes.com\/recipes\/1017765-shredded-tofu-and-shiitake-stir-fry",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "",
+        "calories": 1125,
+        "fat": 58,
+        "satfat": 8,
+        "carbs": 117,
+        "fiber": 14,
+        "sugar": 13,
+        "protein": 54,
+        "instructions": "Step 1\r\nUsing the coarse holes of a box grater, shred the tofu. Spread tofu out on a clean kitchen towel to drain while you prepare the sauce and mushrooms.\r\n\r\nStep 2\r\nIn a small bowl, whisk together soy sauce, Shaoxing, lime juice and sesame oil.\r\n\r\nStep 3\r\nHeat a large skillet over medium-high heat until it\u2019s very hot, then add the peanut oil; it should thin out on contact. Once the oil is hot, add the mushrooms and cook, tossing occasionally, until most of the mushroom liquid has evaporated and mushrooms are browned and slightly crisp, 8 to 12 minutes. Stir in the scallion, lemongrass, ginger, garlic, chile and a pinch of salt. Cook until softened, about 2 minutes.\r\n\r\nStep 4\r\nCarefully transfer the tofu from the towel into the skillet. Toss in the edamame and the soy sauce mixture. Cook until mixture is heated through. Season with salt as needed. Remove from heat and stir in herbs. Serve with rice.",
+        "ingredients": [
+            "14 oz firm tofu, drained\r",
+            "2 tablespoon soy sauce\r",
+            "1 tablespoon Chinese Shaoxing\r",
+            "1\/2 lime, juiced\r",
+            "2 teaspoon toasted sesame oil\r",
+            "2 tablespoon vegetable oil\r",
+            "7 ounce shiitake mushrooms, stems removed and caps thinly sliced\r",
+            "1\/4 cup sliced scallion\r",
+            "1 stalk lemongrass, trimmed, outer leaves removed, inner core finely chopped (optional)\r",
+            "1 tablespoon ginger, grated\r",
+            "1 garlic clove, grated\r",
+            "1 small red chile, seeded and finely chopped\r",
+            "Salt, as needed\r",
+            "1\/2 cup shelled edamame, (defrosted if using frozen)\r",
+            "1\/4 cup fresh cilantro or chives, chopped\r",
+            "1 1\/2 cup cooked white rice, for serving"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "untried"
+        ]
+    },
+    "id679": {
+        "id": "id679",
+        "name": "Vegetarian Mushroom Shawarma Pitas",
+        "source": "https:\/\/cooking.nytimes.com\/recipes\/1020291-vegetarian-mushroom-shawarma-pitas",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 2,
+        "comments": "Was originally 4 servings. I only reduced the number of pitas so the filling may be too much. Probably can do this on the grill.",
+        "calories": 1104,
+        "fat": 60,
+        "satfat": 10,
+        "carbs": 108,
+        "fiber": 17,
+        "sugar": 19,
+        "protein": 40,
+        "instructions": "Step 1\r\nHeat the oven to 425 degrees. On a large rimmed sheet pan, drizzle the mushrooms and red onion with 3 tablespoons oil. Sprinkle with shawarma spice, salt and pepper; toss to coat. Arrange in an even layer and roast until tender and browned, about 20 minutes. Add the pitas directly to the oven rack to warm during the last 5 minutes of cooking.\r\n\r\nStep 2\r\nMeanwhile, toss cabbage with remaining oil in a medium bowl; toss to coat. Season generously with salt and pepper. In a small bowl, stir together yogurt and turmeric; season with salt and pepper.\r\n\r\nStep 3\r\nTo serve, slather yogurt over warm pitas. Top with cabbage, mushroom mixture and herbs, and serve immediately.",
+        "ingredients": [
+            "3\/4 pound portobello mushroom caps, sliced \u00bd-inch thick\r",
+            "1 medium red onion, halved and cut into \u2153-inch wedges\r",
+            "3 tablespoon extra-virgin olive oil\r",
+            "2 teaspoon shawarma spice\r",
+            "1 teaspoon salt\r",
+            "1\/2 teaspoon black pepper\r",
+            "2 pitas\r",
+            "<hr>",
+            "2 packed cups very thinly sliced red cabbage (about 6 ounces)\r",
+            "2 teaspoon extra-virgin olive oil\r",
+            "3\/4 cup 2% Greek yogurt\r",
+            "3\/4 teaspoon ground turmeric\r",
+            "4 tablespoon Cilantro or mint, for serving"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "grill",
+            "untried"
+        ]
     }
 }
