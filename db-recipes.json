@@ -19664,12 +19664,13 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "Whisk whey protein powder, cocoa, sugar, and salt, if using, together in a bowl; transfer to a storage container with a tight-fitting lid.",
+        "instructions": "Whisk whey protein powder, cocoa, sugar, salt, and vanilla, if using, together in a bowl; transfer to a storage container with a tight-fitting lid.",
         "ingredients": [
-            "6 oz unflavored whey protein isolate powder\r",
-            "3\/4 oz unsweetened cocoa powder\r",
+            "170 unflavored whey protein isolate powder\r",
+            "28 g unsweetened cocoa powder\r",
             "2 tablespoon sugar\r",
-            "1\/8 teaspoon fine sea salt"
+            "1\/4 teaspoon fine sea salt\r",
+            "1\/2 teaspoon vanilla powder, optional"
         ],
         "tags": [
             "component",
