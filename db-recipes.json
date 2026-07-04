@@ -18917,7 +18917,7 @@
         "preptime": 900,
         "waittime": 0,
         "cooktime": 360,
-        "servings": 3,
+        "servings": 2,
         "comments": "",
         "calories": 1137,
         "fat": 48,
@@ -18928,19 +18928,19 @@
         "protein": 43,
         "instructions": "Heat the oil in a small saut\u00e9 pan over medium-low heat. When hot, add the white portion of the scallions and garlic with a pinch of salt. Saut\u00e9 for 2-3 minutes or until the garlic becomes slightly golden in color.\r\n\r\nCombine the fried scallions and garlic with all other ingredients (besides the pitas) in a medium mixing bowl.\r\n\r\nHeat up\/lightly toast the pitas. Spoon the avocado-bean mixture into them.",
         "ingredients": [
-            "1 15oz can cannellini beans, drained and rinsed\r",
-            "1 1\/2 tbsp extra virgin olive oil (plus extra for drizzling)\r",
-            "3 scallions, thinly sliced (separate the whites and greens)\r",
-            "3 clove garlic, minced\r",
+            "1\/2 15oz can cannellini beans, drained and rinsed\r",
+            "1 tbsp extra virgin olive oil (plus extra for drizzling)\r",
+            "2 scallions, thinly sliced (separate the whites and greens)\r",
+            "2 clove garlic, minced\r",
             "Kosher salt\r",
             "1 avocado, cubed\r",
-            "1\/3 cup cilantro leaves, minced\r",
+            "1\/4 cup cilantro leaves, minced\r",
             "1\/4 cup parsley leaves, minced\r",
             "1\/4 cup pickled jalape\u00f1os, diced\r",
             "1 tbsp brine from a jar of pickled jalape\u00f1os\r",
             "1 lime, Juiced and zested\r",
             "Cracked black pepper\r",
-            "3 whole wheat pitas"
+            "2 whole wheat pitas"
         ],
         "tags": [
             "breakfast",
@@ -19782,6 +19782,47 @@
             "vegetarian",
             "main",
             "grill",
+            "untried"
+        ]
+    },
+    "id680": {
+        "id": "id680",
+        "name": "Tofu salad slaw with peanuts and nori",
+        "source": "https:\/\/cooking.nytimes.com\/recipes\/778605548-chicken-salad-slaw-with-peanuts-and-nori",
+        "preptime": 1800,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 4,
+        "comments": "Replaced chicken in original recipe with tofu",
+        "calories": 1699,
+        "fat": 114,
+        "satfat": 20,
+        "carbs": 72,
+        "fiber": 31,
+        "sugar": 31,
+        "protein": 121,
+        "instructions": "Step 1\r\nIn a liquid measuring cup or small bowl, stir together the **peanut butter**, **soy sauce**, **rice vinegar**, **ginger** and **garlic**. Add **warm water**, 1\/2 tablespoon at a time, until saucy but still creamy.\r\n\r\nStep 2\r\nIn a large bowl, season the **cabbage** with a pinch of salt. Squeeze until wilted slightly. Add the **tofu**, **cucumbers** and **dressing**. Toss to combine. (Slaw can be made up to this point up to 1 day ahead.) Top with the **peanuts** and **scallions**. If packing ahead of time, put **nori** on the side to keep dry. When ready to serve, crush the nori in your hands and add to the salad.",
+        "ingredients": [
+            "1\/4 cup creamy peanut butter\r",
+            "2 tablespoon soy sauce\r",
+            "2 tablespoon rice vinegar\r",
+            "1 1-inch piece fresh ginger, finely chopped \r",
+            "1 clove garlic, finely chopped\r",
+            "Warm water\r",
+            "<hr>\r",
+            "12 ounce green or Napa cabbage, thinly sliced (or use bag of slaw blend)\r",
+            "Salt\r",
+            "2 14-oz packages tofu, drained and patted dry, shredded or torn into bite size pieces\r",
+            "2 Persian cucumbers, thinly sliced\r",
+            "<hr>\r",
+            "1\/2 cup roasted, unsalted peanuts, roughly chopped\r",
+            "3 scallions, thinly sliced\r",
+            "1 (0.17-ounce) pack nori snacks"
+        ],
+        "tags": [
+            "vegetarian",
+            "main",
+            "salad",
             "untried"
         ]
     }
