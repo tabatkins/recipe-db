@@ -19373,7 +19373,7 @@
         "preptime": 0,
         "waittime": 0,
         "cooktime": 0,
-        "servings": 0,
+        "servings": 8,
         "comments": "",
         "calories": 0,
         "fat": 0,
@@ -19382,9 +19382,13 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "",
+        "instructions": "Mix. Refrigerate.",
         "ingredients": [
-            ""
+            "500g daikon radish, peeled and ends trimmed\r",
+            "1 cup water\r",
+            "1\/2 cup white sugar\r",
+            "1\/2 cup white vinegar\r",
+            "1 tsp coarse sea salt"
         ],
         "tags": [
             "sides"
