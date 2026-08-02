@@ -19831,5 +19831,36 @@
             "salad",
             "untried"
         ]
+    },
+    "id681": {
+        "id": "id681",
+        "name": "Norwegian Christmas Butter Squares",
+        "source": "",
+        "preptime": 0,
+        "waittime": 0,
+        "cooktime": 0,
+        "servings": 12,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Preheat the oven to 400 degrees. Chill a 9x13\u2033 baking pan in the freezer. Do not grease the pan.\r\n\r\nUsing a mixer, blend the butter, egg, sugar, and salt together until it is creamy. \u00a0Add the flour and vanilla and mix using your hands until the mixture holds together in large clumps. If it seems overly soft, add a little extra flour.\u00a0\r\n\r\nUsing your hands, press the dough out onto the chilled and ungreased baking sheet until it is even and \u00bc inch thick. \u00a0Dust the top of the cookies evenly with raw sugar.\r\n\r\nBake at 400 degrees until the edges turn a golden brown, about 12-15 minutes. Remove from the oven. Let cool for about five minutes before cutting the cooked dough into squares. Remove the squares from the warm pan using a spatula.",
+        "ingredients": [
+            "1 cup unsalted butter, softened\r",
+            "1 egg\r",
+            "1 cup sugar\r",
+            "2 cup flour\r",
+            "1 tsp vanilla\r",
+            "\u00bd tsp salt\r",
+            "Turbinado\/ Raw Sugar for dusting"
+        ],
+        "tags": [
+            "dessert",
+            "untried"
+        ]
     }
 }
