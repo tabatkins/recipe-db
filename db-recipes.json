@@ -8057,7 +8057,7 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "Preheat oven to 400F. Pierce potatoes all over with fork. Bake potatoes for 1 hour. Meanwhile, mash the avocados, lime juice, red onion, cilantro, jalapeno, and salt. Spoon onto baked potatoes. Top with tomato.",
+        "instructions": "Preheat oven to 400F. Pierce potatoes all over with fork. Bake potatoes for 1 hour. \r\n\r\nMeanwhile, mash the avocados, lime juice, red onion, cilantro, jalapeno, and salt.\r\n\r\nSaute the beans with the Mexican spice.\r\n\r\nSpoon beans onto baked potatoes, then guacamole. Top with tomato.",
         "ingredients": [
             "4 russet potatoes, scrubbed clean\r",
             "2 avocados\r",
@@ -8066,6 +8066,8 @@
             "1 tbsp cilantro, chopped\r",
             "1\/2 tsp jalapeno, minced\r",
             "salt\r",
+            "1 can black beans\r",
+            "1 tbsp mexican spice\r",
             "1 roma tomato, chopped"
         ],
         "tags": [
