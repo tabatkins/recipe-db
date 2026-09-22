@@ -15256,15 +15256,16 @@
         "fiber": 0,
         "sugar": 0,
         "protein": 0,
-        "instructions": "In a small pot, heat 2 tsp oil on medium. Add the **white bottoms of the scallions**, **peppers**, **half the garlic**, **spice blend**. Season with salt and pepper. Cook 30s-1m, until fragrant. Add the **tomato paste** and cook 1-2 minutes. Add the **rice**, salt, and 1 cup of water; heat to boiling on high, then cover and reduce to low, cooking for 18 minutes or until all the water has been absorbed. Fluff with a fork; season to taste.\r\n\r\nWhile the rice cooks, in a large pan, add the **collard greens** and **remaining garlic**. Season, and cook 2-3 minutes, stirring frequently, until slightly wilted. Add 1\/2 cup of water and cook 3-5 minutes, until wilted and the water has cooked off. Add **half the vinegar**, cook 30s-1min, then remove from the pan and keep warm.\r\n\r\nIn the same pan, add the **mushrooms** and cook 3-4 minutes until browned. Add **butter**, salt, and pepper, cook for 30s, until melted. Add the **remaining vinegar** and **half the green scallion tops**; cook another 30s until combined. Remove from the pan and keep warm.\r\n\r\nSeason the **catfish** with salt and pepper on both sides. Cook 4-6 minutes on first side, until browned, then flip and cook 2-4 minutes, until lightly browned and cooked thru.\r\n\r\nDivide rice, greens, and catfish between dishes; top catfish with mushrooms and **remaining scallion greens**.",
+        "instructions": "In a small pot, heat 2 tsp oil on medium. Add the **white bottoms of the scallions**, **half the garlic**, **spice blend**. Season with salt and pepper. Cook 30s-1m, until fragrant. Add the **tomato paste** and cook 1-2 minutes. Add the **rice**, salt, **water**; heat to boiling on high, then cover and reduce to low, cooking for 18 minutes or until all the water has been absorbed. Fluff with a fork and add the peppers; season to taste.\r\n\r\nWhile the rice cooks, in a large pan, add the **collard greens** and **remaining garlic**. Season, and cook 2-3 minutes, stirring frequently, until slightly wilted. Add 1\/2 cup of water and cook 3-5 minutes, until wilted and the water has cooked off. Add **half the vinegar**, cook 30s-1min, then remove from the pan and keep warm.\r\n\r\nIn the same pan, add the **butter** and **mushrooms** and cook 3-4 minutes until browned. Add salt, and pepper, **remaining vinegar** and **half the green scallion tops**; cook another 30s until combined. Remove from the pan and keep warm.\r\n\r\nSeason the **catfish** with salt and pepper on both sides. Cook 4-6 minutes on first side, until browned, then flip and cook 2-4 minutes, until lightly browned and cooked thru.\r\n\r\nDivide rice, greens, and catfish between dishes; top catfish with mushrooms and **remaining scallion greens**.",
         "ingredients": [
             "1 tbsp cajun spice blend (smoked paprika, ground yellow mustard, onion powder, garlic powder, dried ground oregano, dried thyme & cayenne pepper)\r",
             "3 clove garlic, minced and divided\r",
             "2 scallions, thinly sliced with whites and greens divided\r",
-            "1 oz sweet piquante peppers, thinly sliced\r",
             "2 tbsp tomato paste\r",
             "1\/2 cup long grain white rice\r",
-            "<hr>",
+            "1 1\/4 cup water\r",
+            "1 oz sweet piquante peppers, thinly sliced\r",
+            "<hr>\r",
             "1 bunch collard greens\r",
             "1 tbsp apple cider vinegar, divided\r",
             "4 oz cremini mushrooms, thinly sliced\r",
@@ -19861,6 +19862,43 @@
         "tags": [
             "dessert",
             "untried"
+        ]
+    },
+    "id682": {
+        "id": "id682",
+        "name": "Kimchi jeon 2",
+        "source": "https:\/\/www.maangchi.com\/recipe\/kimchijeon",
+        "preptime": 300,
+        "waittime": 0,
+        "cooktime": 600,
+        "servings": 2,
+        "comments": "",
+        "calories": 0,
+        "fat": 0,
+        "satfat": 0,
+        "carbs": 0,
+        "fiber": 0,
+        "sugar": 0,
+        "protein": 0,
+        "instructions": "Mix all ingredients. Heat pan to high heat. Add batter, spread and flatten out. Cook until bottom is golden brown, 3-5 minutes. Flip, and cook another 3-5 minutes, lifting with a spatula to allow fresh oil to reach the center. Flip one more time and cook for one minute, then move to a plate and serve immediately.\r\n\r\nMeanwhile, mix ingredients for dipping sauce in small single-serving bowls. Serve with the jeon.",
+        "ingredients": [
+            "1 cup kimchi, medium chopped and 2 tbsp of brine reserved\r",
+            "1\/2 onion, diced\r",
+            "2 green onions, diced\r",
+            "1\/2 cup flour\r",
+            "1\/2 tsp sugar\r",
+            "1\/2 cup water\r",
+            "high-temp oil\r",
+            "<hr>",
+            "1 tablespoon soy sauce\r",
+            "1 teaspoon rice vinegar\r",
+            "1 tablespoon water\r",
+            "1\/2 teaspoon sugar\r",
+            "pinch of black pepper"
+        ],
+        "tags": [
+            "dinner",
+            "vegetarian"
         ]
     }
 }
